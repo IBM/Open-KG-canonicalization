@@ -1,0 +1,53 @@
+{
+  "batch_size": {
+    "train": 50,
+    "eval": 5
+  },
+  "model_info": {
+    "dir": "glove/",
+    "src": "GLOVE"
+  },
+  "working_directory": "data/vae_run/ReVerb_Ambiguous_hac_OKG_canonicalize_heads/",
+  "learning_rate": {
+    "stage1": 1e-3,
+    "stage2": 1e-4
+  },
+  "eval_per": {
+    "stage1": 10,
+    "stage2": 10
+  },
+  "loss_weights": {
+    "vae": 1,
+    "kbc": 1,
+    "side_info": 1
+  },
+  "train_stages": [
+    "stage1",
+    "stage2"
+  ],
+  "dims": {
+    "input": 768,
+    "interim": [384],
+    "latent": 100
+  },
+  "seed": 57,
+  "init_ent_file": "hac_init_entity_0.3_threshold_OpenKG_Canonicalize.pkl",
+  "init_rel_file": "hac_init_relation_0.5_threshold_OpenKG_Canonicalize.pkl",
+  "clusters": {
+    "ent": 5013,
+    "rel": 625
+  },
+  "reg_info": {
+    "stage1_reg": 1e-3,
+    "stage2_reg": 1e-3,
+    "mc_samples": 1
+  },
+  "kge_util_params": {
+    "temp": 0.01,
+    "n_corruptions": 20
+  },
+  "n_epochs": {
+    "stage1": 50,
+    "stage2": 300
+  }
+}

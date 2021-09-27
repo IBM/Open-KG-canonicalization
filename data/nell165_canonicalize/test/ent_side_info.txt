@@ -1,0 +1,1531 @@
+1530
+paul brown stadium	paul brown	0.7628445991297701
+st paul pioneer press	saint paul pioneer press	0.7563155377211667
+craig wilson	wilson	0.5117072191244584
+paul wilson	wilson	0.5879729154083523
+dr pepper	dr pepper arena	0.8528766053050474
+red pepper	pepper	0.6423320028298053
+continental airline arena	continental arena	0.7488919819374528
+us bank arena	bank of america arena	0.5456754413604684
+u s cellular arena	u s bank arena	0.5533919905346453
+bank of america arena	america west arena	0.5048114183043113
+veteran memorial arena	jacksonville veteran memorial arena	0.7197141641076114
+missouri state	missouri state university	0.7741701843486068
+missouri state	missouri state bear	0.543961004864132
+missouri state	central missouri state	0.6083611922170356
+missouri state	northwest missouri state	0.5274547781400066
+missouri state	southwest missouri state	0.5575919757562257
+southern polytechnic state university	california state polytechnic university	0.5581724149455043
+southern polytechnic state university	california polytechnic state university	0.5581724149455043
+northwest missouri state university	missouri state university	0.5904662680412959
+northwest missouri state university	northwest missouri state	0.8666551115398681
+san francisco state	san francisco state university	0.8337274992042085
+san francisco state	san francisco state college	0.8014878553233794
+saint cloud state university	st cloud state university	0.6896528928554516
+youngstown state university	youngstown state penguin	0.5045757668116442
+youngstown state university	youngstown state	0.8439726265216582
+southwest missouri state university	missouri state university	0.6194839497139115
+southwest missouri state university	southwest state university	0.6740367542433883
+southwest missouri state university	southwest missouri state bear	0.6134519656711263
+southwest missouri state university	southwest missouri state	0.8601020538371104
+california state university long beach	long beach state	0.6779267798141918
+moscow state university	moscow state technical university	0.6196315042610516
+missouri state university	central missouri state	0.5166714404151086
+tennessee state university	middle tennessee state university	0.5402035805677351
+tennessee state university	east tennessee state university	0.6959454289944146
+mississippi state university	mississippi valley state university	0.6498986445050763
+mississippi state university	mississippi valley state	0.5150106209545446
+mississippi state university	mississippi state college	0.6300449450046701
+mississippi state university	mississippi state	0.7924475998049599
+bowie state university	bowie state	0.8673390791224441
+bemidji state university	bemidji state	0.8673390791224441
+middle tennessee state university	middle tennessee state	0.8761763155030884
+arizona state	arizona state university	0.7924475998049599
+new mexico state university	new mexico state	0.8359500712192879
+south dakota state	north dakota state	0.5120996334379722
+south dakota state	south dakota state university	0.8507143372573069
+illinois state	illinois state university	0.7779340340379092
+plymouth state	plymouth state university	0.843972626521658
+san jose state university	san jose state	0.8297876909447635
+penn state	penn state university	0.8439726265216582
+south carolina state university	south carolina state college	0.6822152666288219
+south carolina state university	north carolina state university	0.5194698426874476
+south carolina state university	south carolina state	0.8279694165689678
+boise state university	boise state	0.8439726265216582
+iowa state university	iowa state	0.7869440192150595
+north dakota state	north dakota state university	0.847913183061704
+memphis state	memphis state university	0.8065518081851344
+mississippi valley state university	mississippi valley state	0.8651119764494685
+mississippi valley state university	mississippi state	0.5150106209545446
+california state polytechnic university	california polytechnic state university	1.0
+ohio state university	ohio state	0.7707832954998608
+ohio state university	the ohio state university	1.0
+missouri state bear	southwest missouri state bear	0.6985226250942463
+westfield state	westfield state college	0.8403687790676478
+ball state	ball state university	0.8065518081851344
+texas state university	texas state	0.7486560886884172
+delaware state	delaware state university	0.827925060569885
+youngstown state penguin	youngstown state	0.5564860117091631
+alcorn state brave	alcorn state	0.6378415887736659
+alcorn state brave	alcorn state university	0.5705613368762469
+jacksonville state	jacksonville state university	0.7924475998049599
+washington state	washington state university	0.7502583225831654
+winona state	winona state university	0.8673390791224441
+louisiana state university	louisiana state	0.7924475998049599
+united state of america	the united state	0.5274173772884018
+united state of america	united state	0.5274173772884018
+colorado state university	colorado state	0.7821558542824945
+alcorn state	alcorn state university	0.8439726265216582
+mississippi valley state	mississippi state	0.5953109365890585
+south carolina state college	south carolina state	0.7948879732327186
+oklahoma state	oklahoma state university	0.7924475998049599
+montana state	montana state university	0.7988786744695752
+new york state theater	new york state	0.6808463653721986
+south dakota state university	north dakota state university	0.5698004105515132
+appalachian state university	appalachian state	0.8673390791224441
+utah state university	utah state	0.7869440192150595
+the united state	united state	1.0
+california state university fresno	fresno state	0.6136133303609465
+california state university fresno	fresno state university	0.7411459799738137
+mississippi state college	mississippi state	0.7545602237141015
+jackson state	jackson state university	0.7741701843486068
+indiana state university	indiana state	0.7821558542824945
+idaho state	idaho state university	0.827925060569885
+central connecticut state university	southern connecticut state university	0.5691697428609962
+west virginia state college	west virginia state	0.8119706377416215
+wichita state	wichita state university	0.867339079122444
+virginia state university	west virginia state	0.5113334114632151
+virginia state university	virginia state	0.7649060628231299
+southwest state university	southwest missouri state	0.5341388080804987
+north carolina state university	north carolina state	0.8242390158771176
+alabama state	alabama state university	0.8065518081851344
+san diego state university	san diego state	0.8546210956083918
+fresno state	fresno state university	0.827925060569885
+southwest missouri state bear	southwest missouri state	0.6814464439723513
+nc state university	nc state	0.8673390791224441
+golden state warrior	golden state	0.5068490598795701
+kent state	kent state university	0.8065518081851344
+kansas state university	kansas state	0.7924475998049599
+southern connecticut state	southern connecticut state university	0.8637528373779972
+southern connecticut state	eastern connecticut state	0.5070030571999521
+ohio state	the ohio state university	0.7707832954998608
+colorado state ram	colorado state	0.5554122903335927
+morehead state	morehead state university	0.8673390791224441
+san francisco state university	san francisco state college	0.6910314157204689
+ferris state college	ferris state	0.8403687790676478
+west virginia state	virginia state	0.606677920498572
+florida state university	florida state	0.7537607241634179
+michigan state	michigan state university	0.7869440192150595
+oregon state university	oregon state	0.7988786744695752
+cleveland state	cleveland state university	0.7821558542824945
+angel stadium	angel stadium of anaheim	0.5846463629805958
+meadowland stadium	new meadowland stadium	0.7672354194249201
+columbus crew stadium	crew stadium	0.6176667163100378
+yankee stadium	new yankee stadium	0.7672354194249201
+nebraska memorial stadium	memorial stadium	0.5335402287037044
+greer stadium	herschel greer stadium	0.5514640198067243
+busch stadium	busch memorial stadium	0.6866165124886581
+oklahoma memorial stadium	memorial stadium	0.5636104194345107
+liberty bowl stadium	liberty bowl memorial stadium	0.7710606313594038
+cowboy stadium	dallas cowboy stadium	0.5350824499099242
+jacksonville municipal stadium	cleveland municipal stadium	0.5620119336204223
+chris burke	brian burke	0.5368388404789056
+molson canadian amphitheatre	molson amphitheatre	0.5810030444430544
+beijing	beijing news	0.5943161289177871
+news	daily news	0.5268025545616608
+winnipeg	winnipeg jet	0.6543128759565947
+eric mangini	coach eric mangini	0.6063730267766816
+louisiana tech	louisiana	0.5218351971229078
+louisiana tech	louisiana tech university	0.8390286713560713
+louisiana	louisiana state	0.7123916939372468
+louisiana	louisiana state university	0.5645330879815609
+louisiana tech university	louisiana state university	0.5088583973340056
+university of chicago	chicago state university	0.736398581941775
+university of wisconsin madison	university of wisconsin	0.5853435282648258
+university of new mexico	new mexico state university	0.8198558079907337
+texas tech university	university of texas	0.5361237920779509
+the johns hopkin university	johns hopkin university	1.0
+north carolina central university	north carolina state university	0.5814576974705268
+university of south alabama	university of alabama	0.6840410612066495
+university of south alabama	alabama state university	0.5774927520345803
+university of oregon	southern oregon university	0.6702395411840444
+university of oregon	oregon state university	0.7791474891041171
+university of kentucky	western kentucky university	0.6169723314985225
+university of kentucky	eastern kentucky university	0.6169723314985224
+northern arizona university	university of arizona	0.614872388455084
+northern arizona university	arizona state university	0.520413996448978
+university of texas	texas southern university	0.6017932942781893
+university of texas	texas state university	0.7239977721648525
+university of texas	university of north texas	0.6211150007478291
+university of texas	texas christian university	0.5005638376554059
+virginia state university	university of virginia	0.7418419643716188
+washington state university	university of washington	0.7257571946316864
+washington state university	washington university	0.7257571946316864
+new hampshire university	university of new hampshire	1.0000000000000002
+national taiwan university	taiwan university	0.7157316009716018
+illinois university	illinois state university	0.7561480562148132
+illinois university	eastern illinois university	0.5860567266119441
+illinois university	illinois wesleyan university	0.5674574329893566
+illinois university	western illinois university	0.5860567266119441
+illinois university	northern illinois university	0.5937262800689928
+oklahoma university	oklahoma state university	0.7720854881766008
+oklahoma university	university of oklahoma	1.0
+western reserve university	case western reserve university	0.5063811034945132
+the ohio state university	ohio university	0.7482957881536172
+southern utah university	the university of utah	0.6535450458661534
+southern utah university	utah state university	0.5448023947947046
+southern utah university	university of utah	0.6535450458661534
+indiana university	indiana wesleyan university	0.5736580986026274
+indiana university	indiana state university	0.7607840618651771
+ohio university	ohio wesleyan university	0.5570881584043518
+ohio university	ohio state university	0.7482957881536172
+ohio university	ohio valley university	0.5570881584043518
+ohio university	miami university of ohio	0.5570881584043518
+ohio university	ohio northern university	0.583524558555914
+university of the pacific	pacific university	1.0
+the university of iowa	iowa state university	0.7660419739495953
+the university of iowa	university of northern iowa	0.6067832320848611
+the university of iowa	university of iowa	1.0
+university of north carolina at charlotte	north carolina state university	0.5541842124058792
+moscow university	moscow state university	0.7979034566428389
+northwestern state university	northwestern university	0.8286654231703109
+the university of utah	utah state university	0.7660419739495953
+the university of utah	university of utah	1.0
+university of montana	montana state university	0.7791474891041171
+tennessee state university	university of tennessee	0.7482957881536172
+mississippi state university	university of southern mississippi	0.5532277877472715
+mississippi state university	university of mississippi	0.7720854881766008
+george washington university	university of washington	0.5471627127482865
+george washington university	the george washington university	1.0
+george washington university	washington university	0.5471627127482865
+university of wisconsin milwaukee	university of wisconsin	0.5853435282648258
+texas state university	university of north texas	0.5022027803181026
+university of memphis	memphis state university	0.787573402383337
+colorado state university	university of northern colorado	0.5046397778912275
+university of central florida	university of florida	0.5731257861227272
+loyola university chicago	loyola university	0.6770841549910118
+alabama a m university	university of alabama	0.570003758417905
+utah state university	university of utah	0.7660419739495953
+university of virginia	west virginia university	0.5993487801406079
+university of michigan	central michigan university	0.6196589132337068
+university of michigan	western michigan university	0.5991937697260955
+university of michigan	michigan state university	0.7660419739495953
+technical university	texas technical university	0.697471823954763
+minnesota state university	university of minnesota	0.7520149507257518
+highland university	new mexico highland university	0.6169967803602561
+university of idaho	idaho state university	0.8110434965801332
+western washington university	university of washington	0.5471627127482865
+western washington university	washington university	0.5471627127482865
+pennsylvania state university	university of pennsylvania	0.8110434965801332
+florida atlantic university	university of florida	0.5213824359833166
+iowa state university	university of northern iowa	0.5119157370331102
+iowa state university	university of iowa	0.7660419739495953
+university of arizona	arizona state university	0.7720854881766008
+university of washington	the george washington university	0.5471627127482865
+university of washington	washington university	1.0
+university of washington	eastern washington university	0.5471627127482865
+vanguard university	vanguard university of southern california	0.620675331445805
+university of northern iowa	university of iowa	0.6067832320848611
+the george washington university	washington university	0.5471627127482865
+michigan technological university	tennessee technological university	0.5699043036200375
+washington university	eastern washington university	0.5471627127482865
+university of alabama	alabama state university	0.787573402383337
+university of north florida	florida state university	0.5092594732008969
+university of north florida	university of florida	0.6277355461230668
+st lawrence university	lawrence university	0.722192632197192
+kansas state university	university of kansas	0.7720854881766008
+north dakota state university	university of north dakota	0.8329925714918582
+university of cincinnati	cincinnati christian university	0.5861897588997138
+central michigan university	michigan state university	0.5210497497870459
+southern connecticut state university	university of connecticut	0.590694798149822
+university of south florida	university of florida	0.6117456533008754
+university of southern mississippi	university of mississippi	0.6612093364789735
+university of delaware	delaware state university	0.8110434965801332
+jacksonville university	jacksonville state university	0.7720854881766008
+florida state university	university of florida	0.7296032024139266
+southern oregon university	oregon state university	0.5632349716870395
+east tennessee state university	university of tennessee	0.5207730333012827
+university of miami	miami university of ohio	0.6135581472504956
+university of georgia	georgia state university	0.7520149507257518
+university of georgia	georgia southern university	0.6359783453603868
+university of dayton arena	university of dayton	0.7932533678843932
+mississippi valley state university	university of mississippi	0.501777312208013
+georgia state university	georgia southern university	0.5257232779216973
+university of connecticut	central connecticut state university	0.5674355010831352
+oklahoma state university	university of oklahoma	0.7720854881766008
+florida international university	university of florida	0.551967161945043
+western michigan university	michigan state university	0.5065033239919026
+u s	u s cellular field	0.5216666220966607
+u s	u s cellular arena	0.5279668571077402
+u s	u s a	1.0
+u s	u s bank arena	0.5907799158988605
+u s cellular field	u s cellular arena	0.7364530556251643
+u s cellular field	u s a	0.5216666220966607
+u s cellular arena	u s a	0.5279668571077402
+u s a	u s bank arena	0.5907799158988605
+illinois	illinois university	0.7063194646380149
+illinois	illinois state	0.6865390468656323
+illinois	illinois state university	0.5340820902527225
+illinois wesleyan university	illinois wesleyan	0.833348797284548
+illinois university	illinois state	0.5340820902527225
+chianciano	chianciano terme	0.5
+los angeles ram	los angeles	0.6134262979773569
+los angeles ram	los angeles state	0.5344820843098368
+los angeles clipper	los angeles	0.5140644074452614
+los angeles angel of anaheim	los angeles angel	0.7285366733381957
+los angeles coliseum	los angeles angel	0.5107815261966694
+los angeles coliseum	los angeles	0.6990929441917549
+los angeles coliseum	los angeles state	0.5983697858437891
+los angeles raider	los angeles	0.5512007036103062
+los angeles angel	los angeles	0.6547248210988164
+los angeles angel	los angeles state	0.5655655492338734
+los angeles king	los angeles	0.6134262979773569
+los angeles king	los angeles state	0.5344820843098368
+los angeles	los angeles dodger	0.5975742713864048
+los angeles	los angeles state	0.8059430811063449
+los angeles	los angeles laker	0.5775774172182293
+los angeles dodger	los angeles state	0.5224074761296006
+los angeles state	los angeles laker	0.5070602965807836
+la laker	laker	0.6125902699186471
+laker	l a laker	0.5206212286759118
+john l smith	john smith	0.5533000522381908
+milwaukee buck	buck	0.5
+travis buck	buck	0.5165863013822943
+buck	john buck	0.6444053547245762
+paramount theatre	paramount theatre washington	0.7428750029385675
+google news	google	0.5943161289177871
+san francisco state	san francisco	0.7810018122346021
+san jose arena	san jose state	0.6034139586453112
+san jose arena	san jose	0.7317991197997744
+san jose arena	san jose state university	0.5202903316377195
+san francisco state university	san francisco	0.6511426877883095
+san diego state university	san diego	0.694979665334892
+san antonio spur	san antonio	0.5392098632337706
+san francisco state college	san francisco	0.6259634674915838
+san jose state	san jose	0.7747482397174316
+university of texas at san antonio	san antonio	0.6365385872639919
+san diego clipper	san diego	0.525817820944256
+san jose	san jose state university	0.6428765528986475
+san francisco	san francisco warrior	0.54003627910243
+san francisco	san francisco giant	0.5132907724999177
+san diego	san diego state	0.8132020949472895
+chronicle pavilion	chronicle	0.6556091324118037
+chronicle	san francisco chronicle	0.5240003214199977
+thoma cook airline	thoma cook	0.7971312415845683
+florida state	florida	0.6412697174077612
+florida	north florida	0.527667580497839
+florida	university of florida	0.662502473917483
+florida international university	florida international	0.81371244836476
+north florida	university of north florida	0.7881408061494072
+central florida knight	university of central florida	0.5285122712070442
+zito	barry zito	0.5943161289177871
+hernandez	david hernandez	0.5565306217591505
+southwest china	southwest	0.5386089194935016
+southwest state university	southwest	0.5645330879815608
+southwest asia	southwest	0.5456789700000703
+air southwest	southwest	0.6282692994434957
+china	air china	0.5914723890900297
+china	china airline	0.5768427637500798
+china	china southern	0.5500439001914589
+china	north china	0.5700827569926186
+china eastern airline	china airline	0.6267927187396837
+college world series	world series	0.7144656405719206
+first world cup	world cup	1.0
+first world cup	football world cup	0.5537175518685735
+world	world arena	0.5197739823020161
+n2006 world series	n2006 world cup	0.5863206192868526
+trans world dome	trans world airline	0.5673956359953075
+trans world dome	trans world	0.6811006472335049
+trans world airline	trans world	0.7726620646333479
+world cup	football world cup	0.5537175518685735
+series	world series	0.5178779599791253
+lake charle civic center	lake charle civic center arena	0.9000101334679658
+xcel center	xcel energy center	0.5991131118753572
+minneapolis convention center	convention center	0.5730871771526809
+frank erwin center	erwin center	0.7116033631461643
+von braun civic center	von braun center	0.7931823991128787
+t constant convocation center	constant convocation center	0.8094050589681412
+first union center	time union center	0.6306654369603892
+e center	the e center	1.0
+pete maravich assembly center	maravich assembly center	0.765936540922238
+anaheim convention center	convention center	0.6575973581174426
+civic center	hartford civic center	0.5541368440694645
+rolen	scott rolen	0.7316756633516291
+royal brunei	brunei	0.6000000000000001
+east asia	asia	0.5429848865663809
+east asia	south east asia	0.6892298016749919
+asia	central asia	0.5064514198649092
+asia	west asia	0.5177399863803424
+asia	air asia	0.5845724400129162
+asia	south asia	0.5463285371304557
+south east asia	south asia	0.6850115640056726
+washington d c	d c	0.7523741251577115
+the ohio state university	ohio	0.519079083653478
+ohio northern	ohio northern university	0.8212557408119115
+ohio wesleyan	ohio wesleyan university	0.8293536943451527
+ohio stadium	ohio university	0.5018005921092371
+ohio stadium	ohio	0.6446455407634752
+ohio university	ohio	0.6936816855995942
+ohio university	ohio state	0.519079083653478
+ohio state university	ohio	0.519079083653478
+ohio	ohio state	0.6734436081893159
+buckeye	ohio state buckeye	0.6179893974598725
+butler university	brad butler	0.5321542382039178
+colorado rockie	rockie	0.6857972507265685
+texas southern	texas southern university	0.7910807378140362
+georgia southern college	georgia southern	0.7732877362496159
+georgia southern college	georgia southern university	0.6539156202742923
+georgia southern	georgia southern university	0.8090159346534173
+the university of utah	utah state	0.5529859931646548
+the university of utah	utah	0.7218742731727136
+utah state university	utah	0.5529859931646548
+university of utah	utah state	0.5529859931646548
+university of utah	utah	0.7218742731727136
+utah state	utah	0.7027005475131928
+london	east london	0.5578773277640701
+london gatwick airport	london gatwick	0.7436254620125201
+london heathrow airport	london heathrow	0.7609885711061181
+gatwick airport	gatwick	0.6377303057306478
+gatwick airport	london gatwick airport	0.7076897185798328
+london gatwick	gatwick	0.6069119518459338
+championship golf	golf	0.5810382621965611
+edison international field	edison field	0.6842339477227743
+bright house network field	bright house field	0.7229448891474723
+historic wrigley field	wrigley field	0.5740204777414663
+invesco field	invesco field at mile high	0.5199111288560049
+us cellular field	cellular field	1.0
+golden gopher	minnesota golden gopher	0.7693044597467509
+golden bear	california golden bear	0.7194107120376921
+golden flash	kent state golden flash	0.6507871492777032
+n2001 super bowl	super bowl	0.5151985170847109
+citrus bowl	florida citrus bowl	0.7927279094545372
+n2006 orange bowl	orange bowl stadium	0.538135409855284
+rise bowl stadium	rise bowl	0.7983324243387465
+cotton bowl stadium	cotton bowl	0.857430465749534
+jubail	al jubail	0.6857972507265685
+fitzgerald theater	larry fitzgerald	0.527359232114818
+new jersey	new jersey devil	0.6118239638184371
+new jersey	new jersey net	0.5289401450245712
+new jersey	new jersey city university	0.6269372612719168
+green bay packer	packer	0.5452559100806389
+joe kennedy	kennedy center	0.5254974573810057
+ramon a ramirez	ramon ramirez	1.0
+california university	california	0.6699351721113906
+california state university fullerton	fullerton	0.5108552943294502
+american airline	american airline arena	0.7362872562556702
+american airline	american airline center	0.7524553796241974
+american airline arena	american airline center	0.5927162194600447
+continental airline arena	continental airline	0.7966407640711681
+bcs national championship game	bcs national championship	0.8146665393132445
+world championship	championship	0.6161648742095499
+national championship	championship	0.5327471639104969
+championship	championship game	0.5150421314871548
+anaheim angel	los angeles angel of anaheim	0.523008956884723
+anaheim angel	angel stadium of anaheim	0.8002321164598027
+saint louis park	st louis park	0.5194427489493046
+historic fenway park	fenway park	0.5782188941710358
+point park college	point park university	0.6756531528944416
+edward jone	edward jone dome	0.6636343852677933
+oriole park at camden yard	camden yard	0.5807655724936539
+infosys	infosys technology	0.6199062332840657
+new england patriot	undefeat new england patriot	0.5149013188405897
+patriot	boston patriot	0.5810382621965611
+eagle	philadelphia eagle	0.5371566952531242
+buffalo	buffalo brave	0.5206212286759118
+buffalo	buffalo bill	0.6257415019191551
+buffalo	buffalo state	0.7523202121391761
+buffalo bill	buffalo state	0.518853787900166
+milwaukee brave	brave	0.5
+boston brave	brave	0.5608236049020797
+gary carter	carter	0.588591910067779
+carter	vince carter	0.5
+carter	chris carter	0.6828802379924107
+mazar i sharif	mazar e sharif	0.7162089270041655
+south dakota	south dakota state	0.807301396690451
+south dakota	south dakota state university	0.6867828726524152
+south carolina state	south carolina	0.7718420607622015
+south african	south african express	0.5895261158755206
+south african	south african airway	0.7496520815334529
+south carolina	south carolina state college	0.6135279713350312
+south carolina	south carolina state university	0.6390616207326698
+south carolina	south	0.5062182129916438
+south africa	south west africa	0.7261675107228419
+east carolina	east carolina university	0.7890446254476735
+north carolina state university	north carolina	0.631234845092663
+coastal carolina university	coastal carolina	0.8600485179737921
+north carolina central university	north carolina	0.5282831251399349
+north carolina	north carolina state	0.7658395598040596
+north carolina	carolina	0.5107444456849767
+carolina theatre	carolina	0.505622502797046
+mount union college	union college	0.5082178270486111
+atlantic cape community college	atlantic community college	0.6480005320824845
+miami dade college	miami dade community college	0.7634815145690841
+edison college	edison state college	0.8185951054389031
+teacher college	kansas state teacher college	0.6363713918729141
+imperial college	imperial college london	0.6732386454793134
+kansas	kansas city	0.5912352048230277
+kansas	university of kansas	0.7311795087805534
+kansas	kansas state university	0.5645330879815608
+kansas	kansas state	0.7123916939372468
+kansas city	kansas city royal	0.6154892476096279
+university of kansas	kansas state	0.5645330879815608
+new york city	new york city college	0.8124737512723958
+joe gibbs	gibbs	0.7576198183122898
+west virginia state	west virginia	0.7952444256527775
+west virginia state	west virginia university	0.6702651132943231
+west texas	west	0.5286828447552666
+west virginia	west virginia university	0.8100629632286135
+west virginia	west virginia state college	0.6457151234577553
+west virginia university	west virginia state college	0.560807675235025
+robert morris college	robert morris university	0.6956779980986036
+cleveland brown	cleveland brown stadium	0.7866126613008257
+mike brown	brown	0.576079555324484
+brown university	brown	0.6783934752530468
+kevin brown	brown	0.525322137902973
+matt brown	brown	0.5523952183129858
+jason brown	brown	0.5565177879331601
+brown	paul brown	0.525322137902973
+university of north texas	north texas state college	0.5213260093502378
+north dakota	university of north dakota	0.8174211605922079
+north dakota	north dakota state university	0.6809057545535625
+north dakota	north dakota state	0.8030371129446302
+university of north dakota	north dakota state	0.6809057545535625
+texas christian university	texas christian	0.8262236740850101
+texas tech	texas tech university	0.8138786388179831
+texas	texas state	0.6313364280270792
+texas	texas stadium	0.6010249641821888
+texas	university of texas	0.6528388332466407
+amazon	amazon com	0.5
+matt ryan	ryan	0.5045105262389408
+ryan air	ryan	0.5195580653207116
+emirate stadium	emirate	0.7484046254718868
+arab emirate	united arab emirate	0.791844719586284
+komo tv	komo	0.5943161289177871
+n2002 stanley cup	stanley cup	0.5151985170847109
+stanley cup	stanley cup final	0.6088902842281335
+stanley cup	n2009 stanley cup	0.5151985170847109
+stanley cup final	world cup final	0.5259022361020521
+university of wisconsin	wisconsin	0.7693442314901756
+bobby dodd	bobby dodd stadium	0.8588464878877173
+robert trent jon jr	robert trent jon	0.6904368192136144
+tampa bay devil ray	devil ray	0.5187264050412934
+tampa bay devil ray	tampa bay ray	0.7090859875668455
+chris ray	ray	0.5824137262777781
+westin hotel	westin	0.5578858913022596
+the metrodome	metrodome	1.0
+victoria station	victoria	0.5
+colorado state university	colorado	0.5429399161476716
+colorado	colorado state	0.694158220736881
+st louis ram	saint louis ram	0.5929673932428113
+st louis ram	louis ram	0.747673601091455
+saint louis ram	louis ram	0.7413165795824158
+louis ram	ram	0.5815855815233053
+ram	cleveland ram	0.5355628517926954
+green bay	university of wisconsin green bay	0.5113513130830819
+oakland coliseum	oakland	0.5808220864105899
+oakland university	oakland	0.7311795087805534
+oakland university	oakland arena	0.5328882885822629
+oakland	oakland a s	0.5632140557798548
+oakland	oakland arena	0.6627288597984295
+rise garden arena	rise garden	0.7922620924271009
+little rock	north little rock	0.8131431274702084
+b j upton	b j ryan	0.5512924452852163
+bill belichick	belichick	0.7316756633516291
+st louis ram	st louis	0.5651638139196022
+st louis brown	st louis park	0.5018181193619585
+st louis brown	st louis	0.6390996264614227
+saint louis park	east saint louis	0.5196725050756742
+saint louis park	saint louis	0.7034056528569149
+saint louis ram	saint louis	0.568860965970693
+st louis park	st louis	0.7002543199349622
+st louis hawk	st louis	0.5014829646677184
+east saint louis	saint louis	0.6654980217399894
+louis cardinal	st louis cardinal	0.754984647994287
+louis	saint louis	0.545260729963829
+louis	st louis	0.5535340503161802
+st louis	st louis cardinal	0.5487884399229753
+st louis	st louis blue	0.5900275639281567
+arizona cardinal	cardinal	0.5303290195561404
+louis cardinal	cardinal	0.5976433577500228
+cardinal field	cardinal	0.6721238686122584
+cardinal	chicago cardinal	0.5976433577500228
+bobby howry	bob howry	0.5195988911922907
+oslo airport	oslo	0.6714559000758995
+vancouver international airport	vancouver airport	0.6936195499044392
+jacksonville state	jacksonville	0.7123916939372468
+jacksonville state	jacksonville university	0.5645330879815608
+jacksonville	jacksonville university	0.7311795087805534
+jacksonville	jacksonville state university	0.5645330879815608
+jaguar	jacksonville jaguar	0.6666666666666666
+syracuse orange	orange	0.5
+orange bowl stadium	orange	0.5282612074804012
+saint petersburg	saint petersburg state university	0.6956511407692583
+shea stadium	shea	0.8133549317514449
+carnegie mellon	carnegie mellon university	0.906984833818518
+ncaa	ncaa tournament	0.5943161289177871
+ryan houston	houston	0.5801738110248386
+houston	university of houston	0.7063194646380149
+houston astro	astro	0.6934264036172707
+university of louisville	louisville	0.8447183034133738
+cal ripken jr	cal ripken	0.7329211420658994
+cathay pacific	cathay	0.6543128759565947
+seton hall university	seton hall	0.8516985730102784
+iowa state	the university of iowa	0.5529859931646548
+iowa state	iowa	0.7027005475131928
+iowa state	university of iowa	0.5529859931646548
+iowa state university	iowa	0.5529859931646548
+university of northern iowa	northern iowa	0.8312379725497879
+iowa city	iowa	0.5798692223296527
+northern iowa	iowa	0.5269504270732932
+the university of iowa	iowa	0.7218742731727136
+iowa	university of iowa	0.7218742731727136
+tennessee	university of tennessee	0.6936816855995942
+tennessee	tennessee state university	0.519079083653478
+chattanooga	university of tennessee at chattanooga	0.6249545863807197
+nicklaus	jack nicklaus	0.6543128759565947
+veteran	veteran stadium	0.7276651382520117
+tampa bay ray	tampa bay	0.6787238831360168
+tampa bay	tampa	0.5656511481581256
+scottrade	scottrade center	0.8105544515100852
+douro	river douro	0.6934264036172707
+western pennsylvania	university of pennsylvania	0.5216520638478166
+western pennsylvania	pennsylvania	0.6069119518459338
+university of pennsylvania	pennsylvania	0.7878351282567574
+pennsylvania state university	pennsylvania	0.6389685571500182
+folsom stadium	folsom field	0.6645016759757446
+troy	troy university	0.713658373463519
+troy	troy state	0.694158220736881
+troy	troy smith	0.5416085865484855
+troy university	troy state	0.5429399161476716
+fiu golden panther	fiu	0.5017832435418703
+pittsburgh panther	panther	0.5
+carolina panther	panther	0.6260746255596429
+air canada center	air canada	0.80718542050284
+air canada center	air canada centre	0.5964357211875497
+air canada	air canada centre	0.6955293327126583
+university of georgia	georgia	0.6997003644230076
+georgia southern	georgia	0.5500439001914589
+georgia state university	georgia	0.5261851350743586
+willie eyre	scott eyre	0.5479804259579626
+jose bautista	bautista	0.7245884476238132
+sydney	sydney football stadium	0.5111866638005425
+kiel center	kiel auditorium	0.5414564505910614
+manchester	manchester unite	0.5
+manchester	manchester city	0.6962776933382736
+east pakistan	pakistan	0.7405326749633551
+university of rhode island	rhode island	0.8859738275373784
+vietnam airline	vietnam	0.6611821114879037
+south vietnam	vietnam	0.6394714728255649
+north vietnam	vietnam	0.6549635360592492
+jim rice	rice university	0.5268947409817012
+rice university	rice bowl	0.5209107888757349
+st petersburg time	st petersburg	0.676652725254331
+josh bank	josh	0.5
+josh johnson	josh	0.5046331598150084
+josh	josh field	0.5798484858099499
+uw madison	uw	0.5206212286759118
+scott steven	steven	0.6836408181204355
+high point university	high point college	0.7326079217008352
+us cellular field	cellular	0.6721238686122584
+cellular field	cellular	0.6721238686122584
+cellular	us cellular coliseum	0.6100718494403359
+bradley center	bradley university	0.6549262614982554
+k state	u k	0.5204573616982026
+vernon	vernon well	1.0
+atlanta	atlanta brave	0.5206212286759118
+atlanta falcon	falcon	0.6199062332840657
+the daily star	daily star	1.0
+calgary airport	calgary	0.6714559000758995
+vermont	university of vermont	0.8447183034133738
+nadal	rafael nadal	0.5372435736804817
+mobile	t mobile	0.6241963505817849
+billion dollar	six billion dollar	1.0
+dollar	two dollar	1.0
+saint malo	st malo	0.6159281116667457
+dominican republic	the dominican republic	1.0
+people republic	people s republic	0.7280364054908693
+the czech republic	czech republic	1.0
+illinois benedictine college	benedictine university	0.5393048738908306
+big fish game	game fish	0.5896494506742208
+ohio northern	northern	0.5071202802580708
+northern	northern california	0.5344402680041583
+university of arkansa	arkansa	0.8117124606437519
+bangkok airway	bangkok	0.7245884476238132
+airway	us airway arena	0.5989972322642091
+airway	us airway center	0.6192296054778548
+rosarito	rosarito beach	0.6934264036172707
+larry bird	bird	0.5137704268206332
+brad bird	bird	0.559300193048666
+game bird	bird	0.559300193048666
+university of hartford	hartford	0.7693442314901756
+juilliard school	the juilliard school	1.0
+mississippi state	university of mississippi	0.5645330879815608
+albert pujol	pujol	0.5578858913022596
+plymouth state	plymouth	0.7969903626663507
+plymouth state university	plymouth	0.6726380496919689
+peoria	peoria stadium	0.7754547472508435
+penn state	william penn college	0.5004652138298086
+washington redskin	redskin	0.7405326749633551
+northeastern husky	northeastern	0.5
+northeastern	northeastern university	0.8117124606437519
+papelbon	jonathan papelbon	0.5943161289177871
+willie hernandez	willie may	0.5168304769853753
+rensselaer polytechnic	rensselaer polytechnic institute	0.7534906747868653
+worcester polytechnic institute	polytechnic institute	0.5069813495737309
+polytechnic institute	rensselaer polytechnic institute	0.5069813495737309
+tradition field	tradition	0.7420981285103057
+renteria	edgar renteria	0.5578858913022596
+acc	acc tournament	0.5372435736804817
+acc	acc championship	0.6418955364979172
+south dakota	dakota	0.5912352048230277
+dakota	north dakota	0.6075278724204402
+georgetown	georgetown university	0.8447183034133738
+saskatchewan	saskatchewan place	0.6543128759565947
+the daily star	daily	0.5956141834399917
+daily	daily star	0.5956141834399917
+daily	china daily	0.5887355477484346
+ramon castro	juan castro	0.5110806959502457
+minnesota	minnesota state university	0.5261851350743586
+minnesota	university of minnesota	0.6997003644230076
+george brett	brett	0.5307212739772436
+eric mangini	mangini	0.6491498728360909
+us bank arena	bank	0.5989972322642091
+bank park	bank	0.563917665287388
+bank of america arena	bank of america stadium	0.6524342887415691
+josh bank	bank	0.5
+adam miller	miller	0.50890998430503
+jim miller	miller	0.5554206789046761
+miller park	miller	0.6091810101652096
+jason miller	miller	0.5972119501671197
+st remy	saint remy	0.6159281116667457
+giant stadium	giant	0.7484046254718868
+giant	new york giant	0.5147703719646924
+bc place stadium	bc place	0.869452713669237
+mike rivera	juan rivera	0.5261665348124501
+ny	ny ranger	0.5
+ny	ny jet	0.5371566952531242
+ny	ny time	0.5956141834399917
+new yankee stadium	yankee	0.5742025367234732
+ny yankee	yankee	0.5268025545616608
+yankee	yankee stadium	0.7484046254718868
+st petersburg time	petersburg time	0.7618731726875376
+alltel arena	alltel stadium	0.620865781997925
+alltel arena	alltel pavilion	0.5415981966435067
+alltel stadium	alltel pavilion	0.5510051798963446
+the cynthia wood mitchell pavilion	cynthia wood mitchell pavilion	1.0
+cricket pavilion	cricket wireless pavilion	0.6390956666750084
+new	new arena	0.5209462726356988
+new orlean	new orlean saint	0.7263237987669893
+new orlean	university of new orlean	0.8206761865521097
+new orlean	new orlean arena	0.7677766140878763
+new orlean	new orlean hornet	0.5149354372476818
+new amsterdam theater	new amsterdam theatre	0.5692414698948279
+new mexico state	university of new mexico	0.6558058792100215
+new mexico state	new mexico	0.7845036465556917
+new york jet	new york	0.5491199806430913
+new orlean saint	university of new orlean	0.6268398516841887
+new orlean saint	new orlean arena	0.5955008995090925
+university of new orlean	new orlean arena	0.6574753501871636
+new hampshire university	new hampshire	0.8391916610387872
+university of new mexico	new mexico	0.7999039255661817
+new york time	new york university	0.5174169535783538
+new york time	the new york time	1.0
+new york time	new york state	0.5100204299126139
+new york time	new york	0.6071714868324389
+new york university	the new york time	0.5174169535783538
+new york university	new york city	0.5485615227681244
+new york university	new york state	0.6252263522840157
+new york university	new york	0.7777887562205361
+new mexico state university	new mexico	0.6558058792100215
+new hampshire	university of new hampshire	0.8391916610387872
+the new york time	new york state	0.5100204299126139
+the new york time	new york	0.6071714868324389
+new york city	new york state	0.5402549189884609
+new york city	new york	0.6505108199537237
+new york net	new jersey net	0.521794469281521
+new york ranger	new york	0.5120512661963975
+new york state theater	new york	0.5182565357969819
+new york state	new york	0.7611945398484524
+new york city college	new york	0.528522966131084
+meadowland complex	meadowland sport complex	0.746846651623142
+korean air	korean	0.7281704568659972
+korean language	korean	0.5637914160289369
+northwestern state university	northwestern	0.6726380496919689
+northwestern	northwestern university	0.8117124606437519
+jazz study	jazz	0.5372435736804817
+utah jazz	jazz	0.6241963505817849
+alex rio	rio	0.5723372020956963
+area	gulf area	0.6199062332840657
+well fargo arena	well fargo	0.7569517478480892
+well fargo arena	well fargo center	0.6188064149951498
+well fargo	well fargo center	0.7722448384707793
+tony pena	tony pena jr	0.6294313747918625
+romo	tony romo	0.6491498728360909
+romo	sergio romo	0.5
+columbus college	columbus	0.712062305760832
+columbus	columbus state university	0.5941252105684713
+columbus crew	columbus crew stadium	0.8445979111764261
+columbus crew	crew	0.5473191697130573
+crew stadium	crew	0.7484046254718868
+charlotte bobcat arena	charlotte bobcat	0.833040336059496
+charlotte arena	charlotte	0.6521813247136502
+charlotte coliseum	charlotte	0.5693774475702217
+charlotte bobcat arena	bobcat	0.5199807376557611
+charlotte bobcat	bobcat	0.6241963505817849
+reynold coliseum	ryan reynold	0.5006726507318178
+american league pennant	american league	0.509918348152094
+american league pennant	national league pennant	0.6089374950783152
+american league	league	0.5194508555890119
+american league	american football league	0.6094839880279574
+league	brandon league	0.5387347221687444
+national football league	american football league	0.5495896743459243
+time	la time	0.5177399863803424
+air canada	canada	0.6976451446189836
+canada	air canada center	0.563128989421039
+central michigan university	central michigan	0.8276569143718688
+michigan state	university of michigan	0.5529859931646548
+michigan state	michigan	0.7027005475131928
+university of michigan	michigan	0.7218742731727136
+michigan state university	michigan	0.5529859931646548
+michigan	central michigan	0.5404604490558214
+michigan	michigan tech	0.5101383446357888
+toledo	university of toledo	0.8447183034133738
+international business	business	0.6069119518459338
+jet	jet airway	0.5815855815233053
+jet	jet blue	0.5254612271806532
+blue jay	toronto blue jay	0.6404019892409726
+blue jacket	columbus blue jacket	0.6725777295254856
+chicago white sox	white sox	0.7381188337736645
+virginia state university	virginia	0.5067480271947487
+university of virginia	virginia	0.6830943132530826
+university of virginia	virginia state	0.5067480271947487
+virginia wesleyan college	virginia wesleyan	0.7927690377186642
+west virginia	virginia	0.5054073102385233
+virginia	virginia state	0.6624970722868025
+university of new orlean	orlean	0.5507458995875809
+new orlean	orlean	0.6710879499275086
+new orlean arena	orlean	0.5152456339505168
+detroit lion	lion	0.5268025545616608
+gary bennett	bennett	0.6241963505817849
+bennett	jeff bennett	0.6962776933382736
+middle east	middle east airline	0.7667714595706498
+east carolina	east	0.5095879081732417
+big east tournament	big east	0.6021161699962958
+seebad ahlbeck	ahlbeck	0.5
+boone	aaron boone	0.6336614981727328
+berlin	east berlin	0.6934190226946438
+berlin	air berlin	0.7281704568659972
+east berlin	air berlin	0.5508323877374116
+nba championship	nba	0.6418955364979172
+nba	nba final	0.5372435736804817
+animal	animal science	0.5637054741273227
+centre bell	bell centre	1.0
+tony abreu	bobby abreu	0.548077955602744
+sanchez	mark sanchez	0.5611636117297351
+sanchez	angel sanchez	0.519041448694803
+sanchez	alex sanchez	0.5101383446357888
+target	target center	0.7449352207955293
+target	target field	0.7125193627380584
+target center	target field	0.5727805840249365
+world cup final	final four	0.5101265384532103
+xcel energy	xcel energy center	0.8471873464010086
+al gore	frank gore	0.5106843046630157
+psychology	environmental psychology	0.5
+missouri state	missouri	0.6796763111163925
+missouri state university	missouri	0.5261851350743586
+memphis	memphis state university	0.5941252105684713
+memphis	memphis state	0.7366237413878526
+memphis	university of memphis	0.7543743970664105
+memphis state	university of memphis	0.5941252105684713
+union university	union college	0.5365459116659589
+union university	first union center	0.5332922526417011
+union college	first union center	0.50803914050148
+former soviet union	soviet union	1.0
+britain	great britain	0.5943161289177871
+la vega	flamingo la vega	0.581197779675686
+rutger university	rutger	0.7878351282567574
+rutger university	rutger college	0.6235379206086387
+rutger	rutger college	0.7493720674754282
+houston oiler	oiler	0.6069119518459338
+tennessee oiler	oiler	0.6211745993017164
+peavy	jake peavy	0.6199062332840657
+korea	north korea	0.6549635360592492
+korea	republic of korea	0.6330468657882854
+korea	south korea	0.6394714728255649
+korea	s korea	0.6125902699186471
+cebu city	cebu	0.7431147865896834
+world tour	tour	0.7420981285103057
+detroit tiger	detroit	0.5371566952531242
+piston	detroit piston	0.6199062332840657
+the united state	united	0.6576438309814565
+united center	united	0.6239277234814553
+united	united state	0.6576438309814565
+the united kingdom	united kingdom	1.0
+jackson	jackson state university	0.5261851350743586
+jackson	jackson state	0.6796763111163925
+jackson	chris jackson	0.5746835978386945
+jackson	brandon jackson	0.5387347221687444
+quebec city	quebec	0.6962776933382736
+dalla cowboy	cowboy	0.5
+cowboy stadium	cowboy	0.7484046254718868
+york	new york	0.5699509227804584
+kevin hart	mike hart	0.5177816036826896
+kevin hart	jason hart	0.5086528884889976
+mike hart	jason hart	0.5345590771229923
+cincinnati royal	cincinnati	0.5165863013822943
+university of cincinnati	cincinnati red	0.5002900605033256
+university of cincinnati	cincinnati	0.7543743970664105
+cincinnati red	cincinnati	0.5976433577500228
+nassau veteran memorial coliseum	nassau coliseum	0.5283798512030491
+the coliseum	coliseum	1.0
+texan	houston texan	0.6934264036172707
+michael bowden	bobby bowden	0.5549622096120954
+jake delhomme	delhomme	0.6199062332840657
+vanderbilt university	vanderbilt	0.8447183034133738
+vancouver	vancouver airport	0.6125902699186471
+expos	montreal expos	0.6391511932854698
+n2008	n2008 world series	0.6364365156339764
+cyprus airway	cyprus	0.7245884476238132
+ussr	former ussr	1.0
+alamodome	the alamodome	1.0
+unfortunate event	a series of unfortunate event	0.8450290670968839
+elon university	elon college	0.7081527823332452
+steve nash	rick nash	0.5247460059742821
+favre	brett favre	0.6666666666666666
+dustin pedroia	pedroia	0.5943161289177871
+new brunswick	north brunswick	0.5692307052295095
+central	central california	0.5209101486553394
+american airline	american	0.5577370969008887
+american	american university	0.6830943132530826
+american football league	american football	0.6834030209510743
+gainesville state college	gainesville	0.6992228941212288
+busch	busch memorial stadium	0.5138669738718873
+busch	busch stadium	0.7484046254718868
+sbc	sbc center	0.7722448384707793
+sbc	sbc park	0.7294488472806674
+sbc center	sbc park	0.600303459109429
+hampton university	mike hampton	0.6806566543153172
+juilliard school	juilliard	0.6336614981727328
+juilliard	the juilliard school	0.6336614981727328
+daytona beach community college	daytona beach	0.6200213591660155
+detroit red wing	red wing	0.6923868186388319
+boston red sox	red sox	0.6919827584831684
+nebraska wesleyan	nebraska wesleyan university	0.8500014935546375
+nebraska wesleyan	nebraska	0.5419766203817946
+nebraska cornhusker	cornhusker	0.6391511932854698
+university of kentucky	kentucky	0.7418700203196714
+university of kentucky	kentucky center	0.5585549407215522
+university of kentucky	kentucky state	0.5780261635736923
+kentucky	kentucky center	0.6932941750570826
+kentucky	kentucky state	0.7235468689378641
+kentucky center	kentucky state	0.5481044919887516
+dodger	dodger stadium	0.7110063857298843
+dodger	l a dodger	0.5
+dodger	la dodger	0.5928311641538279
+member state	member	0.8320429215575879
+hamilton	josh hamilton	0.6423320028298053
+coach jim mora	jim mora	0.5939509123545538
+molson centre	molson stadium	0.5092559396312252
+molson amphitheatre	molson stadium	0.5138669738718873
+network associate coliseum	network associate stadium	0.7522566032847297
+uc santa barbara	uc santa barbara gauchos	0.5787681893408847
+cadillac palace	cadillac palace theatre	0.8303025943264349
+ucla bruin	ucla	0.5578858913022596
+boston bruin	bruin	0.6418955364979172
+tom o brien	jim o brien	0.6496769221521712
+milwaukee brave	milwaukee	0.5
+milwaukee	milwaukee buck	0.5
+british columbia	british columbia lion	0.6257793752618286
+twin	minnesota twin	0.7001245250427999
+jason campbell	campbell university	0.5807261845570506
+fight irish	notre dame fight irish	0.552069012118482
+madison	madison street	0.5
+netherland	the netherland	1.0
+arizona state university	arizona	0.5645330879815608
+arizona	arizona state	0.7123916939372468
+arizona	university of arizona	0.7311795087805534
+arizona state	university of arizona	0.5645330879815608
+berkeley	uc berkeley	0.6391511932854698
+university of dayton	dayton	0.8117124606437519
+university of dayton arena	dayton	0.643893643159384
+maple leaf garden	maple leaf	0.7693961243248473
+maple leaf garden	toronto maple leaf	0.5943675398575273
+maple leaf	toronto maple leaf	0.7232017356332318
+dye	jermaine dye	0.5578858913022596
+technical university	technical	0.7693442314901756
+texas technical university	technical	0.5365959243865283
+technical	technical institute	0.5508231047523733
+pittsburg pirate	pirate	0.5
+pirate	pittsburgh pirate	0.583970804646981
+cornell university	cornell	0.8447183034133738
+american football	football	0.5714285714285714
+saint david	david well	0.5184648030423189
+st david	david well	0.5268025545616608
+faro	faro airport	0.7205846872952778
+calcutta university	calcutta	0.8447183034133738
+paramount theatre washington	paramount	0.5009288863076492
+paramount theatre	paramount	0.6743111348829082
+paramount	paramount airway	0.6423320028298053
+spokane	spokane arena	0.7971580644588936
+al lang stadium	lang park	0.5046523380853576
+indiana university	indiana	0.713658373463519
+indiana university	indiana state	0.5429399161476716
+indiana state university	indiana	0.5429399161476716
+indiana	indiana state	0.694158220736881
+bloomington	indiana university bloomington	0.6090195131774104
+john fox	fox	0.6866236219818473
+john fox	fox theatre	0.5156242089458316
+fox	rick fox	0.5772049881597967
+fox	fox theatre	0.6743111348829082
+british columbia	columbia	0.5371566952531242
+columbia university	columbia	0.7693442314901756
+columbia university	columbia center	0.5948858602404452
+columbia	columbia center	0.7240152066528815
+ball state university	ball	0.5941252105684713
+ball state	ball park	0.5324341881079819
+ball state	ball	0.7366237413878526
+ball park	ball	0.6576259630879643
+reggie ball	ball	0.5520264007992992
+general motor place	general motor institute	0.5892316717021415
+flyer	philadelphia flyer	0.6543128759565947
+derby county	derby	0.6543128759565947
+star tribune	tribune	0.6556091324118037
+tribune	chicago tribune	0.6758469512137554
+bill curry	tim curry	0.5479804259579626
+hague	the hague	1.0
+coach tom renney	tom renney	0.6453580523435178
+boise	boise state	0.7969903626663507
+boise	boise state university	0.6726380496919689
+new york knick	knick	0.6084820025811949
+hilton head	hilton head island	0.8236155819529449
+qw	qw center	0.7449352207955293
+qw	qw field	0.7125193627380584
+qw center	qw field	0.5727805840249365
+omaha	qw center omaha	0.5218308994899642
+makati	makati city	0.7431147865896834
+imperial theatre	imperial college	0.5502228168825436
+imperial college	imperial theater	0.5222115865291443
+university of washington	washington	0.6558881134570417
+washington state	washington	0.6344688261183348
+washington	washington university	0.6558881134570417
+stanst	stanst airport	0.6714559000758995
+stanst	london stanst	0.6418955364979172
+university of idaho	idaho	0.7878351282567574
+university of idaho	idaho state	0.6389685571500182
+idaho	idaho state university	0.6389685571500182
+idaho	idaho state	0.7717710063157136
+oklahoma city	oklahoma	0.5912352048230277
+oklahoma	university of oklahoma	0.7311795087805534
+oklahoma	oklahoma university	0.7311795087805534
+oklahoma	oklahoma state	0.7123916939372468
+oklahoma	oklahoma state university	0.5645330879815608
+university of oklahoma	oklahoma state	0.5645330879815608
+oklahoma university	oklahoma state	0.5645330879815608
+tulane	tulane university	0.8447183034133738
+kent state	jeff kent	0.5076551027285873
+kent state	kent	0.7366237413878526
+kent state university	kent	0.5941252105684713
+jeff kent	kent	0.6202334448725115
+brandon jacob	mike jacob	0.6053017070101523
+tiger airway	tiger	0.5815855815233053
+tiger stadium	tiger	0.6971804653490545
+horizon league	horizon air	0.5225257912871786
+horizon league	horizon	0.6491498728360909
+horizon air	horizon	0.7281704568659972
+varitek	jason varitek	0.7639403419861699
+loyola university chicago	loyola	0.5209107888757349
+loyola university	loyola	0.7693442314901756
+fresno	fresno state university	0.6389685571500182
+fresno	fresno state	0.7717710063157136
+colt	baltimore colt	0.5268025545616608
+mike mccoy	colt mccoy	0.508143224809548
+university of delaware	delaware	0.7878351282567574
+university of delaware	delaware state	0.6389685571500182
+delaware state university	delaware	0.6389685571500182
+delaware	delaware state	0.7717710063157136
+cleveland brown	cleveland	0.5416085865484855
+cleveland	cleveland state university	0.5429399161476716
+cleveland	cleveland state	0.694158220736881
+seattle mariner	mariner	0.6857972507265685
+new amsterdam theater	amsterdam	0.503562149586076
+amsterdam	new amsterdam theatre	0.5295586086104402
+sarah lawrence college	sarah lawrence	0.87602235363678
+st lawrence university	lawrence	0.5556147356056158
+lawrence university	lawrence	0.7693442314901756
+east bengal	bengal	0.6608090761059482
+cincinnati bengal	bengal	0.5473191697130573
+west bengal	bengal	0.6377303057306478
+the lord of the ring	lord of the ring	1.0
+net	new york net	0.5518997451477236
+manny ramirez	manny	0.5520264007992992
+stockton state college	john stockton	0.5741510521192127
+met	new york met	0.6084820025811949
+basketball game	basketball	0.5956141834399917
+amityville horror	the amityville horror	1.0
+td waterhouse center	td waterhouse centre	0.7090171160726839
+helmand	helmand province	0.5578858913022596
+spirit air	spirit airline	0.5650405303104881
+america	central america	0.5656511481581256
+management	art management	0.588591910067779
+purdue	purdue university	0.8117124606437519
+hawaii warrior	hawaii	0.5637914160289369
+horned frog	tcu horned frog	0.6666666666666666
+dalla clark	dalla	0.5473191697130573
+dalla cowboy	dalla	0.5
+salt lake community college	salt lake city	0.5809721134001441
+gardner	lee gardner	0.5637054741273227
+illini	fight illini	0.5943161289177871
+kevin cameron	mike cameron	0.611350750775926
+chicago theatre	chicago	0.5355023974994189
+university of chicago	chicago	0.6740202816323304
+miami garden	miami	0.519041448694803
+miami	university of miami	0.7218742731727136
+miami	miami beach	0.519041448694803
+heat	miami heat	0.6769924925288455
+port saint lucie	port st lucie	0.706358988520872
+bobby knight	knight	0.5578858913022596
+rutger scarlet knight	scarlet knight	0.6872517835739294
+alabama state	university of alabama	0.5941252105684713
+alabama state	alabama	0.7366237413878526
+university of alabama	alabama	0.7543743970664105
+university of south alabama	alabama	0.516023063116434
+alabama	alabama state university	0.5941252105684713
+syracuse orange	syracuse	0.5
+syracuse	syracuse university	0.7878351282567574
+anaheim angel	anaheim	0.519041448694803
+mighty duck of anaheim	anaheim duck	0.5215925489364119
+mighty duck of anaheim	anaheim mighty duck	1.0
+anaheim duck	anaheim mighty duck	0.5215925489364119
+etihad	etihad airway	0.7245884476238132
+golden bear	bear	0.5522681904177638
+bear	chicago bear	0.5815855815233053
+bobby carpenter	chris carpenter	0.5836917260227386
+chad cordero	francisco cordero	0.5247460059742821
+montana state	joe montana	0.5031123196420364
+montana state	university of montana	0.5780261635736923
+montana state	montana	0.7235468689378641
+montana state university	montana	0.5780261635736923
+joe montana	university of montana	0.5119037377000164
+joe montana	montana	0.6228405884221776
+university of montana	montana	0.7418700203196714
+ken whisenhunt	whisenhunt	0.5578858913022596
+waterloo	london waterloo	0.6418955364979172
+seattle washington	seattle	0.5666498305092562
+seattle	the seattle time	0.5239392819282562
+p i	seattle p i	0.5983768161916053
+p i	river p	0.6069119518459338
+virgin	virgin atlantic	0.6666666666666666
+manchester unite	unite	0.5
+unite airline	unite	0.7160862998133694
+ho chi minh city	ho chi minh	0.8820441989645295
+c vivian stringer	vivian stringer	0.7798563011193282
+london heathrow	heathrow	0.6418955364979172
+saint etienne	st etienne	0.6159281116667457
+hulk	the hulk	1.0
+cayman	grand cayman	0.5637914160289369
+cayman	cayman island	0.6491498728360909
+samui	koh samui	0.5
+norfolk state university	norfolk	0.7216633413741063
+henry fonda theatre	henry fonda theater	0.6896493565908041
+pacific university	air pacific	0.5241358657718779
+air pacific	university of the pacific	0.5241358657718779
+carlo gomez	chris gomez	0.5729641673975828
+the woodland	woodland	1.0
+tv	king tv	0.5637054741273227
+mike matthews	matthews arena	0.6494353050005862
+bank one ballpark	ballpark	0.617319681505689
+ballpark	ranger ballpark	0.5
+raptor	toronto raptor	0.6391511932854698
+josh freeman	freeman	0.7245884476238132
+jake westbrook	brian westbrook	0.5050829058363887
+luis gonzalez	gonzalez	0.5
+tony gonzalez	gonzalez	0.5168304769853753
+mike gonzalez	gonzalez	0.61621657838143
+gonzalez	alex gonzalez	0.5
+gonzalez	carlo gonzalez	0.5168304769853753
+gonzalez	juan gonzalez	0.5168304769853753
+lowe	derek lowe	0.5372435736804817
+lowe	sidney lowe	0.5
+camp nou	nou camp	1.0
+yellow jacket	georgia tech yellow jacket	0.6549449229694365
+osprey	north florida osprey	0.5938748998803983
+namibia	air namibia	0.7717019533049274
+bethel university	bethel college	0.6578759493286586
+former nfl	nfl	1.0
+former nfl	first nfl	1.0
+former nfl	nfl football	0.5637054741273227
+nfl	first nfl	1.0
+nfl	nfl football	0.5637054741273227
+first nfl	nfl football	0.5637054741273227
+scott baker	john baker	0.5015936759825249
+john baker	jeff baker	0.5094699096463445
+newcastle upon tyne	tyne	0.5
+brewer	milwaukee brewer	0.6391511932854698
+kenya airway	kenya	0.7245884476238132
+reed johnson	steve reed	0.5043541203015234
+green wave	wave	0.7001245250427999
+alex rodriguez	rodriguez	0.5
+rodriguez	francisco rodriguez	0.5303719389375796
+allen iverson	iverson	0.6666666666666666
+oregon state	oregon	0.7235468689378641
+oregon state	university of oregon	0.5780261635736923
+oregon	oregon state university	0.5780261635736923
+oregon	university of oregon	0.7418700203196714
+fort lauderdale stadium	fort lauderdale	0.851977773000904
+matt moore	moore theatre	0.514590268895652
+northern italy	italy	0.7001245250427999
+ed	ed smith stadium	0.5251448359282371
+university of pittsburgh	pittsburgh	0.7543743970664105
+pittsburgh	pittsburgh panther	0.5
+northwest	northwest airline	0.6424548330251652
+philadelphia phillie	phillie	0.6543128759565947
+matt walker	walker	0.6270694901955832
+walker	todd walker	0.5355628517926954
+walker	bill walker	0.5902718572045536
+walker	larry walker	0.5137704268206332
+verizon center	verizon	0.7240152066528815
+ford field	ford stadium	0.5484153722466771
+ford field	ford center	0.5463396091991896
+ford stadium	ford center	0.5696561407999007
+denver	university of denver	0.7878351282567574
+broncos	denver broncos	0.5943161289177871
+gambia	the gambia	1.0
+adam laroche	andy laroche	0.5075021654088359
+taiwan	taiwan university	0.8117124606437519
+taiwan	national taiwan university	0.5809682589851508
+hsbc arena	hsbc	0.7971580644588936
+viking	cleveland state viking	0.5455983942507956
+viking	minnesota viking	0.6491498728360909
+orlando	orlando hernandez	0.5887355477484346
+orlando	orlando cabrera	0.5
+chase utley	utley	0.5578858913022596
+mandalay	air mandalay	0.7717019533049274
+jim thome	thome	0.7316756633516291
+moscow	moscow university	0.7693442314901756
+moscow	moscow state university	0.6138624216542395
+pitt panther	pitt stadium	0.5573978851546623
+hawkeye	iowa hawkeye	0.6769924925288455
+washington bullet	baltimore bullet	0.5092877536481988
+tar heel	north carolina tar heel	0.7518225990199447
+hollin college	hollin university	0.7081527823332452
+bull	chicago bull	0.6758469512137554
+yale	yale university	0.8447183034133738
+fenway	fenway park	0.7294488472806674
+wrigley field	wrigley	0.7420981285103057
+l a king	l a	0.5165863013822943
+l a dodger	l a	0.5
+hawthorn	the hawthorn	1.0
+auburn university	auburn	0.8117124606437519
+kinshasa	congo kinshasa	0.5943161289177871
+charger	san diego charger	0.5322609245619042
+centennial hall	centennial garden	0.5508948599507036
+corel centre	corel center	0.6016699655501931
+steeler	pittsburgh steeler	0.583970804646981
+steeler	pittsburg steeler	0.5
+jeff van gundy	van gundy	0.8383255836249258
+minneapolis laker	minneapolis	0.5268025545616608
+thai language	thai	0.5637914160289369
+thai	thai airway	0.6758469512137554
+cavalier	cleveland cavalier	0.6857972507265685
+stadium australia	australia	0.8133549317514449
+sacramento	sacramento state	0.7969903626663507
+sacramento	sacramento king	0.6000000000000001
+sacramento state	sacramento king	0.5204573616982026
+wild turkey	turkey	0.5578858913022596
+wachovia	wachovia center	0.7722448384707793
+albany state college	albany	0.6992228941212288
+evansville	university of evansville	0.8447183034133738
+lsu tiger	lsu	0.6543128759565947
+ryan howard	howard university	0.6113734336436786
+mark teixeira	teixeira	0.7282714920267325
+willie parker	parker	0.6336614981727328
+tony parker	parker	0.6491498728360909
+the sudan	southern sudan	0.7405326749633551
+palm beach	west palm beach	0.7436254620125201
+uc irvine	irvine	0.6391511932854698
+south carolina gamecock	gamecock	0.5942188538851905
+jeter	derek jeter	0.5943161289177871
+oregon state beaver	beaver stadium	0.5102932642687691
+unc	unc tarheel	0.5578858913022596
+joyce center	matt joyce	0.6460256489171633
+the roundhouse	roundhouse	1.0
+west lafayette	lafayette college	0.6187889133467005
+san diego padre	padre	0.5322609245619042
+pat hill	pat	0.5
+jose castillo	luis castillo	0.5439954477760538
+chief	kansas city chief	0.5418036388579601
+seattle seahawks	seahawks	0.6336614981727328
+seattle seahawks	seahawks stadium	0.5354191682532548
+seahawks	seahawks stadium	0.7754547472508435
+lake buena vista	buena vista university	0.7156674597679236
+university of wyom	wyom	0.8447183034133738
+chowan college	chowan university	0.7081527823332452
+mci	mci center	0.8105544515100852
+johannesburg	johannesburg international airport	0.5464851039626737
+indian airline	indian stadium	0.5300256592957764
+indian airline	indian	0.6611821114879037
+indian stadium	indian	0.7276651382520117
+indian	cleveland indian	0.5723372020956963
+philadelphia athletic	athletic	0.6000000000000001
+oakland athletic	athletic	0.6131471927654584
+lavell edward	lavell edward stadium	0.869452713669237
+persian gulf	persian	0.6199062332840657
+information	information science	0.6543128759565947
+carolina hurricane	hurricane	0.701512126945176
+toronto skydome	skydome	0.6391511932854698
+leach	mike leach	0.7780025070919014
+pittsburgh penguin	penguin	0.583970804646981
+continental arena	continental	0.7284531803869463
+continental arena	continental airline	0.5455327460086211
+continental	continental airline arena	0.5455327460086211
+continental	continental airline	0.6847914023639967
+miami dolphin	dolphin	0.588591910067779
+jacksonville dolphin	dolphin	0.5772049881597967
+dolphin stadium	dolphin	0.7484046254718868
+mark ellis	ellis park	0.5057652516431841
+thailand	northern thailand	0.7001245250427999
+durham	ray durham	0.6934264036172707
+birmingham southern college	birmingham	0.5779646850120015
+toyota center	toyota	0.7722448384707793
+draw bree	bree	0.6857972507265685
+coolum beach	coolum	0.6934264036172707
+operation	operation research	0.5578858913022596
+umhlanga	umhlanga rock	0.6199062332840657
+marlin	florida marlin	0.7348354902219298
+pat riley	mike riley	0.5405645194684979
+houston astrodome	astrodome	0.6934264036172707
+montreal canadian	canadian	0.583970804646981
+riverside theatre	riverside theater	0.5219127153309138
+trojan	troy trojan	0.6336614981727328
+tarheel	north carolina tarheel	0.545529272663005
+oregon duck	duck	0.5371566952531242
+duck	anaheim duck	0.5623818557528477
+cape verde island	cape verde	0.7970948100086366
+hawk	atlanta hawk	0.5268025545616608
+jerry hairston jr	jerry hairston	0.7063801252398455
+tobey maguire and kirsten dunst	tobey maguire	0.5
+fiji	fiji island	0.7001245250427999
+razorback stadium	razorback	0.7754547472508435
+arkansas razorback	razorback	0.5
+baylor bear	baylor university	0.5266955608426173
+baylor bear	baylor	0.6000000000000001
+baylor university	baylor	0.8117124606437519
+hp pavilion	hp	0.7060702520912806
+rocket	houston rocket	0.6934264036172707
+indianapolis	indianapolis colt	0.5372435736804817
+denver nugget	nugget	0.5943161289177871
+john thomson	bobby thomson	0.5282276219252215
+kennesaw state	kennesaw	0.8320429215575879
+master	the master	1.0
+arlington	university of texas at arlington	0.6538025661530279
+ottawa senator	ottawa	0.5
+college of charleston	charleston	0.7763492584992873
+college of charleston	charleston southern university	0.5096390929193512
+charleston	charleston southern university	0.5973384488192894
+solomon island	solomon	0.7001245250427999
+hornet	charlotte hornet	0.6241963505817849
+people	people republic	0.657601396626028
+kunia	kunia camp	0.6199062332840657
+college of the holy cross	holy cross	0.8870247497944426
+tony dungy	dungy	0.7001245250427999
+safeco	safeco field	0.7840606415528585
+south lebanon	lebanon	0.6638243993087611
+lebanon	southern lebanon	0.6608090761059482
+west germany	east germany	0.5177509507374409
+west germany	germany	0.6714559000758995
+east germany	germany	0.6934190226946438
+million	million dollar	0.6543128759565947
+st louis post dispatch	post dispatch	0.6826550627708696
+washington post	post	0.5765811857109555
+edmonton	edmonton oiler	0.5943161289177871
+everett	carl everett	0.5637914160289369
+mexico city	mexico	0.5699574676093581
+new mexico	mexico	0.6234571625127485
+central mexico	mexico	0.5303719389375796
+season	post season	0.6769924925288455
+kean university	kean	0.8447183034133738
+petco	petco park	0.7728394850000352
+canadien	montreal canadien	0.6391511932854698
+xcel	xcel energy	0.5268025545616608
+xcel	xcel center	0.7449352207955293
+raven	baltimore raven	0.6199062332840657
+omni coliseum	the omni	0.7348354902219298
+nationwide arena	nationwide	0.7971580644588936
+roy halladay	halladay	0.6769924925288455
+chris snyder	bill snyder	0.5368388404789056
+john maine	maine	0.7624608115505945
+edison field	edison college	0.5754000732293604
+bill parcell	parcell	0.7316756633516291
+sheffield arena	gary sheffield	0.519980737655761
+sheffield arena	sheffield	0.7569517478480892
+gary sheffield	sheffield	0.6241963505817849
+coor amphitheatre	coor field	0.5911209322302439
+morgan state university	joe morgan	0.5289936564911496
+singapore	singapore airline	0.7609175985614539
+cobo hall	cobo arena	0.5580649885309942
+cobo hall	cobo center	0.5663335337620427
+cobo arena	cobo center	0.6188064149951498
+mike mussina	mussina	0.7780025070919014
+providence college	providence	0.8141346497217479
+olympic	olympic stadium	0.8133549317514449
+stanford	stanford university	0.8447183034133738
+michael phelp	josh phelp	0.5599801334913085
+gwinnett arena	gwinnett center	0.6719618321763595
+comcast theatre	comcast arena	0.631252679286577
+uconn	uconn husky	0.5578858913022596
+ibm china	ibm	0.7001245250427999
+nassau coliseum	nassau	0.6871244233158569
+blue heron	heron	0.6769924925288455
+staple	staple center	0.8105544515100852
+phoenix sun	phoenix	0.5772049881597967
+university of phoenix stadium	phoenix	0.6228679591233981
+air france	france	0.7717019533049274
+hallandale	hallandale beach	0.6934264036172707
+notre dame stadium	university of notre dame	0.7676138475983518
+notre dame stadium	notre dame	0.8561000292136561
+university of notre dame	notre dame	0.8813286144846502
+claflin college	claflin university	0.7081527823332452
+arizona diamondback	diamondback	0.6666666666666666
+gator	florida gator	0.7348354902219298
+depaul university	depaul	0.8447183034133738
+education	music education	0.6391511932854698
+fowl	water fowl	0.5578858913022596
+flame	calgary flame	0.5578858913022596
+raider	oakland raider	0.5772049881597967
+raider	red raider	0.6423320028298053
+devil	devil ray	0.5608236049020797
+devil	blue devil	0.5419766203817946
+portland	portland state university	0.6389685571500182
+portland trail blazer	portland blazer	0.5959738707082357
+trail blazer	portland trail blazer	0.7242092614112461
+united kingdom	kingdom	0.6714559000758995
+kingdom	the united kingdom	0.6714559000758995
+le havre	havre	0.5578858913022596
+sox	white sox	0.5723372020956963
+sox	red sox	0.617319681505689
+showbox	showbox theater	0.6666666666666667
+pepperdine university	pepperdine	0.8447183034133738
+philip river	philip	0.6418955364979172
+philip river	philip arena	0.5322053242421843
+philip	philip arena	0.7569517478480892
+orlando magic	magic	0.6199062332840657
+alaska airline	alaska air	0.5650405303104881
+jon gruden	gruden	0.7348354902219298
+tennessee titan	titan	0.6556091324118037
+new york titan	titan	0.5518997451477236
+lyon	brandon lyon	0.7316756633516291
+nick saban	saban	0.6543128759565947
+belmont university	belmont	0.8447183034133738
+goodman theatre	goodman theater	0.5793957724730292
+rider college	rider university	0.7081527823332452
+celtic	boston celtic	0.6934264036172707
+concord pavilion	concord	0.7060702520912806
+david boston	boston	0.5643405650847897
+boston	boston college	0.6594661286215694
+boston	boston university	0.7063194646380149
+boston college	boston university	0.51755332349683
+cub	chicago cub	0.7245884476238132
+corey dillon	joe dillon	0.5306452213106214
+basel	zoo basel	0.5
+fedex forum	fedex field	0.5107206007721602
+capital centre	capital	0.6491498728360909
+capital centre	washington capital	0.5043867097819252
+capital	washington capital	0.6934190226946438
+riverfront stadium	riverfront time	0.6076200864582824
+manhattan college	manhattan	0.8141346497217479
+arrowhead pond of anaheim	arrowhead pond	0.8073888172367005
+bakersfield college	bakersfield	0.8141346497217479
+spurrier	steve spurrier	0.7113975059201018
+jason schmidt	mike schmidt	0.6272165674396443
+newcastle upon tyne	newcastle	0.5
+autzen stadium	autzen	0.8133549317514449
+buccaneer	tampa bay buccaneer	0.5170618238893605
+david price	mike price	0.61476190925755
+baltic state	air baltic	0.6142411294083961
+baltic state	baltic	0.7969903626663507
+air baltic	baltic	0.7281704568659972
+lincoln memorial	lincoln	0.6211745993017164
+lincoln	brad lincoln	0.6211745993017164
+sosa	sammy sosa	0.5
+japan	japan airline	0.7609175985614539
+phillip arena	jason phillip	0.5211150064893171
+bill cowher	cowher	0.7316756633516291
+north carolina state wolfpack	wolfpack	0.5370387288964532
+miguel tejada	tejada	0.6543128759565947
+delta center	delta	0.8105544515100852
+southern india	india	0.6363573739615787
+british india	india	0.5371566952531242
+india	air india	0.6745410412554547
+india	south india	0.6394714728255649
+english language	english	0.6199062332840657
+josh bard	bard college	0.6217390511825871
+gange	river gange	0.6934264036172707
+turner field	michael turner	0.5377943777480906
+hofstra university	hofstra	0.8447183034133738
+texas ranger	ranger	0.6394714728255649
+ny ranger	ranger	0.5
+ranger ballpark	ranger	0.5
+kinnick stadium	kinnick	0.8133549317514449
+spektrum	oslo spektrum	0.5578858913022596
+greg maddux	maddux	0.6666666666666666
+an nasiriyah	nasiriyah	1.0
+ramon ortiz	david ortiz	0.5348669235118145
+winthrop university	winthrop college	0.6578759493286586
+mililani town	mililani	0.5943161289177871
+jon huber	justin huber	0.5440785032263729
+incredible	incredible hulk	0.5578858913022596
+ian	ian kennedy	0.5268025545616608
+usc trojan	usc	0.5578858913022596
+seatac airport	seatac	0.7205846872952778
+carlisle	rick carlisle	0.6666666666666666
+matt painter	curtis painter	0.5188471372988591
+esteban german	german	0.5578858913022596
+kirsten dunst	tobey maguire and kirsten dunst	0.5
+lamezia	lamezia terme	0.5
+monmouth university	monmouth college	0.7081527823332452
+vancouver canuck	canuck	0.6199062332840657
+moldova	air moldova	0.7717019533049274
+delhi	old delhi	0.5372435736804817
+delhi	new delhi	0.7411981642721185
+vanuatu	air vanuatu	0.7717019533049274
+oracle	oracle arena	0.7971580644588936
+harvard	harvard stadium	0.7484046254718868
+harvard	harvard university	0.7878351282567574
+harvard stadium	harvard university	0.6228679591233981
+a coruna	la coruna	0.7205846872952778
+john cooper	cooper union	0.5590764729247639
+geneva airport	geneva	0.7205846872952778
+cricket wireless pavilion	cricket wireless amphitheatre	0.6392116324483765
+colonial stadium	colonial center	0.6311171004415883
+chris duncan	duncan	0.6828802379924107
+duncan	tim duncan	0.5983768161916053
+bond	barry bond	0.5943161289177871
+air jamaica	jamaica	0.7717019533049274
+brooklyn	brooklyn dodger	0.6391511932854698
+gaby hernandez	gaby sanchez	0.5248135532836917
+croatia	croatia airline	0.7609175985614539
+inconvenient truth	an inconvenient truth	1.0
+stockholm globe arena	stockholm	0.5162455906240975
+dallas maverick	maverick	0.5578858913022596
+boston conservatory	conservatory	0.6934264036172707
+spartan stadium	spartan	0.8133549317514449
+quinnipiac college	quinnipiac university	0.7081527823332452
+scott patterson	corey patterson	0.5177857259990197
+red sea	sea bird	0.5239951527557078
+mike myer	brett myer	0.5601164902520829
+amway center	amway arena	0.6719618321763595
+pudge	pudge rodriguez	0.6857972507265685
+kexp	kexp fm	0.5943161289177871
+larnaca	larnaca airport	0.7205846872952778
+n2005	n2005 world series	0.6364365156339764
+berklee	berklee college of music	0.5577639659704349
+crede	joe crede	0.7576198183122898
+philippine	philippine airline	0.7160862998133694
+philippine	the philippine	1.0
+philippine airline	the philippine	0.7160862998133694
+chicago blackhawks	blackhawks	0.7245884476238132
+hope	hope college	0.8141346497217479
+malaysia airline	malaysia	0.7609175985614539
+carlo beltran	beltran	0.7001245250427999
+indiana pacer	pacer	0.6857972507265685
+matt clement	jeff clement	0.6024496058896806

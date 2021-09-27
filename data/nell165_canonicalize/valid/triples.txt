@@ -1,0 +1,4013 @@
+4012
+colby rasmu	athlete play in league	mlb
+minneapolis	city television station	wcco
+duck	animal be type of animal	migratory bird
+john buck	agent belong to organization	mlb
+baseball	player	craig biggio
+joe morgan	agent belong to organization	astro
+mlb	league player	pedro feliciano
+italy	team win trophy	world cup
+cormorant	animal prey on	duck
+business	academic program at university	howard university
+hornet	team play in league	nba
+mark teixeira	agent belong to organization	mlb
+tim hudson	athlete play in league	mlb
+volgograd	city also know as	stalingrad
+fr lynn	athlete play for team	boston red sox
+saint louis	city locate in country	united state
+alfredo amezaga	athlete play for team	marlin
+jason william	athlete play sport	basketball
+thoma cook	headquarter in	london gatwick
+new york met	team play against team	cincinnati red
+dayton flyer	subpart of organization	ncaa
+nfl	league team	cowboy
+jonathan papelbon	athlete play sport	baseball
+dickinson state	latitude longitude	27.0061700000000,-80.1286500000000
+arizona diamondback	team home stadium	tucson electric park
+jakarta	city capital of country	indonesia
+mlb	league player	jed lowrie
+united	at location	myanmar
+new york giant	team play in league	national football league
+rouen	city capital of country	france
+yankee	team play against team	louis cardinal
+mlb	league player	chad billingsley
+major league baseball	agent control	los angeles dodger
+national car rental center	stadium locate in city	fort lauderdale
+baseball	sport team	devil ray
+n1947 mlb all star game	sport game winner	chicago cub
+cleveland indian	subpart of organization	mlb
+kosuke fukudome	agent belong to organization	mlb
+murray state	latitude longitude	37.3915200000000,-98.1481833333333
+alexei ramirez	agent belong to organization	white sox
+edison international field	stadium locate in city	anaheim
+gothenburg	latitude longitude	45.1566110714286,-72.0824264285714
+national museum of iran	museum in city	tehran
+seattle	city have company office	united
+purdue	team play in league	ncaa
+white sox	team home stadium	u s cellular field
+bradford	city locate in country	great britain
+justin orenduff	agent belong to organization	mlb
+orlando magic	team play in league	nba
+brett favre	athlete play for team	minnesota viking
+minnesota viking	team home stadium	hubert h humphrey metrodome
+art	academic program at university	san francisco state university
+basketball	player	derrick rise
+texas tech	agent control	mike leach
+la weekly	newspaper in city	la
+devil	team play against team	penguin
+flybe	have office in city	bologna
+paul maurice	coach team	leaf
+university of kansas	team play sport	basketball
+andruw jone	athlete play for team	los angeles dodger
+sean white	athlete play in league	mlb
+seattle	location locate with in location	washington
+td waterhouse centre	stadium locate in city	orlando
+south	city locate in country	french guyana
+luis rodriguez	athlete play in league	mlb
+titan	team play against team	pittsburgh steeler
+biochemistry	academic program at university	uc berkeley
+rockie	team member	troy tulowitzki
+marina mall	park in city	abu dhabi
+sri lanka	country capital	colombo
+jim tressel	work for	ohio state
+bengal	team home stadium	paul brown stadium
+aosta	latitude longitude	45.5896829166667,3.5999920833333
+kwangju	latitude longitude	36.4474106451613,127.1257770967742
+dalla cowboy	team home stadium	cowboy stadium
+jeff weaver	athlete play for team	dodger
+new mexico	state locate in country	u s
+adam dunn	person belong to organization	cincinnati red
+yankee	team also know as	new york yankees
+osu	team play sport	basketball
+broward center	stadium locate in city	fort lauderdale
+anthony smith	athlete play in league	nfl
+t j ford	athlete play in league	nba
+jason garrett	athlete play in league	nfl
+peyton man	team mate	reggie wayne
+minsk	city locate in country	belarus
+pittsburgh steeler	team play in league	national football league
+basketball	sport team	washington bullet
+jeff fiorentino	agent belong to organization	mlb
+white sox	team play in league	major league baseball
+seattle weekly	newspaper in city	seattle
+white sox	agent collaborate with agent	brian anderson
+dodger stadium	stadium home team	dodger
+chief	team play against team	redskin
+texas technological college	latitude longitude	34.1520166666667,-101.7794300000000
+red grange	athlete play in league	nfl
+ryanair	have office in city	carcassonne
+basketball	player	carlo boozer
+mark teixeira	athlete play for team	brave
+sabrita	headquarter in	mexico city
+longwood university	team play sport	basketball
+n1964 world series	sport game winner	st louis cardinal
+thomsonfly	have office in city	corfu
+javier vazquez	agent belong to organization	white sox
+new york	proxy for	shea stadium
+baylor	team play against team	oklahoma state
+sound advice amphitheatre	stadium locate in city	west palm beach
+north	city locate in country	netherland
+canterbury	city locate in country	uk
+id	have office in city	minneapolis
+george peabody college	latitude longitude	36.1397800000000,-86.7994400000000
+verizon	headquarter in	washington dc
+oakland golden grizzly	team play in league	ncaa
+mlb	league player	alfonso soriano
+volgograd	latitude longitude	48.7767823809524,43.7138085714286
+paris	city locate in country	canada
+dalla	proxy for	sacramento king
+mgm grand arena	stadium locate in city	la vega
+rockie	team member	brian fuente
+north	city locate in country	libya
+matt palmer	athlete play in league	mlb
+seattle	company headquarter here	amazon
+bernardo bertolucci	actor star in movie	last emperor
+kansas university	latitude longitude	37.7016000000000,-97.3156000000000
+basketball	player	dwight howard
+nassau coliseum	stadium locate in city	hempstead
+canne	city locate in country	france
+brad penny	athlete play in league	mlb
+tallin	city capital of country	estonia
+skyeurope	have office in city	sao paulo
+santonio holme	athlete play in league	nfl
+air bagan	headquarter in	yangon
+the dominican republic	country also know as	dominican republic
+cayenne	city capital of country	french guiana
+teixeira	person belong to organization	red sox
+new delhi	location locate with in location	india
+packer	team play against team	bill
+jeff karsten	athlete play in league	mlb
+new york giant	team play against team	indian
+amway arena	stadium home team	magic
+newmexico	state locate in country	united state
+nashville predator	team play in league	nhl
+tampa bay ray	team play against team	minnesota twin
+adam eaton	agent belong to organization	mlb
+kurt birkin	agent belong to organization	mlb
+chicago bull	team also know as	knick
+tom renney	work for	new york ranger
+red sox	team play against team	st louis brown
+mlb	league player	bj upton
+seattle supersonic	team play sport	basketball
+mlb	league team	san diego padre
+phoenix	city locate in country	united state
+boise state	agent control	peterson
+kansas city royal	agent collaborate with agent	george brett
+life university	latitude longitude	33.9327900000000,-84.5165600000000
+central california	state locate in country	u s
+giant	team play against team	padre
+steeler	team play against team	viking
+aberdeen	city capital of country	uk
+thailand	country city	chiang mai
+american league pennant	trophy win by team	white sox
+london gatwick airport	latitude longitude	51.1432333333333,-0.1818433333333
+los angeles	proxy for	national basketball association
+gleiwitz	latitude longitude	50.2983400000000,18.6778100000000
+shane victorino	athlete play for team	phillie
+cincinnati red	team play against team	boston red sox
+south	city locate in country	west indie
+centre bell	location locate with in location	montreal
+st louis ram	subpart of organization	nfl
+bradford	city locate in country	uk
+craig robinson	work for	oregon state
+united state	country also know as	us
+tournai	latitude longitude	50.0925700000000,2.4875000000000
+u s	country state	oregon
+daegu	latitude longitude	35.4483350000000,128.0974300000000
+timberwolf	team play in city	minneapolis
+new england patriot	team win trophy	playoff
+new york knick	subpart of organization	nba
+brett myer	athlete play for team	philadelphia phillie
+national aquatic center	latitude longitude	39.9916200000000,116.3838600000000
+lg	have office in country	south korea
+nfl	league stadium	soldier field
+minnesota viking	team play against team	pittsburgh steeler
+mike stanton	person belong to organization	yankee
+hartford whaler	subpart of organization	nhl
+new york	state locate in country	u s
+trever miller	athlete play in league	mlb
+south	city locate in country	ivory coast
+new delhi	latitude longitude	29.5668681818182,61.9803336363637
+brett myer	athlete play in league	mlb
+ohio state	agent control	woody haye
+white sox	team play against team	dodger
+bengal	team play against team	raven
+kong	television station in city	mexico city
+north	city locate in country	se asia
+teixeira	athlete play for team	red sox
+boulogne	city locate in country	france
+tuskegee institute	latitude longitude	32.4085450000000,-85.6692575000000
+brian barton	athlete play in league	nfl
+viking	team play against team	redskin
+stanst airport	city have company office	ryanair
+virgin america	headquarter in	seattle
+mois alou	athlete play for team	astro
+rabat	city capital of country	morocco
+doug waechter	athlete play in league	mlb
+javier vazquez	athlete play for team	white sox
+kenmore air	have office in city	seattle
+brett myer	person belong to organization	phillie
+brad lidge	athlete play for team	houston astro
+gomel	latitude longitude	49.4861607407408,32.6209096296296
+tom brady	athlete play for team	new england patriot
+aurillac	city locate in country	france
+vince young	athlete play for team	tennessee titan
+tom glavine	athlete play in league	mlb
+michigan state college	latitude longitude	42.3942000000000,-86.2822500000000
+yankee	agent compete with agent	club
+iraklio	latitude longitude	35.3234500000000,25.1381800000000
+washington	state locate in country	u s
+petersen event center	stadium locate in city	pittsburgh
+arbogast	agent belong to organization	ku
+brown	team play against team	washington redskin
+mlb	league player	roberto alomar
+johannesburg	city locate in country	south africa
+eva air	headquarter in	taipei
+arizona cardinal	team play against team	seahawks
+ryan getzlaf	athlete play for team	duck
+jet	team play against team	oiler
+nba	league player	kenyon martin
+chennai	city capital of state	tamil nadu
+gregor blanco	athlete play for team	brave
+eindhoven	city capital of country	netherland
+youkilis	athlete play for team	sox
+nittany lion	team win trophy	rise bowl
+eric patterson	agent belong to organization	mlb
+bmi baby	have office in city	london heathrow
+homyel	latitude longitude	52.9175020000000,30.3483310000000
+morgan ensberg	athlete play in league	mlb
+sandy alomar	athlete play sport	baseball
+mike piazza	person belong to organization	padre
+bernie william	person belong to organization	new york yankees
+france	synonym for	musician
+chicago bear	subpart of organization	nfl
+twitter	have office in country	malaysia
+brave	agent collaborate with agent	kyle davy
+jarrod saltalamacchia	athlete play in league	mlb
+reval	latitude longitude	57.7299357142857,10.4496907142857
+dodger	team play against team	diamondback
+tripoli	city locate in country	libya
+world series	trophy win by team	pittsburgh pirate
+telstra dome	latitude longitude	-37.8163600000000,144.9476100000000
+mlb	league player	sidney ponson
+josh bank	athlete play in league	mlb
+nashville predator	team home stadium	gaylord entertainment center
+hollin university	latitude longitude	37.3567650000000,-79.9432100000000
+cristiano ronaldo	athlete play sport	soccer
+nfl	league player	chris henry
+yankee	agent collaborate with agent	tino martinez
+yankee	team play against team	padre
+capital	team play in league	nhl
+london gatwick	latitude longitude	51.1446000000000,-0.1685060000000
+wheeler army airfield	latitude longitude	21.4758700000000,-158.0373900000000
+oakland raider	team play against team	denver broncos
+sacramento king	team play sport	basketball
+at	have office in country	burma
+horacio ramirez	athlete play in league	mlb
+andrew miller	athlete play in league	mlb
+javier vazquez	athlete play in league	mlb
+david well	athlete play for team	padre
+calgary flame	team play against team	canuck
+blue devil	team play against team	tar heel
+albert pujol	athlete coach	tony la russa
+seattle time	newspaper in city	seattle
+la clipper	team play sport	basketball
+baylor bear	team play in league	ncaa
+wofford college	team play sport	basketball
+mlb	league player	rickie week
+ljubljana	location locate with in location	slovenia
+los angeles	city sport team	clipper
+texan	team play against team	charger
+knick	team play against team	detroit piston
+juilliard school	latitude longitude	40.7739900000000,-73.9829200000000
+malaysia airline	headquarter in	london heathrow
+sousse	city capital of country	tunisia
+rockie	team member	yorvit torrealba
+st louis ram	team play in league	nfl
+dacca	latitude longitude	21.2896942857143,76.5343600000000
+jeddah	latitude longitude	23.5486137500000,29.6984900000000
+emman	city locate in country	netherland
+jeremy hermida	person belong to organization	marlin
+new york yankees	team play against team	milwaukee brave
+clipper	team play sport	basketball
+larry brown	work for	knick
+horned frog	team play against team	byu
+indianapolis	city locate in country	united state
+namibia	country city	windhoek
+missouri western state university	latitude longitude	39.7592100000000,-94.7863100000000
+potatoe	latitude longitude	27.3089160000000,-76.1185870000000
+daisuke matsuzaka	athlete play in league	mlb
+washington redskin	team play in league	national football league
+american	have office in city	tirana
+troye	city locate in country	france
+oracle arena	stadium locate in city	oakland
+argentina	country city	mendoza
+north park university	latitude longitude	41.9750300000000,-87.7092200000000
+seattle	company headquarter here	washington mutual
+amersfoort	city locate in country	netherland
+wagner college	team play sport	basketball
+university of arkansa at little rock	team play sport	basketball
+cleveland municipal stadium	latitude longitude	41.5061600000000,-81.6995800000000
+praha	city capital of country	czech republic
+yankee	team member	jason giambi
+padre	team play against team	brewer
+olympic	have office in city	corfu
+nba	league player	tayshaun prince
+raul ibanez	athlete play for team	phillie
+kevin garnett	athlete play sport	basketball
+croatia airline	headquarter in	heathrow
+jet	team play against team	charger
+doug slaten	athlete play for team	diamondback
+angel berroa	athlete play for team	dodger
+india	mutual proxy for	united arab emirate
+spur	team play against team	laker
+colombo	city locate in country	sri lanka
+bryan morris	athlete play in league	mlb
+phillie	team win trophy	playoff
+south	city locate in country	sri lanka
+nhl	league team	hurricane
+aaron rowand	athlete play for team	phillie
+research	headquarter in	abu dhabi
+ratliff stadium	stadium locate in city	odessa
+lance berkman	athlete play for team	astro
+makakilo	latitude longitude	21.3518457142857,-158.0861342857142
+california institute of technology	organization acronym have name	caltech
+riverside theater	stadium locate in city	milwaukee
+texan	team play against team	jet
+jet	team home stadium	shea stadium
+gap	have office in country	united state
+marco scutaro	athlete play in league	mlb
+mlb	league player	chan ho park
+fort lauderdale	company headquarter here	spirit airline
+nfl	league stadium	louisiana superdome
+scott spiezio	athlete play sport	football
+mlb	league player	alan trammell
+san francisco 49er	team play in league	nfl
+oakland athletic	team play in league	mlb
+vietnam airline	headquarter in	ho chi minh city
+netherland	country city	haarlem
+nfl	league team	new york jet
+incredible hulk	synonym for	series
+loughborough	city locate in country	uk
+jason campbell	agent belong to organization	redskin
+los angeles	proxy for	staple center
+yankee	team home stadium	comerica park
+javier vazquez	athlete play for team	yankee
+creighton university	team play sport	basketball
+horizon air	have office in city	seattle
+craig counsell	agent belong to organization	mlb
+byu	team play against team	aggie
+corporate	have office in city	new delhi
+jeff kent	person belong to organization	los angeles dodger
+new england patriot	team win trophy	super bowl
+dallas maverick	team play in city	la
+mlb	league player	francisco rodriguez
+san francisco giant	team play against team	new york yankees
+new york yankees	team home stadium	yankee stadium
+cody ros	agent belong to organization	marlin
+seattle	city locate in state	washington
+hockey	sport use stadium	mellon arena
+buenos aire	city locate in country	argentina
+federer	athlete play sport	tennis
+new york jet	team play in league	afl
+new york knick	team play against team	san antonio spur
+mike hart	athlete play in league	nfl
+welford road	stadium locate in city	leicester
+ryan air	headquarter in	carcassonne
+mike mccarthy	work for	green bay packer
+mike lowell	person belong to organization	marlin
+delhomme	athlete play in league	nfl
+brady hoke	coach team	san diego state
+washington mutual	have office in city	seattle
+burkina faso	mutual proxy for	ouagadougou
+raul ibanez	agent belong to organization	mlb
+hawk	team home stadium	philip arena
+tar heel	team win trophy	ncaa tournament
+rockie	team home stadium	coor field
+mlb	league player	matsui
+garmisch partenkirchen	city locate in country	germany
+john david booty	athlete play in league	nfl
+port st lucie	location locate with in location	florida
+los angeles	city sport team	los angeles king
+health	organization acronym have name	george washington university
+duck	team win trophy	rise bowl
+rockie	agent collaborate with agent	todd helton
+moutier	city locate in country	france
+titan	team play against team	packer
+south	city locate in country	portugal
+kolkata	city locate in state	west bengal
+alesund	city locate in country	norway
+argentina	mutual proxy for	result
+kutna hora	city locate in country	czech republic
+phillie	agent collaborate with agent	greg dobbs
+madra	location locate with in location	oregon
+south carolina state university	team play sport	basketball
+laker	team play against team	nugget
+uno lakefront arena	stadium locate in city	neworlean
+padre	latitude longitude	0.5357711111111,-83.8633635185186
+mlb	league player	garrett olson
+bengal	team play against team	panther
+boston	proxy for	los angeles laker
+georgia tech	team home stadium	bobby dodd stadium
+jason pridie	agent belong to organization	mlb
+mike holmgren	work for	seattle seahawks
+ron wilson	coach in league	nhl
+galicia	city locate in country	portugal
+kaz matsui	agent belong to organization	rockie
+scott linehan	coach team	st louis ram
+penn state	team play against team	michigan state
+development	headquarter in	chennai
+mlb	league player	kyle davy
+andrew brackman	athlete play in league	mlb
+staple	headquarter in	la
+jet	team play against team	colt
+jack wilson	athlete play in league	mlb
+washington d c	city locate in country	u s
+taipei city	latitude longitude	25.0382500000000,121.5641400000000
+science	academic program at university	michigan state university
+bengal	team play against team	bear
+los angeles laker	team play against team	bull
+boston red sox	subpart of organization	major league baseball
+ben broussard	agent belong to organization	mlb
+suratthani	city locate in country	thailand
+packer	team play against team	bear
+jensen lewis	athlete play in league	mlb
+wiki gonzalez	athlete play in league	mlb
+north korea	latitude longitude	40.3333350000000,127.0000000000000
+steeler	team play against team	chicago bear
+saint olaf college	latitude longitude	44.4618400000000,-93.1827600000000
+nfl	league player	derrick ward
+site	synonym for	u s
+edgerrin jame	athlete play in league	nfl
+cayman island	mutual proxy for	george town
+civil engineering	academic program at university	north carolina state university
+rustenburg	city locate in country	south africa
+mike mussina	agent belong to organization	new york yankees
+marty schottenheimer	work for	charger
+toronto maple leaf	team play in city	detroit
+djerba	city locate in country	tunisia
+cub	team play against team	marlin
+jack cust	athlete play in league	mlb
+air france	have office in city	gatwick
+new dehli	city capital of country	india
+new york giant	team home stadium	wembley stadium
+new york ranger	team play in city	new york
+lsu	team play in league	sec
+morgan ensberg	person belong to organization	astro
+bill cowher	work for	nfl
+padre	team home stadium	qualcomm stadium
+chicago	proxy for	new york jet
+new york jet	team play against team	saint
+nc state	team play sport	football
+community	headquarter in	st paul
+the hague	city locate in country	netherland
+baltimore oriol	team home stadium	oriole park
+pittsburgh penguin	team win trophy	stanley cup
+united state	country city	pittsburgh
+time	newspaper in city	st petersburg
+cub	team play against team	arizona diamondback
+san diego state	team play against team	byu
+yankee	team play in city	chicago
+roy halladay perfect game	sport game winner	philadelphia phillie
+kolkata	synonym for	north
+st alban	latitude longitude	50.3395900000000,-18.7268150000000
+mike holmgren	coach team	seahawks
+chur	city locate in country	switzerland
+busch stadium	stadium home team	louis cardinal
+new york city	city stadium	madison square garden
+walter payton	athlete play in league	nfl
+pirate	team play sport	basketball
+south	city locate in country	benin
+jet	team play against team	baltimore colt
+mlb	league player	chris young
+adam dunn	athlete play for team	diamondback
+hockey	sport team	toronto maple leaf
+st louis cardinal	team play against team	philadelphia athletic
+singapore airline	headquarter in	london heathrow
+hague	city locate in country	france
+chicago bear	team home stadium	new soldier field
+harun	latitude longitude	33.7235626206896,43.2932089655172
+mlb	league player	larry doby
+saint petersburg	synonym for	leningrad
+sherman	work for	packer
+baltimore oriol	team play in city	cincinnati
+adsl	have office in country	netherland
+wal mart	have office in city	minneapolis
+qantas	headquarter in	la
+nba	league player	dwight howard
+amadora	city locate in country	portugal
+boston college	team play against team	tar heel
+big east	latitude longitude	41.7074442857143,-95.1974971428571
+laker	team play against team	clipper
+united state air force academy	latitude longitude	38.9934400000000,-104.8453125000000
+pedro martinez	athlete play for team	red sox
+clarksdale	city locate in country	united state
+saudi arabian airline	have office in city	jeddah
+gatwick	city locate in country	uk
+nfl	league stadium	monster park
+ostende	latitude longitude	27.7013326666667,-10.6608573333333
+rutger	team play sport	basketball
+mississippi valley state university	latitude longitude	33.5151200000000,-90.3387000000000
+garrett atkin	person belong to organization	rockie
+general motor place	stadium locate in city	vancouver
+wyom	state locate in country	united state
+chicago cub	agent collaborate with agent	mark derosa
+devern hansack	athlete play in league	mlb
+nfl	league team	miami dolphin
+mariana	latitude longitude	10.8518624137931,99.6726358620690
+lebron jam	athlete home stadium	quicken loan arena
+riverside community college	latitude longitude	33.9258233333333,-117.3842900000000
+libya	country capital	tripoli
+new mexico state	team play in city	la crux
+jason giambi	athlete play for team	yankee
+luton	city locate in country	united kingdom
+brantford	city locate in country	canada
+chris carpenter	agent belong to organization	mlb
+hanley ramirez	athlete play in league	mlb
+united state	location act in by agent	united
+gary sheffield	athlete play for team	new york yankees
+nba	league player	michael redd
+sox	agent collaborate with agent	dustin pedroia
+rick ankiel	person belong to organization	st louis cardinal
+troy state trojan	team play in league	ncaa
+nfl	league player	priest holm
+washington dc	city have company office	smithsonian
+aggie	team play against team	kansas state
+jim mora	coach team	seahawks
+andre miller	athlete play sport	basketball
+detroit red wing	team play in city	edmonton
+vilnius	latitude longitude	54.6797970588235,25.2900700000000
+gary payton	athlete play sport	basketball
+saint malo	city capital of country	france
+mike vick	athlete play in league	nfl
+new york giant	team play against team	sox
+redman	person belong to organization	rockie
+west	city locate in country	costa rica
+sean casey	athlete play in league	mlb
+chicago	city locate in country	france
+montreal	city stadium	centre bell
+george mikan	coach team	laker
+bengal	team play against team	philadelphia eagle
+tower theater	stadium locate in city	upper darby
+indian airline	have office in city	kandahar
+latroy hawkin	athlete play for team	astro
+toyota	headquarter in	minneapolis
+kenny lofton	athlete play in league	mlb
+boston bruin	team play against team	montreal canadien
+washington bullet	subpart of organization	nba
+heathrow	city locate in country	malaysia
+ashkhabad	latitude longitude	38.0012966666667,58.6086083333333
+university of california	latitude longitude	36.3967436585366,-119.1500546341463
+montreal canadian	team play in league	nhl
+seattle	city television station	kvos
+baseball	sport team	san diego padre
+jermaine dye	athlete play for team	white sox
+the university of nebraska	team play sport	basketball
+mike cameron	athlete play in league	mlb
+todd walker	athlete play in league	mlb
+georgia tech university	latitude longitude	32.1682000000000,-81.2115000000000
+banja luka	city capital of country	republika srpska
+american	headquarter in	seattle
+mois alou	agent belong to organization	mlb
+basketball	sport team	utah jazz
+takao	latitude longitude	26.4485517391304,120.3543478260870
+san diego padre	team play against team	detroit tiger
+north	city locate in country	ivory coast
+mookie wilson	athlete play for team	met
+brewer	team play against team	marlin
+georgia tech yellow jacket	team play in league	ncaa
+packer	team member	aaron rodger
+central state university	latitude longitude	37.6854850000000,-90.6759650000000
+basketball	sport use equipment	ball
+jermaine dye	athlete play for team	red sox
+university of vermont	latitude longitude	44.2599100000000,-73.1926800000000
+british midland	at location	heathrow
+suva	city locate in country	fiji
+heat	team play against team	laker
+kelly johnson	athlete play in league	mlb
+korea	country city	busan
+mlb	league player	corey hart
+basketball	sport team	denver nugget
+astro	team play against team	chicago white sox
+yankee	team play against team	baltimore oriol
+padre	team play against team	dodger
+basketball	player	julius erv
+air pacific	at location	fiji
+massachusetts institute of technology	synonym for	mit
+nba	agent control	grizzly
+peyton man	athlete play for team	indianapolis colt
+aegean airline	headquarter in	stanst
+laker	team member	kobe bryant
+red sox	team play against team	toronto blue jay
+nfl	league player	jonathan stewart
+toronto maple leaf	team play against team	boston bruin
+acc	league team	tar heel
+arizona diamondback	team play sport	baseball
+willis mcgahee	athlete play in league	nfl
+ryan church	athlete play for team	met
+american airline	headquarter in	st louis
+brown	team play against team	bengal
+aaron guiel	athlete play in league	mlb
+emirate	agent act in location	london heathrow
+bruin	team play against team	penguin
+united	at location	east timor
+rajon rondo	athlete play in league	nba
+michigan state	team play against team	penn state
+mlb	league player	rondell white
+nfl	league player	ahman green
+bbc	newspaper in city	beirut
+torii hunter	agent belong to organization	mlb
+new york state fair	stadium locate in city	syracuse
+colorado rockie	team home stadium	coor field
+bowl green state university	latitude longitude	41.3868600000000,-83.1172800000000
+mlb	league player	mike rabelo
+india	mutual proxy for	chennai
+constanta	city locate in country	romania
+houston astro	winner in game	n2005 world series
+san diego padre	team play against team	brave
+english	language of university	truman state university
+tampa bay ray	agent collaborate with agent	evan longoria
+eric munson	athlete play for team	astro
+aaron rodger	athlete play in league	nfl
+lamar odom	person belong to organization	los angeles laker
+dublin	city locate in country	france
+tony gwynn	athlete play for team	san diego padre
+globe	have office in country	philippine
+la romana	city capital of country	dominican republic
+sas	headquarter in	london heathrow
+green bay packer	team play against team	new york giant
+ibm	agent act in location	united state
+iran air	have office in city	tehran
+franco harris	person belong to organization	steeler
+kansas city royal	agent collaborate with agent	mark teahen
+kwangju	city locate in country	korea
+mlb	league player	david well
+n1986 world series	sport game winner	new york met
+airway	have office in city	london heathrow
+seattle	city capital of country	usa
+tulane	team play against team	smu
+phillie	team home stadium	connie mack stadium
+super bowl	trophy win by team	san diego charger
+hockey	sport use stadium	e center
+taft college	latitude longitude	35.1491900000000,-119.4604700000000
+new york	state locate in country	united state district court
+detroit tiger	team play in city	st louis
+magic	team play sport	basketball
+air canada centre	stadium locate in city	buffalo
+twitter	have office in country	costa rica
+jacksonville state university	team play sport	basketball
+calvi	city locate in country	france
+bourg saint maurice	city locate in country	france
+uic flame	team play in league	ncaa
+phillie	team home stadium	veteran stadium
+baseball	player	pudge rodriguez
+mlb	league player	mark grudzielanek
+baltimore oriol	team home stadium	camden yard
+target center	stadium locate in city	minneapolis
+north carolina tar heel	team home stadium	dean e smith center
+anbar	latitude longitude	33.8954347430830,50.1200532015810
+france	team win trophy	european cup
+xi an	latitude longitude	28.5336290000000,115.4343255999999
+university of missouri columbia	team play sport	basketball
+marshall faulk	athlete play in league	nfl
+colorado state	team play against team	ute
+frank erwin center	stadium locate in city	austin
+mlb	league player	willy tavera
+jordan schafer	athlete play in league	mlb
+alfonso soriano	agent belong to organization	yankee
+knick	agent control	isiah thoma
+milwaukee brewer	subpart of organization	major league baseball
+kissimmee	latitude longitude	28.3493612987013,-81.3436648051948
+john ennis	athlete play in league	mlb
+houston astro	subpart of organization	league
+bbc	newspaper in city	la
+kansas state	team play sport	football
+flame	team play in league	nhl
+jason campbell	person belong to organization	redskin
+united	agent act in location	the hague
+mlb	league player	kevin brown
+como park	park in city	st paul
+toyota center	stadium home team	houston rocket
+houston rocket	team home stadium	compaq center
+nba	league team	sixer
+diving	synonym for	swimming
+packer	agent control	mike holmgren
+fresno state	team coach	pat hill
+home	building locate in city	caribbean
+jason brown	athlete play in league	nfl
+maputo	latitude longitude	-24.9992786363636,32.0664045454545
+twin	team play against team	red sox
+ghana	country city	accra
+veliky novgorod	latitude longitude	42.6499000000000,130.8000000000000
+london	city locate in country	malaysia
+kellogg	city locate in country	united state
+south	city locate in country	u s a
+andruw jone	person belong to organization	los angeles dodger
+nba championship	trophy win by team	detroit piston
+chicago	proxy for	philadelphia phillie
+columbus crew stadium	latitude longitude	40.0086100000000,-82.9908300000000
+west	city locate in country	u s
+scottrade center	stadium home team	st louis blue
+wolverhampton	city locate in country	united kingdom
+dubai	city locate in country	malaysia
+prague	city capital of country	france
+matt holliday	person belong to organization	rockie
+spac	latitude longitude	41.9281466666667,20.0184266666667
+mlb	league player	edwin encarnacion
+jim tressel	work for	youngstown state
+yankee	team play against team	atlanta brave
+shaq	athlete play for team	los angeles laker
+varanasi	location locate with in location	india
+newcastle on tyne	latitude longitude	54.9732800000000,-1.6139600000000
+new york	state locate in country	the united state
+damascus	city locate in country	syria
+ryan air	have office in city	carcassonne
+kissimmee	location locate with in location	florida
+andre miller	athlete play in league	nba
+chicago white sox	team home stadium	comiskey park
+bull	team play against team	raptor
+fau gymnasium	stadium locate in city	boca raton
+mombassa	latitude longitude	-1.0333333333333,23.3222233333333
+sox	team play against team	astro
+blackhawks	team coach	denis savard
+namibia	latitude longitude	-11.8495650000000,1.3275966666667
+nfl	league stadium	foxboro stadium
+pedro feliciano	athlete play for team	met
+draw bree	athlete play for team	new orlean saint
+brad lidge	athlete play for team	philadelphia phillie
+michigan state	latitude longitude	44.1040453846154,-85.2345292307692
+delft	city locate in country	netherland
+juan pierre	athlete play for team	dodger
+bill callahan	coach team	oakland raider
+mike fontenot	athlete play in league	mlb
+saskatoon	city stadium	saskatchewan place
+kansas city royal	team play in city	los angeles
+shane spencer	athlete play for team	yankee
+stanford	team win trophy	rise bowl
+united	agent act in location	niger
+kennesaw state university	team play sport	basketball
+hennepin avenue	street in city	minneapolis
+minnesota wild	team play in league	nhl
+saskatoon	city capital of country	canada
+lhasa	city capital of country	tibetan autonomous region
+bordeaux	location locate with in location	france
+ray	athlete play for team	wpi
+los angeles	proxy for	usc trojan
+nfl	league player	deuce lutui
+nomar	athlete play for team	sox
+santa clara university	team play sport	basketball
+rabat	city locate in country	morocco
+dili	location locate with in location	east timor
+united	have office in city	fort lauderdale
+st gallen	latitude longitude	47.3955587500000,9.3494400000000
+tony romo	athlete play in league	nfl
+matt lawton	athlete play in league	mlb
+new york giant	team play against team	redskin
+duck	specialization of	fowl
+milwaukee brave	team play in league	mlb
+hawaii	state locate in country	united kingdom
+los angeles	city stadium	dodger stadium
+broncos	team play against team	san diego charger
+newjersey	state locate in country	united state
+packer	team member	brian brohm
+nhl	league team	devil
+jason kendall	agent belong to organization	mlb
+south	city locate in country	dprk
+los angeles	mutual proxy for	national basketball association
+chin lung hu	agent belong to organization	mlb
+scott spiezio	athlete play in league	nfl
+los angeles dodger	agent control	sox
+radhame liz	agent belong to organization	mlb
+basketball	player	devin harris
+tyler clippard	athlete play for team	yankee
+a j murray	athlete play in league	mlb
+oregon state	team play against team	duck
+utep	synonym for	texas western
+middle tennessee state university	team play sport	basketball
+charger	team play against team	titan
+dominican republic	mutual proxy for	santa domingo
+t william	person belong to organization	boston red sox
+chicago cub	team play against team	san diego padre
+airline	headquarter in	stanst
+favre	person belong to organization	green bay packer
+quicken loan arena	stadium home to athlete	lebron jam
+north	city locate in country	laos
+duck	team play in city	north
+basra	city locate in country	iraq
+air berlin	have office in city	ibiza
+charleston	city locate in country	united state
+heringsdorf	latitude longitude	54.0469642857143,13.2646328571429
+n1961 world series	sport game team	new york yankees
+philadelphia phillie	team play against team	washington national
+delta center	stadium locate in city	salt lake city
+red sox	team member	julio lugo
+ameren	headquarter in	st louis
+psychology	academic program at university	kent state university
+peniche	city locate in country	portugal
+alabama	state locate in country	united state
+mlb	league player	honus wagner
+mashhad	latitude longitude	33.7099962566845,46.2596881283422
+willie randolph	coach team	yankee
+pittsburgh penguin	team play in league	nhl
+stanley cup	trophy win by team	canuck
+ramirez	athlete play for team	los angeles dodger
+hockey	sport use stadium	madison square garden
+south	city locate in country	south east asia
+dan mccarney	coach team	iowa state
+jackie jensen	athlete play for team	boston red sox
+wake forest university	team play sport	golf
+university of connecticut	latitude longitude	41.5970666666666,-72.6174516666666
+assiut	latitude longitude	27.2580550000000,31.0080550000000
+montreal canadien	team play against team	toronto maple leaf
+sulaymaniyah	city locate in country	iraq
+mlb	league team	washington senator
+baku	city capital of country	ussr
+fairmont state college	latitude longitude	39.2798100000000,-80.3300900000000
+ralph wilson stadium	stadium home team	bill
+ranger ballpark	latitude longitude	32.7512400000000,-97.0827900000000
+mullaitivu	latitude longitude	9.2666700000000,80.8166700000000
+blue jacket	agent control	ken hitchcock
+boston red sox	team home stadium	fenway
+hawkeye	team play against team	penn state
+jeff kent	athlete play for team	dodger
+north carolina tar heel	team play in league	ncaa
+nfl	league team	saint
+godthab	latitude longitude	64.3400270000000,-30.2093140000000
+oregon state	latitude longitude	44.7779827272727,-120.9456095454545
+mlb	league player	eddie mathews
+mlb	league player	jeff bennett
+chien m wang	person belong to organization	new york yankees
+cambridge	city locate in country	united kingdom
+colorado avalanche	team play against team	blackhawks
+tejada	athlete play for team	astro
+tampa bay devil ray	team home stadium	tropicana field
+mlb	league player	nolan ryan
+boston brave	team play in league	mlb
+north dakota	state locate in country	canada
+bruin	team play against team	flyer
+jason varitek	athlete play for team	red sox
+washburn university	latitude longitude	39.0345546875000,-95.7021015625000
+baseball	sport team	toronto blue jay
+the evergreen state college	latitude longitude	47.0739900000000,-122.9751400000000
+dodger	team member	ramirez
+ashland	city capital of country	united state
+nfl	league player	willie mcginest
+west asia	latitude longitude	31.1166000000000,121.3666000000000
+hank aaron	athlete play in league	mlb
+kyle orton	athlete play in league	nfl
+uconn	team play against team	georgia tech
+boston celtic	mutual proxy for	la
+cincinnati red	team play in league	major league baseball
+clinton portis	athlete play for team	redskin
+aer lingus	have office in city	london heathrow
+fresno state	team play against team	new mexico state
+hockey	sport use stadium	pengrowth saddledome
+bristol	city locate in country	great britain
+netherland	country city	den haag
+louis cardinal	team play against team	new york yankees
+chad johnson	athlete play for team	bengal
+bobby cremin	coach team	georgia tech
+red wing	team win trophy	stanley cup
+texan	team play against team	redskin
+nhl	league stadium	air canada centre
+owl	animal prey on	raptor
+sun dome	latitude longitude	33.2407266666667,-97.5639000000000
+pittsburgh steeler	team play in city	cleveland
+brooklyn dodger	agent compete with agent	yankee
+cobb energy perform art centre	stadium locate in city	atlanta
+texas tech	team play against team	texas tech
+jet	team play against team	san diego charger
+north carolina state	team play in league	acc
+dusseldorf	latitude longitude	51.2344282456140,6.7892910526316
+united state	country city	miami
+london stanst	city have company office	easyjet
+phoenix	proxy for	washington wizard
+yankee	agent collaborate with agent	rodriguez
+kevin martin	athlete play in league	nba
+kortrijk	city locate in country	belgium
+red sox	team play against team	devil ray
+boise state	team play against team	purdue
+new york yankees	agent compete with agent	giant
+dollar	currency country	zimbabwe
+joe saunder	athlete play in league	mlb
+mellon arena	stadium home to athlete	sidney crosby
+melky cabrera	athlete play for team	yankee
+kennesaw state	team play in city	atlanta
+oiler	team play against team	minnesota north star
+kansas city royal	agent compete with agent	yankee
+milton bradley	person belong to organization	padre
+jack trice stadium	latitude longitude	42.0138800000000,-93.6352200000000
+west virginia	state locate in country	united state
+washington dc	city locate in country	united state
+barber point housing	latitude longitude	21.3213200000000,-158.0809100000000
+astro	team play in league	major league baseball
+carlo lee	person belong to organization	white sox
+today	have office in city	hanoi
+arizona diamondback	team play in league	major league baseball
+northeastern	team play sport	basketball
+lufthansa	have office in city	dusseldorf
+indianapolis motor speedway	latitude longitude	39.7932733333333,-86.2345300000000
+washington	location locate with in location	united state
+monte carlo	city locate in country	france
+gatwick	city have company office	virgin atlantic
+bernhard langer	athlete play sport	golf
+brett farve	athlete play sport	football
+stanley cup	trophy win by team	new jersey devil
+west virginia wesleyan	latitude longitude	38.9886700000000,-80.2216900000000
+dallas cowboy stadium	stadium locate in city	arlington
+la king	team home stadium	staple center
+jiddah	latitude longitude	24.0516100000000,40.2886680000000
+pat	team play against team	jet
+greek	language of country	united state
+mike pelfrey	agent belong to organization	new york met
+nhl	league team	carolina hurricane
+united	have office in city	st louis
+raptor	animal be type of animal	predator
+france	country currency	dollar
+pitesti	city locate in country	romania
+ohio state	team play against team	northwestern
+american airline	have office in city	london heathrow
+prairie view a m university	team play sport	basketball
+balkh	city lie on river	oxus
+n1964 mlb all star game	sport game winner	new york met
+roy halladay	athlete play for team	toronto blue jay
+schiphol airport	latitude longitude	52.2881000000000,4.7254000000000
+evgeni nabokov	athlete play in league	nhl
+alvor	city capital of country	portugal
+windhoek	city capital of country	namibia
+new jersey net	team play in city	miami
+gnesen	latitude longitude	48.3955775000000,-64.6831950000000
+hockey	sport use stadium	savvis center
+cebu	city locate in country	philippine
+seahawks	team win trophy	super bowl
+pittsburgh penguin	team play against team	blackhawks
+white sox	agent compete with agent	giant
+russ springer	athlete play in league	mlb
+jeff kent	agent belong to organization	los angeles dodger
+thome	athlete play for team	phillie
+elijah duk	athlete play in league	mlb
+nhl	league player	darren collison
+dodger	agent collaborate with agent	greg maddux
+kedah	state have capital	alor setar
+toyota center	latitude longitude	29.7510600000000,-95.3624400000000
+eastern michigan eagle	team play in league	ncaa
+amazon	have office in city	seattle
+bmi	headquarter in	heathrow
+vladimir guerrero	athlete play for team	anaheim angel
+adam bostick	athlete play in league	mlb
+mlb	league player	rafael furcal
+ramon castro	athlete play for team	met
+chicago cub	team win trophy	world series
+basra	latitude longitude	26.2266978125000,50.7085140625000
+united	agent act in location	washington dc
+duck	team play against team	cowboy
+phalaborwa	city locate in country	south africa
+horizon	agent act in location	seattle
+nairobi	headquarter in	heathrow
+mike bell	athlete play in league	nfl
+hockey	sport use stadium	centre bell
+denver broncos	agent compete with agent	jet
+mainz	latitude longitude	49.4628028571428,15.4547732142857
+robertson stadium	latitude longitude	29.7221700000000,-95.3493800000000
+myanmar	country city	yangon
+canuck	team play in city	vancouver
+georgia tech	subpart of organization	ncaa
+mlb	league player	kenny lofton
+john lackey	athlete play for team	los angeles angel of anaheim
+ellis park stadium	latitude longitude	-26.1974800000000,28.0607300000000
+new york city	city locate in country	united state
+basketball	sport team	washington wizard
+dodge theater	stadium locate in city	phoenix
+chuck knoblauch	agent belong to organization	yankee
+padre	agent collaborate with agent	rob bowen
+matt leinart	athlete play in league	nfl
+nhl	league player	jarrod saltalamacchia
+south	city locate in country	soviet union
+robert trent jon	athlete play sport	golf
+cleveland brown	team home stadium	cleveland stadium
+besann	city locate in country	france
+toronto raptor	team win trophy	playoff
+hornet	team play against team	nugget
+roger maris	person belong to organization	yankee
+federer	latitude longitude	39.1162800000000,-98.2085250000000
+joel pineiro	athlete play sport	baseball
+yankee	team win trophy	al pennant
+seattle	city have company office	cybercoder
+lahore	city locate in country	pakistan
+new england patriot	team play against team	philadelphia eagle
+chicago	city locate in country	u s
+ron zook	coach team	fight illini
+world series	trophy win by team	chicago cub
+north	city locate in country	yugoslavia
+lsu	team play in city	lafayette
+reno	city locate in country	united state
+minnesota timberwolv	team play in city	minneapolis
+courtrai	latitude longitude	50.1543633333333,-14.3798888888889
+jesse owen	athlete play sport	sport
+wade boggs	athlete play for team	red sox
+spirit airline	at location	fort lauderdale
+nhl	league stadium	td garden fleet center
+sihanoukville	location locate with in location	cambodia
+missouri	state locate in country	u s
+mlb	league player	pedro feliz
+grasse	city locate in country	france
+peyton man	team mate	joseph addai
+brown	team play against team	steeler
+oakland raider	team play in city	pittsburgh
+canuck	team play against team	duck
+steeler	team win trophy	super bowl
+nime	city capital of country	france
+mahabalipuram	latitude longitude	12.6263900000000,80.1722200000000
+josh barfield	athlete play for team	padre
+english	language of country	zimbabwe
+arizona diamondback	team play in league	mlb
+astro	team win trophy	playoff
+chad billingsley	person belong to organization	dodger
+super bowl xxxvii	sport game team	tampa bay buccaneer
+cynthia wood mitchell pavilion	stadium locate in city	the woodland
+sinaia	city locate in country	romania
+mlb	league player	luis castillo
+metrosubway	transportation in city	washington dc
+caen	city locate in country	france
+information	organization acronym have name	george washington university
+bowman field	latitude longitude	42.8054020000000,-91.4547740000000
+campaign	have office in country	united state
+south	city locate in country	saudi arabia
+clickair	at location	heathrow
+mlb	league player	miguel cabrera
+knick	team member	chris duhon
+sumgait	latitude longitude	40.5874637500000,49.6378800000000
+david garrard	athlete play in league	nfl
+penguin	animal prey on	seabird
+bmi	agent act in location	heathrow
+baton rouge	city locate in country	united state
+basketball	sport use stadium	allstate arena
+canuck	team play against team	canadien
+agen	city locate in country	france
+steeler	team play against team	panther
+london	city locate in country	caribbean
+utrecht	city locate in country	netherland
+verizon center	stadium locate in city	toronto
+auburn	city stadium	white river amphitheatre
+brooklyn dodger	team play against team	new york yankees
+chris webber	athlete play in league	nba
+lane kiffin	work for	oakland raider
+battambang	city locate in country	cambodia
+chris young	person belong to organization	diamondback
+thoma cook	have office in city	gatwick
+brad thoma	athlete play in league	mlb
+kansas city athletic	team play in league	mlb
+providence civic center	latitude longitude	41.8237100000000,-71.4175600000000
+takashi saito	athlete play in league	mlb
+edinburgh	city capital of country	france
+n2001 world series	sport game winner	arizona diamondback
+bill	team play against team	bengal
+gauteng	city locate in country	south africa
+wilkin castillo	athlete play in league	mlb
+arhus	latitude longitude	57.8632647619048,6.9302814285714
+los angeles dodger	team play against team	philadelphia phillie
+canadien	team home stadium	bell centre
+rockie	agent collaborate with agent	garrett atkin
+nfl	league player	mois alou
+chicago	mutual proxy for	st louis cardinal
+fresno pacific university	latitude longitude	36.7257300000000,-119.7325800000000
+basketball	player	antawn jamison
+fairmont state university	latitude longitude	39.4853000000000,-80.1621000000000
+redskin	team play against team	packer
+henry blanco	athlete play in league	mlb
+dodger	team member	brad penny
+nesebar	latitude longitude	-9.9870600000000,-16.2319900000000
+dte energy music theatre	stadium locate in city	clarkston
+united	have office in city	the hague
+don larsen	athlete play in league	mlb
+english	language of university	melbourne university
+mlb	league player	joe nathan
+dwyane wade	athlete play for team	heat
+danny granger	athlete play sport	basketball
+computer science	academic program at university	montana state university
+washington dc	city capital of country	united state
+new orlean saint	team play against team	charger
+dodger	team play in city	la
+portsmouth	city capital of country	united kingdom
+apeldoorn	city locate in country	netherland
+tulane university	team play sport	basketball
+oakland raider	team play in city	buffalo
+chillie	latitude longitude	35.4758800000000,-103.8313600000000
+ryanair	agent act in location	london stanst
+louisiana	state locate in country	france
+cincinnati red	agent collaborate with agent	pete rise
+paul rhoad	work for	iowa state
+myanmar	synonym for	korea
+philip arena	stadium home to league	nba
+johan santana	person belong to organization	new york met
+mark grace	athlete play in league	mlb
+red sox	subpart of organization	mlb
+ben roethlisberger	person belong to organization	steeler
+charger	team play in league	nfl
+kbcs	radio station in city	seattle
+kennesaw state university	latitude longitude	34.0382300000000,-84.5840800000000
+nba championship	trophy win by team	heat
+chicago cub	agent collaborate with agent	kosuke fukudome
+dodger	team member	russell martin
+dalla	city capital of country	france
+mlb	league player	jason phillip
+baseball	player	daisuke matsuzaka
+air china	at location	beijing
+science	academic program at university	sfu
+sony	have office in city	beijing
+chicago	proxy for	green bay packer
+chapman university	latitude longitude	41.0654100000000,-120.2600400000000
+texas southern university	latitude longitude	29.7224500000000,-95.3631766666667
+nottingham	city capital of country	united kingdom
+chase utley	person belong to organization	philadelphia phillie
+brenau college	latitude longitude	33.0983250000000,-84.4842200000000
+inter american university	latitude longitude	18.1611085714286,-66.2336971428572
+chur	latitude longitude	30.3523354609929,63.9714360992908
+pittsburg pirate	team play sport	baseball
+rickey henderson	athlete play for team	yankee
+henry blanco	agent belong to organization	mlb
+nfl	league player	kurt warner
+tunisia	country city	sousse
+american	have office in city	beirut
+nfl	league player	daunte culpepper
+chuck long	coach team	san diego state
+easyjet	headquarter in	london gatwick
+pioneer	team play in league	nfl
+leaf	team play in league	nhl
+robinson cano	athlete play in league	mlb
+daryle ward	athlete play in league	mlb
+continental airline	headquarter in	gatwick
+giant stadium	stadium home team	new york giant
+larry walker	athlete play for team	rockie
+brighton	city locate in country	uk
+albania	country capital	tirana
+kwangju	city locate in country	south korea
+hull	city locate in country	united kingdom
+texas tech	team play against team	baylor
+uconn	team play sport	football
+pittsburgh	proxy for	tennessee titan
+bruce boudreau	coach athlete	alexander ovechkin
+hal morris	athlete play for team	cincinnati red
+georgia	state locate in country	united state
+nugget	team home stadium	pepsi center
+jose reye	athlete play in league	mlb
+nfl	league stadium	georgia dome
+indian	team play in league	mlb
+nba	league player	brandon roy
+basketball	player	draw gooden
+jay pandolfo	athlete play in league	nhl
+namibia	synonym for	south west africa
+nutter center	latitude longitude	39.7825600000000,-84.0518800000000
+johan santana	agent belong to organization	new york met
+thimphu	city locate in country	bhutan
+laker	team play against team	sun
+delta	headquarter in	la
+toronto	city locate in country	france
+madeira	city capital of country	portugal
+steeler	team play against team	san diego charger
+washington post	newspaper in city	seattle
+bj upton	athlete play in league	mlb
+mlb	league player	kenny roger
+basketball	player	kevin garnett
+florida	state have capital	port st lucie
+matt hasselbeck	person belong to organization	seahawks
+ryan	have office in city	carcassonne
+scotty bowman	work for	red wing
+nfl	league stadium	ralph wilson stadium
+los angeles angel	team play in league	mlb
+airline	have office in city	antalya
+urban meyer	coach team	uf
+green bay packer	team play in city	green bay
+south	city locate in country	ghana
+zimbabwe	country capital	harare
+delwyn young	athlete play in league	mlb
+rickie week	athlete play in league	mlb
+san jose arena	stadium locate in city	san jose
+louis ram	team play against team	tennessee titan
+seattle post intelligencer	newspaper in city	seattle
+u s	country currency	tax dollar
+western north carolina	state locate in country	united state
+direction	headquarter in	heathrow
+miller	athlete play for team	marlin
+angel stadium	stadium locate in city	anaheim
+mlb	league player	kazuo matsui
+qantas	have office in city	la
+kharkiv	latitude longitude	49.9903800000000,36.2301633333333
+portugal	country city	porto
+maputo	city locate in country	mozambique
+loyola law school	latitude longitude	41.8972600000000,-87.6278300000000
+kirk gibson	athlete play for team	dodger
+air france	have office in city	london heathrow
+johor bahru	city locate in country	malaysia
+florence	city capital of country	france
+rockie	team play against team	red sox
+fernando nieve	athlete play in league	mlb
+rhine	river flow through city	chur
+padre	team play against team	giant
+brown	team win trophy	playoff
+oiler	team play against team	canuck
+ryanair	headquarter in	carcassonne
+netherland	country city	arnhem
+mlb	league player	ken griffey jr
+minnesota	state have capital	st louis park
+dustin pedroia	person belong to organization	red sox
+campeche	latitude longitude	17.6506030136986,-81.0525790410959
+philadelphia phillie	team play against team	los angeles dodger
+friend	have office in city	seattle
+lhasa	city locate in country	tibet autonomous region
+lee gardner	athlete play for team	marlin
+alvernia college	latitude longitude	41.3273150000000,-73.5627700000000
+denver nugget	mutual proxy for	la
+chipper jone	person belong to organization	brave
+molson amphitheatre	location locate with in location	toronto
+patriot	team play against team	packer
+nba	league team	new york knick
+american airline	headquarter in	london heathrow
+jim mora	work for	seattle seahawks
+henry owen	athlete play for team	marlin
+dennys reye	athlete play for team	dodger
+toronto blue jay	team play in league	mlb
+depaul	team play sport	basketball
+air namibia	at location	south africa
+red sox	agent collaborate with agent	mark loretta
+nizwa	latitude longitude	24.3170366666667,56.2929600000000
+lsu tiger	team play sport	basketball
+south	city locate in country	south korea
+basketball	sport team	memphis grizzly
+pacer	team play against team	raptor
+colt	team play against team	packer
+ranger	team play against team	leaf
+toronto maple leaf	team play in city	pittsburgh
+viejas arena	stadium locate in city	san diego
+astro	agent collaborate with agent	willy tavera
+los angeles laker	team play in city	los angeles
+dushanbe	city locate in country	tajikistan
+aaron fultz	agent belong to organization	mlb
+tennessee titan	team play against team	jet
+leek	latitude longitude	43.7000875000000,-105.8488250000000
+albert pujol	athlete play in league	mlb
+nate robinson	athlete play sport	basketball
+maputo	city capital of country	south africa
+argentine republic	mutual proxy for	buenos aire
+civic arena	latitude longitude	38.8535266666667,-87.3435016666667
+germany	team play sport	basketball
+world	have office in city	minneapolis
+stabler	latitude longitude	39.4275233333333,-96.8187100000000
+nationwide	headquarter in	cape town
+akinori otsuka	athlete play in league	nhl
+lipscomb university	team play sport	basketball
+mlb	league player	fausto carmona
+jeff kent	athlete play for team	los angeles dodger
+mark teahen	athlete play for team	kansas city royal
+unite airline	headquarter in	beijing
+sean kazmar	athlete play in league	mlb
+john maine	agent belong to organization	met
+minneapolis	city sport team	viking
+bwia	have office in city	heathrow
+ambiorix burgo	athlete play for team	met
+tampa bay bucs	team play in city	tampa
+utah state	team play sport	football
+lufthansa	have office in city	heathrow
+svn	synonym for	plugin
+spirit airline	headquarter in	ft lauderdale
+mlb	league player	vernon well
+hat yai	latitude longitude	8.3925666666667,100.1935500000000
+luis aparicio	athlete play for team	white sox
+winter sport	latitude longitude	40.5203342857143,-81.6702719047619
+willis reed	athlete play sport	basketball
+atlanta hawk	team play in league	nba
+cherkassy	latitude longitude	53.0660988888889,42.3055561111111
+ken griffey jr	athlete play for team	mariner
+michael bourn	person belong to organization	phillie
+jake peavy	person belong to organization	san diego padre
+mlb	league player	ryan howard
+smu	team play against team	southern mis
+candlestick park	latitude longitude	40.6899500000000,-111.9654900000000
+phoenix sun	team play against team	new jersey net
+computer science	academic program at university	oregon state university
+south	city locate in country	east europe
+daytona international speedway	latitude longitude	29.1855400000000,-81.0692200000000
+marlin	agent collaborate with agent	josh willingham
+diamondback	team play in league	mlb
+duck	animal prey on	waterfowl
+dunkerque	city locate in country	france
+new england patriot	team play against team	miami dolphin
+mirandela	city locate in country	portugal
+united	at location	middle east
+north	city locate in country	rok
+hawk	team play in league	nba
+united state	country state	virginia
+pa	headquarter in	washington dc
+geoff jenkin	athlete play in league	mlb
+buddy carlyle	agent belong to organization	mlb
+steve carlton	athlete play for team	phillie
+buc	team play against team	bengal
+basketball	player	rashe wallace
+seattle tacoma international airport	airport in city	seattle
+washington state university	team play sport	football
+tennessee titan	team play in league	national football league
+oklahoma state	team play against team	baylor
+al hillah	latitude longitude	25.6774217857143,42.3366921428571
+american	agent act in location	seattle
+steve spurrier	coach team	washington redskin
+merka	latitude longitude	31.2541100000000,40.6292200000000
+phillie	team win trophy	n2008 world series
+steeler	team play against team	cincinnati bengal
+miriam college	latitude longitude	14.6525600000000,121.0883500000000
+mlb	league player	juan pierre
+kosuke fukudome	person belong to organization	chicago cub
+tom coughlin	coach in league	nfl
+perpignan	city locate in country	france
+nick markakis	athlete play for team	baltimore oriol
+pittsburg state	latitude longitude	37.3927650000000,-94.7019700000000
+lasting milledge	person belong to organization	new york met
+heathrow	city locate in country	croatia
+kong	television station in city	mongkok
+skip schumaker	athlete play in league	mlb
+weeb ewbank	coach team	jet
+astro	team member	brian moehler
+mlb	league player	jackie robinson
+frankfurt hahn	city locate in country	germany
+los angeles coliseum	latitude longitude	34.0139000000000,-118.2875700000000
+chicago cub	team play against team	new york met
+jerry owen	athlete play for team	white sox
+cincinnati red	team play against team	phillie
+baylor bear	subpart of organization	ncaa
+kailua	city locate in state	hawaii
+boston	proxy for	new york yankees
+aurillac	city capital of country	france
+jonathan papelbon	athlete play in league	mlb
+louis	athlete play for team	jet
+indian airline	headquarter in	bangalore
+seattle supersonic	team home stadium	keyarena
+nova	headquarter in	seattle
+davis romero	athlete play in league	mlb
+brad penny	athlete play for team	red sox
+nhl	league team	philadelphia flyer
+tennessee titan	team home stadium	adelphia coliseum
+waterloo station	latitude longitude	31.2720250000000,12.8166350000000
+united arab emirate	country city	abu dhabi
+hanoi	latitude longitude	18.3946737500000,108.4698800000000
+tarom	headquarter in	buchar
+jacksonville jaguar	team home stadium	alltel stadium
+jason wright	athlete play in league	nfl
+decc	stadium locate in city	duluth
+adrian gonzalez	athlete play in league	mlb
+canada	country city	ottawa
+venice	city locate in country	france
+green bay packer	team play sport	american football
+nba	league stadium	the pyramid
+michael beasley	athlete play in league	nfl
+rosenblatt stadium	latitude longitude	41.2252800000000,-95.9311200000000
+pittsburgh penguin	team home stadium	mellon arena
+mlb	league player	hal morris
+ichiro	agent belong to organization	mariner
+dontrelle willis	agent belong to organization	mlb
+lyon	city locate in country	france
+stanley cup	trophy win by team	flyer
+marco estrada	athlete play in league	mlb
+iowa state	team play sport	basketball game
+nmsu	team play in league	ncaa
+steeler	team play against team	patriot
+arizona	state locate in country	u s
+kevin brown	person belong to organization	yankee
+national championship	trophy win by team	usc
+los angeles	proxy for	new jersey net
+airbus	headquarter in	beijing
+ryan doumit	athlete play for team	pittsburgh pirate
+nolan ryan	athlete play in league	mlb
+la	proxy for	phoenix sun
+aer lingus	have office in city	heathrow
+pat riley	coach team	los angeles laker
+viking	team play in city	minneapolis
+phil jackson	work for	laker
+carl everett	athlete play for team	duck
+tulear	specialization of	dog
+philadelphia flyer	team play in league	nhl
+south	city locate in country	eastern europe
+university of texas at austin	team play sport	basketball
+west	city locate in country	east africa
+federer	person have age	27
+indiana state	team play sport	basketball
+jet	team play against team	texan
+cuzco	city lie on river	urubamba
+coliseo roberto clemente	latitude longitude	18.4157800000000,-66.0751700000000
+air baltic	have office in city	tallinn
+mazari sharif	latitude longitude	36.7069400000000,67.1122200000000
+florida	state locate in country	canada
+gary crowton	work for	byu
+canal zone	latitude longitude	9.2055566666667,-79.6888866666667
+beirut	city have company office	united
+capitol	have office in city	washington dc
+rouen	city locate in country	france
+lacsa	have office in city	costa rica
+jim mora	coach team	seattle seahawks
+arthur rhod	athlete play in league	mlb
+airasia	have office in city	johor bahru
+paphos	city locate in country	cyprus
+kevin millar	person belong to organization	red sox
+british airway	have office in city	london gatwick airport
+george karl	coach team	nugget
+dodge theatre	stadium locate in city	phoenix
+air southwest	headquarter in	london gatwick
+charger	team member	philip river
+brad nelson	athlete play in league	mlb
+spartan	team play against team	tartan
+girne	synonym for	kyrenia
+randy wolf	athlete play for team	astro
+nba	league player	cristiano ronaldo
+rockie	team member	clint barm
+jagodzinski	coach team	jet
+pound	currency country	uk
+joba chamberlain	athlete play for team	yankee
+albert pujol	athlete play for team	louis cardinal
+mlb	league player	craig hansen
+washington redskin	team play in city	tampa bay
+airline	headquarter in	london heathrow
+hawaii	state contain city	waimea
+blackhawks	team play sport	hockey
+ottawa senator	team play against team	pittsburgh penguin
+cleveland state	latitude longitude	39.3795033333333,-82.7246066666667
+basketball	player	steve nash
+luke scott	athlete play in league	mlb
+yankee	team home stadium	camden yard
+richmond	city locate in country	canada
+the new school	latitude longitude	41.3595960000000,-84.9597920000000
+bob howry	agent belong to organization	mlb
+national	at location	the netherland
+chennai	location locate with in location	tamil nadu
+rashard mendenhall	athlete play in league	nfl
+saint paul	latitude longitude	37.4565698448448,-84.9170118618617
+the emirate	latitude longitude	25.2500000000000,55.2900000000000
+sean marshall	athlete play in league	mlb
+pittsburgh penguin	team play against team	ottawa senator
+aaron hill	athlete play in league	mlb
+world series	trophy win by team	yankee
+ferris state university	latitude longitude	43.3270950000000,-85.5741850000000
+chicago bull	team play against team	new york knick
+oakland raider	worker	tom cable
+south african airway	at location	sao paulo
+jon switzer	athlete play in league	mlb
+nate mclouth	athlete play in league	mlb
+denver nugget	subpart of organization	nba
+united kingdom	country currency	pound
+milton bradley	athlete play for team	padre
+air berlin	have office in city	dusseldorf
+matt walker	athlete play in league	nba
+ohio state	team play in city	new orlean
+varitek	athlete play for team	red sox
+capitol	headquarter in	washington dc
+orange	city locate in country	france
+manny ramirez	athlete play for team	boston red sox
+lebron jam	athlete play sport	basketball
+loftus versfeld stadium	latitude longitude	-25.7532200000000,28.2228900000000
+mlb	league player	matt lindstrom
+jet	subpart of organization	nfl
+tulsa golden hurricane	subpart of organization	ncaa
+france	mutual proxy for	click
+john cooper	work for	ohio state
+nba	league team	houston rocket
+bengal	team play in league	nfl
+roy oswalt	agent belong to organization	astro
+robert trent jon jr	athlete play sport	golf
+penn state	team home stadium	beaver stadium
+shane victorino	agent belong to organization	phillie
+broncos	team play in league	nfl
+grande prairie	city locate in country	canada
+boston red sox	subpart of organization	mlb
+anaheim duck	team play in city	ottawa
+basketball	player	kobe bryant
+nigeria	latitude longitude	9.1968660000000,3.6791885000000
+boise state	team coach	chris petersen
+yankee	team play against team	brown
+first choice airway	headquarter in	london gatwick
+british airway	agent act in location	singapore
+julian tavarez	agent belong to organization	red sox
+razorback	team home stadium	bud walton arena
+emirate	headquarter in	heathrow
+usc trojan	team play sport	football
+jamarcus russell	athlete play for team	lsu
+mark loretta	athlete play in league	mlb
+mlb	league player	edgar martinez
+raptor	animal prey on	sea
+nhl	league player	jordan staal
+steve spurrier	coach team	gamecock
+blackpool	city locate in country	united kingdom
+minneapolis	company headquarter here	well fargo
+wvu	team play against team	wvu
+dan uggla	athlete play for team	marlin
+baseball	sport team	philadelphia phillie
+baseball	sport team	houston astro
+nfl	league player	paul hornung
+met	team member	shawn green
+united state	country city	honolulu
+mlb	league player	octavio dotel
+darryl strawberry	person belong to organization	yankee
+jacoby ellsbury	athlete play in league	mlb
+pheasant	animal prey on	duck
+los angeles angel	team home stadium	tempe diablo stadium
+verizon arena	stadium locate in city	north little rock
+los angeles laker	team home stadium	staple center
+minnesota	state locate in country	u s
+tennis	player	roger federer
+minnesota	state locate in country	u s
+eindhoven	city locate in country	the netherland
+lefkosa	latitude longitude	35.1291700000000,33.2805566666667
+elton brand	athlete play sport	basketball
+expos	team play sport	baseball
+denver nugget	team play against team	dallas maverick
+air india	have office in city	new delhi
+chalkidiki	latitude longitude	40.3433360000000,23.5166600000000
+pengrowth saddledome	stadium locate in city	calgary
+tennessee lady volunteer	team play in league	ncaa
+hockey	sport team	new york jet
+mohegan sun	latitude longitude	41.4926000000000,-72.0960000000000
+johnny damon	person belong to organization	yankee
+toronto raptor	team home stadium	air canada center
+brno	city capital of country	czech republic
+medtronic	have office in city	minneapolis
+sean casey	athlete play for team	red sox
+dan uggla	athlete play for team	florida marlin
+lsu	team play against team	sooner
+north	city locate in country	south asia
+twente	city locate in country	netherland
+virgin	have office in city	gatwick
+cincinnati royal	team play sport	basketball
+laker	team play against team	saint
+english	language of university	suny binghamton
+yankee	team member	rodriguez
+daniel davidson	athlete play in league	mlb
+arrowhead pond	latitude longitude	46.0834400000000,-66.0155700000000
+syracuse university	team play sport	basketball
+brave	team play sport	baseball
+trang	city locate in country	thailand
+chicago white sox	team play against team	houston astro
+giant	team home stadium	yankee stadium
+ncaa	superpart of organization	indiana hoosier
+mlb	league team	phillie
+astro	team play against team	indian
+qwest field event center	stadium locate in city	seattle
+mlb	league player	bautista
+soldier field	latitude longitude	41.8625300000000,-87.6167200000000
+mlb	league player	dice k
+eastern airway	agent act in location	anger
+vicente padilla	agent belong to organization	mlb
+duck	team play sport	football
+turner field	stadium home team	brave
+general mill	headquarter in	minneapolis
+redskin	team play against team	titan
+new jersey devil	team play against team	canadien
+lenny dykstra	athlete play in league	mlb
+truro	city locate in country	uk
+penguin	team play sport	hockey
+california state university chico	latitude longitude	39.7302900000000,-121.8478500000000
+taipei	city capital of country	taiwan
+laker	team play against team	spur
+south africa	locate at	united
+razorback	team win trophy	ncaa tournament
+wolf pack	latitude longitude	50.0967750000000,-96.8116100000000
+mexico	country city	campeche
+time	newspaper in city	la
+met	team member	keith hernandez
+marlin	team home stadium	shea stadium
+mickey mantle	person belong to organization	yankee
+eric o flaherty	agent belong to organization	mlb
+maryland terrapin	subpart of organization	ncaa
+nhl	league team	minnesota north star
+new york giant	team play in city	oakland
+appalachian state university	latitude longitude	36.2145700000000,-81.6803900000000
+adrian beltre	athlete play in league	mlb
+tar heel	team home stadium	smith center
+mark brunell	athlete play in league	nfl
+randy wolf	person belong to organization	phillie
+nba	league team	phoenix sun
+zambia	country city	lusaka
+brad ausmus	agent belong to organization	mlb
+arkansas state indian	team play in league	ncaa
+dan uggla	agent belong to organization	florida marlin
+new york giant	agent control	tom coughlin
+jet	team play sport	football
+boston red sox	agent collaborate with agent	fr lynn
+heathrow	company headquarter here	alitalia
+giant	team play in league	mlb
+baltimore oriol	team play against team	yankee
+basketball	sport use stadium	american airline arena
+gull	animal prey on	duck
+cowboy	team play against team	seattle seahawks
+adrian gonzalez	agent belong to organization	mlb
+doncaster	city locate in country	uk
+air	have office in city	heraklion
+texas ranger	team play against team	houston astro
+university of minnesota	latitude longitude	45.6234577777778,-93.7813288888889
+st tropez	latitude longitude	29.0273450000000,-69.1006850000000
+antibe	city locate in country	france
+michael vick	athlete play for team	atlanta falcon
+major league baseball	league player	adam jon
+iss dome	stadium locate in city	dusseldorf
+jackie jensen	athlete play in league	mlb
+nfl	league player	tony dorsett
+arizona state	team play against team	purdue
+mlb	league stadium	dolphin stadium
+carcassonne	city have company office	ryanair
+chuck amato	coach team	nc state
+nfl	league team	indianapolis colt
+eva airway	have office in city	taipei
+mexico city	company headquarter here	sabrita
+indianapolis colt	team play against team	charger
+robertson stadium	stadium locate in city	houston
+miguel cabrera	person belong to organization	florida marlin
+broncos	team play against team	oregon state
+nhl	league team	trojan
+caribbean	city locate in country	hondura
+jerry remy	agent belong to organization	red sox
+crew stadium	latitude longitude	40.0086100000000,-82.9908300000000
+jalen rise	athlete play for team	knick
+technology	organization acronym have name	vcu
+cc sabathia	athlete play for team	cub
+ulyanovsk	latitude longitude	54.3599750000000,48.5942550000000
+maastricht	city locate in country	the netherland
+raptor	team play in city	cleveland
+depaul university	team play sport	basketball
+troy trojan	subpart of organization	ncaa
+ottawa senator	team home stadium	corel centre
+jeff baker	athlete play for team	rockie
+mlb	league player	tommie agee
+seattle seahawks	team also know as	seahawks
+redskin	team play against team	bill
+university of north carolina at chapel hill	team play sport	basketball
+augusta	city locate in country	united state
+tadahito iguchi	agent belong to organization	white sox
+mark loretta	person belong to organization	red sox
+u s	country state	hawai i
+ucla	team home stadium	rise bowl
+south	city locate in country	timor leste
+ichiro	athlete play sport	baseball
+celtic	team play against team	la laker
+super bowl	trophy win by team	tennessee titan
+chris coste	athlete play for team	phillie
+nba	league stadium	oracle arena
+mike babcock	work for	duck
+west virginia wesleyan college	latitude longitude	38.9886700000000,-80.2216900000000
+springfield college	team play sport	basketball
+east germany	country city	east berlin
+mariner	team play in city	seattle
+nba championship	trophy win by coach	phil jackson
+florida state	team play in league	acc
+hawaii	state locate in country	canada
+rockie	team member	willy tavera
+ryanair	headquarter in	heathrow
+easyjet	at location	stanst
+anaheim angel	mutual proxy for	los angeles
+mlb	league player	derek lee
+grambl state university	team play sport	basketball
+american	have office in city	st louis
+lsu tiger stadium	stadium locate in city	baton rouge
+n2003 world series	sport game team	florida marlin
+chicago bear	team play against team	new york giant
+ohio state	latitude longitude	40.0213900000000,-83.0584813333333
+hard rock live	stadium locate in city	orlando
+tony la russa	coach in league	mlb
+bank	agent control	east asia
+san diego charger	team play against team	pittsburgh steeler
+nomar	person belong to organization	red sox
+tenerife	city locate in country	spain
+detroit tiger	team play against team	san diego padre
+spring arbor college	latitude longitude	42.2058300000000,-84.5538900000000
+philadelphia phillie	team play against team	cincinnati red
+mike holmgren	work for	packer
+london	city locate in country	netherland
+colorado rockie	team win trophy	world series
+san diego charger	team play in city	buffalo
+maplin	have office in country	uk
+new york yankees	team play against team	louis cardinal
+world champion boston red sox	team home stadium	fenway park
+san diego charger	team also know as	charger
+bt	have office in country	united kingdom
+continental	have office in city	london heathrow
+eric mangini	coach in league	nfl
+nba	league player	jason richardson
+south	city locate in country	thailand
+furman university	team play sport	basketball
+boston red sox	agent collaborate with agent	jim rice
+pedro feliz	person belong to organization	phillie
+oklahoma state	team win trophy	ncaa division
+uk	country currency	dollar
+washington redskin	team play in city	cleveland
+northern	city locate in country	uzbekistan
+la	city have company office	qantas
+estonia	country capital	tallinn
+nijmegen	city locate in country	france
+boise state university	team play sport	basketball
+niner	team play in league	nfl
+bruxelle	latitude longitude	50.6814828000000,0.6672060000000
+psu	latitude longitude	51.5056160000000,36.0123220000000
+british airway	headquarter in	gatwick airport
+air	headquarter in	buchar
+san diego padre	team play in league	mlb
+nfl	league player	joe flacco
+bell centre	stadium home team	montreal canadien
+new york met	team home stadium	citi field
+isiah thoma	work for	new york knick
+metrodome	stadium locate in city	minneapolis
+beijing	company headquarter here	lenovo
+south sudan	latitude longitude	32.7525900000000,-117.0660200000000
+portugal	latitude longitude	7.8072843661972,-42.4922056338028
+new york jet	team play sport	hockey
+nfl	agent control	eagle
+alberto castillo	athlete play in league	mlb
+florida marlin	team home stadium	landshark stadium
+marquis daniel	athlete play sport	basketball
+arkansas state university	latitude longitude	35.6062020000000,-91.1247180000000
+mlb	league team	devil ray
+detroit red wing	team win trophy	stanley cup final
+mlb	league player	david ortiz
+romeo crennel	coach in league	nfl
+canada	country currency	dollar
+scotty bowman	coach team	red wing
+brett favre	athlete play for team	green bay packer
+denis savard	coach team	blackhawks
+airway	headquarter in	seattle
+ncaa	superpart of organization	usc trojan
+north	city capital of country	iraq
+denver	city stadium	red rock amphitheatre
+gibbs	work for	redskin
+carlo ruiz	athlete play in league	mlb
+verizon arena	latitude longitude	34.7551100000000,-92.2644400000000
+mlb	league player	adam bostick
+mlb	league team	chicago white sox
+dean college	latitude longitude	42.0827000000000,-71.3969000000000
+nfl	league stadium	three river stadium
+seahawks	team play sport	sport
+jason hirsh	athlete play in league	mlb
+david justice	athlete play for team	brave
+united	at location	southern sudan
+ktvi tv	television station in city	st louis
+verizon	have office in country	dominican republic
+ricky william	athlete play in league	nfl
+dobritch	latitude longitude	43.7833350000000,27.9166650000000
+mlb	league player	dave righetti
+celtic	team play against team	nugget
+alba iulia	city locate in country	romania
+thai	have office in city	london heathrow
+nazwa	latitude longitude	23.8972683333333,54.1854150000000
+joel pineiro	athlete play for team	red sox
+thailand	country currency	baht
+united state	country city	orlando
+chicago bear	team play against team	green bay packer
+new york jet	team also know as	giant
+east midland	city locate in country	uk
+basketball	sport team	fordham university
+buy	agent act in location	minneapolis
+mlb	league player	jackie jensen
+hurricane	team play against team	cornhusker
+kong	television station in city	seattle
+adrian beltre	athlete play for team	dodger
+phillie	team play against team	padre
+danny richar	agent belong to organization	white sox
+colonial center	latitude longitude	47.1634300000000,-122.5184600000000
+turkistan	latitude longitude	38.8782400000000,66.1330316666667
+hai phong	latitude longitude	20.8409233333333,106.6162933333333
+airline	have office in city	seattle
+phoenix sun	team win trophy	playoff
+antalya	city capital of country	turkey
+mlb	league player	brad ausmus
+belgium	country city	bruge
+beaune	city locate in country	france
+south african airway	headquarter in	heathrow
+washington redskin	team play sport	hockey
+nugget	team play against team	laker
+baseball	sport team	los angeles dodger
+johnny damon	athlete play for team	yankee
+continental airline	headquarter in	london gatwick
+indianapolis colt	team play against team	pittsburgh steeler
+tampa bay buccaneer	team play against team	texan
+damascus	city capital of country	syria
+mac	have office in country	philippine
+terps	team play sport	basketball
+minnesota twin	team play against team	st louis cardinal
+padre	agent collaborate with agent	marcus gile
+ghent	city locate in country	united state
+nba	league player	lamar odom
+detroit lion	subpart of organization	nfl
+kulob	latitude longitude	22.0272250000000,97.0365250000000
+mark sanchez	athlete play in league	nfl
+jayson werth	athlete play in league	mlb
+stadium	stadium locate in city	beijing
+china southern	headquarter in	beijing
+hollywood bowl	latitude longitude	33.6955900000000,-114.3730000000000
+brendan donnelly	athlete play in league	mlb
+montreal canadian	team home stadium	bell centre
+dominican republic	latitude longitude	25.6378133333333,-72.7939766666667
+mlb	league player	joe morgan
+staple center	stadium home team	la laker
+palm casino resort	latitude longitude	35.6318000000000,-114.8877000000000
+kazakhstan	latitude longitude	49.3341265714286,71.4986028571429
+anna university	synonym for	madra
+dice k	athlete play sport	baseball
+orissa	state have capital	bhubaneshwar
+reim	city locate in country	france
+bratislava	city locate in country	slovakia
+virginia beach amphitheater	latitude longitude	36.7685000000000,-76.1012000000000
+virginia commonwealth university	team play sport	basketball
+apeldoorn	city capital of country	netherland
+south	city locate in country	ussr
+baseball	player	andy pettitte
+purdue	team play sport	golf
+arizona cardinal	team play against team	steeler
+willie randolph	coach team	new york met
+united	at location	burma
+minnesota viking	team play against team	redskin
+us airways	headquarter in	minneapolis
+jorge posada	athlete play for team	new york yankees
+portland trail blazer	team home stadium	the rose garden
+indianapolis colt	team play against team	tennessee titan
+bill mazeroski	agent belong to organization	pittsburgh pirate
+baseball	sport use stadium	great american ballpark
+soviet	latitude longitude	47.0543086206896,49.2586806896552
+vanderbilt stadium	stadium locate in city	nashville
+montreal canadien	subpart of organization	nhl
+jamie walker	athlete play in league	mlb
+st louis ram	team win trophy	super bowl
+iceland express	agent act in location	stanst
+buc	subpart of organization	nfl
+padre	team play against team	pirate
+blainville	city locate in country	canada
+tadahito iguchi	athlete play in league	mlb
+nokia	have office in country	united state
+phillie	team member	pat burrell
+narayanganj	city locate in country	bangladesh
+ryan air	headquarter in	stanst
+texas tech	team play against team	sooner
+save mart center	stadium locate in city	fresno
+u s	latitude longitude	35.7338074809160,-76.8876086259543
+chris shelton	athlete play in league	mlb
+mark reynold	athlete play for team	diamondback
+sidi bou say	latitude longitude	36.3907785714286,7.7638700000000
+schaefer stadium	latitude longitude	42.0926000000000,-71.2675500000000
+white sox	team play against team	cub
+mlb	league player	brad hawpe
+missouri state	latitude longitude	38.0303340000000,-92.3419400000000
+penn state	latitude longitude	40.6322327272727,-78.7921481818181
+adam bostick	athlete play for team	met
+vientiane	city locate in country	laos
+rabobank arena	stadium locate in city	bakersfield
+tulane university	latitude longitude	29.9346900000000,-90.0567925000000
+cincinnati	agent collaborate with agent	ken griffey jr
+mike bibby	athlete play in league	nba
+staple center	stadium home team	los angeles laker
+oxford	city locate in country	uk
+robinson cano	agent belong to organization	mlb
+phillie	team play against team	cub
+zamfara	state locate in country	nigeria
+carcassonne	location act in by agent	ryanair
+los angeles king	team play in city	los angeles
+paul brown	coach team	ohio state
+north	city locate in country	southwest asia
+compaq center	latitude longitude	29.7305100000000,-95.4349400000000
+orlando cabrera	athlete play for team	white sox
+chicago blackhawks	team play in city	dalla
+north	city locate in country	malaysia
+nfl	league player	clinton portis
+caribbean	city locate in country	mexico
+ambiorix burgo	agent belong to organization	mlb
+mlb	league player	ramon hernandez
+pepsi center	latitude longitude	39.7486100000000,-105.0075000000000
+florida state	team play sport	football
+phil simms	athlete play in league	nfl
+jon gruden	coach team	tampa bay buccaneer
+philadelphia phillie	team play sport	baseball
+mlb	league player	nate mclouth
+air deccan	headquarter in	chennai
+fenway park	stadium locate in city	boston
+chad tracy	athlete play in league	mlb
+phoenix sun	mutual proxy for	la
+nfl	league team	jacksonville jaguar
+philadelphia phillie	agent collaborate with agent	mike schmidt
+dollar	currency country	united state
+edmonton oiler	team home stadium	skyreach centre
+jordan staal	athlete play for team	penguin
+sun	subpart of organization	nba
+dartmouth college	team play sport	basketball
+raven	team play against team	packer
+smu mustang	team play in league	ncaa
+winterswijk	city locate in country	netherland
+basketball	player	patrick ew
+motorola	headquarter in	bangalore
+chinese	language of university	pek university
+baseball	player	jason varitek
+minnesota viking	team play in league	nfl
+ohio	state locate in country	u s
+basketball	player	deron william
+mlb	league player	scott rolen
+diamondback	team play against team	indian
+united	agent act in location	seattle
+new york islander	team home stadium	nassau veteran memorial coliseum
+north	city locate in country	burkina faso
+nickla lidstrom	athlete play in league	nhl
+brave	agent collaborate with agent	julio franco
+soccer	sport use equipment	basketball
+kodak	have office in country	u s
+packer	agent control	mike mccarthy
+basketball	sport team	toronto raptor
+new	have office in country	uk
+la laker	team play against team	celtic
+kelvin pichardo	athlete play in league	mlb
+cardinal	agent collaborate with agent	edgar renteria
+the pennsylvania state university	latitude longitude	40.6392300000000,-77.8694400000000
+nba championship	trophy win by team	los angeles laker
+italy	team play against team	raptor
+mike sweeney	athlete play in league	mlb
+verizon wireless	have office in country	u s
+mlb	league player	joe blanton
+curtis martin	athlete play in league	nfl
+british airway	headquarter in	seattle
+dallas maverick	mutual proxy for	la
+jet	team play in league	nfl
+jerry hairston	athlete play sport	baseball
+montreal canadien	team home stadium	bell centre
+washington state university	team play sport	music
+pittsburgh pirate	team play in league	major league baseball
+sox	team play against team	dodger
+saint john	city locate in country	canada
+georgia tech	team play against team	terps
+expos	team play in city	sydney
+milton bradley	agent belong to organization	mlb
+san francisco giant	team member	barry bond
+nba	league team	hokie
+dwayne wade	athlete play for team	miami heat
+dave henderson	athlete play in league	mlb
+mlb	league player	keith hernandez
+wily mo pena	athlete play for team	red sox
+dalla cowboy	subpart of organization	nfl
+jon gruden	work for	tampa bay buccaneer
+chicago cub	team play sport	sport
+josh barfield	agent belong to organization	padre
+tournay	latitude longitude	48.3507581250000,-11.0241368750000
+jason castro	athlete play in league	mlb
+florida marlin	team play in league	mlb
+baltimore	proxy for	boston red sox
+ottawa	city capital of country	canada
+leaf	team play against team	boston bruin
+arabic	language of country	uae
+jet	team play in city	east rutherford
+packer	team play against team	brown
+rise bowl	latitude longitude	33.8309925000000,-107.5908450000000
+colt	team play in league	nfl
+phillie	organization have person	cole hamel
+gazimagusa	latitude longitude	35.2083333333333,33.9388900000000
+ryanair	agent act in location	stanst
+ryan air	agent act in location	stanst
+myanmar	synonym for	name
+expos	latitude longitude	49.1722000000000,-21.0698533333333
+miami	proxy for	seattle seahawks
+acc	league team	nc state
+makassar	latitude longitude	-0.1690096000000,110.8014124000000
+la	mutual proxy for	basketball
+dustin ackley	athlete play in league	mlb
+north	city locate in country	azerbaijan
+n2009 world series	sport game team	new york yankees
+dodger	team play against team	sox
+tom gordon	athlete play for team	phillie
+george washington university	latitude longitude	38.9126140000000,-77.0801673333333
+marlin	team play against team	met
+norv turner	coach team	charger
+jim valvano	work for	north carolina state
+nfl	league player	jason garrett
+robert municipal stadium	latitude longitude	37.9789300000000,-87.5161200000000
+basketball	player	shaquille o neal
+baltimore oriol	team play in league	mlb
+punta cana	city capital of country	dominican republic
+bhadgaon	latitude longitude	24.4055566666667,84.0555566666667
+michigan state	team play against team	ucla
+lsu	team play against team	gamecock
+jinyang	latitude longitude	25.9230394444444,119.7572066666667
+red sox	team play in league	major league baseball
+avignon	city locate in country	france
+dt	have office in country	uk
+english	language of country	great britain
+arie crown theater	stadium locate in city	chicago
+university of south carolina	team play sport	basketball
+globe	subpart of organization	mit
+andruw jone	athlete play for team	dodger
+knick	team member	allan houston
+miguel cabrera	agent belong to organization	mlb
+giant	team also know as	new york giant
+tamatave	latitude longitude	-18.4220237500000,63.7094850000000
+cambridge	city locate in country	uk
+yangon	latitude longitude	18.8743744444445,99.7523977777777
+phillie	organization have person	brett myer
+nba	league coach	mike brown
+novi sad	city capital of country	yugoslavia
+phil garner	coach team	astro
+brave	team home stadium	national park
+derrick rise	athlete play in league	nba
+eli man	athlete play for team	charger
+chennai	city locate in state	tamil nadu
+toronto	mutual proxy for	verizon center
+baseball	sport use stadium	atlanta fulton county stadium
+mlb	league player	chuck jam
+mlb	league player	matt joyce
+ashgabat	city capital of country	turkmenistan
+united	agent act in location	thailand
+lakefront arena	stadium locate in city	new orlean
+jose contrera	athlete play in league	mlb
+vermont	state locate in country	united state
+chuck noll	work for	pittsburgh steeler
+mlb	league player	shawn est
+albania	country city	tirana
+td waterhouse center	stadium also know as	td waterhouse centre
+saint	team play against team	new york jet
+university of portland	team play sport	basketball
+matt holliday	athlete play for team	rockie
+florida state	team play against team	hokie
+pau gasol	athlete play sport	basketball
+patrick ramsey	athlete play for team	redskin
+ball state university	team play sport	football
+patriot	team play against team	seahawks
+brewer	team play against team	san diego padre
+dolphin stadium	stadium home team	miami dolphin
+tenerife	latitude longitude	22.0404224137931,-34.1285489655173
+kube fm	radio station in city	seattle
+n2009 world series	sport game team	philadelphia phillie
+wandy rodriguez	athlete play for team	astro
+nmsu	team play against team	utah state
+piston	team play against team	raptor
+trojan	team play sport	basketball
+mlb	league player	randy johnson
+saban	coach team	michigan state
+u s	synonym for	statistic
+woodburn	city locate in country	united state
+astro	team member	wandy rodriguez
+ranger	team win trophy	uefa cup
+sandy koufax	athlete play for team	dodger
+michigan state	team coach	tom izzo
+earle bruce	coach team	ohio state
+danny granger	athlete play in league	nba
+west	city locate in country	ivory coast
+jose bautista	athlete play in league	mlb
+notre dame	team play against team	rutger
+seahawks	team play against team	steeler
+carolina panther	team play against team	tampa bay buccaneer
+golden gopher	team play sport	football
+tennessee titan	team play in city	baltimore
+dewon day	athlete play in league	mlb
+jason romano	athlete play in league	mlb
+vancouver	city locate in country	canada
+baron davis	athlete play for team	golden state warrior
+twin	team play in league	mlb
+miami	city stadium	dolphin stadium
+carl pavano	athlete play for team	new york yankees
+ball state university	team play sport	basketball
+jim fassel	work for	new york giant
+bill parcell	work for	nfl
+yangon	city also know as	rangoon
+belarus	latitude longitude	53.1270837500000,27.9104162500000
+marquis grissom	athlete play in league	mlb
+kansas city royal	team play in league	major league baseball
+gabon	latitude longitude	9.2440557142857,31.7637457142857
+stephen strasburg	person belong to organization	san diego state
+kerry collin	athlete play in league	nfl
+kosuke fukudome	athlete play sport	baseball
+lehigh university	team play sport	basketball
+boise state university	latitude longitude	43.6029400000000,-116.1984500000000
+ft lauderdale	city also know as	ft lauderdale
+gabe kapler	person belong to organization	red sox
+brick breeden fieldhouse	stadium locate in city	bozeman
+basle	latitude longitude	34.5646875000000,21.1231587500000
+pacer	team play in league	nba
+national football league	agent control	pittsburgh steeler
+john havlicek	athlete play sport	basketball
+don drysdale	athlete play in league	mlb
+keith foulke	agent belong to organization	mlb
+ksdk	television station in city	st louis
+jag	team play against team	bengal
+john brady	work for	lsu
+chase field	stadium home to sport	baseball
+byu	team play sport	basketball
+cristian guzman	athlete play sport	baseball
+tar heel	team play against team	notre dame
+sombor	city locate in country	yugoslavia
+mlb	league player	brian gile
+west	city locate in country	sri lanka
+france	synonym for	republic
+new york knick	team play in city	new york
+nassau	city capital of country	bahama
+mlb	league team	seattle mariner
+st petersburg	city locate in country	russia
+tuft	latitude longitude	37.5189289473684,-82.7999586842105
+bill hall	agent belong to organization	mlb
+abuja	city locate in country	nigeria
+port vila	city have company office	air vanuatu
+phoenix sun	team play against team	denver nugget
+tadahito iguchi	athlete play for team	white sox
+josh whitesell	athlete play in league	mlb
+los angeles laker	team play against team	golden state
+kato paphos	latitude longitude	34.7562500000000,32.4083300000000
+chicago theatre	stadium locate in city	chicago
+michigan	state locate in country	united state
+mike lowell	athlete play in league	mlb
+redskin	team play sport	hockey
+air france	headquarter in	london heathrow
+trojan	team play against team	golden bear
+malaysia	country city	langkawi
+basketball	sport team	smu
+quicken loan arena	stadium home team	cavalier
+carpentra	city locate in country	france
+tampa bay ray	subpart of organization	mlb
+lamar university	team play sport	basketball
+nhl	league player	kevin millwood
+bmi	at location	heathrow
+nicholls state university	latitude longitude	29.7944200000000,-90.8015200000000
+red sox	team play against team	chicago cub
+united state	country state	north carolina
+marty schottenheimer	work for	san diego charger
+los angeles	mutual proxy for	houston rocket
+north georgia	state locate in country	united state
+makakilo city	latitude longitude	21.3496550000000,-158.0861900000000
+dennys reye	athlete play in league	mlb
+white sox	team play against team	royal
+dodger	team member	blake dewitt
+jazz	team play in league	nba
+clemson college	latitude longitude	32.9201750000000,-80.1413450000000
+pittsburgh penguin	team play against team	edmonton oiler
+pat knight	coach team	texas tech
+jacoby ellsbury	athlete play for team	boston red sox
+rockie	team member	todd helton
+yangon	city locate in country	burma
+saint louis cardinal	team play sport	baseball
+northwest airline	have office in city	seattle
+packer	team play sport	hockey
+midrand	city locate in country	south africa
+pittsburgh steeler	team play in city	pittsburgh
+bank one ballpark	stadium locate in city	phoenix
+washington redskin	team home stadium	fedex field
+new york yankees	agent collaborate with agent	nick swisher
+california state university stanislaus	latitude longitude	37.5255100000000,-120.8567200000000
+baseball	sport use stadium	dodger stadium
+columbus blue jacket	team play sport	hockey
+mark sweeney	athlete play in league	mlb
+toronto blue jay	team home stadium	knology park
+los angeles dodger	agent compete with agent	met
+mlb	league player	mike cameron
+san diego charger	team play against team	new york jet
+research	headquarter in	new delhi
+kobe bryant	athlete play for team	la laker
+jacque jone	athlete play in league	mlb
+air china	headquarter in	beijing
+yankee	team play against team	ranger
+raptor	team play against team	laker
+t j yat	athlete play for team	tar heel
+rfk stadium	stadium home team	washington national
+el universal	newspaper in city	mexico city
+aeromexico	agent act in location	mexico city
+paraty	location locate with in location	brazil
+gatwick	company headquarter here	british airway
+mlb	league player	roy halladay
+ryanair	headquarter in	london stanst
+matt kemp	agent belong to organization	mlb
+matt murton	athlete play for team	rockie
+fort valley state	latitude longitude	32.5387600000000,-83.8943500000000
+golden state warrior	team play against team	houston rocket
+houston rocket	mutual proxy for	los angeles
+ryanair	have office in city	oporto
+ohio state	team play against team	gator
+midland theatre	stadium locate in city	kansas city
+wolf trap	stadium locate in city	vienna
+fr lynn	athlete play in league	mlb
+tulsa convention center	stadium locate in city	tulsa
+leaf	team play against team	canadien
+n2002 world series	sport game winner	los angeles angel
+meridiana	headquarter in	gatwick
+steeler	team home stadium	heinz field
+fukuoka	city capital of country	japan
+political science	academic program at university	mit
+north	city locate in country	ecuador
+jeff baker	agent belong to organization	rockie
+shane victorino	agent belong to organization	mlb
+harrar	latitude longitude	27.8189034782609,33.8198152173913
+daryll clark	athlete play sport	football
+north	city locate in country	north korea
+dave kingman	athlete play for team	met
+dwight gooden	athlete play in league	mlb
+nfl	league player	ryan ludwick
+frank catalanotto	athlete play in league	nhl
+information	headquarter in	beijing
+atlanta brave	team win trophy	world series
+cub	team win trophy	world championship
+agadir	city locate in country	morocco
+eastern michigan university	team play sport	basketball
+cowboy	team play against team	duck
+nba	league stadium	pepsi center
+concarneau	city locate in country	france
+astro	agent collaborate with agent	shawn chacon
+nfl	league player	calvin johnson
+u s	synonym for	research article
+orlando magic	team home stadium	td waterhouse center
+red sox	team play against team	royal
+mlb	league player	alexei ramirez
+vilna	latitude longitude	48.2537625000000,-61.3472850000000
+ryan howard	athlete play in league	mlb
+kinnick stadium	stadium locate in city	iowa city
+guatemala	city locate in country	el salvador
+draw willy	athlete play sport	basketball
+maddux	athlete play for team	chicago cub
+owen field	latitude longitude	37.3365333333333,-92.1620100000000
+jamal lewis	athlete play in league	nfl
+almada	city locate in country	portugal
+skype	have office in country	uk
+willie may	athlete play in league	nfl
+greg oden	athlete play for team	portland trail blazer
+hideki okajima	athlete play for team	red sox
+damian jackson	athlete play in league	mlb
+basel	city lie on river	rhine river
+mersa matruh	latitude longitude	31.0105075000000,27.4220875000000
+martin stadium	latitude longitude	34.9424266666667,-84.9594000000000
+birmingham	city locate in country	u k
+united state	latitude longitude	40.2542418181818,-88.8241518181818
+munich	city locate in country	france
+nigeria	location locate with in location	plateau
+united state military academy	latitude longitude	41.3911100000000,-73.9552800000000
+brunei	latitude longitude	6.1089624000000,107.1334476000000
+brave	subpart of organization	mlb
+santa barbara	city capital of country	united state
+fc barcelona	team home stadium	camp nou
+continental	headquarter in	london heathrow
+bob knight	coach team	texas tech
+hawai i	state locate in country	united state
+us airways	headquarter in	gatwick
+italy	team win trophy	european championship
+business	academic program at university	loyola university
+tilburg	city locate in country	netherland
+south african airway	have office in city	maputo
+washington d c	location locate with in location	united state
+edward jone dome	latitude longitude	38.6328300000000,-90.1884400000000
+ecuador	country capital	quito
+jeff bennett	athlete play in league	mlb
+mexicana airline	have office in city	mexico city
+basketball	sport team	pacer
+columbus crew	team play in city	la
+hank blalock	athlete play in league	nhl
+paul konerko	athlete play for team	white sox
+adobe acrobat	specialization of	flyer
+major league baseball	agent control	st louis cardinal
+united	at location	washington dc
+hollywood bowl	stadium locate in city	la
+bengal	team member	chris henry
+sam raimi	agent involve with item	spider man
+san diego padre	team play sport	baseball
+wolfpack	team play sport	basketball
+heathrow	city have company office	olympic
+roger clemen	athlete play for team	yankee
+kunduz	latitude longitude	37.7363422222222,56.4626700000000
+newark	city locate in country	canada
+british airway	have office in city	gatwick
+mlb	league player	david cone
+allen iverson	athlete play sport	basketball
+rafer alston	athlete play for team	houston rocket
+chemical engineering	academic program at university	mit
+los angeles	mutual proxy for	pittsburgh steeler
+toronto	mutual proxy for	washington wizard
+asmara	city locate in country	eritrea
+brian mccann	agent belong to organization	mlb
+alfonso soriano	agent belong to organization	chicago cub
+mlb	league player	lenny dykstra
+saint	team home stadium	soldier field
+minnesota	state contain city	st paul
+jerry remy	person belong to organization	red sox
+seahawks	team member	matt hasselbeck
+nfl	league player	kyle orton
+cougar softball stadium	latitude longitude	29.7274500000000,-95.3493800000000
+the world bank	headquarter in	washington dc
+ale	city locate in country	france
+new york yankees	team play against team	giant
+cc sabathia	athlete play for team	yankee
+somerset	city locate in country	south africa
+seattle seahawks	team play against team	miami dolphin
+sterling	have office in city	london gatwick
+los angeles dodger	agent collaborate with agent	rafael furcal
+mike hinckley	athlete play in league	mlb
+adam jon	athlete play in league	mlb
+leslie neilsen	actor star in movie	the naked gun
+steeler	team play against team	colt
+nfl	league player	draw bree
+wilmington	location locate with in location	united state
+google	have office in city	seattle
+warner southern college	latitude longitude	27.9233600000000,-81.5928500000000
+baseball	player	ichiro suzuki
+k state	team play against team	baylor
+arab news	newspaper in city	jeddah
+gwangju	city locate in country	korea
+nba	league stadium	citizen business bank arena ca
+johannesburg airport	latitude longitude	-26.1376000000000,28.1965000000000
+luis gonzalez	athlete play for team	arizona diamondback
+penn state	team play against team	hawkeye
+ben petrick	athlete play for team	rockie
+alaska air	have office in city	seattle
+julian tavarez	athlete play in league	mlb
+iowa state university	synonym for	college
+nba	league team	indiana pacer
+carnegie mellon university	organization name have acronym	cmu
+airline	have office in city	gatwick
+nanyang	city locate in country	singapore
+montevideo	latitude longitude	-5.4886946923077,-66.9259085384616
+bauman moscow state technical university	latitude longitude	55.7659200000000,37.6850800000000
+new york met	team play against team	brave
+bauer	athlete play for team	yankee
+andy pettite	athlete play in league	mlb
+rider bronc	team play in league	ncaa
+jessie owen	latitude longitude	29.9727000000000,-90.2325800000000
+mississippi state university	team play sport	baseball
+patrick kane	athlete play for team	blackhawks
+brave	team play sport	basketball
+daily star	newspaper in city	beirut
+montreal canadien	team play in city	carolina
+nfl	league player	andre johnson
+leaf	team play against team	oiler
+brandon league	agent belong to organization	mlb
+jon papelbon	athlete play sport	baseball
+micah owing	athlete play in league	mlb
+guardian	newspaper in city	la
+chris young	athlete play for team	padre
+united	at location	great britain
+singapore	latitude longitude	4.3787812500000,83.2064516249999
+bc place stadium	attraction of city	vancouver
+seattle	city stadium	safeco field
+seattle seahawks	team home stadium	quest field
+dodger	team member	chad billingsley
+carlo beltran	athlete play in league	mlb
+milan puskar stadium	latitude longitude	39.6520300000000,-79.9547800000000
+sun	team home stadium	america west arena
+mlb	agent control	team
+paul estrada	agent belong to organization	mlb
+beverly hill	city locate in country	united state
+farleigh dickinson university	latitude longitude	17.7522000000000,-64.6012500000000
+kobe bryant	athlete play sport	basketball
+husker	team play against team	bear
+grozny	city capital of country	chechnya
+chicago cub	agent collaborate with agent	ryne sandberg
+travel	headquarter in	stanst
+eric munson	agent belong to organization	mlb
+oakland raider	team also know as	raider
+nfl	league team	buffalo bill
+willie parker	athlete play for team	steeler
+tampa bay buccaneer	agent control	gruden
+university of tennessee	latitude longitude	35.7285945000000,-86.3694770000000
+canisius college	team play sport	basketball
+wake forest demon deacon	team home stadium	joel coliseum
+arkansas state university	team play sport	basketball
+ny ranger	team home stadium	madison square garden
+american study	academic program at university	george washington university
+laker	team play against team	knick
+bhutan	country city	thimphu
+troy murphy	athlete play in league	nba
+chris michalak	athlete play in league	mlb
+brad ausmus	athlete play for team	astro
+seattle seahawks	team home stadium	husky stadium
+malaysia	latitude longitude	5.7141209523810,98.3136900000000
+nova scotia	state locate in country	canada
+chukchansi park	stadium locate in city	fresno
+pittsburgh steeler	agent collaborate with agent	rashard mendenhall
+hockey	sport team	washington redskin
+tehran	city have company office	united
+south	city locate in country	balkan
+florida state	team play against team	virginia tech
+roy oswalt	athlete play for team	houston astro
+gorge amphitheatre	stadium locate in city	quincy
+rockie	team play against team	diamondback
+estimate	synonym for	u s
+wandy rodriguez	person belong to organization	astro
+new york yankees	team home stadium	yankee stadium
+sidney crosby	athlete home stadium	mellon arena
+chicago	city sport team	white sox
+jerry owen	athlete play in league	mlb
+ryan rohlinger	athlete play in league	mlb
+ben broussard	athlete play in league	mlb
+west virginia university	team play sport	basketball
+delaware	state locate in country	u s
+northwest	agent act in location	seattle
+busch stadium	stadium locate in city	st louis
+united state naval academy	latitude longitude	39.0013220000000,-76.5193080000000
+air namibia	have office in city	cape town
+tal afar	latitude longitude	36.3779000000000,42.4488800000000
+corey maggette	athlete play in league	nba
+buchar	city locate in country	macedonia
+masa kobayashi	athlete play in league	mlb
+american	agent act in location	canada
+enron field	stadium locate in city	houston
+alcobaca	city locate in country	portugal
+boise state	team home stadium	bronco stadium
+nhl	league team	buffalo sabre
+stratford	city capital of country	uk
+san diego padre	team play against team	philadelphia phillie
+wvu	latitude longitude	39.6539700000000,-79.9229750000000
+pittsburgh pirate	team play in city	cincinnati
+south carolina	state contain city	hilton head island
+david wright	agent belong to organization	met
+knighthawks	team play in city	rochester
+paphos	latitude longitude	34.7797572727273,32.5144354545455
+afl	league stadium	philip arena
+st johns	latitude longitude	41.2339174418605,-38.3870841860465
+los angeles	mutual proxy for	san diego clipper
+n1977 world series	sport game team	new york yankees
+chennai	city also know as	madra
+joseph addai	team mate	peyton man
+edward jone dome	stadium locate in city	saint louis
+geneve	latitude longitude	43.3668448936170,-5.9731536170213
+world championship	trophy win by team	red sox
+uzbekistan	country capital	tashkent
+los angeles	mutual proxy for	nugget
+jason jenning	person belong to organization	rockie
+basketball	player	allan houston
+lance berkman	agent belong to organization	mlb
+charger	team play against team	indianapolis colt
+republic	have office in country	saudi arabia
+seattle seahawks	team play in league	nfl
+mike pelfrey	person belong to organization	new york met
+brandon backe	athlete play for team	astro
+huston street	athlete play in league	mlb
+rafael furcal	athlete play for team	atlanta brave
+detroit tiger	team play against team	yankee
+brewer	team play against team	red sox
+volkswagen	have office in country	west germany
+golden state	team play against team	los angeles laker
+sterling	headquarter in	london gatwick
+english	language of university	wichita state university
+duck	team play against team	detroit red wing
+mel ott	athlete play in league	nfl
+trevor hoffman	athlete play for team	padre
+charger	team play in city	san diego
+seattle	city sport team	mariner
+nfl	league player	torry holt
+air berlin	have office in city	basel
+united	agent act in location	yangon
+new york yankees	agent collaborate with agent	johnny damon
+tampa theatre	stadium locate in city	tampa
+chicago cub	team play in city	boston
+portland trail blazer	team play sport	basketball
+clickair	headquarter in	heathrow
+jersey	city locate in country	great britain
+western pennsylvania	state locate in country	united state
+gatwick	latitude longitude	51.1646352173913,-0.1645843478261
+bangkok	city capital of country	thailand
+nhl	league team	minnesota wild
+purdue	team play sport	sport
+nadi	city locate in country	fiji island
+oregon duck	team play sport	baseball
+washington capital	team home stadium	verizon center
+eu	city locate in country	cyprus
+san diego charger	subpart of organization	nfl
+dustin pedroia	team mate	kevin youkili
+basketball	sport team	manchester unite
+south devon	city locate in country	uk
+iceland express	have office in city	stanst
+netherland	country city	heerlen
+shawn green	athlete play for team	met
+czech republic	country city	brno
+ryanair	headquarter in	porto
+viking	team play against team	bengal
+aer lingus	headquarter in	heathrow
+forum	stadium locate in city	minneapolis
+alfonso soriano	person belong to organization	chicago cub
+st louis blue	team play in city	detroit
+perak	state locate in country	malaysia
+louis	athlete play for team	yankee
+hideo nomo	person belong to organization	dodger
+kirk gibson	athlete play in league	mlb
+alaska	state locate in country	u s
+virgin	headquarter in	gatwick
+patrick ew	athlete play for team	knick
+zac robinson	athlete play for team	oklahoma state
+melky cabrera	person belong to organization	yankee
+paramount theatre wa	stadium locate in city	seattle
+philadelphia phillie	team play in city	cincinnati
+mlb	league player	andy pettitte
+n2008 world series	trophy win by team	phillie
+cubana	have office in city	mexico city
+curt schilling	person belong to organization	red sox
+south	city locate in country	middle east
+coach eric mangini	coach team	new york jet
+golden state warrior	subpart of organization	nba
+alex cora	athlete play for team	red sox
+courtyard	headquarter in	beijing
+alaska airline	at location	seattle
+mlb	league player	orlando cabrera
+minnesota north star	team play sport	hockey
+pirate	team play in league	mlb
+melvin mora	athlete play in league	mlb
+nugget	latitude longitude	-40.5373560000000,154.6043520000000
+eric byrne	athlete play for team	diamondback
+cody ros	athlete play in league	mlb
+steeler	team play against team	steeler
+cory sullivan	athlete play in league	mlb
+julian tavarez	athlete play sport	baseball
+prensa libre	newspaper in city	guatemala
+mohegan sun casino	stadium locate in city	uncasville
+mlb	league player	rich harden
+menton	city locate in country	france
+daisuke matsuzaka	agent belong to organization	mlb
+white sox	team home stadium	us cellular field
+jair jurrjen	athlete play for team	atlanta brave
+harding park golf club	stadium locate in city	san francisco
+west	city locate in country	u k
+jason giambi	athlete play for team	new york yankees
+orlando hudson	person belong to organization	diamondback
+colorado rockie	agent collaborate with agent	matt holliday
+albert pujol	athlete play sport	baseball
+faro	city capital of country	portugal
+los angeles	mutual proxy for	st louis cardinal
+gregg william	coach team	redskin
+bill mazeroski	person belong to organization	pittsburgh pirate
+banjul	city locate in country	gambia
+octavio dotel	athlete play for team	brave
+jamey wright	athlete play in league	mlb
+met	team play against team	houston astro
+edgardo alfonzo	agent belong to organization	met
+united	at location	tajikistan
+usc	team home stadium	los angele memorial coliseum
+nfl	league player	matt moore
+gund arena	latitude longitude	41.4964400000000,-81.6893000000000
+uefa champion league	trophy win by team	manchester unite
+vlore	latitude longitude	40.3583350000000,19.5807625000000
+nhl	league player	ryan getzlaf
+tommie agee	athlete play in league	mlb
+morocco	country city	oujda
+boston bruin	team play in league	nhl
+amman	city capital of country	middle east
+seattle mariner	team home stadium	kingdome
+democratic republic of the congo	mutual proxy for	zaire
+western washington university	latitude longitude	48.7334300000000,-122.4856400000000
+georgia tech	team play sport	football
+maarianhamina	city also know as	mariehamn
+canada	country city	edmonton
+pirate	agent compete with agent	yankee
+philadelphia	city locate in country	united state
+air berlin	have office in city	thessaloniki
+fresno state	agent collaborate with agent	justin wilson
+heat	team play sport	basketball
+tim red	athlete play for team	rockie
+denver	proxy for	national basketball association
+mytilini	latitude longitude	39.1489325000000,26.4655150000000
+cleveland state university	team play sport	basketball
+jim thome	athlete play in league	mlb
+wamu theater	stadium locate in city	seattle
+cuenca	city capital of country	ecuador
+kaz matsui	athlete play sport	baseball
+redskin	team play against team	brown
+south vietnam	latitude longitude	11.0000000000000,107.0000000000000
+british airway	headquarter in	cape town
+south	city locate in country	western asia
+seahawks	team play against team	titan
+tirane	latitude longitude	32.8537966666667,9.6628713333333
+astro	team member	hunter pence
+quezon city	city locate in country	philippine
+paul brown stadium	stadium home team	bengal
+bengal	team play against team	broncos
+chicago	city sport team	chicago white sox
+thomsonfly	headquarter in	bourgas
+nba	league player	jason william
+sony	headquarter in	beijing
+beijing	city capital of country	taiwan
+ross ohlendorf	agent belong to organization	mlb
+malaysia airline	agent act in location	cape town
+rheim	city locate in country	france
+chicago	proxy for	red sox
+cincinnati redleg	team play in league	mlb
+chennai	synonym for	name
+tony pena	athlete play for team	diamondback
+hanover college	team play sport	basketball
+cowboy	team play against team	packer
+pskov	latitude longitude	57.5027346153846,33.0610107692308
+indiana university	team play sport	basketball
+lawrence college	latitude longitude	37.4101725000000,-0.2383650000000
+mlb	league team	astro
+seattle	city television station	kong
+bank	agent control	france
+uw eau claire	team play in league	nfl
+arlington	city stadium	ameriquest field
+aeroflot	headquarter in	heathrow
+phillie	team play against team	pirate
+tater	latitude longitude	42.0854700000000,-113.5744500000000
+arle	city capital of country	france
+abu dhabi	city locate in country	uae
+kentucky center	latitude longitude	38.1858300000000,-83.4372200000000
+san diego padre	team home stadium	peoria sport complex
+southern virginia university	latitude longitude	37.7405600000000,-79.3491700000000
+mahdia	city locate in country	tunisia
+titan	team play against team	redskin
+hilversum	city locate in country	netherland
+air namibia	at location	london gatwick
+northwest hospital	hospital in city	seattle
+st petersburg	city capital of country	russia
+st alban	latitude longitude	50.3550960000000,-14.8904060000000
+northern	city locate in country	southern asia
+mlb	league player	josh field
+u s	proxy for	shark
+lueneburg	latitude longitude	51.9016233333333,-0.0867455555556
+western carolina university	team play sport	basketball
+brad hawpe	person belong to organization	rockie
+mlb	league player	ugueth urbina
+buenos aire	location locate with in location	argentina
+baseball	sport team	baltimore oriol
+dodger	team play against team	philadelphia phillie
+miami	city stadium	american airline arena
+sooner	team play against team	husker
+cricket wireless amphitheatre	stadium locate in city	chula vista
+charger	team play against team	seahawks
+carlo delgado	athlete play in league	mlb
+minneapolis	city have company office	united
+silverdome	latitude longitude	37.7803250000000,-100.0593950000000
+buccaneer	team play against team	redskin
+sidney ponson	athlete play for team	yankee
+mehmet okur	athlete play sport	basketball
+johan santana	athlete play in league	mlb
+colmar	city locate in country	france
+tom coughlin	work for	new york giant
+manny aybar	athlete play in league	mlb
+turner field	stadium home team	atlanta brave
+nfl	league team	san francisco 49er
+jim edmond	athlete play in league	nfl
+savannah civic center	latitude longitude	32.0768700000000,-81.0970600000000
+jet	team win trophy	super bowl
+yankee	team play against team	sox
+the ballpark	latitude longitude	36.3685766666667,-86.4467400000000
+andruw jone	athlete play for team	met
+old trafford	stadium locate in city	liverpool
+alor setar	latitude longitude	6.1166700000000,100.3666700000000
+pakistan	latitude longitude	28.5137638888889,66.7528684259259
+c j wilson	athlete play in league	nhl
+university of illinois at chicago	team play sport	basketball
+northwest	have office in city	st louis
+bobcat	team home stadium	time warner cable arena
+bengal	team play against team	steeler
+beirut	city locate in country	southern lebanon
+u s	synonym for	permit
+houston rocket	team play against team	washington wizard
+time	newspaper in city	beijing
+matt forte	athlete play in league	nfl
+met	team play in city	milwaukee
+jose guillen	athlete play in league	mlb
+series	sport game winner	white sox
+brave	team member	chuck jam
+chicago	proxy for	yankee
+met	agent compete with agent	yankee
+brandon rush	athlete play sport	basketball
+dennis rodman	athlete play in league	nba
+dolphin stadium	stadium locate in city	miami
+tampere	city locate in country	france
+jet	team play against team	titan
+south	city locate in country	laos
+joe torre	coach team	yankee
+brian gile	person belong to organization	padre
+andruw jone	person belong to organization	dodger
+france	team win trophy	world cup championship
+cub	team play against team	baltimore oriol
+george town	city locate in country	bahama
+nfl	league player	david eckstein
+freddy sanchez	agent belong to organization	pittsburgh pirate
+bengal	team play against team	saint
+lsu	team play against team	razorback
+houston	city stadium	compaq center
+oiler	team play against team	packer
+dhaka	city lie on river	buriganga
+southern asia	latitude longitude	22.2077500000000,76.9702100000000
+ian kennedy	athlete play for team	yankee
+oregon duck	team play against team	sooner
+chicago cub	team play in league	mlb
+boston	proxy for	toronto maple leaf
+new york yankees	team home stadium	historic yankee stadium
+toulouse	city locate in country	france
+baseball	sport use stadium	camden yard
+dallas maverick	team play in league	nba
+airway	have office in city	heathrow
+rob bowen	athlete play in league	mlb
+benaroya hall	stadium locate in city	seattle
+boone picken stadium	stadium locate in city	stillwater
+johan santana	athlete play for team	new york met
+gator	team play sport	basketball
+detroit lion	team home stadium	pontiac silverdome
+n2004 world series	sport game team	boston red sox
+ashford	city locate in country	uk
+la coliseum	latitude longitude	34.0137000000000,-118.2830000000000
+andy pettite	athlete play sport	baseball
+buchar	city locate in country	moldavia
+jesse orosco	athlete play in league	mlb
+cub	agent compete with agent	met
+air berlin	headquarter in	basel
+nfl	league player	darren mcfadden
+melky cabrera	person belong to organization	new york yankees
+tom gordon	athlete play in league	mlb
+palma de mallorca	city locate in country	spain
+brandon jackson	person belong to organization	packer
+jet	team play against team	bengal
+maverick	subpart of organization	nba
+philadelphia 76er	team play sport	basketball
+favre	person belong to organization	ny jet
+harmon killebrew	athlete play in league	mlb
+russ springer	agent belong to organization	mlb
+ambassador theatre	latitude longitude	40.6616700000000,-73.9158300000000
+hanoi	city locate in country	french indochina
+southwest	headquarter in	washington dc
+bear	team play against team	redskin
+steeler	team play against team	raider
+bucky dent	athlete play for team	yankee
+matt lindstrom	athlete play in league	mlb
+michigan	state locate in country	middle east
+tcf bank stadium	stadium locate in city	minneapolis
+timberwolf	team play sport	basketball
+florida	state locate in country	u s
+malaysia airline	headquarter in	cape town
+hockey	sport team	minnesota north star
+florida marlin	team play against team	yankee
+millenium stadium	latitude longitude	51.4788550000000,-3.1819450000000
+philadelphia eagle	team play against team	new york giant
+joe torre	person belong to organization	met
+resita	city locate in country	romania
+afghanistan	country capital	kabul
+nebraska	state have capital	gothenburg
+philippine	country currency	pesos
+anheuser busch	have office in city	st louis
+amway arena	stadium home team	orlando magic
+wtsp	television station in city	st petersburg
+marcus gile	athlete play for team	brave
+american	agent act in location	mexico city
+pittsburgh steeler	team play against team	patriot
+marseille	city capital of country	france
+los angeles	proxy for	madison square garden
+us airway arena	stadium locate in city	landover
+majorca	latitude longitude	14.4483800000000,-8.4696100000000
+canada	country city	halifax
+washington redskin	team play in city	baltimore
+cesky krumlov	city locate in country	czech republic
+jet	team play against team	buccaneer
+rockie	agent collaborate with agent	brad hawpe
+physical therapy	academic program at university	chatham university
+nolan ryan	athlete play for team	met
+mlb	league player	derrek lee
+st louis blue	team play in city	saint louis
+yale university	team play sport	basketball
+flyer	team play against team	capital
+basketball	player	shaq
+ukraine	country city	kharkov
+chicago blackhawks	team play in city	detroit
+west	city locate in country	cyprus
+yosu	latitude longitude	36.1917209090909,127.6054068181818
+london	city locate in country	united kingdom
+chris duhon	athlete play in league	nba
+matt riley	athlete play in league	mlb
+nba championship	trophy win by team	piston
+panther	team play against team	redskin
+john baker	athlete play in league	mlb
+dan haren	athlete play in league	mlb
+staple center	stadium locate in city	detroit
+washington state	team play against team	trojan
+mallorca	city capital of country	spain
+brad penny	agent belong to organization	mlb
+essaouira	latitude longitude	32.1759990476190,-10.0678109523810
+mlb	league team	montreal expos
+san diego padre	agent collaborate with agent	tony gwynn
+steve spagnuolo	work for	st louis ram
+mlb	league player	todd jon
+boone picken stadium	latitude longitude	36.1256900000000,-97.0665400000000
+tom cable	coach team	oakland raider
+pedro feliz	athlete play for team	phillie
+london	location locate with in location	united kingdom
+mlb	league player	jeff mathis
+west	city locate in country	gambia
+nfl	league player	warren sapp
+eindhoven	city locate in country	netherland
+vietnam airline	have office in city	ho chi minh city
+jack nicklaus	athlete play sport	golf course
+west tennessee	state locate in country	united state
+cleveland	city stadium	gund arena
+beijing	city locate in country	britain
+university of colorado at boulder	team play sport	basketball
+mike pelfrey	athlete play in league	mlb
+red rock amphitheatre	stadium locate in city	morrison
+denis savard	coach team	chicago blackhawks
+south africa	country city	cape town
+busch stadium	stadium home to athlete	albert pujol
+new york giant	team play in city	st louis
+randy johnson	athlete play for team	arizona diamondback
+malaysia airline	headquarter in	heathrow
+mechanical engineering	academic program at university	georgia tech
+robb nen	athlete play in league	nfl
+ichiro suzuki	agent belong to organization	star
+nebraska cornhusker	team home stadium	memorial stadium
+white sox	team member	john dank
+bucknell university	team play sport	basketball
+west	city locate in country	netherland
+monastir	city locate in country	tunisia
+suriname	latitude longitude	6.8508418750000,-46.1988181250000
+marlin	team play against team	rockie
+sheffield	mutual proxy for	sheffield arena
+ny	mutual proxy for	shea stadium
+kstp	television station in city	minneapolis
+albert belle	athlete play for team	white sox
+gordie howe	athlete play in league	nhl
+seahawks	team play against team	raider
+woodland park zoo	attraction of city	seattle
+nick saban	work for	michigan state
+tampa bay lightning	subpart of organization	nhl
+france	team win trophy	rugby world cup
+pittsburgh pirate	agent collaborate with agent	bill mazeroski
+laredo community college	latitude longitude	27.5061300000000,-99.5194900000000
+loftus versfeld stadium	stadium locate in city	pretoria
+steeler	team play against team	new england patriot
+el aaiun	latitude longitude	27.3561100000000,-12.9763866666667
+german	language of university	brigham young university
+josh beckett	athlete play for team	red sox
+javier lopez	athlete play for team	red sox
+idaho state	team play sport	basketball
+u s	synonym for	list
+dublin	city locate in country	united kingdom
+nfl	league player	matt schaub
+british airway	headquarter in	gatwick
+jorge posada	athlete play for team	yankee
+uruguay	country city	montevideo
+mlb	league player	andre ethier
+fa cup	trophy win by team	spur
+google	acquire	dodgeball
+tyler johnson	agent belong to organization	mlb
+washington wizard	team home stadium	verizon center dc
+mark buehrle	agent belong to organization	white sox
+andy sonnanstine	athlete play in league	mlb
+airline	headquarter in	fort lauderdale
+mango	have office in city	cape town
+freeman	agent belong to organization	kansas state
+ekaterinburg	city locate in country	russia
+brewer	team play against team	yankee
+atlanta	proxy for	phillip arena
+tennessee	state locate in country	u s
+clipper	team home stadium	staple center
+american	have office in city	nicosia
+dennis erickson	work for	arizona state
+jose lopez	agent belong to organization	mlb
+garret anderson	agent belong to organization	mlb
+france	subpart of organization	bank
+dusseldorf	city have company office	air berlin
+harrogate	city locate in country	uk
+bill curry	work for	georgia tech
+jason kapono	athlete play for team	raptor
+lleida	latitude longitude	41.5838226923077,0.6203553846154
+minnesota viking	team play against team	new york giant
+greensboro coliseum	latitude longitude	36.0450000000000,-79.8362000000000
+philadelphia phillie	team home stadium	bright house field
+byu	latitude longitude	39.3789633333333,101.7092380000001
+phillie	agent collaborate with agent	pedro feliz
+devil ray	team member	carl crawford
+art shell	coach team	oakland raider
+emirate	headquarter in	cape town
+united state	country state	hawaii
+cherkasy	latitude longitude	53.9570521739130,41.2793604347826
+united	agent act in location	malaysia
+hawk	team play in league	nhl
+french	language of university	michigan state university
+philippine	country city	metro manila
+st louis cardinal	team play in league	nfl
+hanoi	city locate in country	north vietnam
+nou camp	latitude longitude	41.3808000000000,2.1231100000000
+la	latitude longitude	19.0206261613929,-48.4914097981720
+united	at location	south korea
+assen	city locate in country	netherland
+steve martin	actor star in movie	l a story
+steeler	team play against team	titan
+flyer	team play against team	buffalo sabre
+blois	city capital of country	france
+imperial college	university have academic program	physics
+oliver perez	athlete play in league	mlb
+buffalo sabre	team play against team	pittsburgh penguin
+hilton head	latitude longitude	32.1992068627451,-80.7415023529412
+mike cameron	athlete play for team	met
+pittsburgh steeler	team play against team	miami dolphin
+nfl	league player	bobby carpenter
+thailand	synonym for	siam
+dustin pedroia	athlete play for team	sox
+french	language of university	penn state
+jim o brien	coach team	ohio state
+vilna	city locate in country	lithuania
+toronto raptor	team play sport	basketball
+target center	stadium home to league	nba
+diamondback	agent collaborate with agent	orlando hudson
+mike singletary	coach in league	nfl
+starbuck	have office in city	seattle
+nba	league player	mike jam
+alaska	state locate in country	united state
+the stranger	newspaper in city	seattle
+cleveland indian	team play against team	florida marlin
+minnesota viking	team home stadium	metrodome
+pembroke	city locate in country	france
+edwin encarnacion	athlete play in league	mlb
+cinergy field	latitude longitude	39.0967300000000,-84.5082800000000
+brett cecil	athlete play in league	mlb
+manny	athlete play for team	boston red sox
+vancouver canuck	team home stadium	general motor place
+indiana	state locate in country	u s
+oakland raider	team play sport	football
+nfl	league player	reggie sander
+mike holmgren	work for	green bay packer
+red sox	team win trophy	world championship
+arizona state	team play in league	nhl
+johns hopkin university	latitude longitude	39.1860642857143,-77.0398057142857
+english	language of university	suny
+kenya airway	headquarter in	mombasa
+pepsi center	stadium home team	nugget
+seattle	city have company office	northwest
+santiago	city locate in country	dominican republic
+sandisk	have office in country	u s
+mlb	league stadium	pnc park
+shannon stewart	athlete play in league	mlb
+nba	league player	allan houston
+bret boone	person belong to organization	mariner
+nfl	league player	brian brohm
+west	city locate in country	eastern europe
+heath miller	athlete play for team	steeler
+henry rodriguez	athlete play in league	mlb
+an najaf	latitude longitude	32.1271835000000,44.1899505000000
+chemnitz	city locate in country	germany
+ny yankee	team play in city	new york city
+bill russell	athlete play in league	nba
+colt	team play against team	charger
+san antonio spur	team play against team	knick
+carl pavano	athlete play for team	yankee
+expos	team home stadium	olympic stadium
+ryan madson	athlete play in league	mlb
+mit	team play sport	basketball
+michigan	state locate in country	canada
+staple center	stadium locate in city	san antonio
+ulan bator	latitude longitude	47.9077100000000,106.8832400000000
+basketball	player	dwayne wade
+los angeles ram	team play in league	nfl
+mlb	league player	reggie jackson
+raider	team play against team	packer
+sandy koufax	athlete play in league	mlb
+southampton	city locate in country	great britain
+butch davis	coach team	tar heel
+cape verde	country capital	praia
+penn college	latitude longitude	41.3091700000000,-92.6468600000000
+chuck jam	athlete play for team	brave
+ncaa	league stadium	alamodome
+brian fuente	athlete play for team	rockie
+anthony morrow	athlete play in league	nba
+cusco	city locate in country	peru
+continental	headquarter in	caribbean
+eritrea	country capital	asmara
+heinz field	stadium home team	steeler
+shawn est	athlete play in league	mlb
+polokwane	latitude longitude	-23.9000000000000,29.4500000000000
+fresno state	team play in city	fresno
+busch stadium	stadium locate in city	saint louis
+bengal	synonym for	paul brown
+abrante	city locate in country	portugal
+baseball	player	ken griffey jr
+padre	team member	michael barrett
+adam loewen	agent belong to organization	mlb
+caesar indiana	latitude longitude	38.1792000000000,-85.9016000000000
+zambia	country capital	lusaka
+josh hamilton	athlete play for team	devil ray
+riyadh	city capital of country	saudi arabia
+pittsburgh penguin	team win trophy	stanley cup final
+yankee	agent collaborate with agent	don mattingly
+today	have office in city	beijing
+freddy sanchez	agent belong to organization	mlb
+united	at location	caribbean
+astrodome	building locate in city	houston
+toronto maple leaf	team play against team	carolina hurricane
+alberto gonzalez	agent belong to organization	mlb
+los angeles	mutual proxy for	usc trojan
+manny ramirez	agent belong to organization	mlb
+nfl	league player	carl hubbell
+saudia arabia	latitude longitude	25.0000000000000,45.0000000000000
+travel	have office in city	stanst
+reuter	have office in city	bangalore
+denver	proxy for	los angeles laker
+chicago	city stadium	us cellular field
+air canada	have office in city	vancouver international airport
+wizz air	headquarter in	bourgas
+kevin cash	athlete play for team	red sox
+sintra	city capital of country	portugal
+bear	team play in league	nfl
+mlb	league player	willie hernandez
+baseball	sport use stadium	progressive field
+st julian	latitude longitude	35.9153800000000,14.4967950000000
+mlb	league player	todd pratt
+brewer	team play against team	astro
+mlb	league player	cole hamel
+cambodia	country currency	dollar
+denver	city sport team	nugget
+air namibia	agent act in location	south africa
+yankee	subpart of organization	mlb
+green bay packer	team play against team	washington redskin
+kansas city royal	team play in city	chicago
+miguel cabrera	athlete play in league	mlb
+alaska airline	agent act in location	seattle
+new england patriot	team home stadium	gillette stadium
+phoenix sun	team play sport	basketball
+vancouver canuck	team play in league	nhl
+thomsonfly	have office in city	heraklion
+tiger airway	agent act in location	singapore
+otis nixon	athlete play in league	mlb
+brave	agent collaborate with agent	marcus gile
+jasper	city locate in country	canada
+american	headquarter in	minneapolis
+cincinnati red	team play in city	cincinnati
+american republic	latitude longitude	41.6019300000000,-93.6605000000000
+david ortiz	person belong to organization	boston red sox
+dan haren	agent belong to organization	diamondback
+u s	synonym for	inspector general
+buccaneer	team play against team	bengal
+tennessee state university	team play sport	football
+orlando hernandez	agent belong to organization	mlb
+vic theatre	stadium locate in city	chicago
+nfl	league stadium	ford field
+english	language of university	claremont graduate university
+draw bree	athlete play for team	charger
+ryan fitzpatrick	athlete play for team	bengal
+france	team win trophy	world cup
+jermaine dye	person belong to organization	white sox
+knick	team home stadium	madison square garden
+florida marlin	team home stadium	dolphin stadium
+cuzco	city locate in country	peru
+andruw jone	person belong to organization	atlanta brave
+white sox	team member	jermaine dye
+milton bradley	athlete play for team	dodger
+amaranth	latitude longitude	43.3237525000000,-87.1560212500000
+baseball	sport team	yankee
+jeff francoeur	athlete play for team	atlanta brave
+husker	team play against team	sooner
+bangkok airway	headquarter in	koh samui
+dayton flyer	team play in league	ncaa
+lee gardner	agent belong to organization	mlb
+penn state university	team play sport	football
+razorback	team play against team	cowboy
+chien m wang	athlete play for team	new york yankees
+pat knight	work for	texas tech
+zimbabwe	country currency	dollar
+charger	team win trophy	playoff
+virginia	state locate in country	united state
+met	team play against team	dodger
+ucla	team play against team	washington state
+basketball	sport team	loyola marymount university
+gothenburg	city locate in country	scandinavia
+matt cassel	athlete play for team	pat
+byu	team play in league	ncaa
+rocket	team play against team	knick
+ron villone	athlete play for team	yankee
+randy moss	athlete play for team	oakland raider
+redskin	team play against team	chief
+kissimee	latitude longitude	28.3135600000000,-81.4674800000000
+world	headquarter in	heathrow
+science	academic program at university	georgia institute of technology
+simon fras university	university have academic program	business administration
+ouagadougou	city capital of country	burkina faso
+tromso	city capital of country	norway
+los angeles angel of anaheim	team home stadium	edison international field
+morocco	country city	ouarzazate
+brave	team win trophy	playoff
+cricket arena	stadium locate in city	charlotte
+brave	team play against team	indian
+el madrigal	latitude longitude	11.3731450000000,-70.3762550000000
+johnny damon	person belong to organization	red sox
+gary bennett	athlete play in league	mlb
+rome	city locate in country	france
+germany	synonym for	nuremberg
+nfl	league player	edgar renteria
+basketball	sport team	laker
+kong	television station in city	malacca
+viseu	city locate in country	portugal
+basrah	latitude longitude	29.0906200000000,46.1338877142857
+cincinnati red	team play in league	mlb
+united	agent act in location	yerevan
+mlb	league team	pittsburgh pirate
+ercolano	latitude longitude	41.1343171428571,14.0761585714286
+lynx air	have office in city	fort lauderdale
+basketball	sport team	columbia university
+anger	city locate in country	france
+los angeles laker	team play sport	professional basketball
+colmar	city capital of country	france
+jason kapono	athlete play sport	basketball
+cowboy	team play against team	steeler
+robert trent jon	athlete play sport	n18 hole golf
+ranger	team home stadium	madison square garden
+boise state	team play sport	football
+bengal	team play against team	packer
+pittsburgh penguin	team home stadium	civic arena
+united	agent act in location	south korea
+nba	agent control	seattle
+raven	team play in league	nfl
+brian anderson	agent belong to organization	mlb
+yankee	team member	yogi berra
+georgetown	city locate in country	united state
+san diego padre	agent collaborate with agent	jake peavy
+viggo mortensen	actor star in movie	lord of the ring
+nba	league stadium	quicken loan arena
+bobby petrino	coach team	razorback
+chris paul	athlete play sport	basketball
+mlb	league player	dwight gooden
+varig	headquarter in	sao paulo
+university of hawaii at manoa	team play sport	basketball
+maryland	state locate in country	u s
+brandon dubinsky	athlete play in league	nhl
+library science	academic program at university	emporia state university
+yankee	team member	mariano rivera
+troy glaus	person belong to organization	st louis cardinal
+easyjet	headquarter in	rijeka
+bruin	team play against team	montreal canadien
+minneapolis	location locate with in location	resource
+texas	state locate in country	france
+jon garland	athlete play for team	white sox
+carleton college	latitude longitude	44.4623000000000,-93.1546700000000
+notre dame	team play in league	nfl
+nfl	league player	mark anderson
+kitchener	city locate in country	canada
+hard college	latitude longitude	37.0390600000000,-88.4882033333333
+accra	city locate in country	ghana
+parati	latitude longitude	-5.5060693333333,-15.9386013333333
+mlb	league player	tyler flower
+yusmeiro petit	agent belong to organization	mlb
+packer	team play against team	seahawks
+matt diaz	athlete play for team	brave
+dakota	state locate in country	united state
+houston astro	agent collaborate with agent	jeff bagwell
+red wing	team play against team	colorado avalanche
+brave	team play against team	new york yankees
+toronto maple leaf	worker	paul maurice
+click	city capital of country	philippine
+marlin	team home stadium	dolphin stadium
+aktubinsk	latitude longitude	50.2796900000000,57.2071800000000
+bosnia	country also know as	republika srpska
+boston	proxy for	st louis blue
+sam lynn ballpark	stadium locate in city	bakersfield
+phil hugh	agent belong to organization	mlb
+fau	team play in city	fort lauderdale
+new england	at location	canada
+nfl	league team	cleveland brown
+nba	league player	julius erv
+nba	league stadium	the palace of auburn hill
+mlb	league player	mariano rivera
+california	state locate in country	u s
+saint loui university	latitude longitude	38.6256133333333,-90.2356900000000
+texas	state locate in country	canada
+cincinnati red	team play against team	los angeles dodger
+oregon duck	team play against team	trojan
+washington	location contain location	seattle
+fort william	city locate in country	uk
+la plata	city locate in country	argentina
+belorussia	latitude longitude	54.3650000000000,30.2800000000000
+basel	city zoo	zoo basel
+seahawks	team play against team	bill
+nhl	league stadium	american airline center
+dusseldorf	city lie on river	rhine
+university of detroit mercy	team play sport	basketball
+nba	agent control	laker
+oregon	state contain city	madra
+new delhi	city capital of country	india
+phoenix	city locate in country	canada
+phoenix	proxy for	los angeles clipper
+casablanca	city locate in country	france
+stockholm	city locate in country	france
+red sox	agent collaborate with agent	bill mueller
+brave	team member	adam laroche
+boston red sox	agent collaborate with agent	coco crisp
+heathrow	location act in by agent	british airway
+luis gonzalez	athlete play for team	marlin
+perth	city locate in country	uk
+cougar stadium	latitude longitude	34.9744300000000,-101.9459066666667
+la laker	subpart of organization	nba
+gary carter	athlete play for team	montreal expos
+united	at location	azerbaijan
+cleveland cavalier	team play sport	basketball
+chad durbin	athlete play in league	mlb
+sixer	team play in league	nba
+calgary	city sport team	flame
+randy moss	athlete play in league	nfl
+bobby ross	work for	nfl
+illini	team play sport	basketball
+laker	team play against team	heat
+michigan	state locate in country	south asia
+north carolina state	team coach	tom o brien
+spur	team win trophy	nba championship
+freddy sanchez	athlete play in league	mlb
+world series	trophy win by team	dodger
+citizen bank park	stadium home team	phillie
+casey blake	agent belong to organization	dodger
+nfl	league player	khalil greene
+united	agent act in location	caribbean
+charlotte hornet	subpart of organization	nba
+nba championship	trophy win by team	boston celtic
+los angeles laker	team play in city	dalla
+ken griffey jr	athlete also know as	ken griffey jr
+uw oshkosh	team play in league	nfl
+brett anderson	athlete play in league	mlb
+canmore	city locate in country	canada
+jakarta	location locate with in location	indonesia
+bill	team play against team	seahawks
+blackberry	have office in country	u s
+east tennessee state	latitude longitude	36.3034400000000,-82.3690300000000
+rutger	team play in league	acc
+raptor	subpart of organization	nba
+mlb	league player	mark teixeira
+jim schwartz	coach in league	nfl
+arizona state	team play sport	baseball
+charger	team play against team	viking
+samarrah	latitude longitude	34.2149150000000,45.3812150000000
+mlb	league player	kosuke fukudome
+south	city locate in country	former soviet union
+chuck knoblauch	athlete play in league	mlb
+north	city locate in country	zambia
+island air	headquarter in	grand cayman
+comcast arena	stadium locate in city	everett
+iowa state	team coach	dan mccarney
+click	city locate in country	philippine
+penn state	team play against team	trojan
+kenmore air	headquarter in	seattle
+blue jacket	team play in league	nhl
+gaucho	latitude longitude	-31.2062453846154,-62.2946246153846
+bus	transportation in city	cusco
+mlb	league player	dave winfield
+justin masterson	athlete play for team	red sox
+matsui	athlete play for team	yankee
+nfl	league player	jerome william
+united	have office in city	washington dc
+tom gordon	athlete play for team	yankee
+diamondback	team member	conor jackson
+nfl	league team	los angeles ram
+mlb	league player	david dejesu
+nhl	league team	arizona state
+yankee	agent collaborate with agent	johnny damon
+florida	state locate in country	ghana
+oiler	team play in league	nfl
+eastern illinois university	team play sport	basketball
+mac	have office in country	united state
+alcoa	have office in country	united state
+rosario	city locate in country	argentina
+todd greene	athlete play in league	mlb
+new school	latitude longitude	39.0872420000000,-88.5054308000000
+luis figueroa	athlete play in league	mlb
+civil engineering	academic program at university	brigham young university
+miami dolphin	team play against team	new york jet
+fort lauderdale	latitude longitude	26.1553781052631,-80.1822510526316
+pretoria	city capital of country	south africa
+mlb	league team	diamondback
+italie	latitude longitude	38.4706934782609,-7.0361917391304
+morgan state	latitude longitude	40.4276225000000,-76.5850800000000
+lisbon	city locate in country	portugal
+nba	league stadium	fleet center
+hull	city locate in country	great britain
+minnesota twin	team play against team	tampa bay ray
+cristian guzman	athlete play in league	mlb
+nfl	league stadium	arrowhead stadium
+skyeurope	have office in city	buchar
+bear	team play against team	steeler
+united	agent act in location	netherland
+emirate	headquarter in	dhaka
+peyton man	athlete home stadium	lucas oil stadium
+jet airway	have office in city	bangalore
+the fillmore	stadium locate in city	san francisco
+colt	team play against team	pittsburgh steeler
+basketball	sport team	golden state warrior
+bangladesh	country currency	taka
+uconn	team play in league	big east
+north carolina tar heel	subpart of organization	ncaa
+office depot center	stadium locate in city	miami
+ivan rodriguez	athlete play for team	astro
+erick dampier	athlete play sport	basketball
+baseball	player	jonathan papelbon
+zambia	latitude longitude	-10.1521109090909,17.6579309090909
+bobby knight	work for	texas tech
+sec	league team	mississippi state
+ottawa senator	team play in league	nhl
+iowa state	team play against team	kent state
+mlb	league player	alexi casilla
+california state university sacramento	latitude longitude	38.5616800000000,-121.4242600000000
+business	academic program at university	wharton school
+vicente padilla	athlete play in league	mlb
+basketball	sport use stadium	american airline center
+kep	city locate in country	cambodia
+mlb	league player	chuck knoblauch
+xcel energy center	stadium home to league	nhl
+benin	country city	porto novo
+joe crede	athlete play in league	mlb
+somerset	city locate in country	france
+oklahoma state	team play sport	baseball
+blue jacket	team home stadium	nationwide arena
+netherland	synonym for	application
+varitek	agent belong to organization	boston red sox
+phillie	team play against team	brooklyn dodger
+cincinnati	city locate in country	united state
+missouri state	team play in league	nfl
+nfl	league player	jonathan sanchez
+tampa bay buccaneer	team home stadium	raymond jam stadium
+la	proxy for	dallas maverick
+transavia	headquarter in	heraklion
+panther	team play against team	bengal
+adam kennedy	agent belong to organization	mlb
+bear	team home stadium	wrigley field
+atlanta flame	team play in league	nhl
+boston	mutual proxy for	philadelphia phillie
+pittsburgh penguin	team play in city	detroit
+flyer	team home stadium	wachovia center
+waterloo station	city lie on river	thame
+brian falkenborg	athlete play for team	dodger
+duck	team play against team	usc
+sri lanka	synonym for	ceylon
+lourenco marque	latitude longitude	-24.2304357142857,33.6848800000000
+orange	have office in country	uk
+panther	team play against team	penguin
+air berlin	headquarter in	thessaloniki
+buccaneer	team play against team	jet
+luis gonzalez	person belong to organization	diamondback
+kevin millwood	agent belong to organization	mlb
+basketball	sport team	texas tech
+bobigny	city locate in country	france
+u s treasury	synonym for	united state
+diamondback	team play against team	met
+west	city locate in country	tunisia
+alexander ovechkin	athlete coach	bruce boudreau
+craig biggio	person belong to organization	astro
+casey mcgehee	athlete play in league	mlb
+mlb	league team	brewer
+ichiro suzuki	person belong to organization	seattle mariner
+oklahoma	state locate in country	u s
+basketball	player	stephon marbury
+romo	athlete play in league	nfl
+international relation	academic program at university	florida international university
+uk	country city	hull
+north carolina state wolfpack	subpart of organization	ncaa
+sterling	agent act in location	gatwick
+south	city locate in country	west germany
+oakland raider	worker	john madden
+seatac	synonym for	seattle
+astro	team play against team	sox
+lithuania	country city	kauna
+london gatwick	city have company office	easyjet
+tunisia	country city	sfax
+jet airway	have office in city	heathrow
+n1963 world series	sport game team	los angeles dodger
+sacramento king	subpart of organization	nba
+allen iverson	athlete play for team	nugget
+kortrijk	latitude longitude	51.0286114285714,3.7335078571429
+arizona diamondback	winner in game	n2001 world series
+mlb	league player	chien m wang
+liberty flame	team play in league	ncaa
+st malo	city locate in country	france
+sbc	have office in city	st louis
+trans world	have office in city	st louis
+air koryo	have office in city	beijing
+mlb	league player	pat neshek
+north	city locate in country	united state
+saint paul	city capital of state	minnesota
+miami	city locate in country	france
+kevin brown	athlete play for team	dodger
+rockie	team play in city	denver
+swede	latitude longitude	44.5086410869565,-102.1625804782609
+joe namath	athlete play for team	new york jet
+leaf	team member	jason blake
+penn state	team play sport	golf
+sox	team play against team	devil ray
+east carolina	team play against team	virginia tech
+los angeles laker	team play in city	minneapolis
+red wing	team play in league	nhl
+jason grimsley	athlete play in league	mlb
+sam houston state	latitude longitude	30.6113066666667,-94.7489033333333
+washington dc	location act in by agent	american
+mike mussina	agent belong to organization	mlb
+lincoln	city locate in country	uk
+pujol	athlete play for team	louis cardinal
+taiwan	country city	kaohsiung
+brad penny	agent belong to organization	red sox
+los angeles dodger	agent collaborate with agent	steve garvey
+nba	league stadium	palace
+boulogne sur mer	city locate in country	france
+uk	locate at	united
+mlb	league player	koyie hill
+sun	team play in league	nba
+n2000 world series	sport game winner	ny yankee
+ray allen	athlete play sport	basketball
+gavin floyd	person belong to organization	phillie
+psu	agent control	joe paterno
+albuquerque	city locate in country	united state
+justin duchscherer	athlete play in league	mlb
+atlanta brave	team home stadium	turner field
+rockie	team play against team	met
+nfl	league stadium	gillette stadium
+nba	agent control	washington bullet
+albert pujol	athlete play sport	hockey
+los angeles dodger	team play against team	san francisco giant
+madison square garden	stadium locate in city	chicago
+trojan	team play in league	nhl
+los angeles king	subpart of organization	nhl
+oakland raider	team play against team	san diego charger
+south	city locate in country	kyrgyzstan
+denver broncos	team play against team	san diego charger
+nfl	league player	walter payton
+robison field	latitude longitude	42.7352800000000,-73.6733300000000
+justin ruggiano	agent belong to organization	mlb
+cincinnati	proxy for	new york yankees
+utah valley university	latitude longitude	40.2221800000000,-111.6590900000000
+nfl	league player	peyton man
+ryan church	agent belong to organization	mlb
+hoorn	city locate in country	netherland
+josh beckett	agent belong to organization	red sox
+indianapolis colt	subpart of organization	nfl
+iran air	headquarter in	tehran
+orlando	location locate with in location	united state
+nba	league player	jason hart
+new	headquarter in	beijing
+super bowl	trophy win by team	seattle seahawks
+st louis brown	team play against team	yankee
+xcel energy center	stadium locate in city	saint paul
+basketball	sport team	providence college
+utep	team play against team	smu
+rostov	latitude longitude	49.7852743243243,39.4470781081081
+ivan rodriguez	athlete play for team	marlin
+anger	latitude longitude	47.5939520689655,-22.1674089655173
+redskin	team play against team	dalla cowboy
+washington	proxy for	mci center
+south	city locate in country	belarus
+montreal canadien	team play against team	oiler
+jim carrey	actor star in movie	unfortunate event
+embassy	have office in city	mexico city
+basketball	player	chris paul
+brandon inge	athlete play in league	mlb
+west texas	state locate in country	u s
+luis rodriguez	agent belong to organization	mlb
+green bay packer	team play in city	boston
+wisconsin	state locate in country	u s
+arra	city locate in country	france
+alitalia	headquarter in	london heathrow
+roger centre	stadium locate in city	toronto
+utep	team play against team	nmsu
+los angle	location locate with in location	california
+dungy	work for	tampa bay buccaneer
+south	city locate in country	rwanda
+n1962b mlb all star game	sport game team	chicago cub
+france	team play against team	brazil
+chicago bear	team play against team	steeler
+denver	mutual proxy for	la
+antawn jamison	athlete play in league	nba
+michael bourn	person belong to organization	astro
+purdue	team play against team	buckeye
+orlando magic	team play against team	houston rocket
+jazz	team home stadium	energy solution arena
+tampa bay ray	team play against team	phillie
+tennessee vol	team play in league	ncaa
+persian	language of country	iraq
+mlb	league player	ryan madson
+rockie	team member	matt holliday
+world series	trophy win by team	phillie
+huston street	athlete play for team	rockie
+sprint pcs	have office in country	u s
+usc	team play sport	basketball
+chongq	city locate in country	china
+ghana	latitude longitude	28.1872950000000,41.1058768181818
+hockey	sport team	blackhawks
+rottenburg	latitude longitude	52.3384757142857,-1.5136457142857
+daily	headquarter in	yangon
+ryan dempster	athlete play in league	mlb
+u s	synonym for	authority
+packer	team play against team	cowboy
+marcus gile	athlete play for team	atlanta brave
+baltimore oriol	team play in city	baltimore
+cahor	city locate in country	france
+canuck	team play sport	hockey
+abidjan	city capital of country	ivory coast
+hartford	city stadium	xl center
+english	language of country	united state
+stanford	team play against team	oregon state
+brett favre	athlete play for team	jet
+mlb	league player	magglio ordonez
+paul maurice	work for	toronto maple leaf
+boise state	team win trophy	fiesta bowl
+chimkent	latitude longitude	41.3916650000000,70.6166650000000
+michael irvin	athlete play in league	nfl
+nba	league stadium	prudential center
+curtis granderson	athlete play in league	mlb
+california	location locate with in location	united state
+west	city locate in country	east europe
+nugget	team play against team	sun
+red sox	team member	curt schilling
+roger centre	stadium home team	toronto argonaut
+industrial engineering	academic program at university	arizona state university
+seahawks	team play against team	saint
+pazardzhik	latitude longitude	41.8595425000000,26.6297318750000
+colorado rockie	team play in city	denver
+josh beckett	athlete play for team	marlin
+tim wakefield	athlete play for team	red sox
+jim leyritz	athlete play for team	yankee
+state	headquarter in	bhubaneswar
+chicago	proxy for	chicago theatre
+saint louis ram	team play in league	nfl
+basel	city locate in country	france
+nadi international airport	latitude longitude	-17.7553900000000,177.4433800000000
+nugget	team play against team	san antonio spur
+cody ransom	athlete play in league	mlb
+north	city locate in country	afghanistan
+south	city locate in country	morocco
+juan rincon	athlete play in league	mlb
+ugueth urbina	athlete play in league	mlb
+brandon jone	person belong to organization	brave
+david eckstein	athlete play in league	mlb
+redskin	team play against team	saint
+sandoz	have office in city	basle
+nhl	league team	calgary flame
+chris burke	athlete play for team	diamondback
+nfl	agent control	panther
+san francisco state university	latitude longitude	38.6728300000000,-121.5281450000000
+twin	team play against team	white sox
+ralph wilson stadium	latitude longitude	42.7737000000000,-78.7871000000000
+oklahoma state university	team play sport	basketball
+edgar renteria	athlete play for team	brave
+ryanair	at location	stanst
+american express	have office in country	sri lanka
+cavalier	team home stadium	gund arena
+dodger	team play against team	giant
+giant	team play against team	new england patriot
+ang lee	actor star in movie	hulk
+cleveland cavalier	team play against team	los angeles laker
+mlb	league player	mo vaughn
+anaheim mighty duck	synonym for	arrowhead pond
+nba	mutual proxy for	los angeles
+chris webber	athlete play sport	basketball
+ljubljana	city capital of country	slovenia
+purdue	team home stadium	kohl center
+hockey	sport team	oakland raider
+uzbekistan	latitude longitude	43.9102009090909,67.7636863636364
+kerkira	latitude longitude	39.6455566666667,19.8343516666667
+abu dhabi	city capital of country	uae
+nate mclouth	athlete play for team	brave
+kolkata	city have company office	indian airline
+nhl	league player	elvis andrus
+eric bana	actor star in movie	hulk
+baseball	player	kevin youkili
+san jose	city capital of country	costa rica
+tropicana field	stadium home team	tampa bay devil ray
+metrodome	stadium locate in city	atlanta
+nfl	league team	los angeles raider
+joe torre	coach team	dodger
+san diego charger	team home stadium	heinz field
+jason johnson	athlete play in league	mlb
+nhl	league stadium	mts centre
+ao nang	latitude longitude	8.0471705882353,98.8367429411765
+coor amphitheatre	location locate with in location	san diego
+thailand	country capital	bangkok
+daniel cabrera	athlete play in league	mlb
+rockie	team play in league	mlb
+denver broncos	team play against team	new york giant
+colt mccoy	athlete play in league	nfl
+kl	city capital of country	malaysia
+nhl	league team	jet
+penguin	animal be type of animal	predator
+jody gerut	person belong to organization	padre
+dustin mcgowan	agent belong to organization	mlb
+zarqa	latitude longitude	29.6826417543860,32.7673281871345
+mississippi state	team play sport	football
+michigan state university	latitude longitude	44.1030700000000,-85.1051940000000
+nfl	league player	brandon jacob
+byu	organization acronym have name	brigham young university
+newcastle	city locate in country	france
+british airway	have office in city	thessaloniki
+brett farve	athlete play for team	packer
+mlb	league player	dave kingman
+historic	stadium locate in city	savannah
+mlb	league player	carlo beltran
+louisiana tech	team coach	derek dooley
+sri lanka	latitude longitude	10.3418075862069,64.4865982758621
+texan	subpart of organization	nfl
+new jersey devil	team play against team	bruin
+montreal expos	team play in league	major league baseball
+anaheim convention center	stadium locate in city	anaheim
+prague	location locate with in location	czech republic
+villa julie college	latitude longitude	39.4234450000000,-76.7400100000000
+bristol	city locate in country	u k
+paisley park	have office in city	minneapolis
+delwyn young	athlete play for team	dodger
+enschede	city capital of country	netherland
+josh hamilton	athlete play in league	mlb
+lsu	team home stadium	tiger stadium
+nevada	state locate in country	u s
+stony brook university	team play sport	basketball
+josh wilson	athlete play in league	mlb
+dodger	team play against team	pirate
+nelson cruz	athlete play in league	mlb
+leaf	team home stadium	air canada centre
+csu	team play sport	football
+lsu tiger	team play against team	ohio state
+mariner	team play against team	red sox
+ron darling	athlete play in league	mlb
+mlb	league player	roger clemen
+matt walker	athlete play sport	basketball
+greenpeace	have office in city	beijing
+chief	team play against team	green bay packer
+yankee	agent collaborate with agent	randy johnson
+basketball	sport game example	n2006 basketball championship
+basketball	sport team	buffalo brave
+norway	country city	trondheim
+nick blackburn	agent belong to organization	mlb
+jim rice	athlete play for team	boston red sox
+baseball	player	matt holliday
+chad pennington	athlete play for team	jet
+lefkada	city locate in country	greece
+guinea ecuatorial	latitude longitude	2.0000000000000,10.0000000000000
+yankee	team member	gary sheffield
+scottrade	headquarter in	st louis
+ryanair	have office in city	marrakech
+mike mccarthy	coach team	packer
+yovani gallardo	person belong to organization	mlb
+ryan doumit	agent belong to organization	mlb
+san antonio spur	subpart of organization	nba
+wolfpack	team play in league	acc
+purdue	latitude longitude	40.1881175609756,-90.9400309756097
+brandon jackson	athlete play for team	packer
+south african express	have office in city	cape town
+dan wheeler	athlete play in league	mlb
+mlb	league player	arthur rhod
+indian	team play against team	colorado rockie
+north carolina state university	latitude longitude	35.8331560000000,-78.6851560000000
+dodger	latitude longitude	-37.7625500000000,144.6900450000000
+frank francisco	agent belong to organization	mlb
+ranger	team play against team	penguin
+green bay packer	team play in league	nfl
+swiss	have office in city	basel
+ralph wilson stadium	stadium locate in city	miami
+st petersburg	city lie on river	neva
+aerotek	have office in city	seattle
+arad	city locate in country	romania
+caribbean	locate at	united
+southern methodist mustang	team play in league	ncaa
+b j upton	athlete play for team	devil ray
+san jose shark	subpart of organization	nhl
+paul bako	athlete play in league	mlb
+tennessee titan	team play sport	football
+willie mccovey	athlete play in league	nfl
+n18 hole golf	player	robert trent jon
+patriot	team play in league	nfl
+padre	team play sport	baseball
+sidi bu zayd	latitude longitude	34.3248455555556,13.0363266666667
+beauty	have office in country	uk
+ohio state	agent control	year
+houston	proxy for	tennessee titan
+tirana	location locate with in location	albania
+jon gruden	coach team	tampa bay bucs
+natanya	latitude longitude	32.3336100000000,34.8577800000000
+chris iannetta	athlete play for team	rockie
+blue jacket	team play sport	hockey
+nba	agent control	vancouver grizzly
+petersen event center	latitude longitude	40.4438000000000,-79.9623000000000
+bo pelini	coach team	lsu
+hockey	player	michael vick
+nfl	league player	ray durham
+cyprus	country city	nicosia
+mike mccarthy	work for	packer
+francisco cervelli	athlete play in league	mlb
+brave	team member	tim hudson
+stephen draw	athlete play in league	mlb
+mlb	league player	bill hall
+colorado rockie	team play against team	diamondback
+white sox	team member	paul konerko
+texas	state locate in country	uk
+mlb	league player	matt morris
+la	mutual proxy for	host
+east bengal	state have capital	dhaka
+philadelphia eagle	team play in league	nfl
+compaq center	stadium locate in city	houston
+saint	team play against team	bengal
+chicago cub	team play against team	dodger
+u k	latitude longitude	44.4916650000000,14.8750000000000
+met	team play against team	philadelphia phillie
+indiana pacer	team play against team	laker
+jeff francoeur	agent belong to organization	atlanta brave
+mlb	agent control	yankee
+chris schroder	athlete play in league	mlb
+mlb	league stadium	new yankee stadium
+chernivtsi	latitude longitude	48.3777766666667,26.6611100000000
+ranger	team play in city	seattle
+diamondback	team member	brandon lyon
+nfl	league player	mel ott
+travis blackley	agent belong to organization	mlb
+st david	latitude longitude	52.4155600000000,-52.4349337500000
+rosemont horizon	stadium locate in city	chicago
+antalya	latitude longitude	36.7172045454546,30.7988800000000
+william paterson university	latitude longitude	40.9456500000000,-74.1995900000000
+mellon arena	stadium home team	pittsburgh penguin
+ryan church	person belong to organization	new york met
+giant	team play against team	yankee
+houston rocket	team play sport	basketball
+michigan state	team play against team	nittany lion
+fernando perez	athlete play in league	mlb
+british airway	have office in city	cape town
+fau	team play against team	fiu
+tommie agee	athlete play for team	met
+english	language of university	georgia southern university
+san diego charger	team play in city	pittsburgh
+george brett	athlete play in league	mlb
+glasgow	city locate in country	great britain
+jet	team play against team	pat
+eric bruntlett	athlete play in league	mlb
+bobby bowden	coach team	florida state university
+thai	headquarter in	chiangmai
+ranger ballpark	stadium locate in city	arlington
+shinjuku	latitude longitude	35.7353923076923,139.5842169230769
+north	city locate in country	the netherland
+kauai	city locate in country	united state
+oak ridge	latitude longitude	37.5173811130137,-88.4196000513699
+mlb	league player	curtis granderson
+spur	team play against team	clipper
+mlb	league player	dan haren
+tobey maguire	agent involve with item	spider man
+makati city	latitude longitude	14.5548000000000,121.0193000000000
+nba	league player	aaron brook
+puerto madryn	city locate in country	argentina
+mike riley	work for	oregon state
+chungk	latitude longitude	30.0960850000000,105.1142200000000
+atlanta falcon	subpart of organization	nfl
+miguel tejada	person belong to organization	baltimore oriol
+jim zorn	coach team	redskin
+hanley ramirez	athlete play for team	marlin
+brown	team play against team	new york jet
+fr lewis	athlete play in league	mlb
+kevin smith	actor star in movie	clerk ii
+bobby abreu	person belong to organization	yankee
+bismarck civic center	latitude longitude	46.8025000000000,-100.7833300000000
+broncos	team play against team	new england patriot
+roy halladay perfect game	sport game team	philadelphia phillie
+netherland	country city	tilburg
+san francisco giant	team play against team	dodger
+amway arena	stadium locate in city	orlando
+west virginia state university	latitude longitude	38.3826300000000,-81.7655300000000
+tracy mcgrady	athlete play in league	nba
+grand avenue	street in city	st paul
+san diego charger	agent control	norv turner
+yankee	team play against team	cub
+american	have office in city	montevideo
+met	team play against team	expos
+vichy	city locate in country	france
+mlb	league player	matt william
+bucky dent	athlete play in league	mlb
+los angeles laker	team play against team	los angeles clipper
+jason schmidt	person belong to organization	dodger
+jim thome	agent belong to organization	white sox
+la dodger	team play sport	baseball
+joe paterno	work for	psu
+monta ellis	athlete play sport	basketball
+new orlean arena	stadium home to league	nba
+veliko tarnovo	latitude longitude	42.9206700000000,25.4354200000000
+washington redskin	team play in league	nfl
+yankee	team play in city	tampa
+doug brocail	athlete play for team	astro
+tel afar	latitude longitude	36.3779000000000,42.4488800000000
+waynesburg college	latitude longitude	39.8997600000000,-80.1885050000000
+the philippine	latitude longitude	19.8916500000000,72.0080050000000
+phnom penh	location locate with in location	cambodia
+staple center	stadium locate in city	chicago
+airline	headquarter in	gatwick
+mashad	latitude longitude	33.3218354838710,54.9460141935484
+towson university	team play sport	basketball
+psu	organization acronym have name	portland state university
+world series	trophy win by team	chicago white sox
+colorado state university	latitude longitude	38.8059980000000,-105.2130460000000
+mlb	league player	ron darling
+north	city locate in country	portugal
+bologne	latitude longitude	46.8634516666667,-11.8927400000000
+bangkok	city locate in country	laos
+lsu	agent control	trent johnson
+indianapolis colt	team play against team	san diego charger
+oostende	city locate in country	belgium
+phillie	agent collaborate with agent	j c romero
+shane victorino	athlete play for team	philadelphia phillie
+ranger stadium	latitude longitude	37.2499750000000,-78.5893150000000
+sedona	city locate in country	united state
+mlb	league player	mitch william
+brandt centre	stadium locate in city	regina
+favre	athlete play for team	jet
+nba	league team	cleveland cavalier
+american	headquarter in	heathrow
+chicago	proxy for	los angeles dodger
+mlb	league team	arizona diamondback
+samui	latitude longitude	11.1914660674157,100.3152733707865
+padre	agent collaborate with agent	greg maddux
+tunis	location locate with in location	tunisia
+penguin	team home stadium	mellon arena
+hockey	sport team	seahawks
+bank atlantic center	stadium locate in city	ft lauderdale
+tanyon sturtze	athlete play for team	yankee
+nassau	city capital of country	the bahamas
+pakse	city locate in country	laos
+derrick turnbow	agent belong to organization	mlb
+west	city locate in country	indonesia
+new england patriot	team home stadium	gilette stadium
+bill belichick	coach team	jet
+corvallis	city locate in country	united state
+phoenix	proxy for	los angeles laker
+ohio state	team win trophy	bcs national championship
+bengal	team coach	marvin lewis
+new york yankees	team play against team	seattle mariner
+cincinnati red	team play sport	baseball
+qatar airway	headquarter in	heathrow
+st louis	latitude longitude	37.7962070833334,-85.2394858333332
+uden	city locate in country	netherland
+alexandroupolis	city capital of country	greece
+sulaimaniyah	latitude longitude	35.5500000000000,45.4166700000000
+visa	have office in country	united state
+ucf knight	team play in league	ncaa
+economic	academic program at university	massachusetts institute of technology
+research in motion	have office in country	canada
+redskin	team play sport	sport
+kenyon martin	athlete play sport	basketball
+uconn	agent control	jim calhoun
+mariner	agent collaborate with agent	ichiro
+new york giant	team play in city	east rutherford
+marrakech	city locate in country	morocco
+st heli	latitude longitude	51.3850850000000,-0.1908450000000
+nfl	league player	mark brunell
+alex cora	agent belong to organization	mlb
+bear	team play against team	charger
+washington redskin	team play against team	pittsburgh steeler
+met	team play against team	brave
+tony sparano	coach in league	nfl
+facebook	have office in country	saudi arabia
+dominican republic	location contain location	punta cana
+paul estrada	athlete play in league	mlb
+southwest	have office in city	fort lauderdale
+oregon duck	subpart of organization	ncaa
+verizon center	stadium locate in city	washington dc
+pedro alvarez	athlete play in league	mlb
+mlb	league team	philadelphia athletic
+mark dantonio	work for	michigan state
+fenway	stadium locate in city	anaheim
+nuernberg	latitude longitude	49.4461939285714,11.0845492857143
+wichita state university	team play sport	basketball
+france	latitude longitude	36.9606923577235,-31.9249330081301
+mail	have office in country	united state
+seattle seahawks	team play in city	miami
+royal	team play against team	yankee
+basketball	sport use stadium	wachovia center
+associated press	newspaper in city	st petersburg
+easyjet	have office in city	basel
+laker	team play against team	jazz
+met	team play against team	phillie
+san francisco	city sport team	san francisco giant
+arizona state university	team play sport	wrestle
+world series	trophy win by team	astro
+nba	league player	tim duncan
+saint louis blue	team play in league	nhl
+cleveland brown	team play against team	tennessee titan
+john smoltz	athlete play in league	mlb
+new	headquarter in	gatwick
+south	city locate in country	somalia
+new england dodge music center	stadium locate in city	hartford
+byu	team play in league	nhl
+jet	team play against team	buc
+mike piazza	athlete play in league	mlb
+n2006 world series	sport game team	st louis cardinal
+mlb	agent control	met
+minute maid park	stadium home team	astro
+ryan budde	agent belong to organization	mlb
+meadow music theater	stadium locate in city	hartford
+click	location locate with in location	philippine
+florida marlin	agent collaborate with agent	hanley ramirez
+series	sport game winner	phillie
+blue air	have office in city	buchar
+adam kennedy	athlete play for team	st louis cardinal
+gambia	country city	banjul
+south india	state have capital	madra
+beijing	locate at	united
+journalism	academic program at university	american university
+jet	team play against team	bear
+kansas state university	latitude longitude	38.7514025000000,-96.7273275000000
+rockie	team play against team	padre
+minneapolis	city television station	kare
+ozzie guillen	coach team	chicago white sox
+hockey	sport team	new york ranger
+mike schmidt	athlete play for team	philadelphia phillie
+new york jet	team play in league	national football league
+mlb	league player	mark buehrle
+zarka	latitude longitude	36.2974472222222,35.3809911111111
+clickair	agent act in location	heathrow
+aerospace engineering	academic program at university	georgia tech
+carolina hurricane	team play in league	nhl
+met	team member	zito
+delta	headquarter in	london heathrow
+redskin	team play against team	texan
+sankt petersburg	latitude longitude	59.9055550000000,30.2570850000000
+joe nelson	athlete play in league	mlb
+british airway	agent act in location	heathrow
+fredericton	city locate in country	canada
+ho chi minh city	latitude longitude	10.7560750000000,106.6734425000000
+konduz	latitude longitude	36.4993285714286,65.8974428571429
+david ortiz	person belong to organization	red sox
+joey votto	athlete play in league	mlb
+miami heat	team play in league	nba
+indian	team play against team	diamondback
+quest field	stadium locate in city	seattle
+delft	city locate in country	the netherland
+oregon state	team play in city	corvallis
+miami	city locate in country	united state
+chicago cub	team play in city	oakland
+hainan airline	headquarter in	beijing
+feodosiya	latitude longitude	45.0408800000000,35.4287580000000
+bob wickman	athlete play in league	mlb
+pacer	team play sport	basketball
+mlb	league player	norm cash
+houston rocket	team play in city	dalla
+angel stadium	stadium home team	los angeles angel of anaheim
+brewer	team play against team	phillie
+clipper	team play in league	nba
+eastern conference	sport game team	pittsburgh penguin
+met	team member	lasting milledge
+united	at location	tehran
+evil dead	movie star actor	bruce campbell
+addis ababa	location locate with in location	ethiopia
+bret boone	athlete play for team	seattle mariner
+west bloomfield township	latitude longitude	42.5531020000000,-83.3781640000000
+suncorp stadium	stadium locate in city	brisbane
+garrett olson	agent belong to organization	mlb
+west	city locate in country	singapore
+nfl	agent control	cardinal
+everett event center	latitude longitude	47.9785500000000,-122.2029600000000
+sam houston state university	team play sport	basketball
+groningen	city capital of country	netherland
+united state	country city	dalla
+tom seaver	athlete play for team	met
+case western reserve	latitude longitude	41.5045000000000,-81.5970700000000
+united state	country city	san antonio
+arabic	language of country	united arab emirate
+wachovia center	latitude longitude	39.9020600000000,-75.1712900000000
+brad penny	person belong to organization	red sox
+sul ross state university	latitude longitude	30.3629400000000,-103.6507300000000
+mci center	stadium home team	washington wizard
+bengal	team play against team	viking
+mark loretta	agent belong to organization	red sox
+west	city locate in country	the gambia
+nfl	league player	fabio cannavaro
+north carolina state	team play sport	football
+shannon airport	latitude longitude	48.0616066666667,-31.4411966666667
+canada	country state	ontario
+devil ray	team play sport	baseball
+basketball	sport team	houston rocket
+green bay packer	team play sport	football
+tcu	team play against team	texas tech
+grozny	city locate in country	chechnya
+texas a m university	team play sport	basketball
+matt diaz	athlete play in league	mlb
+nba	league player	chris duhon
+eric gagne	agent belong to organization	mlb
+stranger	newspaper in city	seattle
+skype	have office in country	united state
+national taiwan university	latitude longitude	25.0305850000000,121.5267600000000
+kurt warner	athlete play for team	st louis ram
+hanoi	city capital of country	vietnam
+american league pennant	trophy win by team	yankee
+lou merloni	person belong to organization	red sox
+oregon state	team play in league	pac 10
+hamilton	city locate in country	canada
+netherland	country city	maastricht
+stoop	coach team	uf
+louisiana tech	team play sport	football
+physics	academic program at university	csu
+sacramento king	team play in city	dalla
+boston celtic	team home stadium	td banknorth garden
+air canada	headquarter in	beijing
+mechanical engineering	academic program at university	wayne state university
+nba	league player	patrick ew
+evergreen state college	latitude longitude	47.0739900000000,-122.9751400000000
+nba final	trophy win by team	piston
+endy chavez	athlete play for team	met
+brewer	subpart of organization	mlb
+plymouth	city locate in country	uk
+mlb	league player	hideki okajima
+air namibia	headquarter in	london gatwick
+duck	team home stadium	citibank park
+mlb	league player	jason marquis
+giant stadium	stadium home team	new york jet
+chicago bull	team win trophy	nba championship
+san diego padre	team play against team	san francisco giant
+information science	academic program at university	san jose state university
+nba	agent control	magic
+joe thurston	athlete play in league	mlb
+padre	team member	chris young
+kenya airway	headquarter in	london heathrow
+new york yankees	team in game	n2000 world series
+buc	team play against team	seahawks
+emirate stadium	latitude longitude	51.5551000000000,-0.1084000000000
+jason heyward	agent belong to organization	mlb
+xcel	agent act in location	saint paul
+busch stadium	stadium home team	st louis cardinal
+ben graham	athlete play for team	jet
+british airway	agent act in location	london heathrow
+stanst	location act in by agent	ryan air
+dartford	city locate in country	uk
+oregonian	newspaper in city	seattle
+london stanst	company headquarter here	ryanair
+nba	league team	los angeles laker
+jim thome	athlete play for team	white sox
+jeff baker	agent belong to organization	mlb
+william carey college	latitude longitude	30.8453250000000,-89.1537950000000
+california state university east bay	latitude longitude	37.6579100000000,-122.0557800000000
+south	city locate in country	east asia
+montclair state university	latitude longitude	40.8606600000000,-74.1976500000000
+tony la russa	coach athlete	albert pujol
+radford university	team play sport	basketball
+stellenbosch	city capital of country	south africa
+bill	team play against team	jet
+bill stewart	coach team	wvu
+jonathan sanchez	athlete play in league	mlb

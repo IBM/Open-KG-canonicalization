@@ -1,0 +1,1356 @@
+cluster_0	1	bernard langer
+cluster_1	1	kiryat shmona
+cluster_2	1	porretta
+cluster_3	3	edison field	angel stadium	edison international field
+cluster_4	2	tulane	tulane university
+cluster_5	1	calgary airport
+cluster_6	2	chemnitz	karl marx stadt
+cluster_8	1	svn
+cluster_9	1	csu
+cluster_10	1	east saint louis
+cluster_11	2	alappuzha	alleppey
+cluster_12	1	asyut
+cluster_13	1	wartburg college
+cluster_14	3	goteborg	gothenburg	gothenborg
+cluster_15	1	chillis
+cluster_16	2	hai phong	haiphong
+cluster_17	1	ohio valley university
+cluster_18	2	polokwane	pietersburg
+cluster_19	2	lemnos	limnos
+cluster_20	2	alor star	alor setar
+cluster_22	1	smu
+cluster_23	2	arrowhead pond	honda center
+cluster_24	3	toronto maple leaf	maple leaf	leaf
+cluster_25	1	fila forum
+cluster_26	2	saarbruecken	saarbrucken
+cluster_27	1	glenville state college
+cluster_28	2	cheliabinsk	chelyabinsk
+cluster_29	1	pleskau
+cluster_30	1	california state university san bernardino
+cluster_32	2	boise state	boise state university
+cluster_33	1	bowman field
+cluster_34	2	goerlitz	gorlitz
+cluster_36	1	sul ross state
+cluster_37	4	the united kingdom	united kingdom	uk	u k
+cluster_38	1	flyer
+cluster_40	3	florida international	florida international university	fiu
+cluster_41	1	century theatre
+cluster_42	2	netherland	the netherland
+cluster_43	1	cruzan amphitheatre
+cluster_44	1	bjj
+cluster_46	1	grand view college
+cluster_48	2	hofstra university	hofstra
+cluster_49	1	palumbo center
+cluster_51	2	arizona diamondback	diamondback
+cluster_53	3	rutger university	rutger	rutger college
+cluster_54	1	lake charle civic center
+cluster_56	2	renteria	edgar renteria
+cluster_58	1	southern oregon university
+cluster_59	1	new hampshire international speedway
+cluster_60	5	california state university fresno	fresno state university	california state university fullerton	fresno state	cal state fullerton
+cluster_61	1	korcula
+cluster_62	1	vladivostok
+cluster_63	1	dodgeball
+cluster_65	1	butler bulldog
+cluster_66	2	torino	turino
+cluster_67	3	siegel center	walnut creek amphitheatre	alltel pavilion
+cluster_68	1	oklahoma memorial stadium
+cluster_69	3	los angeles dodger	la dodger	dodger
+cluster_70	2	saint cloud state university	st cloud state university
+cluster_71	1	buena vista university
+cluster_72	2	rensselaer polytechnic	rensselaer polytechnic institute
+cluster_73	1	shymkent
+cluster_74	1	chamonix
+cluster_75	2	gwinnett arena	gwinnett center
+cluster_76	2	alexandroupoli	alexandroupolis
+cluster_78	3	oakland alameda county coliseum	oakland coliseum	network associate coliseum
+cluster_79	2	astrodome	houston astrodome
+cluster_80	2	minneapolis	minneapolis mn
+cluster_81	2	harar	harer
+cluster_82	4	hubert h humphrey metrodome	hhh metrodome	metrodome	the metrodome
+cluster_83	1	weill medical college
+cluster_84	3	continental arena	continental airline arena	izod center
+cluster_85	2	st louis brown	baltimore oriol
+cluster_86	1	italia
+cluster_87	1	gainesville state college
+cluster_88	2	tallin	tallinn
+cluster_90	1	st moritz
+cluster_91	1	the coliseum
+cluster_92	2	mississippi valley state university	mississippi valley state
+cluster_93	1	flame
+cluster_96	2	west virginia university	wvu
+cluster_97	1	carl yastrzemski
+cluster_98	2	utah state university	utah state
+cluster_99	3	louisiana state	louisiana state university	lsu
+cluster_100	3	nicosia	lefkosia	lefkosa
+cluster_102	3	mississippi state university	mississippi state	mississippi state college
+cluster_103	2	national taiwan university	taiwan university
+cluster_104	2	anzio	antium
+cluster_106	2	bhubaneswar	bhubaneshwar
+cluster_107	1	rappel
+cluster_108	1	uzbekistan
+cluster_109	1	kennesaw state
+cluster_110	2	winona state	winona state university
+cluster_111	1	time union center
+cluster_113	1	saint petersburg state university
+cluster_114	2	phillip arena	philip arena
+cluster_115	1	south vietnam
+cluster_116	2	los angle	la
+cluster_117	1	ellis park
+cluster_118	3	an nasiriyah	nasiriya	nasiriyah
+cluster_119	4	sky dome	toronto skydome	roger centre	skydome
+cluster_120	1	soviet socialist republic
+cluster_121	1	matt holliday
+cluster_122	2	henry fonda theater	henry fonda theatre
+cluster_123	3	irak	iraw	iraq
+cluster_124	1	los angel sport arena
+cluster_125	2	bc place stadium	bc place
+cluster_126	2	c c sabathia	cc sabathia
+cluster_127	1	rickey henderson
+cluster_129	1	orkney island
+cluster_130	2	bemidji state university	bemidji state
+cluster_131	2	georgia tech yellow jacket	georgia tech yellowjacket
+cluster_132	2	heraklion	iraklion
+cluster_133	1	interamerican university
+cluster_134	2	garmisch partenkirchen	garmisch
+cluster_135	2	westfield state college	westfield state
+cluster_136	1	rosenblatt stadium
+cluster_138	1	matt leinart
+cluster_139	4	anaheim angel	los angeles angel of anaheim	los angeles angel	california angel
+cluster_141	2	sfry	yugoslav federation
+cluster_143	1	madison square garden
+cluster_145	2	pafos	paphos
+cluster_147	1	united state coast guard academy
+cluster_148	4	bank atlantic center	office depot center	broward county civic arena	national car rental center
+cluster_149	2	nebraska wesleyan	nebraska wesleyan university
+cluster_150	2	kazuo matsui	kaz matsui
+cluster_152	2	rousse	russe
+cluster_153	1	pepper
+cluster_156	1	st george
+cluster_157	1	caine mutiny
+cluster_158	1	mombasa
+cluster_159	1	swim pool
+cluster_161	1	champion stadium
+cluster_162	2	new dehli	new delhi
+cluster_164	2	kerkyra	corfu
+cluster_165	1	kingdome
+cluster_167	3	university of new hampshire	unh	new hampshire university
+cluster_168	1	brandon stokley
+cluster_169	1	varanasi
+cluster_170	1	goose gossage
+cluster_171	1	old trafford
+cluster_173	1	saint anselm college
+cluster_174	2	molson amphitheatre	molson canadian amphitheatre
+cluster_175	1	seton hill college
+cluster_177	1	mountain boarding
+cluster_178	2	vilankulo	vilanculo
+cluster_179	3	rumania	roumania	romania
+cluster_180	1	florida citrus bowl
+cluster_181	1	shepherd university
+cluster_182	2	flamingo la vega	flamingo hotel
+cluster_183	2	robert trent jon jr	robert trent jon
+cluster_184	1	moscow state technical university
+cluster_185	1	oakland raider
+cluster_186	1	merca
+cluster_187	1	al hirschfeld theatre
+cluster_188	2	ashgabat	ashgabad
+cluster_189	1	western carolina
+cluster_190	2	somalia	somali republic
+cluster_191	2	hawaii rainbow warrior	hawaii warrior
+cluster_192	2	north dakota state	north dakota state university
+cluster_193	2	ucf knight	central florida knight
+cluster_194	2	east europe	eastern europe
+cluster_195	1	gentry center
+cluster_196	2	the roundhouse	roundhouse
+cluster_197	2	jacksonville state university	jacksonville state
+cluster_199	1	daytona beach community college
+cluster_200	1	saint helier
+cluster_201	1	saint emilion
+cluster_202	3	south east asia	southeast asia	se asia
+cluster_203	1	central missouri state
+cluster_204	2	myanmar	burma
+cluster_205	2	chah bahar	chabahar
+cluster_206	1	mgm grand garden arena
+cluster_207	2	solomon island	solomon
+cluster_210	2	den bosch	hertogenbosch
+cluster_211	2	air canada centre	air canada center
+cluster_212	1	spartan stadium
+cluster_213	1	eastern illinois university
+cluster_214	1	tsinghua university
+cluster_215	1	st louis
+cluster_216	2	st paul	saint paul
+cluster_217	1	matt cassel
+cluster_218	2	folsom stadium	folsom field
+cluster_219	1	jeddah
+cluster_220	2	azerbaijan	azerbaijani republic
+cluster_221	2	jacobs field	progressive field
+cluster_222	1	chatham college
+cluster_223	3	memphis state university	memphi university	memphis state
+cluster_225	2	xl center	hartford civic center
+cluster_226	2	al lang stadium	progress energy park
+cluster_227	1	boston conservatory
+cluster_229	2	b j upton	bj upton
+cluster_230	1	mestalla stadium
+cluster_231	2	kyrenia	girne
+cluster_233	1	rostov veliky
+cluster_234	2	urumchi	urumqi
+cluster_235	1	howard university
+cluster_236	1	petersen event center
+cluster_237	1	seven samurai
+cluster_240	1	cameroon
+cluster_241	1	daryll clark
+cluster_242	1	centennial hall
+cluster_243	3	scottrade center	kiel center	savvis center
+cluster_244	2	green bay packer	packer
+cluster_245	1	kentucky christian college
+cluster_246	2	malacca	melaka
+cluster_247	1	hunter college
+cluster_248	2	malasia	malaysia
+cluster_249	3	trail blazer	portland trail blazer	portland blazer
+cluster_250	3	centre bell	molson centre	bell centre
+cluster_251	2	memphis pyramid	pyramid arena
+cluster_252	2	andy pettite	andy pettitte
+cluster_253	1	shinjuku
+cluster_254	2	spektrum	oslo spektrum
+cluster_255	1	tomato
+cluster_256	1	cleveland municipal stadium
+cluster_257	3	los angeles coliseum	la memorial coliseum	los angele memorial coliseum
+cluster_258	2	key arena	keyarena
+cluster_259	3	shkoder	skadar	shkodra
+cluster_260	4	chicago cub	chicago white sox	white sox	chicago white stocking
+cluster_261	1	commerce bank ballpark
+cluster_262	3	chiang mai	chiangmai	chang mai
+cluster_263	2	tibetan autonomous region	tibet autonomous region
+cluster_264	1	temple university
+cluster_265	2	florida state	florida state university
+cluster_266	3	cayman	cayman island	grand cayman
+cluster_268	3	chicago blackhawks	blackhawks	chicago black hawks
+cluster_269	2	iowa state	iowa state university
+cluster_270	1	loftus versfeld
+cluster_273	1	savannah state university
+cluster_274	1	poljud
+cluster_276	1	patra
+cluster_277	1	beirut
+cluster_278	2	mt gambi	mount gambier
+cluster_279	1	matthews arena
+cluster_280	2	qinghuangdao	qinhuangdao
+cluster_281	2	ussr	soviet union
+cluster_283	2	jinhae	chinhae
+cluster_284	1	california polytechnic state university
+cluster_285	1	raft
+cluster_286	3	winthrop university	winthrop college	winthrop eagle
+cluster_288	2	rider college	rider university
+cluster_290	2	san daniele del friuli	san daniele
+cluster_291	2	massachusetts institute of technology	mit
+cluster_292	1	st jame park
+cluster_293	2	johns hopkin university	the johns hopkin university
+cluster_295	2	sydney football stadium	aussie stadium
+cluster_296	1	bjcc arena
+cluster_297	2	agrigentum	agrigento
+cluster_298	2	shibe park	connie mack stadium
+cluster_299	1	mount saint mary college
+cluster_300	3	desert sky pavilion	cricket wireless pavilion	cricket pavilion
+cluster_301	2	coolum beach	coolum
+cluster_302	1	robert stadium
+cluster_303	2	dnipropetrovsk	dnepropetrovsk
+cluster_304	2	rosarito	rosarito beach
+cluster_305	1	shaw park
+cluster_307	1	widener university
+cluster_308	2	edison college	edison state college
+cluster_309	1	alaska pacific university
+cluster_310	2	seebad ahlbeck	ahlbeck
+cluster_311	3	cleveland state viking	cleveland state	cleveland state university
+cluster_312	2	kevin youkili	youkilis
+cluster_313	3	world cup final	fifa world cup	football world cup
+cluster_314	1	bentley college
+cluster_315	1	dobrich
+cluster_317	2	former soviet union	former ussr
+cluster_318	3	larnaca	kalavassos	larnaka
+cluster_319	2	golden bear	california golden bear
+cluster_320	3	cobo hall	cobo arena	cobo center
+cluster_321	3	rethimno	rethymno	rethymnon
+cluster_322	1	shoemaker center
+cluster_323	3	steeler	pittsburgh steeler	pittsburg steeler
+cluster_324	1	vlora
+cluster_325	1	world arena
+cluster_326	2	chianciano	chianciano terme
+cluster_327	1	jeff marquez
+cluster_329	1	dean junior college
+cluster_331	1	comcast theatre
+cluster_332	1	sydney cbd
+cluster_333	7	u s	united state of america	u s a	the united state	united sate	united state	the us
+cluster_334	1	purchase college
+cluster_335	2	hania	chania
+cluster_336	2	new york net	new jersey net
+cluster_337	2	morehead state university	morehead state
+cluster_338	2	la salle university	lasalle university
+cluster_339	4	north carolina state university	north carolina state	nc state university	nc state
+cluster_340	2	jacksonville municipal stadium	alltel stadium
+cluster_342	1	south asia
+cluster_343	2	shahjahanabad	old delhi
+cluster_344	1	merriweather post pavilion
+cluster_345	2	costa rica	costarica
+cluster_346	1	saint tropez
+cluster_347	1	craig biggio
+cluster_348	1	uc santa cruz
+cluster_349	3	coor amphitheatre	cricket wireless amphitheatre	comfort dental amphitheatre
+cluster_350	3	ekaterinburg	jekaterinburg	yekaterinburg
+cluster_351	1	novgorod
+cluster_353	1	netherland indie
+cluster_355	1	harding park golf course
+cluster_356	4	sharm el sheikh	sharm el sheik	sharm ash shaykh	sharm
+cluster_357	1	brandt centre
+cluster_358	1	mohegan sun
+cluster_359	2	mazar i sharif	mazar e sharif
+cluster_361	3	north carolina state wolfpack	wolfpack	wolf pack
+cluster_362	2	maestricht	maastricht
+cluster_363	1	st louis blue
+cluster_364	1	wake forest university
+cluster_366	2	tar heel	tarheel
+cluster_367	2	calicut	kozhikode
+cluster_368	1	faro airport
+cluster_369	2	san diego padre	padre
+cluster_370	1	beijing
+cluster_371	1	ghana
+cluster_372	3	san jose state university	san jose state	sjsu
+cluster_373	2	ksa	saudi arabia
+cluster_374	2	brunei	brunei darussalam
+cluster_377	2	chennai	madra
+cluster_378	1	pearland stadium
+cluster_379	2	hanoi	ha noi
+cluster_380	1	florida atlantic owl
+cluster_381	3	charlotte arena	time warner cable arena	charlotte bobcat arena
+cluster_382	2	bobby howry	bob howry
+cluster_383	3	harvard stadium	soldier field	soldier field ii
+cluster_384	1	firenze
+cluster_385	3	vilnius	wilno	vilna
+cluster_387	1	cox arena
+cluster_388	2	burkina faso	burkina
+cluster_389	2	lakefront arena	uno lakefront arena
+cluster_390	3	td waterhouse centre	td waterhouse center	amway arena
+cluster_391	1	missouri baptist college
+cluster_392	2	praha	prag
+cluster_393	1	northwest nazarene university
+cluster_394	2	taroudannt	taroudant
+cluster_395	3	new mexico state university	new mexico state	nmsu
+cluster_397	2	anger	angier
+cluster_398	1	republika srpska
+cluster_399	2	elon university	elon college
+cluster_400	3	dr congo	democratic republic of the congo	congo kinshasa
+cluster_402	3	alcorn state brave	alcorn state	alcorn state university
+cluster_404	2	verizon center	mci center
+cluster_405	1	western washington university
+cluster_406	1	dodger stadium
+cluster_408	2	new york jet	ny jet
+cluster_409	2	coire	chur
+cluster_410	1	contractor
+cluster_411	1	czechoslovakia
+cluster_412	2	cape verde island	cape verde
+cluster_413	1	truman state university
+cluster_414	2	t constant convocation center	constant convocation center
+cluster_415	2	tetouan	tetuan
+cluster_417	1	william penn college
+cluster_418	1	uefa cup
+cluster_419	3	carnegie mellon	carnegie mellon university	tartan
+cluster_420	2	mogador	essaouira
+cluster_421	2	pengrowth saddledome	saddledome
+cluster_422	1	birmingham southern college
+cluster_424	1	adrian college
+cluster_425	1	home depot center
+cluster_426	2	morroco	morocco
+cluster_427	2	california state university lo angel	los angeles state
+cluster_428	2	lefkada	lefkas
+cluster_429	1	arkansas state
+cluster_431	1	university of kansas
+cluster_432	2	zefat	safed
+cluster_433	2	lourenco marque	maputo
+cluster_434	1	hickam housing
+cluster_435	1	muskingum college
+cluster_436	2	famagusta	magusa
+cluster_437	2	grosse ile	grosse isle
+cluster_438	1	spokane arena
+cluster_439	1	fitzgerald theater
+cluster_440	1	michael vick
+cluster_443	1	murray state university
+cluster_444	2	td garden	td banknorth garden
+cluster_445	1	kenan stadium
+cluster_447	1	samarra
+cluster_448	2	takoradi	sekondi takoradi
+cluster_451	2	nba championship	nba final
+cluster_452	1	st alban
+cluster_453	1	royal bafokeng stadium
+cluster_454	2	schottenstein center	value city arena
+cluster_456	2	oakland arena	oracle arena
+cluster_457	1	viterbo college
+cluster_458	2	cadillac palace	cadillac palace theatre
+cluster_459	1	campeche
+cluster_460	3	novorossisk	novorossiisk	novorossiysk
+cluster_461	2	university of oklahoma	oklahoma university
+cluster_464	3	london heathrow airport	london heathrow	heathrow
+cluster_465	1	houston rocket
+cluster_466	2	fyrom	former yugoslav republic of macedonia
+cluster_467	2	point park college	point park university
+cluster_468	1	valdosta state college
+cluster_470	3	kyrgyzstan	kyrgyz republic	kyrgystan
+cluster_471	2	california state university long beach	long beach state
+cluster_472	2	thimphu	thimbu
+cluster_473	1	port hedland
+cluster_474	2	nambia	namibia
+cluster_475	2	dusseldorf	duesseldorf
+cluster_476	2	minute maid park	enron field
+cluster_477	2	illinois benedictine college	benedictine university
+cluster_478	2	nessebar	nessebur
+cluster_479	3	uefa champion league	european cup	european champion league
+cluster_480	2	brett farve	brett favre
+cluster_481	3	riverport amphitheatre	umb bank pavilion	verizon wireless amphitheater
+cluster_482	1	ebbet field
+cluster_483	3	minnesota state university mankato	minnesota state university	minnesota state university moorhead
+cluster_485	1	taichung
+cluster_486	2	chase field	bank one ballpark
+cluster_487	2	uconn	university of connecticut
+cluster_488	2	metropolitan sport center	meet center
+cluster_489	1	canada
+cluster_490	1	the rocky horror picture show
+cluster_493	1	naked gun
+cluster_494	1	fernando gonzalez
+cluster_495	1	mullaittivu
+cluster_497	1	anfield
+cluster_498	1	kaohsiung
+cluster_500	1	pnc bank art center
+cluster_502	1	olympia stadium
+cluster_503	1	junell center
+cluster_504	2	ranger ballpark	ameriquest field
+cluster_505	1	christian heritage college
+cluster_506	3	plymouth state	plymouth state university	psu
+cluster_509	1	citi field
+cluster_510	2	st remy	saint remy
+cluster_511	2	saint louis park	st louis park
+cluster_512	1	naia
+cluster_514	2	kharkiv	kharkov
+cluster_517	2	fenway	fenway park
+cluster_518	1	duitsland
+cluster_519	1	montclair state
+cluster_520	2	moscow university	moscow state university
+cluster_521	1	california state polytechnic university
+cluster_522	1	tournai
+cluster_523	2	uvm	university of vermont
+cluster_524	2	marlin	florida marlin
+cluster_525	1	hampton university
+cluster_526	2	western reserve university	case western reserve university
+cluster_527	3	san francisco state university	san francisco state	san francisco state college
+cluster_528	1	st gallen
+cluster_529	1	kaifeng
+cluster_532	2	san diego state university	san diego state
+cluster_533	3	united arab emirate	arab emirate	uae
+cluster_534	2	great american ball park	great american ballpark
+cluster_535	2	dustin pedroia	pedroia
+cluster_539	2	east carolina	east carolina university
+cluster_541	3	gulf region	gulf area	persian gulf
+cluster_542	3	stanst	london stanst	stanst airport
+cluster_543	2	amsterdam schiphol airport	schiphol
+cluster_544	1	hartford art school
+cluster_545	2	veliko turnovo	veliko tarnovo
+cluster_546	1	morgan state university
+cluster_547	1	pontiac silverdome
+cluster_548	2	rise bowl stadium	rise bowl
+cluster_549	1	feodosia
+cluster_550	1	tater
+cluster_551	1	depaul university
+cluster_552	1	new york giant
+cluster_553	1	montana state university billing
+cluster_554	2	jackson state university	jackson state
+cluster_555	2	kent state	kent state university
+cluster_557	1	frostburg state university
+cluster_558	1	clayton state university
+cluster_559	1	jesse owen
+cluster_560	1	bruneck
+cluster_563	1	paraty
+cluster_564	2	ibiza	eivissa
+cluster_567	1	mashhad
+cluster_569	1	wittenberg university
+cluster_570	2	syracuse orange	syracuse orangeman
+cluster_573	2	guatamala	guatemala
+cluster_574	2	north carolina tar heel	north carolina tarheel
+cluster_575	2	buffalo state	bengal
+cluster_576	1	kentucky state
+cluster_577	2	kotka	karhula
+cluster_578	2	major league baseball	mlb
+cluster_580	3	south carolina state university	south carolina state college	south carolina state
+cluster_581	1	french guiana
+cluster_582	2	nomar garciaparra	nomar
+cluster_583	1	nhl
+cluster_584	1	longwood university
+cluster_585	1	pakistan
+cluster_586	2	mayence	mainz
+cluster_587	1	neil simon theater
+cluster_588	2	baiji	beiji
+cluster_589	1	piraeus
+cluster_590	2	troy university	troy state
+cluster_591	1	jaisalmer
+cluster_594	2	franschoek	franschhoek
+cluster_595	2	jubail	al jubail
+cluster_596	2	tennessee technological university	tennessee tech
+cluster_597	1	life chiropractic college
+cluster_598	1	sprout
+cluster_599	2	cape town	capetown
+cluster_600	1	wolf trap
+cluster_601	1	lou montanez
+cluster_603	1	albany state college
+cluster_604	2	ulan bator	ulaanbaatar
+cluster_605	1	chio
+cluster_606	1	great britain
+cluster_607	2	compaq center	san jose arena
+cluster_608	1	portobello
+cluster_609	2	muttrah	mutrah
+cluster_610	2	met	new york met
+cluster_611	3	technical university	polytechnic institute	technical institute
+cluster_612	1	united state air force academy
+cluster_615	2	indiana hoosier	indiana university bloomington
+cluster_616	2	und	university of north dakota
+cluster_617	2	louisiana tech university	louisiana tech
+cluster_618	2	michigan state	michigan state university
+cluster_619	1	interior saving centre
+cluster_621	2	baltic state	baltic
+cluster_622	2	chicago theatre	chicago theater
+cluster_623	1	lawrence university
+cluster_624	1	university of chicago
+cluster_627	1	christopher newport university
+cluster_628	1	tiger stadium
+cluster_629	2	everett event center	comcast arena
+cluster_630	1	north texas mean green
+cluster_631	1	caltech
+cluster_632	2	autzen	autzen stadium
+cluster_633	1	will rogers memorial center
+cluster_634	1	kalaeloa
+cluster_635	2	worcester polytechnic institute	wpi
+cluster_636	1	teacher college
+cluster_637	3	montana state	montana state university	montana state university bozeman
+cluster_638	2	utep	texas western
+cluster_639	1	eddie mathews
+cluster_641	1	tennessee volunteer
+cluster_642	2	greer stadium	herschel greer stadium
+cluster_643	1	jame l knight center
+cluster_644	2	fight irish	notre dame fight irish
+cluster_645	1	nuuk
+cluster_646	1	lora college
+cluster_647	2	west indie	caribbean
+cluster_648	2	riverfront stadium	cinergy field
+cluster_649	2	delaware state university	delaware state
+cluster_650	1	holy name university
+cluster_651	4	kazakistan	kazakhistan	kazakstan	kazakhstan
+cluster_652	2	tennessee titan	tennessee oiler
+cluster_653	3	the lord of the ring	lotr	lord of the ring
+cluster_654	2	claflin college	claflin university
+cluster_656	1	gliwice
+cluster_658	1	red pepper
+cluster_659	1	pete sampra
+cluster_661	2	bowl green state university	bgsu
+cluster_662	1	allen fieldhouse
+cluster_663	1	uc santa barbara gauchos
+cluster_664	3	nuremberg	nuernberg	nurnberg
+cluster_665	2	port st lucie	port saint lucie
+cluster_666	2	mahahual	majahual
+cluster_667	1	david lipscomb college
+cluster_668	2	oporto	porto
+cluster_670	1	kauffman stadium
+cluster_671	1	free state stadium
+cluster_672	1	rfk stadium
+cluster_673	1	mallorca
+cluster_674	2	seattle sonic	seattle supersonic
+cluster_675	2	wimborne	wimborne minster
+cluster_678	2	hilton head	hilton head island
+cluster_679	1	university of minnesota
+cluster_681	2	afganistan	afghanistan
+cluster_682	1	stockton state college
+cluster_683	1	milwaukee mile
+cluster_684	2	red rock amphitheatre	red rock amphitheater
+cluster_685	1	three stooge
+cluster_686	1	jacksonville dolphin
+cluster_687	1	mount union college
+cluster_688	2	brave	atlanta brave
+cluster_689	2	vcu	virginia commonwealth university
+cluster_693	2	soenderborg	sonderborg
+cluster_694	2	tennessee state tiger	tennessee state university
+cluster_695	2	omni coliseum	the omni
+cluster_697	2	john f kennedy university	jfk university
+cluster_698	1	iraqi kurdistan
+cluster_700	1	seton hall university law school
+cluster_701	3	unt	university of north texas	north texas state college
+cluster_702	2	gerald ford stadium	ford stadium
+cluster_703	1	benin
+cluster_704	1	dick allen
+cluster_705	2	charger	san diego charger
+cluster_706	1	niagara purple eagle
+cluster_707	1	kortrijk
+cluster_708	1	great western forum
+cluster_709	1	phitsanulok
+cluster_711	2	east asia	eastern asia
+cluster_712	1	wrigley field
+cluster_713	2	xcel center	xcel energy center
+cluster_714	1	foxboro stadium
+cluster_716	1	nabatiye
+cluster_717	1	kitakyushu
+cluster_718	1	cooper union
+cluster_719	1	paul konerko
+cluster_720	2	dice k	daisuke matsuzaka
+cluster_721	1	wushu
+cluster_723	2	middle east	mid east
+cluster_724	2	slovakia	slovak republic
+cluster_726	2	yankee stadium	new yankee stadium
+cluster_727	1	charlotte sport park
+cluster_729	1	ambassador theatre
+cluster_730	1	busch memorial stadium
+cluster_731	2	durre	durazzo
+cluster_732	1	kentucky center
+cluster_733	2	varitek	jason varitek
+cluster_734	2	quinnipiac college	quinnipiac university
+cluster_735	1	sheffield arena
+cluster_736	2	middle tennessee state	middle tennessee state university
+cluster_737	1	ucsd
+cluster_738	2	yangon	rangoon
+cluster_739	1	orange bowl stadium
+cluster_740	4	juilliard school	juilliard	the juilliard school	julliard school
+cluster_741	1	gwangju
+cluster_742	1	super pit
+cluster_743	1	la liga
+cluster_744	1	big east
+cluster_746	2	mike mussina	mussina
+cluster_747	2	lubeck	luebeck
+cluster_748	2	purdue	purdue university
+cluster_749	1	stony brook university
+cluster_751	2	vancouver airport	vancouver international airport
+cluster_752	1	njit
+cluster_753	1	calcutta university
+cluster_754	2	ute	utah ut
+cluster_755	1	nizwa
+cluster_757	1	vic theatre
+cluster_758	1	university of northern iowa
+cluster_759	1	franklin pierce university
+cluster_760	2	helmand	helmand province
+cluster_761	3	coastal carolina chanticleer	coastal carolina university	coastal carolina
+cluster_762	2	northwest missouri state university	northwest missouri state
+cluster_764	2	golden state warrior	philadelphia warrior
+cluster_765	2	monster park	candlestick park
+cluster_766	2	loyola university	loyola
+cluster_767	2	asmera	asmara
+cluster_768	3	pablano	poblano	poblanos
+cluster_769	1	symphony hall
+cluster_770	1	haroon
+cluster_771	3	tunisian republic	tunesia	tunisia
+cluster_772	2	frank erwin center	erwin center
+cluster_773	1	busch stadium
+cluster_774	1	st louis cardinal
+cluster_775	2	ypre	ieper
+cluster_776	1	spider man
+cluster_777	2	california university	uc berkeley
+cluster_780	2	ivan rodriguez	pudge rodriguez
+cluster_781	1	camden yard
+cluster_782	1	swede
+cluster_783	1	tui arena
+cluster_784	4	gatwick airport	london gatwick	gatwick	london gatwick airport
+cluster_786	2	colorado state university	colorado state
+cluster_787	2	illinois university	fight illini
+cluster_789	1	west germany
+cluster_790	1	emirate stadium
+cluster_791	2	christian guzman	cristian guzman
+cluster_792	2	los angeles king	la king
+cluster_794	2	hope college	lebanon valley college
+cluster_795	1	frankfurt hahn
+cluster_797	1	steppenwolf theatre
+cluster_798	1	bellarmine college
+cluster_799	1	olympiastadion
+cluster_800	4	nauplion	nauplia	nafplion	nafplio
+cluster_803	3	western asia	west asia	southwest asia
+cluster_804	3	southern california college	vanguard university	vanguard university of southern california
+cluster_805	2	credit union centre	saskatchewan place
+cluster_806	2	south dakota state university	south dakota state
+cluster_808	4	penn state	pennstate	pennsylvania state university	penn state university
+cluster_809	1	hollywood bowl
+cluster_810	2	chalkidiki	halkidiki
+cluster_812	1	drury college
+cluster_813	1	bret boone
+cluster_814	2	tianjin	tientsin
+cluster_815	1	potawatomi bingo casino
+cluster_816	1	whitworth college
+cluster_817	1	hsbc arena
+cluster_818	2	united mexican state	central mexico
+cluster_819	1	turkestan
+cluster_820	1	incredible
+cluster_821	2	thiruvananthapuram	trivandrum
+cluster_822	1	armstrong atlantic state university
+cluster_823	1	zellerbach hall
+cluster_824	2	virginia state university	virginia state
+cluster_825	1	point loma nazarene university
+cluster_826	2	eastern africa	east africa
+cluster_828	2	oregon state	oregon state university
+cluster_829	2	mong kok	mongkok
+cluster_830	2	pitt panther	pittsburgh panther
+cluster_831	1	acqui
+cluster_832	2	incheon	inchon
+cluster_833	1	o j simpson
+cluster_834	2	fiji	fiji island
+cluster_835	1	brick breeden fieldhouse
+cluster_836	2	sfu	simon fras university
+cluster_837	1	cmu
+cluster_838	3	arbil	irbil	erbil
+cluster_839	1	reser stadium
+cluster_840	2	idaho state university	idaho state
+cluster_842	1	fort valley state university
+cluster_843	1	towson university
+cluster_844	1	balkan
+cluster_845	1	lavell edward stadium
+cluster_846	2	mawlamyine	moulmein
+cluster_847	1	cyprus
+cluster_848	1	european championship
+cluster_849	2	diyarbakir	diarbekir
+cluster_850	2	chevrolet theatre	oakdale theatre
+cluster_851	1	marsala
+cluster_853	2	bahama	the bahamas
+cluster_855	1	fontbonne college
+cluster_856	2	highland university	new mexico highland university
+cluster_858	2	marcus amphitheater	marcus amphitheatre
+cluster_859	1	pittsburgh penguin
+cluster_861	1	kissimmee
+cluster_862	2	north korea	dprk
+cluster_863	2	maravich assembly center	pete maravich assembly center
+cluster_864	1	utah valley state college
+cluster_865	1	atlantic coast conference
+cluster_866	2	hargeysa	hargeisa
+cluster_868	1	university of tennessee
+cluster_869	2	tehran	teheran
+cluster_870	2	hamedan	hamadan
+cluster_872	2	heisman	heisman trophy
+cluster_873	1	sokol underground
+cluster_874	3	kismaayo	kismayu	kismayo
+cluster_875	2	ucsb	uc santa barbara
+cluster_876	2	bosasso	bosaso
+cluster_878	2	cal ripken jr	cal ripken
+cluster_879	1	taipei
+cluster_880	2	lerida	lleida
+cluster_881	2	lao pdr	laos
+cluster_882	3	ny yankee	yankee	new york yankees
+cluster_883	1	equatorial guinea
+cluster_885	2	hallandale	hallandale beach
+cluster_886	2	bukar	buchar
+cluster_888	2	washington wizard	washington bullet
+cluster_889	1	st julian
+cluster_890	1	austria hungary
+cluster_892	1	ferris state college
+cluster_894	1	bluffton college
+cluster_896	2	tirane	tirana
+cluster_897	2	well fargo arena	university activity center
+cluster_898	1	singapore
+cluster_899	4	south korea	s korea	rok	republic of korea
+cluster_900	1	oscar villarreal
+cluster_901	1	riverside centroplex
+cluster_902	2	cristiano ronaldo	christiano ronaldo
+cluster_903	3	bridgestone arena	gaylord entertainment center	sommet center
+cluster_904	2	colonial stadium	dockland stadium
+cluster_905	2	appalachian state	appalachian state university
+cluster_906	2	hcmc	ho chi minh city
+cluster_907	1	bhaktapur
+cluster_908	1	salve regina university
+cluster_909	2	maimana	maymana
+cluster_910	1	selena auditorium
+cluster_911	1	tuft university
+cluster_912	1	demon deacon
+cluster_913	1	harvard university law school
+cluster_914	2	brigham young university	byu
+cluster_917	2	campbell university	campbell fight camel
+cluster_918	2	london waterloo	waterloo station
+cluster_919	2	north brunswick	north brunswick township
+cluster_920	1	bryant college
+cluster_923	2	the cynthia wood mitchell pavilion	cynthia wood mitchell pavilion
+cluster_924	1	spinal tap
+cluster_925	2	expos	montreal expos
+cluster_926	2	kampuchea	cambodia
+cluster_927	3	los angeles clipper	clipper	san diego clipper
+cluster_928	2	georgia institute of technology	georgia tech
+cluster_929	1	kansas city royal
+cluster_930	1	north carolina central university
+cluster_931	2	xian	xi an
+cluster_932	2	albert pujol	pujol
+cluster_933	1	johannesburg international airport
+cluster_935	1	white river amphitheatre
+cluster_936	2	edward jone dome	trans world dome
+cluster_937	2	bactra	balkh
+cluster_938	1	palestinian territory
+cluster_940	1	frozen four
+cluster_941	1	fa cup
+cluster_942	2	national basketball association	nba
+cluster_943	1	northeastern husky
+cluster_945	2	lissabon	lisboa
+cluster_946	2	us airway center	america west arena
+cluster_947	1	aqtobe
+cluster_948	2	victor harbour	victor harbor
+cluster_949	1	fordham university
+cluster_950	1	cincinnati christian university
+cluster_952	1	binghamton university
+cluster_953	1	citrus bowl
+cluster_954	2	riverside theatre	riverside theater
+cluster_955	1	geneva airport
+cluster_956	2	sovereign bank arena	sun national bank center
+cluster_957	1	horseshoe southern indiana
+cluster_959	2	texas christian university	texas christian
+cluster_960	2	new york knick	knick
+cluster_961	1	cedarville university
+cluster_963	2	sacramento king	cincinnati royal
+cluster_964	2	khan younis	khan yunis
+cluster_966	2	kamuela	waimea
+cluster_968	2	philadelphia phillie	phillie
+cluster_969	1	salsomaggiore
+cluster_970	1	bangladesh
+cluster_971	2	mexico df	mexico city
+cluster_972	2	wachovia center	first union center
+cluster_973	1	johor bahru
+cluster_974	3	texas technical university	texas tech university	texas tech
+cluster_975	2	sao paolo	sao paulo
+cluster_976	2	kinnick stadium	kinnick
+cluster_978	2	stadium australia	telstra stadium
+cluster_979	2	tromsoe	tromso
+cluster_980	1	allstate arena
+cluster_981	3	georgia southern university	georgia southern college	georgia southern
+cluster_982	1	wilfrid lauri university
+cluster_983	1	martial art
+cluster_984	1	brenau university
+cluster_987	2	ball state university	ball state
+cluster_988	1	qw field
+cluster_989	2	nigeria	naija
+cluster_990	2	uf	university of florida
+cluster_992	1	bronko nagurski
+cluster_993	1	polk community college
+cluster_994	2	u s cellular field	us cellular field
+cluster_996	1	sandy alomar
+cluster_1000	2	eilat	elat
+cluster_1001	1	pelota
+cluster_1002	3	arkansas razorback	university of arkansa	razorback
+cluster_1003	2	kauen	kauna
+cluster_1005	1	saint john fish college
+cluster_1006	1	new jersey city university
+cluster_1007	1	aol arena
+cluster_1008	1	hard university
+cluster_1009	1	ksu stadium
+cluster_1011	2	goodman theatre	goodman theater
+cluster_1012	1	peter alliss
+cluster_1017	1	tulsa golden hurricane
+cluster_1018	1	carolina theatre
+cluster_1019	1	gabon
+cluster_1020	1	trondheim
+cluster_1021	1	clarkson university
+cluster_1023	2	bright house network field	bright house field
+cluster_1024	1	mercyhurst
+cluster_1025	2	jack murphy stadium	qualcomm stadium
+cluster_1027	2	csu convocation center	wolstein center
+cluster_1028	5	joe robbie stadium	sun life stadium	dolphin stadium	landshark stadium	pro player stadium
+cluster_1029	1	member state
+cluster_1030	2	denver nugget	nugget
+cluster_1032	1	gibson amphitheatre
+cluster_1033	3	st petersburg	saint petersburg	sankt petersburg
+cluster_1035	1	pazardjik
+cluster_1037	2	jerry hairston jr	jerry hairston
+cluster_1038	1	ljubljana
+cluster_1039	1	lewis field
+cluster_1041	2	alonnisos	alonissos
+cluster_1042	1	mersa matrouh
+cluster_1043	2	haadyai	hat yai
+cluster_1044	1	ulyanovsk
+cluster_1045	2	karalis	cagliari
+cluster_1046	2	argentina	argentine republic
+cluster_1047	2	chersonissos	hersonissos
+cluster_1049	1	california state university northridge
+cluster_1050	2	jativa	xativa
+cluster_1051	1	southern sudan
+cluster_1052	2	tiflis	tbilisi
+cluster_1053	2	boston red sox	red sox
+cluster_1055	1	swimming
+cluster_1056	1	pittsburg state university
+cluster_1057	1	indian stadium
+cluster_1058	2	new york university	nyu
+cluster_1059	1	colorado state ram
+cluster_1060	2	timor leste	east timor
+cluster_1061	1	arcadia university
+cluster_1062	1	joel pineiro
+cluster_1063	1	nutter center
+cluster_1064	3	sulaymaniyah	sulaimaniya	sulaimaniyah
+cluster_1065	1	citizen kane
+cluster_1066	2	unfortunate event	a series of unfortunate event
+cluster_1067	1	bethel wood
+cluster_1068	1	seebad heringsdorf
+cluster_1070	2	dwyane wade	dwayne wade
+cluster_1071	1	american airline arena
+cluster_1074	1	mushroom
+cluster_1075	2	den haag	the hague
+cluster_1076	3	venise	venezia	venedig
+cluster_1077	2	bowie state university	bowie state
+cluster_1078	1	ford center
+cluster_1079	1	college of the ozark
+cluster_1080	1	usc trojan
+cluster_1081	1	francis marion university
+cluster_1082	2	oak mountain amphitheater	verizon wireless music center
+cluster_1083	1	water cube
+cluster_1084	2	missouri state bear	southwest missouri state bear
+cluster_1085	1	basketball
+cluster_1086	1	southwest china
+cluster_1087	1	adrian gonzalez
+cluster_1088	1	clowes memorial hall
+cluster_1089	3	nadal	rafael nadal	rafa nadal
+cluster_1091	2	south africa	southafrica
+cluster_1092	1	chardzhou
+cluster_1094	2	roy halladay	halladay
+cluster_1095	2	oak ridge	oakridge
+cluster_1096	1	rick college
+cluster_1098	1	isreal
+cluster_1099	1	st asaph
+cluster_1100	1	potato
+cluster_1101	1	toronto blue jay
+cluster_1102	2	sarah lawrence college	sarah lawrence
+cluster_1103	1	trichy
+cluster_1104	2	veteran memorial arena	jacksonville veteran memorial arena
+cluster_1106	2	montevideu	montevideo
+cluster_1109	2	adrianople	edirne
+cluster_1110	1	greensboro coliseum
+cluster_1112	1	newcastle upon tyne
+cluster_1113	2	washington state	washington state university
+cluster_1114	2	columbus state university	columbus college
+cluster_1115	2	amityville horror	the amityville horror
+cluster_1116	2	nassau coliseum	nassau veteran memorial coliseum
+cluster_1117	2	fish theater	fish building
+cluster_1118	2	bruge	brugge
+cluster_1119	1	united state district court
+cluster_1120	2	tartus	tartous
+cluster_1121	1	indianapolis motor speedway
+cluster_1122	1	viet nam
+cluster_1123	2	red wing	detroit red wing
+cluster_1124	2	abu dhabi	abu dabi
+cluster_1125	3	texas state university san marcos	texas state university	texas state
+cluster_1127	1	steve zissou
+cluster_1128	1	maurice jone draw
+cluster_1129	1	chechnya
+cluster_1130	2	chittor	chittorgarh
+cluster_1131	1	transnistria
+cluster_1132	1	u s cellular arena
+cluster_1133	2	ballpark	ball park
+cluster_1134	1	indonesia
+cluster_1135	1	tower theatre
+cluster_1136	1	aonang
+cluster_1137	2	mecca	makkah
+cluster_1138	2	hilla	hillah
+cluster_1139	3	dhaka	dakha	dacca
+cluster_1140	2	mililani town	mililani
+cluster_1141	1	st olaf college
+cluster_1142	4	globen	ericsson globe	stockholm globe arena	globe arena
+cluster_1144	1	zimbabwe
+cluster_1146	2	medinah	madinah
+cluster_1147	1	evil dead
+cluster_1148	1	scott spiezio
+cluster_1149	1	resina
+cluster_1150	1	saint leo college
+cluster_1151	2	gm place	general motor place
+cluster_1153	2	south carolina gamecock	gamecock
+cluster_1155	2	brusela	brussel
+cluster_1156	1	mellon arena
+cluster_1157	1	rushmore plaza civic center
+cluster_1158	1	san francisco giant
+cluster_1160	2	dan haren	danny haren
+cluster_1161	2	ryazan	riazan
+cluster_1162	1	taiyuan
+cluster_1163	1	georgia southwestern college
+cluster_1164	2	world cup	worldcup
+cluster_1166	1	ralph wilson stadium
+cluster_1167	2	ahvaz	ahwaz
+cluster_1168	2	nfl	nfl football
+cluster_1169	2	texas southern university	texas southern
+cluster_1171	1	cahersiveen
+cluster_1172	1	laredo entertainment center
+cluster_1174	1	american university
+cluster_1175	1	peabody college
+cluster_1176	2	stadio giuseppe meazza	san siro
+cluster_1177	3	starwood amphitheatre	first american music center	amsouth amphitheater
+cluster_1178	1	playoff
+cluster_1180	3	nebraska cornhusker	cornhusker	husker
+cluster_1181	1	county stadium
+cluster_1184	1	wharton school
+cluster_1185	1	odessa
+cluster_1191	2	ohio northern	ohio northern university
+cluster_1193	1	claremont graduate university
+cluster_1194	2	osnabrueck	osnabruck
+cluster_1195	2	djokovic	novak djokovic
+cluster_1197	1	larnaca airport
+cluster_1198	2	houston astro	astro
+cluster_1199	2	colonial life arena	colonial center
+cluster_1200	1	university of texas
+cluster_1201	1	central asia
+cluster_1202	1	west bloomfield
+cluster_1204	2	asia pacific region	apec
+cluster_1205	2	seattle	seattle washington
+cluster_1207	2	nicholls state colonel	nicholls state university
+cluster_1208	1	world poker tour
+cluster_1209	2	camp h m smith	camp smith
+cluster_1211	1	disc golf
+cluster_1212	1	graduate center
+cluster_1213	3	hulk	the hulk	incredible hulk
+cluster_1214	2	deya	deia
+cluster_1215	1	sacramento state
+cluster_1216	1	duluth entertainment convention center
+cluster_1217	1	minnesota north star
+cluster_1219	3	k state	kansas state university	kansas state
+cluster_1220	2	arhus	aarhus
+cluster_1221	1	dalhousie university
+cluster_1222	1	weber state university
+cluster_1223	1	daytona international speedway
+cluster_1225	1	walter pyramid
+cluster_1226	2	fiu golden panther	florida international golden panther
+cluster_1227	2	fallujah	falluja
+cluster_1228	1	tanger
+cluster_1229	1	kuta
+cluster_1230	1	fairleigh dickinson university
+cluster_1231	1	wachovia spectrum
+cluster_1232	1	saint bonaventure university
+cluster_1233	2	lamezia	lamezia terme
+cluster_1234	1	bethel university
+cluster_1236	2	high point university	high point college
+cluster_1238	2	kolkatta	kolkata
+cluster_1239	1	kart
+cluster_1241	1	target shoot
+cluster_1242	1	national championship
+cluster_1243	2	regensburg	ratisbon
+cluster_1244	2	belgrad	beograd
+cluster_1248	1	leek
+cluster_1249	2	alep	aleppo
+cluster_1250	1	world trade center tower
+cluster_1251	1	dunkin donut center
+cluster_1252	2	konigsberg	koenigsberg
+cluster_1253	1	jason giambi
+cluster_1254	2	arkhangelsk	archangelsk
+cluster_1256	1	toamasina
+cluster_1257	1	clemson university
+cluster_1258	1	cincinnati red
+cluster_1259	2	pittsburg pirate	pittsburgh pirate
+cluster_1260	1	pepsi center
+cluster_1261	2	indiana state	indiana state university
+cluster_1262	2	alexander ovechkin	alex ovechkin
+cluster_1263	1	lang park
+cluster_1264	1	grand valley state
+cluster_1267	1	suny
+cluster_1268	2	carcasonne	carcassonne
+cluster_1269	1	spinach
+cluster_1270	1	university of houston
+cluster_1272	2	thailand	tailand
+cluster_1273	1	deed
+cluster_1274	1	pfeiffer college
+cluster_1275	1	haas pavilion
+cluster_1279	1	kareem abdul jabbar
+cluster_1280	4	laker	minneapolis laker	la laker	los angeles laker
+cluster_1281	2	cowboy stadium	dallas cowboy stadium
+cluster_1282	1	eastwood field
+cluster_1283	1	wilke university
+cluster_1284	2	saratoga perform art center	spac
+cluster_1285	1	sport fishing
+cluster_1286	1	ethiopia
+cluster_1287	1	kempo
+cluster_1288	1	new school university
+cluster_1289	1	saint loui university
+cluster_1291	2	illinois state university	illinois state
+cluster_1292	2	kailua	kailua kona
+cluster_1293	2	miami dade college	miami dade community college
+cluster_1294	1	us cellular coliseum
+cluster_1295	3	nizhny novgorod	nizhniy novgorod	nizhni novgorod
+cluster_1296	1	southwest state university
+cluster_1298	2	alesund	aalesund
+cluster_1299	1	kandahar
+cluster_1300	1	north florida osprey
+cluster_1301	4	philipine	phillipine	philippine	the philippine
+cluster_1302	2	maria sharapova	sharapova
+cluster_1304	2	camp nou	nou camp
+cluster_1305	2	draw bree	bree
+cluster_1306	2	ecuador	equador
+cluster_1307	2	bcs national championship game	bcs national championship
+cluster_1308	2	burgas	bourgas
+cluster_1309	1	roger federer
+cluster_1310	2	northern arizona university	northern arizona lumberjack
+cluster_1311	2	ayia napa	agia napa
+cluster_1312	1	edinboro university
+cluster_1313	1	ken griffey jr
+cluster_1314	2	boblingen	boeblingen
+cluster_1315	2	damman	dammam
+cluster_1317	1	ltu arena
+cluster_1319	1	nordic country
+cluster_1320	1	tongsa
+cluster_1321	3	tampa bay devil ray	tampa bay ray	devil ray
+cluster_1322	1	johnson coliseum
+cluster_1323	2	kansas state teacher college	emporia state university
+cluster_1324	2	ohio wesleyan university	ohio wesleyan
+cluster_1325	1	skating
+cluster_1326	4	missouri state	southwest missouri state university	missouri state university	southwest missouri state
+cluster_1327	2	chronicle pavilion	concord pavilion
+cluster_1328	2	oslo airport	gardermoen
+cluster_1329	2	dominican republic	the dominican republic
+cluster_1332	1	greg maddux
+cluster_1333	2	nhatrang	nha trang
+cluster_1334	2	rolen	scott rolen
+cluster_1335	1	acer arena
+cluster_1336	2	atlantic cape community college	atlantic community college
+cluster_1337	2	aktau	aqtau
+cluster_1338	1	anaheim convention center
+cluster_1341	2	aachen university	rwth aachen university
+cluster_1342	2	anaheim mighty duck	anaheim duck
+cluster_1343	1	laayoune
+cluster_1345	2	tampa bay bucs	tampa bay buccaneer
+cluster_1346	2	quicken loan arena	gund arena
+cluster_1347	2	liberty bowl stadium	liberty bowl memorial stadium
+cluster_1349	2	virginia wesleyan	virginia wesleyan college
+cluster_1350	2	cotton bowl stadium	cotton bowl
+cluster_1351	1	zach miner
+cluster_1352	2	tulear	toliara
+cluster_1353	1	zambia
+cluster_1354	1	netanya
+cluster_1355	1	millennium stadium
+cluster_1356	2	illinois wesleyan university	illinois wesleyan
+cluster_1357	2	uw madison	university of wisconsin
+cluster_1358	1	dudley field
+cluster_1359	1	new york state theater
+cluster_1360	2	faroe island	faeroe island
+cluster_1362	1	humboldt state university
+cluster_1363	1	kosuke fukudome
+cluster_1365	2	mahabalipuram	mamallapuram
+cluster_1366	1	arkansas state red wolf
+cluster_1367	1	france
+cluster_1369	2	alabama state	alabama state university
+cluster_1370	2	myconos	mykonos
+cluster_1371	1	dixie state college
+cluster_1372	1	squash
+cluster_1373	2	golden flash	kent state golden flash
+cluster_1374	2	suriname	surinam
+cluster_1375	2	syria	syrian arab republic
+cluster_1379	1	ferguson jenkin
+cluster_1380	2	isfahan	esfahan
+cluster_1382	1	csu stanislaus
+cluster_1384	2	southern connecticut state	southern connecticut state university
+cluster_1385	1	karate kid
+cluster_1386	2	libia	libya
+cluster_1387	1	general motor institute
+cluster_1389	3	kean university	ku	kean
+cluster_1391	1	troy trojan
+cluster_1392	1	santa teresa gallura
+cluster_1393	2	chowan college	chowan university
+cluster_1395	1	andalsne
+cluster_1396	1	kale
+cluster_1397	1	estadio el madrigal
+cluster_1398	2	pusan	busan
+cluster_1402	2	taegu	daegu
+cluster_1403	2	fuenterrabia	hondarribia
+cluster_1406	1	palm casino
+cluster_1408	2	fuseta	fuzeta
+cluster_1409	1	evangel college
+cluster_1410	1	toyota center
+cluster_1411	3	erevan	eriwan	yerevan
+cluster_1412	1	eastern connecticut state
+cluster_1413	1	peyton man
+cluster_1415	1	dodge theatre
+cluster_1416	1	mount vernon nazarene college
+cluster_1417	1	the master
+cluster_1418	1	saint david
+cluster_1419	1	yeosu
+cluster_1420	1	yugoslavia
+cluster_1422	2	areopoli	areopolis
+cluster_1424	2	lp field	adelphia coliseum
+cluster_1426	1	chapman university
+cluster_1427	2	sophie newcomb college	newcomb college
+cluster_1428	1	the den
+cluster_1429	2	invesco field at mile high	invesco field
+cluster_1430	2	teneriffa	tenerife
+cluster_1432	3	corel centre	scotiabank place	corel center
+cluster_1433	1	rowan university
+cluster_1434	2	new york city college	the city college
+cluster_1435	1	evergreen state college
+cluster_1436	2	centennial garden	rabobank arena
+cluster_1437	2	horned frog	tcu horned frog
+cluster_1438	1	aoste
+cluster_1439	2	gdr	east germany
+cluster_1440	2	meadowland complex	meadowland sport complex
+cluster_1441	1	chukchansi park
+cluster_1442	1	czernowitz
+cluster_1443	2	a coruna	la coruna
+cluster_1444	1	dandelion
+cluster_1445	2	rutger scarlet knight	scarlet knight
+cluster_1446	2	garret anderson	garrett anderson
+cluster_1447	3	alamo dome	alamodome	the alamodome
+cluster_1448	1	nine
+cluster_1450	3	czechia	czech republic	the czech republic
+cluster_1451	1	kondoz
+cluster_1452	2	colorado rockie	rockie
+cluster_1453	1	rutabaga
+cluster_1454	2	ostende	oostende
+cluster_1457	2	kunia	kunia camp
+cluster_1458	1	bakersfield college
+cluster_1460	1	ujung pandang
+cluster_1461	2	basra	al basrah
+cluster_1462	1	kangkong
+cluster_1463	1	uc davis
+cluster_1464	1	save mart center
+cluster_1465	1	immaculata college
+cluster_1466	3	rexall place	northland coliseum	skyreach centre
+cluster_1467	2	the ohio state university	ohio state
+cluster_1469	1	old globe theater
+cluster_1470	2	fiume	rijeka
+cluster_1471	2	columbus blue jacket	blue jacket
+cluster_1472	2	seattle seahawks	seahawks
+cluster_1473	1	alltel arena
+cluster_1474	2	chungk	chongq
+cluster_1477	2	zakinthos	zakynthos
+cluster_1479	2	makati	makati city
+cluster_1480	2	montreal canadian	montreal canadien
+cluster_1482	2	bangalore	bengaluru
+cluster_1483	1	bologna
+cluster_1484	1	university of rhode island
+cluster_1485	2	kaleici	antalya
+cluster_1486	1	umu
+cluster_1488	1	niger
+cluster_1489	2	wichita state university	wichita state
+cluster_1490	1	fiskardo
+cluster_1491	2	roy thompson hall	roy thomson hall
+cluster_1492	1	j d draw
+cluster_1493	1	mytilene
+cluster_1495	2	gyumri	gumri
+cluster_1497	3	thessalonica	salonika	thessaloniki
+cluster_1501	1	wilshire theatre
+cluster_1502	1	djibouti
+cluster_1503	2	west virginia state	west virginia state college
+cluster_1504	1	pershing auditorium
+cluster_1506	2	park university	park college
+cluster_1507	1	southern polytechnic state university
+cluster_1508	1	stegeman coliseum
+cluster_1509	2	umhlanga	umhlanga rock
+cluster_1510	2	ichiro	ichiro suzuki
+cluster_1511	2	oklahoma state	oklahoma state university
+cluster_1512	2	indochina	indo china
+cluster_1513	2	cuzco	cusco
+cluster_1514	1	ivory coast
+cluster_1517	2	penguin	youngstown state penguin
+cluster_1518	2	da nang	danang
+cluster_1519	2	moore theatre	moore theater
+cluster_1521	2	imperial college london	imperial college
+cluster_1523	2	swi	schweiz
+cluster_1525	1	staple center
+cluster_1526	2	basel	basle
+cluster_1527	2	sri lanka	srilanka
+cluster_1528	1	st johns
+cluster_1529	1	acc tournament
+cluster_1530	2	qw center omaha	qw center
+cluster_1531	2	capital centre	us airway arena
+cluster_1534	1	shannon airport
+cluster_1535	1	gniezno
+cluster_1536	2	youngstown state	youngstown state university
+cluster_1537	2	terps	maryland terrapin
+cluster_1539	1	house bunny
+cluster_1540	1	tai chi chuan
+cluster_1542	1	lindenwood university
+cluster_1543	2	us bank arena	u s bank arena
+cluster_1544	2	samui	koh samui
+cluster_1545	2	fed ex field	fedex field
+cluster_1548	1	riazor
+cluster_1549	1	birmingham new street
+cluster_1550	1	jame shield
+cluster_1554	1	blagoveshchensk
+cluster_1555	1	wayne state university
+cluster_1556	2	byelorussia	belarus
+cluster_1559	2	crew stadium	columbus crew stadium
+cluster_1560	1	world championship
+cluster_1563	2	kitzbuhel	kitzbuehel
+cluster_1565	2	george washington university	the george washington university
+cluster_1566	1	east tennessee state university
+cluster_1567	2	pepperdine university	pepperdine
+cluster_1568	2	imperial theatre	imperial theater
+cluster_1569	3	mechelen	mechlin	maline
+cluster_1570	2	the gambia	gambia
+cluster_1571	1	the sudan
+cluster_1572	1	european cup winner cup
+cluster_1573	1	rwanda
+cluster_1574	2	montecristi	monte cristi
+cluster_1576	2	baylor bear	baylor
+cluster_1577	2	aberdovey	aberdyfi
+cluster_1578	2	marrakesh	marrakech
+cluster_1579	2	e center	the e center
+cluster_1580	2	cluj napoca	cluj
+cluster_1582	1	fukuoka
+cluster_1583	1	newzealand
+cluster_1584	2	newman university	jet
+cluster_1585	2	robison field	cardinal field
+cluster_1586	2	nicklaus	jack nicklaus
+cluster_1587	1	ed sullivan theatre
+cluster_1588	1	najaf
+cluster_1589	2	baranquilla	barranquilla
+cluster_1590	2	giglio castello	giglio porto
+cluster_1591	2	portugal	portuguese republic
+cluster_1592	2	bard college	raptor
+cluster_1593	2	vlad guerrero	vladimir guerrero
+cluster_1594	1	pace university
+cluster_1595	2	new york ranger	ny ranger
+cluster_1596	2	hollin university	hollin college
+cluster_1597	2	rheim	reim
+cluster_1598	2	hawthorn	the hawthorn
+cluster_1600	1	boston university terrier
+cluster_1604	2	padova	padua
+cluster_1605	2	new england patriot	boston patriot
+cluster_1607	1	dr pepper arena
+cluster_1608	3	tadjikistan	tadzhikistan	tajikistan
+cluster_1609	1	alpine valley
+cluster_1610	2	ft lauderdale	fort lauderdale
+cluster_1612	2	breslin student event center	breslin center
+cluster_1613	1	kulyab
+cluster_1614	2	berklee	berklee college of music
+cluster_1615	2	robert morris college	robert morris university
+cluster_1616	2	holman stadium	dodgertown
+cluster_1619	2	chisinau	kishinev
+cluster_1621	1	clarion university
+cluster_1622	1	roger william university
+cluster_1623	2	st louis ram	saint louis ram
+cluster_1624	1	cory lidle
+cluster_1625	2	vancouver canuck	canuck
+cluster_1629	1	cancun international airport
+cluster_1630	2	mariehamn	maarianhamina
+cluster_1631	1	indiana wesleyan university
+cluster_1632	2	nova university	nova southeastern university
+cluster_1635	1	st lawrence university
+cluster_1637	1	saint lo
+cluster_1638	1	shea stadium
+cluster_1639	2	port vila	port villa
+cluster_1640	1	whittemore center
+cluster_1641	2	energy solution arena	delta center
+cluster_1644	2	samawah	samawa
+cluster_1645	2	von braun center	von braun civic center
+cluster_1646	1	julian tavarez
+cluster_1647	2	new amsterdam theater	new amsterdam theatre
+cluster_1650	2	severiano ballestero	seve ballesteros
+cluster_1651	1	starlight theatre
+cluster_1652	1	fulton county stadium
+cluster_1653	1	new jersey devil
+cluster_1654	1	molson stadium
+cluster_1655	1	luneburg
+cluster_1656	1	the hunt for red october
+cluster_1657	2	washington redskin	redskin
+cluster_1658	2	inconvenient truth	an inconvenient truth
+cluster_1659	1	siena height university
+cluster_1660	2	bobby dodd stadium	grant field
+cluster_1661	2	palma de mallorca	palma
+cluster_1662	1	canisius golden griffin
+cluster_1663	2	peoria sport complex	peoria stadium
+cluster_1664	2	arizona state	arizona state university
+cluster_1665	1	st david
+cluster_1666	1	bengie molina
+cluster_1667	1	historic
+cluster_1668	1	jonathan papelbon
+cluster_1670	2	minnesota golden gopher	golden gopher
+cluster_1671	1	st austell
+cluster_1672	1	raymond floyd
+cluster_1674	1	bury st edmund
+cluster_1679	1	ibrox stadium
+cluster_1680	1	genf
+cluster_1681	2	oregon duck	duck
+cluster_1685	1	salisbury university
+cluster_1686	1	northrop auditorium
+cluster_1687	1	hoover metropolitan stadium
+cluster_1688	1	auto club speedway
+cluster_1689	2	michigan tech	michigan technological university
+cluster_1690	1	lewis clark state college
+cluster_1691	1	washington dc

@@ -1,0 +1,53 @@
+{
+  "batch_size": {
+    "train": 50,
+    "eval": 5
+  },
+  "model_info": {
+    "dir": "glove",
+    "src": "GLOVE"
+  },
+  "working_directory": "data/vae_run/nell165_hac/",
+  "learning_rate": {
+    "stage1": 1e-3,
+    "stage2": 1e-4
+  },
+  "eval_per": {
+    "stage1": 20,
+    "stage2": 10
+  },
+  "loss_weights": {
+    "vae": 1,
+    "kbc": 1,
+    "side_info": 1
+  },
+  "train_stages": [
+    "stage1",
+    "stage2"
+  ],
+  "dims": {
+    "input": 768,
+    "interim": [384],
+    "latent": 100
+  },
+  "seed": 10,
+  "init_ent_file": "hac_init_entity_0.21_threshold_OpenKG_Canonicalize.pkl",
+  "init_rel_file": "kmeans_init_relation_134_clusters_OpenKG_Canonicalize.pkl",
+  "clusters": {
+    "ent": 6625,
+    "rel": 134
+  },
+  "reg_info": {
+    "stage1_reg": 1e-3,
+    "stage2_reg": 1e-3,
+    "mc_samples": 1
+  },
+  "kge_util_params": {
+    "temp": 0.01,
+    "n_corruptions": 20
+  },
+  "n_epochs": {
+    "stage1": 50,
+    "stage2": 100
+  }
+}

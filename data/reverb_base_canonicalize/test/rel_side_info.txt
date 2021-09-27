@@ -1,0 +1,1147 @@
+1146
+be between	be one of	1.0
+go to	move to	1.0
+start in	begin in	0.25
+begin on	begin in	1.25
+begin on	start in	0.25
+pull	unleash	1.0
+be at	be in	1.0
+start with	begin with	1.0
+help she to	help in	1.0
+help to build	help build	1.0
+may be under	may own	1.0
+may be by	may own	1.0
+may have	may own	1.0
+may at	may own	1.0
+may be	may own	1.0
+may be by	may be under	1.0
+may have	may be under	1.0
+may at	may be under	1.0
+may be	may be under	1.0
+may have	may be by	1.0
+may at	may be by	1.0
+may be	may be by	1.0
+may at	may have	1.0
+may be	may have	1.0
+may be take for	may be take with	1.0
+may be	may at	1.0
+remain on	remain in	1.0
+have a long history in	have a long history of	1.0
+have say about	say during	1.0
+say with	say during	1.0
+say of	say during	1.0
+say on	say during	1.0
+say after	say during	1.0
+say to	say during	1.0
+say in	say during	1.0
+say with	have say about	1.0
+say of	have say about	1.0
+say on	have say about	1.0
+say after	have say about	1.0
+say to	have say about	1.0
+say in	have say about	1.0
+say of	say with	1.0
+say on	say with	1.0
+say after	say with	1.0
+say to	say with	1.0
+say in	say with	1.0
+say on	say of	1.0
+say after	say of	1.0
+say to	say of	1.0
+say in	say of	1.0
+say after	say on	1.0
+say to	say on	1.0
+say in	say on	1.0
+say to	say after	1.0
+say in	say after	1.0
+say in	say to	1.0
+show	have be show by	1.0
+show with	have be show by	1.0
+show off	have be show by	1.0
+show up in	have be show by	1.0
+show up at	have be show by	1.0
+show with	show	1.0
+show off	show	1.0
+show up in	show	1.0
+show up at	show	1.0
+show off	show with	1.0
+show up in	show with	1.0
+show up at	show with	1.0
+show up in	show off	1.0
+show up at	show off	1.0
+show up at	show up in	1.0
+do a lot for	have do a lot for	1.0
+own a lot of	have do a lot for	1.0
+have a lot of	have do a lot for	1.0
+have get a lot of	get lot of	1.0
+be get a lot of	get lot of	1.0
+own a lot of	do a lot for	1.0
+have a lot of	do a lot for	1.0
+have a lot of	own a lot of	1.0
+be get a lot of	have get a lot of	1.0
+be for create	create	1.0
+be create by	create	1.0
+be create by	be for create	1.0
+be also at	have also be here for	1.0
+also own	have also be here for	1.0
+be also on	have also be here for	1.0
+be also	have also be here for	1.0
+also have	have also be here for	1.0
+be also below	have also be here for	1.0
+be also use in	be also use for	1.0
+also make	will also make	1.0
+be also make out of	will also make	1.0
+be also be make in	will also make	1.0
+be also call	be also call as	1.0
+also call	be also call as	1.0
+also call	be also call	1.0
+be also home to	be also the home of	2.0
+be also home of	be also the home of	2.0
+also own	be also at	1.0
+be also on	be also at	1.0
+be also	be also at	1.0
+also have	be also at	1.0
+be also below	be also at	1.0
+be also home of	be also home to	1.0
+be also make out of	also make	1.0
+be also be make in	also make	1.0
+be also on	also own	1.0
+be also	also own	1.0
+also have	also own	1.0
+be also below	also own	1.0
+have also work with	be also work on	1.0
+be also	be also on	1.0
+also have	be also on	1.0
+be also below	be also on	1.0
+be also be make in	be also make out of	1.0
+also have	be also	1.0
+be also below	be also	1.0
+be also a problem in	be also a problem for	2.0
+be also below	also have	1.0
+can take	should be take on	1.0
+take this with	should be take on	1.0
+should be take with	should be take on	1.0
+be take on	should be take on	1.0
+take on	should be take on	1.0
+be take over	should be take on	1.0
+be there to take	should be take on	1.0
+should be take before	should be take on	1.0
+should be take after	should be take on	1.0
+take over from	should be take on	1.0
+take this with	can take	1.0
+should be take with	can take	1.0
+be take on	can take	1.0
+take on	can take	1.0
+be take over	can take	1.0
+be there to take	can take	1.0
+should be take before	can take	1.0
+should be take after	can take	1.0
+take over from	can take	1.0
+should be take with	take this with	1.0
+be take on	take this with	1.0
+take on	take this with	1.0
+be take over	take this with	1.0
+be there to take	take this with	1.0
+should be take before	take this with	1.0
+should be take after	take this with	1.0
+take over from	take this with	1.0
+be take on	should be take with	1.0
+take on	should be take with	1.0
+be take over	should be take with	1.0
+be there to take	should be take with	1.0
+should be take before	should be take with	1.0
+should be take after	should be take with	1.0
+take over from	should be take with	1.0
+be take hold of	be take hold in	1.0
+take place in	take place at	1.0
+take place on	take place at	1.0
+take place on	take place in	1.0
+take on	be take on	1.0
+be take over	be take on	1.0
+be there to take	be take on	1.0
+should be take before	be take on	1.0
+should be take after	be take on	1.0
+take over from	be take on	1.0
+be take over	take on	1.0
+be there to take	take on	1.0
+should be take before	take on	1.0
+should be take after	take on	1.0
+take over from	take on	1.0
+be take order for	be now take order for	1.0
+be there to take	be take over	1.0
+should be take before	be take over	1.0
+should be take after	be take over	1.0
+take over from	be take over	1.0
+should be take before	be there to take	1.0
+should be take after	be there to take	1.0
+take over from	be there to take	1.0
+should be take after	should be take before	1.0
+take over from	should be take before	1.0
+take over from	should be take after	1.0
+have never be in	have never be to	1.0
+be never	have never be to	1.0
+have never be	have never be to	1.0
+can never be	have never be to	1.0
+be never	have never be in	1.0
+have never be	have never be in	1.0
+can never be	have never be in	1.0
+have never be	be never	1.0
+can never be	be never	1.0
+can never be	have never be	1.0
+be serve by	serve in	1.0
+run on	have be run about	1.0
+run over	have be run about	1.0
+be run by	have be run about	1.0
+run in	have be run about	1.0
+can run over	have be run about	1.0
+have be run for	have be run about	1.0
+be run for	have be run about	1.0
+run over	run on	1.0
+be run by	run on	1.0
+run in	run on	1.0
+can run over	run on	1.0
+have be run for	run on	1.0
+be run for	run on	1.0
+be run by	run over	1.0
+run in	run over	1.0
+can run over	run over	1.0
+have be run for	run over	1.0
+be run for	run over	1.0
+run in	be run by	1.0
+can run over	be run by	1.0
+have be run for	be run by	1.0
+be run for	be run by	1.0
+can run over	run in	1.0
+have be run for	run in	1.0
+be run for	run in	1.0
+have be run for	can run over	1.0
+be run for	can run over	1.0
+be run for	have be run for	1.0
+be still in	be still on	1.0
+still have	be still on	1.0
+be still	be still on	1.0
+still have	be still in	1.0
+be still	be still in	1.0
+be still	still have	1.0
+be a work of	be work for	1.0
+work for	be work for	1.0
+be work to	be work for	1.0
+work for	be a work of	1.0
+be work to	be a work of	1.0
+be work to	work for	1.0
+be look for	look on to	1.0
+look at	look on to	1.0
+look for	look on to	1.0
+look like	do look like	1.0
+look at	be look for	1.0
+look for	be look for	1.0
+look for	look at	1.0
+be made for	be made of	1.0
+will be follow by	follow in	1.0
+be follow by	follow in	1.0
+be follow by	will be follow by	1.0
+go on	go up to	1.0
+go to	go up to	1.0
+have be go for	go up to	1.0
+will go	go up to	1.0
+go out on	go up to	1.0
+be go to be on	go up to	1.0
+go into	go up to	1.0
+go to	go on	1.0
+have be go for	go on	1.0
+will go	go on	1.0
+go out on	go on	1.0
+be go to be on	go on	1.0
+go into	go on	1.0
+have be go for	go to	1.0
+will go	go to	1.0
+go out on	go to	1.0
+be go to be on	go to	1.0
+go into	go to	1.0
+will go	have be go for	1.0
+go out on	have be go for	1.0
+be go to be on	have be go for	1.0
+go into	have be go for	1.0
+go out on	will go	1.0
+be go to be on	will go	1.0
+go into	will go	1.0
+be go to be on	go out on	1.0
+go into	go out on	1.0
+go into	be go to be on	1.0
+be home to	be home to over	1.0
+be the home of	be home to over	1.0
+be the home of	be home to	1.0
+be estimate at	be estimate to be about	1.0
+be estimate at up to	be estimate to be about	1.0
+be estimate at up to	be estimate at	1.0
+can only move on	be move	1.0
+be move into	be move	1.0
+move to	be move	1.0
+be move into	can only move on	1.0
+move to	can only move on	1.0
+move to	be move into	1.0
+have a range of	range in	1.0
+fall for	fall in at	1.0
+fall into	fall in at	1.0
+fall into	fall for	1.0
+be a serious problem in	be a serious problem of	1.0
+will be give by	can be give as	1.0
+should be give on	can be give as	1.0
+be give on	can be give as	1.0
+give in to	can be give as	1.0
+should be give on	will be give by	1.0
+be give on	will be give by	1.0
+give in to	will be give by	1.0
+be give on	should be give on	1.0
+give in to	should be give on	1.0
+should not be give by	do not give	1.0
+give in to	be give on	1.0
+be introduce	be introduce to	1.0
+introduce	be introduce to	1.0
+introduce	be introduce	1.0
+be widely use in	be use widely in	1.0
+should be use for	be use by	1.0
+be use	be use by	1.0
+use for	be use by	1.0
+have be use in	be use by	1.0
+should be use with	be use by	1.0
+use in	be use by	1.0
+be use in	be use by	1.0
+again use	be use by	1.0
+be the use of	be use by	1.0
+be be use as	be use by	1.0
+can be use on	be use by	1.0
+use	be use by	1.0
+be often use in	be often use for	2.0
+be use	should be use for	1.0
+use for	should be use for	1.0
+have be use in	should be use for	1.0
+should be use with	should be use for	1.0
+use in	should be use for	1.0
+be use in	should be use for	1.0
+again use	should be use for	1.0
+be the use of	should be use for	1.0
+be be use as	should be use for	1.0
+can be use on	should be use for	1.0
+use	should be use for	1.0
+use for	be use	1.0
+have be use in	be use	1.0
+should be use with	be use	1.0
+use in	be use	1.0
+be use in	be use	1.0
+again use	be use	1.0
+be the use of	be use	1.0
+be be use as	be use	1.0
+can be use on	be use	1.0
+use	be use	1.0
+have be use in	use for	1.0
+should be use with	use for	1.0
+use in	use for	1.0
+be use in	use for	1.0
+again use	use for	1.0
+be the use of	use for	1.0
+be be use as	use for	1.0
+can be use on	use for	1.0
+use	use for	1.0
+should be use with	have be use in	1.0
+use in	have be use in	1.0
+be use in	have be use in	1.0
+again use	have be use in	1.0
+be the use of	have be use in	1.0
+be be use as	have be use in	1.0
+can be use on	have be use in	1.0
+use	have be use in	1.0
+use in	should be use with	1.0
+be use in	should be use with	1.0
+again use	should be use with	1.0
+be the use of	should be use with	1.0
+be be use as	should be use with	1.0
+can be use on	should be use with	1.0
+use	should be use with	1.0
+be use in	use in	1.0
+again use	use in	1.0
+be the use of	use in	1.0
+be be use as	use in	1.0
+can be use on	use in	1.0
+use	use in	1.0
+again use	be use in	1.0
+be the use of	be use in	1.0
+be be use as	be use in	1.0
+can be use on	be use in	1.0
+use	be use in	1.0
+be the use of	again use	1.0
+be be use as	again use	1.0
+can be use on	again use	1.0
+use	again use	1.0
+be be use as	be the use of	1.0
+can be use on	be the use of	1.0
+use	be the use of	1.0
+can be use on	be be use as	1.0
+use	be be use as	1.0
+use	can be use on	1.0
+be good for	be good at	1.0
+be very good only on	be good at	1.0
+be very good only on	be good for	1.0
+have be live for	live in	1.0
+live here in	live in	1.0
+have live	live in	1.0
+live about	live in	1.0
+live here in	have be live for	1.0
+have live	have be live for	1.0
+live about	have be live for	1.0
+have live	live here in	1.0
+live about	live here in	1.0
+live about	have live	1.0
+come in for	come into	1.0
+come from	come into	1.0
+come over for	come into	1.0
+be come to	come into	1.0
+can come in	come into	1.0
+come through on	come into	1.0
+come on	come into	1.0
+come to	come into	1.0
+be come out in	come into	1.0
+come in	come into	1.0
+come with	come into	1.0
+come out of	come into	1.0
+come from	come in for	1.0
+come over for	come in for	1.0
+be come to	come in for	1.0
+can come in	come in for	1.0
+come through on	come in for	1.0
+come on	come in for	1.0
+come to	come in for	1.0
+be come out in	come in for	1.0
+come in	come in for	1.0
+come with	come in for	1.0
+come out of	come in for	1.0
+come over for	come from	1.0
+be come to	come from	1.0
+can come in	come from	1.0
+come through on	come from	1.0
+come on	come from	1.0
+come to	come from	1.0
+be come out in	come from	1.0
+come in	come from	1.0
+come with	come from	1.0
+come out of	come from	1.0
+be come to	come over for	1.0
+can come in	come over for	1.0
+come through on	come over for	1.0
+come on	come over for	1.0
+come to	come over for	1.0
+be come out in	come over for	1.0
+come in	come over for	1.0
+come with	come over for	1.0
+come out of	come over for	1.0
+can come in	be come to	1.0
+come through on	be come to	1.0
+come on	be come to	1.0
+come to	be come to	1.0
+be come out in	be come to	1.0
+come in	be come to	1.0
+come with	be come to	1.0
+come out of	be come to	1.0
+come through on	can come in	1.0
+come on	can come in	1.0
+come to	can come in	1.0
+be come out in	can come in	1.0
+come in	can come in	1.0
+come with	can come in	1.0
+come out of	can come in	1.0
+come on	come through on	1.0
+come to	come through on	1.0
+be come out in	come through on	1.0
+come in	come through on	1.0
+come with	come through on	1.0
+come out of	come through on	1.0
+come to	come on	1.0
+be come out in	come on	1.0
+come in	come on	1.0
+come with	come on	1.0
+come out of	come on	1.0
+be come out in	come to	1.0
+come in	come to	1.0
+come with	come to	1.0
+come out of	come to	1.0
+come in	be come out in	1.0
+come with	be come out in	1.0
+come out of	be come out in	1.0
+come with	come in	1.0
+come out of	come in	1.0
+come out of	come with	1.0
+be available at	be now available on	1.0
+be available in	be now available on	1.0
+will be available in	be now available on	1.0
+be available for	be now available on	1.0
+be available in	be available at	1.0
+will be available in	be available at	1.0
+be available for	be available at	1.0
+will be available in	be available in	1.0
+be available for	be available in	1.0
+be available for	will be available in	1.0
+just want to have	want	1.0
+start at	start of	1.0
+start in	start of	1.0
+start with	start of	1.0
+have start	start of	1.0
+start on	start of	1.0
+start off as	start of	1.0
+start	start of	1.0
+start out in	start of	1.0
+start in	start at	1.0
+start with	start at	1.0
+have start	start at	1.0
+start on	start at	1.0
+start off as	start at	1.0
+start	start at	1.0
+start out in	start at	1.0
+start with	start in	1.0
+have start	start in	1.0
+start on	start in	1.0
+start off as	start in	1.0
+start	start in	1.0
+start out in	start in	1.0
+have start	start with	1.0
+start on	start with	1.0
+start off as	start with	1.0
+start	start with	1.0
+start out in	start with	1.0
+start on	have start	1.0
+start off as	have start	1.0
+start	have start	1.0
+start out in	have start	1.0
+start off as	start on	1.0
+start	start on	1.0
+start out in	start on	1.0
+start	start off as	1.0
+start out in	start off as	1.0
+start out in	start	1.0
+be buy	will buy	1.0
+can buy	will buy	1.0
+buy for	will buy	1.0
+buy in	will buy	1.0
+buy	will buy	1.0
+be buy into	will buy	1.0
+buy a stake in	have buy a stake in	1.0
+can buy	be buy	1.0
+buy for	be buy	1.0
+buy in	be buy	1.0
+buy	be buy	1.0
+be buy into	be buy	1.0
+buy for	can buy	1.0
+buy in	can buy	1.0
+buy	can buy	1.0
+be buy into	can buy	1.0
+buy in	buy for	1.0
+buy	buy for	1.0
+be buy into	buy for	1.0
+buy	buy in	1.0
+be buy into	buy in	1.0
+be buy into	buy	1.0
+call on	be call by	1.0
+call to	be call by	1.0
+be call	be call by	1.0
+call for	be call by	1.0
+have be call by	be call by	1.0
+call to	call on	1.0
+be call	call on	1.0
+call for	call on	1.0
+have be call by	call on	1.0
+be call	call to	1.0
+call for	call to	1.0
+have be call by	call to	1.0
+often call	be often call	1.0
+call for	be call	1.0
+have be call by	be call	1.0
+have be call by	call for	1.0
+have retire from	be retire from	1.0
+be retire in	be retire from	1.0
+retire in	be retire from	1.0
+retire as	be retire from	1.0
+retire from	be retire from	1.0
+be retire in	have retire from	1.0
+retire in	have retire from	1.0
+retire as	have retire from	1.0
+retire from	have retire from	1.0
+retire in	be retire in	1.0
+retire as	be retire in	1.0
+retire from	be retire in	1.0
+retire as	retire in	1.0
+retire from	retire in	1.0
+retire from	retire as	1.0
+be make with	make of	1.0
+be make only at	make of	1.0
+be make up of	make of	1.0
+just make	make of	1.0
+be make into	make of	1.0
+be make from	make of	1.0
+be make of	make of	1.0
+can be make of	make of	1.0
+do make	make of	1.0
+be make	make of	1.0
+make in	make of	1.0
+will make	make of	1.0
+make for	make of	1.0
+be make out of	make of	1.0
+do not just make	do not make	1.0
+be make only at	be make with	1.0
+be make up of	be make with	1.0
+just make	be make with	1.0
+be make into	be make with	1.0
+be make from	be make with	1.0
+be make of	be make with	1.0
+can be make of	be make with	1.0
+do make	be make with	1.0
+be make	be make with	1.0
+make in	be make with	1.0
+will make	be make with	1.0
+make for	be make with	1.0
+be make out of	be make with	1.0
+be make up of	be make only at	1.0
+just make	be make only at	1.0
+be make into	be make only at	1.0
+be make from	be make only at	1.0
+be make of	be make only at	1.0
+can be make of	be make only at	1.0
+do make	be make only at	1.0
+be make	be make only at	1.0
+make in	be make only at	1.0
+will make	be make only at	1.0
+make for	be make only at	1.0
+be make out of	be make only at	1.0
+just make	be make up of	1.0
+be make into	be make up of	1.0
+be make from	be make up of	1.0
+be make of	be make up of	1.0
+can be make of	be make up of	1.0
+do make	be make up of	1.0
+be make	be make up of	1.0
+make in	be make up of	1.0
+will make	be make up of	1.0
+make for	be make up of	1.0
+be make out of	be make up of	1.0
+be make into	just make	1.0
+be make from	just make	1.0
+be make of	just make	1.0
+can be make of	just make	1.0
+do make	just make	1.0
+be make	just make	1.0
+make in	just make	1.0
+will make	just make	1.0
+make for	just make	1.0
+be make out of	just make	1.0
+be make from	be make into	1.0
+be make of	be make into	1.0
+can be make of	be make into	1.0
+do make	be make into	1.0
+be make	be make into	1.0
+make in	be make into	1.0
+will make	be make into	1.0
+make for	be make into	1.0
+be make out of	be make into	1.0
+be make of	be make from	1.0
+can be make of	be make from	1.0
+do make	be make from	1.0
+be make	be make from	1.0
+make in	be make from	1.0
+will make	be make from	1.0
+make for	be make from	1.0
+be make out of	be make from	1.0
+can be make of	be make of	1.0
+do make	be make of	1.0
+be make	be make of	1.0
+make in	be make of	1.0
+will make	be make of	1.0
+make for	be make of	1.0
+be make out of	be make of	1.0
+do make	can be make of	1.0
+be make	can be make of	1.0
+make in	can be make of	1.0
+will make	can be make of	1.0
+make for	can be make of	1.0
+be make out of	can be make of	1.0
+would make	would be make	1.0
+be make	do make	1.0
+make in	do make	1.0
+will make	do make	1.0
+make for	do make	1.0
+be make out of	do make	1.0
+make in	be make	1.0
+will make	be make	1.0
+make for	be make	1.0
+be make out of	be make	1.0
+will make	make in	1.0
+make for	make in	1.0
+be make out of	make in	1.0
+make for	will make	1.0
+be make out of	will make	1.0
+be make out of	make for	1.0
+be a one of	be one of	1.0
+do not suffer	do not suffer from	1.0
+do not build	be not build	1.0
+be build into	build for	1.0
+have a build in	build for	1.0
+have a build in	be build into	1.0
+think in	think with	1.0
+think for	think with	1.0
+be think about	think with	1.0
+think for	think in	1.0
+be think about	think in	1.0
+be think about	think for	1.0
+be a cause of	can cause	1.0
+have be the cause of	can cause	1.0
+have be the cause of	be a cause of	1.0
+be often cause by	often cause	1.0
+be raise in	have raise	1.0
+have become of	be become	1.0
+have become	be become	1.0
+become on	be become	1.0
+have become	have become of	1.0
+become on	have become of	1.0
+become on	have become	1.0
+become the capital of	become capital of	1.0
+be base on	be base in	1.0
+be base of	be base in	1.0
+be base of	be base on	1.0
+have be around for	be around	1.0
+be an all around	be around	1.0
+have be around for over	be around	1.0
+be an all around	have be around for	1.0
+have be around for over	have be around for	1.0
+have be around for over	be an all around	1.0
+set up for	set up	1.0
+have be set up for	set up	1.0
+have be set	set up	1.0
+will set	set up	1.0
+set out for	set up	1.0
+have be set up for	set up for	1.0
+have be set	set up for	1.0
+will set	set up for	1.0
+set out for	set up for	1.0
+have be set	have be set up for	1.0
+will set	have be set up for	1.0
+set out for	have be set up for	1.0
+will set	have be set	1.0
+set out for	have be set	1.0
+set out for	will set	1.0
+be locate at	locate at	1.0
+be locate	locate at	1.0
+be locate on	locate at	1.0
+locate	locate at	1.0
+locate above	locate at	1.0
+locate in	locate at	1.0
+have be locate by	locate at	1.0
+be locate in	locate at	1.0
+be locate	be locate at	1.0
+be locate on	be locate at	1.0
+locate	be locate at	1.0
+locate above	be locate at	1.0
+locate in	be locate at	1.0
+have be locate by	be locate at	1.0
+be locate in	be locate at	1.0
+be locate on	be locate	1.0
+locate	be locate	1.0
+locate above	be locate	1.0
+locate in	be locate	1.0
+have be locate by	be locate	1.0
+be locate in	be locate	1.0
+locate	be locate on	1.0
+locate above	be locate on	1.0
+locate in	be locate on	1.0
+have be locate by	be locate on	1.0
+be locate in	be locate on	1.0
+locate above	locate	1.0
+locate in	locate	1.0
+have be locate by	locate	1.0
+be locate in	locate	1.0
+locate in	locate above	1.0
+have be locate by	locate above	1.0
+be locate in	locate above	1.0
+have be locate by	locate in	1.0
+be locate in	locate in	1.0
+be locate in	have be locate by	1.0
+have leave	leave	1.0
+be leave	leave	1.0
+leave for	leave	1.0
+leave in	leave	1.0
+be leave	have leave	1.0
+leave for	have leave	1.0
+leave in	have leave	1.0
+have not leave	be not leave	1.0
+leave for	be leave	1.0
+leave in	be leave	1.0
+leave in	leave for	1.0
+do not know	be not know with	1.0
+should know about	be know to be	1.0
+do know	be know to be	1.0
+do know	should know about	1.0
+be bear into	be bear on	1.0
+be bear in	be bear on	1.0
+be bear with	be bear on	1.0
+be bear at	be bear on	1.0
+be bear to	be bear on	1.0
+be bear in	be bear into	1.0
+be bear with	be bear into	1.0
+be bear at	be bear into	1.0
+be bear to	be bear into	1.0
+be bear with	be bear in	1.0
+be bear at	be bear in	1.0
+be bear to	be bear in	1.0
+be bear at	be bear with	1.0
+be bear to	be bear with	1.0
+be bear to	be bear at	1.0
+continue to do	continue in	1.0
+continue with	continue in	1.0
+continue with	continue to do	1.0
+be the most populous city in	be the most populous city of	1.0
+provide with	provide for	1.0
+be provide in	provide for	1.0
+be provide in	provide with	1.0
+lead	have lead to	1.0
+lead to	have lead to	1.0
+can lead to	have lead to	1.0
+lead to	lead	1.0
+can lead to	lead	1.0
+can lead to	lead to	1.0
+be not be lead by	have not be lead by	1.0
+be always	have always been	1.0
+be always in	have always been	1.0
+be always on	have always been	1.0
+be always in	be always	1.0
+be always on	be always	1.0
+be always on	be always in	1.0
+be fill with	fill with	1.0
+be like	be more like	1.0
+be so much like	be much like	1.0
+be measure in	be measure by	1.0
+can be measure in	be measure by	1.0
+measure in	be measure by	1.0
+can be measure in	be measure in	1.0
+measure in	be measure in	1.0
+measure in	can be measure in	1.0
+can be include for	include	1.0
+include for	include	1.0
+include for	can be include for	1.0
+be open during	will open at	1.0
+open at	will open at	1.0
+will open	will open at	1.0
+will re open at	will open at	1.0
+open at	be open during	1.0
+will open	be open during	1.0
+will re open at	be open during	1.0
+will open	open at	1.0
+will re open at	open at	1.0
+will re open at	will open	1.0
+be used for	can be used as	1.0
+can be used in	can be used as	1.0
+be used to	can be used as	1.0
+can be used in	be used for	1.0
+be used to	be used for	1.0
+be used to	can be used in	1.0
+seem to be on	seem to have have	1.0
+seem to be	seem to have have	1.0
+seem to be	seem to be on	1.0
+change up	can be change during	1.0
+be hold	should be hold at	1.0
+have invest in	be invest in	1.0
+invest in	be invest in	1.0
+invest in	have invest in	1.0
+begin with	begin in	1.0
+begin with	begin on	1.0
+size up to	be the size of	1.0
+be find by	have find	1.0
+can be find for	have find	1.0
+be find to have	have find	1.0
+find in	have find	1.0
+can be find for	be find by	1.0
+be find to have	be find by	1.0
+find in	be find by	1.0
+be find to have	can be find for	1.0
+find in	can be find for	1.0
+find in	be find to have	1.0
+can be wear in	be wear by	1.0
+have appear on	appear in	1.0
+appear on	appear in	1.0
+appear on	have appear on	1.0
+be be deserve by	do deserve	1.0
+be the head of	be head to	1.0
+be highest in	be highest on	1.0
+be now chairman of	be the chairman of	1.0
+be chairman of	be the chairman of	1.0
+be chairman of	be now chairman of	1.0
+would be on	would own	1.0
+would be out of	would own	1.0
+would have	would own	1.0
+would be	would own	1.0
+would be out of	would be on	1.0
+would have	would be on	1.0
+would be	would be on	1.0
+would have	would be out of	1.0
+would be	would be out of	1.0
+would be	would have	1.0
+have be get	get	1.0
+will get	get	1.0
+have get	get	1.0
+will get	have be get	1.0
+have get	have be get	1.0
+have get	will get	1.0
+be high for	be high in	1.0
+have a high potential for	have high potential for	2.0
+be grind	can be grind to	1.0
+fire at	be fire at	1.0
+fire on	be fire at	1.0
+fire on	fire at	1.0
+will be back	be back in	1.0
+be back at	be back in	1.0
+be back at	will be back	1.0
+be now very close to	be close to	1.0
+be marry on	marry	1.0
+be marry	marry	1.0
+be marry with	marry	1.0
+be marry	be marry on	1.0
+be marry with	be marry on	1.0
+be marry with	be marry	1.0
+must be in	must be at	1.0
+must be	must be at	1.0
+must not be be by	must not have	1.0
+must be	must be in	1.0
+have its share of	have his share of	1.0
+will win on	have be win by	1.0
+win this with	have be win by	1.0
+win with	have be win by	1.0
+win by	have be win by	1.0
+win this with	will win on	1.0
+win with	will win on	1.0
+win by	will win on	1.0
+win with	win this with	1.0
+win by	win this with	1.0
+win by	win with	1.0
+can defeat	be defeat in	1.0
+be focus on	focus on	1.0
+will focus on	focus on	1.0
+will focus on	be focus on	1.0
+be the founder of	be founder of	1.0
+just drive	drive	1.0
+have produce more than	be produce in	1.0
+be recently interview on	be recently interview by	2.0
+recently speak in	recently speak at	1.0
+be low on	be low to very	1.0
+be concerned about	be concerned with	1.0
+once tell	only tell	1.0
+tell	only tell	1.0
+tell	once tell	1.0
+be rise in	rise from	1.0
+have be play for	play	1.0
+be play	play	1.0
+do play	play	1.0
+have play in	play	1.0
+can be play for	play	1.0
+will play	play	1.0
+play for	play	1.0
+be play	have be play for	1.0
+do play	have be play for	1.0
+have play in	have be play for	1.0
+can be play for	have be play for	1.0
+will play	have be play for	1.0
+play for	have be play for	1.0
+do play	be play	1.0
+have play in	be play	1.0
+can be play for	be play	1.0
+will play	be play	1.0
+play for	be play	1.0
+have play in	do play	1.0
+can be play for	do play	1.0
+will play	do play	1.0
+play for	do play	1.0
+can be play for	have play in	1.0
+will play	have play in	1.0
+play for	have play in	1.0
+will play	can be play for	1.0
+play for	can be play for	1.0
+play for	will play	1.0
+walk to	walk on	1.0
+walk in for	walk on	1.0
+walk in for	walk to	1.0
+stare with	be stare at	1.0
+be already in	be already out of	1.0
+be speak on	speak to	1.0
+speak of	speak to	1.0
+speak at	speak to	1.0
+speak of	be speak on	1.0
+speak at	be speak on	1.0
+speak at	speak of	1.0
+be less in	be a less than	1.0
+will face a number of	face a number of	2.0
+be interview by	interview	1.0
+be face with	be the face of	1.0
+be much	be very much into	1.0
+usually be	be usually in	1.0
+be usually	be usually in	1.0
+be usually	usually be	1.0
+arrive in	arrive here in	1.0
+predict the end of	predict end of	1.0
+be known for	be known as	1.0
+refer to	be refer to	1.0
+write to	be write to	1.0
+be write for	be write to	1.0
+be write for	write to	1.0
+just drop	have drop out of	1.0
+drop out of	have drop out of	1.0
+drop to	have drop out of	1.0
+drop out after	have drop out of	1.0
+have drop to	have drop out of	1.0
+will drop out of	have drop out of	1.0
+drop out of	just drop	1.0
+drop to	just drop	1.0
+drop out after	just drop	1.0
+have drop to	just drop	1.0
+will drop out of	just drop	1.0
+drop to	drop out of	1.0
+drop out after	drop out of	1.0
+have drop to	drop out of	1.0
+will drop out of	drop out of	1.0
+drop out after	drop to	1.0
+have drop to	drop to	1.0
+will drop out of	drop to	1.0
+have drop to	drop out after	1.0
+will drop out of	drop out after	1.0
+will drop out of	have drop to	1.0
+settle in	settle	1.0
+fly in on	will fly to	1.0
+fly out to	will fly to	1.0
+fly out to	fly in on	1.0
+be different from	be different than	1.0
+be very different from	be different than	1.0
+be very different from	be different from	1.0
+have grow to	have grow up in	1.0
+grow up in	have grow up in	1.0
+grow up in	have grow to	1.0
+assemble with	assemble	1.0
+be subject to	have be the subject of	1.0
+be rich in	be rich for	1.0
+be rich of	be rich for	1.0
+be very rich in	be rich for	1.0
+be rich of	be rich in	1.0
+be very rich in	be rich in	1.0
+be very rich in	be rich of	1.0
+be construct of	can be construct of	1.0
+be a step above	be step down from	1.0
+be almost	have almost	1.0
+be the land of	will land on	1.0
+contain a variety of	can contain a variety of	1.0
+be great for	can be great for	1.0
+be great in	can be great for	1.0
+be great in	be great for	1.0
+really have only	have really	1.0
+really do	have really	1.0
+be really	have really	1.0
+be really down to	have really	1.0
+really do	really have only	1.0
+be really	really have only	1.0
+be really down to	really have only	1.0
+be really	really do	1.0
+be really down to	really do	1.0
+be really down to	be really	1.0
+be score with	be score for	1.0
+be be shrink by	have be shrink for	1.0
+will no longer have	be no longer in	1.0
+can launch up to	will launch in	1.0
+cover an area of	cover area of	1.0
+deny involvement in	have deny involvement in	1.0
+deny be	have deny	1.0
+can kill	will be kill by	1.0
+be a center of	be a center for	1.0
+stand at	be stand on	1.0
+stand there	be stand on	1.0
+stand there	stand at	1.0
+die of	die on	1.0
+die in	die on	1.0
+have die in	die on	1.0
+die at	die on	1.0
+die in	die of	1.0
+have die in	die of	1.0
+die at	die of	1.0
+have die in	die in	1.0
+die at	die in	1.0
+die at	have die in	1.0
+teach on	have be teach by	1.0
+be sit	sit on	1.0
+sit in	sit on	1.0
+sit for	sit on	1.0
+sit in	be sit	1.0
+sit for	be sit	1.0
+sit for	sit in	1.0
+have act in	act in	1.0
+act as	act in	1.0
+act as	have act in	1.0
+do see	be see in	1.0
+be found in	found	1.0
+be found	found	1.0
+then found	found	1.0
+be found on	found	1.0
+be found	be found in	1.0
+then found	be found in	1.0
+be found on	be found in	1.0
+then found	be found	1.0
+be found on	be found	1.0
+be found on	then found	1.0
+be add in	can be add during	1.0
+be hit by	hit by	1.0
+sign	be a sign of	1.0
+sign up	be a sign of	1.0
+sign up	sign	1.0
+return to	have return to	1.0
+carry only	be carry out for	1.0
+have stop on	can stop	1.0
+have not be keep by	can not keep up with	1.0
+should be keep in	be keep at	1.0
+be county seat of	be the county seat of	1.0
+be most successful in	have be successful for	1.0
+be white in	be off white in	1.0
+will consist of	consist of	1.0
+be assume to have	be assume to	1.0
+be a matter of	can be a matter of	1.0
+can be apply on	apply to	1.0
+travel to	will then travel to	1.0
+can vary	vary over	1.0
+vary in	vary over	1.0
+vary widely in	vary widely with	1.0
+vary in	can vary	1.0
+be right about	have the right of	1.0
+be right on	have the right of	1.0
+have right of	have the right of	1.0
+be right on	be right about	1.0
+have right of	be right about	1.0
+have right of	be right on	1.0
+donate to	have donate to	1.0
+be well establish by	be well establish at	1.0
+be sold in	be sold by	1.0
+be support by	be support by over	1.0
+be support	be support by over	1.0
+be support	be support by	1.0
+be a graduate of	graduate from	1.0
+have struggle in	struggle with	1.0
+be excellent for	be excellent as	1.0
+be the ratio between	be a ratio of	1.0
+be not an excuse for	do not excuse	1.0
+reply with	reply to	1.0
+only admit	be admit to	1.0
+meet	have meet	1.0
+have surround	surround by	1.0
+surround	surround by	1.0
+surround	have surround	1.0
+is Chairman of	is now the Chairman of	1.0
+be a guest on	be the guest on	1.0
+be author	be the author of	1.0
+be friend with	be a friend of	1.0
+can be turn into	turn to	1.0
+should quit	be quit	1.0
+belong in	belong to	1.0
+be list on	be list below	1.0
+ask with	ask about	1.0
+pose on	pose with	1.0
+be a spy in	be a spy for	1.0
+be the nickname for	be nickname	1.0
+be evaluate by	be evaluate	1.0
+be load up on	have load of	1.0

@@ -1,0 +1,7727 @@
+7726
+lawson	0
+brazil	1
+paul wilson	2
+n3	3
+38.2752267441860,-45.8950841860465	4
+dr pepper arena	5
+deion sander	6
+scott spiezio	7
+kxlu	8
+free state stadium	9
+jamie burke	10
+cristhian martinez	11
+44.7278270833333,3.5471152083333	12
+8.8991650000000,15.9027800000000	13
+yadi molina	14
+graphic communication	15
+calabar	16
+aqtobe	17
+riverport amphitheatre	18
+chichester	19
+-23.4666700000000,27.9500000000000	20
+nuuk	21
+paul janish	22
+beijing news	23
+winnipeg	24
+selena auditorium	25
+eric gagne	26
+fausto carmona	27
+yugoslav federation	28
+randy wolf	29
+spanair	30
+human right watch	31
+southeastern louisiana university	32
+matt murton	33
+chersonissos	34
+u s a	35
+illinois	36
+csu	37
+kevin barker	38
+issue	39
+chianciano	40
+-37.8163600000000,144.9476100000000	41
+garmisch	42
+los angeles laker	43
+john buck	44
+47.2985090740740,-17.5449981481482	45
+al hirschfeld theatre	46
+freddie bynum	47
+ketc	48
+sfu	49
+google	50
+33.3381150000000,-107.4513900000000	51
+san francisco chronicle	52
+53.2592800000000,-3.4484900000000	53
+thoma cook	54
+35.1604200000000,33.3208350000000	55
+loro parque	56
+matsui	57
+florida a m university	58
+ron villone	59
+tempe diablo stadium	60
+telecom	61
+40.6953800000000,-73.9865300000000	62
+wvu	63
+barry zito	64
+20.0262500000000,-155.6870850000000	65
+university of richmond	66
+sprout	67
+fernando hernandez	68
+southwest china	69
+mit	70
+bandung	71
+n1977 world series	72
+cuzco	73
+22.7408320000000,14.1258320000000	74
+gentry center	75
+scott rolen	76
+bmi	77
+brunei	78
+craig monroe	79
+16.5924823076923,107.7608261538462	80
+western asia	81
+d c	82
+n1966 world series	83
+reliant stadium	84
+kyle lohse	85
+kevin correia	86
+research	87
+ohio state buckeye	88
+47.1188900000000,-88.5469400000000	89
+decree	90
+billy butler	91
+campeche	92
+rockie	93
+the ohio state university	94
+evgeni nabokov	95
+montevideu	96
+southern utah university	97
+32.0562800000000,-84.2163000000000	98
+kstp	99
+kevin gregg	100
+london gatwick	101
+rijeka	102
+siam	103
+35.0000000000000,38.0000000000000	104
+clarkson university	105
+bebo	106
+golf	107
+bj upton	108
+grand valley state	109
+doug brocail	110
+frontier field	111
+50.3350200000000,-4.7760100000000	112
+unh	113
+golden gopher	114
+casablanca	115
+mike william	116
+37.9751644444444,58.5336266666667	117
+n2001 super bowl	118
+36.8524380000000,-85.5148380000000	119
+al jubail	120
+kenan stadium	121
+ulan bator	122
+san diego state	123
+trade center	124
+fitzgerald theater	125
+braden looper	126
+youth jersey	127
+packer	128
+kennedy center	129
+miguel montero	130
+abyssinia	131
+40.8313600000000,-73.9186066666667	132
+world series	133
+hanley ramirez	134
+wtop	135
+chris chambliss	136
+kangkong	137
+34.1030700000000,-117.7138800000000	138
+california state university fullerton	139
+trans world airline	140
+isiah thoma	141
+2.4557500000000,-70.5211000000000	142
+european championship	143
+kedah	144
+brad eldr	145
+california angel	146
+rick adelman	147
+gdr	148
+national park	149
+kei igawa	150
+47.0056500000000,28.8506466666667	151
+rich aurilia	152
+hunter pence	153
+tajikistan	154
+save mart center	155
+june jone	156
+maimana	157
+gregor blanco	158
+camden yard	159
+27.5444433333333,18.4666666666667	160
+40.4485666666667,-79.9413600000000	161
+29.6795000000000,-95.4257000000000	162
+infosys technology	163
+newengland patriot	164
+niagara purple eagle	165
+trans world dome	166
+buffalo brave	167
+jeff bagwell	168
+chuck noll	169
+subversion	170
+brian moehler	171
+chris carter	172
+victor harbour	173
+mazar e sharif	174
+south carolina state college	175
+baton rouge	176
+soldier field	177
+toliara	178
+59.9130800000000,10.7544600000000	179
+lago	180
+29.2538956818182,78.5669411363637	181
+kansas city	182
+ashgabat	183
+45.1836385714286,20.2207128571428	184
+gibbs	185
+newzealand	186
+west bloomfield	187
+41.5706468421053,-75.9571110526316	188
+morris brown college	189
+chukchansi park	190
+japanese	191
+33.5134400000000,-86.8508200000000	192
+40.0298300000000,-75.5674300000000	193
+madeira	194
+university of north texas	195
+alor setar	196
+amazon com	197
+ryan sadowski	198
+nokia	199
+39.6523100000000,-78.9294700000000	200
+emirate	201
+kong	202
+pelican	203
+daunte culpepper	204
+komo	205
+stanley cup	206
+bis	207
+echo park	208
+university of wisconsin	209
+vt	210
+saudi arabia	211
+azerbaijan	212
+26.9798560000000,27.7887260000000	213
+baquba	214
+swimming	215
+bobby petrino	216
+dave robert	217
+ohio state	218
+16.0000000000000,-24.0000000000000	219
+shawn hill	220
+ray allen	221
+financial	222
+antonio cromartie	223
+westin	224
+giglio castello	225
+south african	226
+hhh metrodome	227
+victoria station	228
+40.2600625000000,-77.6875100000000	229
+tommie agee	230
+cuenca	231
+colorado state ram	232
+oostende	233
+frank robinson	234
+paul brown	235
+adam loewen	236
+24.5000000000000,74.5000000000000	237
+shawn green	238
+oakland university	239
+afghanistan	240
+derrick rise	241
+little rock	242
+sap	243
+62.5666700000000,7.7000000000000	244
+j c romero	245
+belichick	246
+36.8125600000000,-119.7466300000000	247
+louis cardinal	248
+bobby howry	249
+oslo airport	250
+jacksonville jaguar	251
+protara	252
+44.0872916666667,-100.5552700000000	253
+kevin brown	254
+graduate center	255
+orange	256
+6.0217886000000,-76.5909496000000	257
+chuck knoblauch	258
+saint paul pioneer press	259
+dusseldorf	260
+shea	261
+ayr	262
+baltimore oriol	263
+kyle davy	264
+netanya	265
+lille	266
+carnegie mellon university	267
+39.0675933333333,63.3833333333333	268
+wake forest university	269
+tim hudson	270
+ncaa tournament	271
+houston astro	272
+29.5928800000000,-95.6330428571428	273
+ajaccio	274
+oakland	275
+university of louisville	276
+39.7781533333333,-89.9068833333333	277
+cal ripken jr	278
+cory lidle	279
+cathay	280
+nigeria	281
+radio city music hall	282
+iowa state university	283
+reggie nelson	284
+brian brohm	285
+turkmenistan airline	286
+starkville	287
+42.0213700000000,-93.6377200000000	288
+42.0196300000000,-73.9117300000000	289
+40.8758700000000,-124.0764600000000	290
+university of tennessee at chattanooga	291
+35.3008200000000,-120.6603600000000	292
+juba	293
+jason kapono	294
+nicklaus	295
+veteran stadium	296
+dustin moseley	297
+36.4992609782609,-80.6664303260870	298
+42.4491000000000,-76.4761000000000	299
+tampa	300
+57.9142750000000,43.3359685714286	301
+franklin morale	302
+tempe	303
+uno lakefront arena	304
+scottrade center	305
+tirane	306
+douro	307
+32.7571671428571,-116.8641385714286	308
+ahman green	309
+university of pennsylvania	310
+nhl	311
+folsom stadium	312
+china eastern airline	313
+historic	314
+brad penny	315
+troy percival	316
+fiu golden panther	317
+air deccan	318
+georgia tech	319
+vierzon	320
+goteborg	321
+rise garden arena	322
+scott eyre	323
+sharm el sheikh	324
+ulyanovsk	325
+bautista	326
+n4	327
+sydney cbd	328
+36.8841700000000,-76.3016700000000	329
+peyton man	330
+iraw	331
+kiel auditorium	332
+manchester	333
+pedro feliciano	334
+16.0596400000000,108.2180150000000	335
+47.6095800000000,-122.3085100000000	336
+41.8882466666667,-71.4914800000000	337
+stadium	338
+montelimar	339
+59.4430151724138,24.7613358620689	340
+travis metcalf	341
+pakistan	342
+cambridge	343
+tampa bay bucs	344
+chuck jam	345
+island air	346
+38.9134400000000,-77.0485900000000	347
+vietnam	348
+baiji	349
+material science and engineering	350
+ray rice	351
+36.1334700000000,-80.2772700000000	352
+ahvaz	353
+niagara university	354
+25.9799500000000,-80.2381050000000	355
+n1979 world series	356
+tower theatre	357
+st louis brown	358
+zefat	359
+olympia stadium	360
+swedish	361
+josh	362
+journalism	363
+20.8336557692308,-65.6804384615385	364
+33.4242100000000,-111.9307000000000	365
+stellenbosch	366
+dwyane wade	367
+banjul	368
+university of houston	369
+uw steven point	370
+tibetan autonomous region	371
+mathia kiwanuka	372
+norman	373
+n1964 world series	374
+46.5041675000000,53.4916675000000	375
+cellular field	376
+craiova	377
+36.6114400000000,-88.3222600000000	378
+sydney	379
+athen	380
+bradley university	381
+renne	382
+paul johnson	383
+42.3778700000000,-71.1186600000000	384
+u k	385
+mount vernon nazarene college	386
+jason heyward	387
+official	388
+xian	389
+florida atlantic owl	390
+tetuan	391
+27.1497100000000,89.6126200000000	392
+venice	393
+rethimno	394
+atlanta falcon	395
+nick regilio	396
+37.7180005769231,-97.2947373076923	397
+evil dead	398
+china airline	399
+cmu	400
+luis hernandez	401
+33.3988380000000,-106.5477480000000	402
+18.0868272222222,-34.7381783333333	403
+shawn chacon	404
+aspen	405
+leiria	406
+dallas star	407
+calgary airport	408
+38.9191518750000,-74.5035706250000	409
+35.7233100000000,-120.3429450000000	410
+nate robinson	411
+fernando nieve	412
+26.7965714285714,-76.9228257142857	413
+saudi arabian airline	414
+25.7763000000000,-80.2197000000000	415
+montego bay	416
+40.3759000000000,-82.4751600000000	417
+vermont	418
+angel guzman	419
+nadal	420
+north china	421
+33.4244950000000,-111.9314450000000	422
+dirk nowitzki	423
+mobile	424
+aaron hill	425
+billion dollar	426
+-17.4791675000000,49.2416662500000	427
+kyle mcclellan	428
+clay buchholz	429
+42.3464900000000,-71.0900500000000	430
+josh anderson	431
+aroldis chapman	432
+trent johnson	433
+porto novo	434
+mike lieberthal	435
+andy serki	436
+15.3175940000000,34.0342595000000	437
+saint malo	438
+championship	439
+43.3000000000000,45.7000000000000	440
+slovak republic	441
+brussel	442
+koenigsberg	443
+safed	444
+jason jenning	445
+benedictine university	446
+golden state warrior	447
+rob mackowiak	448
+21.3379800000000,-157.9587900000000	449
+equatorial guinea	450
+francis marion university	451
+roy oswalt	452
+industrial and system engineer	453
+vinny castilla	454
+jarrod saltalamacchia	455
+n1999 mlb all star game	456
+northern illinois university	457
+florida gulf coast university	458
+32.6047311111111,65.3117505555555	459
+32.9391466666667,33.6346966666667	460
+bath	461
+pedro martinez	462
+florida international university	463
+34.3011300000000,-83.8259500000000	464
+buchar	465
+arkansa	466
+alleppey	467
+id	468
+polo ground	469
+markus naslund	470
+thimphu	471
+urban meyer	472
+jose reye	473
+centenary college of louisiana	474
+bezier	475
+ck	476
+corfu	477
+36.1525231372549,-87.1286384313726	478
+bangkok airway	479
+blagoveshchensk	480
+baltimore	481
+clearwater	482
+33.4617900000000,-88.7883900000000	483
+33.4062402702703,-39.8849986486487	484
+gliwice	485
+rosarito	486
+bird	487
+hal morris	488
+afl	489
+fifa world cup	490
+hartford art school	491
+university of mississippi	492
+43.8066428571428,87.5668507142857	493
+acer arena	494
+veteran	495
+house bunny	496
+40.7247750000000,-25.4860400000000	497
+john olerud	498
+46.8946900000000,-96.8034100000000	499
+viterbo college	500
+pujol	501
+estonian air	502
+plymouth	503
+hertogenbosch	504
+35.4451050000000,-118.2820300000000	505
+6.3041914285714,-22.7971885714286	506
+magglio ordonez	507
+peoria stadium	508
+42.3075600000000,-78.7542150000000	509
+skip holtz	510
+auction	511
+36.7278033333333,-19.9442150000000	512
+37.1202575000000,-81.0319700000000	513
+penn state	514
+damman	515
+ohio northern	516
+redskin	517
+quest	518
+harare	519
+riazan	520
+bud walton arena	521
+northeastern	522
+kortrijk	523
+reggie wayne	524
+hyatt regency bellevue	525
+jonathan papelbon	526
+limassol	527
+willie may	528
+porto	529
+california state polytechnic university	530
+ferguson jenkin	531
+st johns	532
+ucsb	533
+holland	534
+40.4372200000000,-79.9883300000000	535
+tradition	536
+32.1544369729729,35.1242161081082	537
+greg schiano	538
+micah owing	539
+eastern africa	540
+energizer	541
+air sahara	542
+cctv	543
+brian burke	544
+ron santo	545
+joel guzman	546
+albertville	547
+paramaribo	548
+the bahamas	549
+n1983 world series	550
+lewis clark state college	551
+renteria	552
+les sable d olonne	553
+acc	554
+40.7364900000000,-74.1659800000000	555
+citizen kane	556
+south dakota state university	557
+georgetown	558
+saskatchewan	559
+alexandroupolis	560
+arbogast	561
+daily	562
+11.8006300000000,31.2718050000000	563
+juan castro	564
+minnesota golden gopher	565
+chantilly	566
+brett carroll	567
+coach eric mangini	568
+u s bank arena	569
+ron zook	570
+miller park	571
+response	572
+40.0703866666667,-89.4836133333333	573
+keith foulke	574
+saint remy	575
+san francisco giant	576
+n1978 world series	577
+st jame park	578
+saskatchewan place	579
+mike rivera	580
+36.1397800000000,-86.7994400000000	581
+melky cabrera	582
+19.9789993181818,-2.1566059090909	583
+32.7798500000000,-96.7597200000000	584
+41.8273166666667,-73.0581600000000	585
+ny yankee	586
+chiang rai	587
+saint petersburg	588
+alltel pavilion	589
+ramsgate	590
+dijon	591
+rafa nadal	592
+32.2800957142857,-106.7512314285714	593
+eivissa	594
+swedish medical center	595
+-0.3666700000000,42.5333300000000	596
+antium	597
+39.2090000000000,-76.8624700000000	598
+giglio porto	599
+aviacsa	600
+10.6198406363636,-42.4584500909091	601
+mersa matrouh	602
+luis aparicio	603
+new meadowland stadium	604
+wcdc	605
+bandar seri begawan	606
+clyde drexler	607
+matt brown	608
+korean language	609
+16.4987350000000,12.5444500000000	610
+48.6904150000000,8.9937500000000	611
+northwestern state university	612
+valencia	613
+fernando perez	614
+jazz	615
+alex rio	616
+38.5499764000000,116.6093332000001	617
+marvin lewis	618
+kauffman stadium	619
+jose bautista	620
+falcon	621
+33.7954892857143,-79.0125750000000	622
+gulf area	623
+33.4973800000000,-80.8520400000000	624
+nate mclouth	625
+43.5842739130435,-102.5044852173912	626
+well fargo	627
+tony romo	628
+columbus crew stadium	629
+tyler colvin	630
+julio lugo	631
+morocco	632
+howie long	633
+illinois state	634
+charlotte bobcat	635
+ryan reynold	636
+win	637
+major league baseball	638
+angola	639
+40.9115690909091,-111.8494100000000	640
+tiki barber	641
+29.3751414634146,43.6089190243902	642
+albufeira	643
+alvor	644
+48.2411158823530,10.4627129411765	645
+30.2771500000000,-97.7325100000000	646
+olympiastadion	647
+qatar airway	648
+st pete time forum	649
+46.5384625000000,-109.9648150000000	650
+air canada center	651
+9.9640838461538,100.0554153846154	652
+michigan	653
+toledo	654
+louisiana state university	655
+international business	656
+jet blue	657
+broward county civic arena	658
+deccan herald	659
+marinelli	660
+25.8778600000000,-80.2454600000000	661
+aquilino lopez	662
+aviemore	663
+jason giambi	664
+cambodia	665
+38.8984850000000,-77.0503650000000	666
+tradition field thoma j white stadium	667
+24.5500047500000,34.7102917500000	668
+university of virginia	669
+yao m	670
+korcula	671
+aeromexico	672
+43.0439400000000,11.8124500000000	673
+cartago	674
+54.9752000000000,-1.6220000000000	675
+albi	676
+47.4496520000000,12.3864520000000	677
+38.4663150000000,20.5521850000000	678
+jose valverde	679
+burlington	680
+38.3472850000000,-75.6076000000000	681
+orlean	682
+hideki irabu	683
+minnesota state university	684
+33.8837100000000,-96.7988900000000	685
+jake plummer	686
+seebad heringsdorf	687
+gibson amphitheatre	688
+lion	689
+45.1587557894737,12.2956331578947	690
+oral robert university	691
+joe borowski	692
+38.5760525000000,-91.9123525000000	693
+eureka	694
+luke scott	695
+claremont graduate university	696
+jeff bennett	697
+east rutherford	698
+ny jet	699
+ferris state college	700
+-1.9206366666667,-77.8120433333333	701
+west virginia state	702
+kevin mench	703
+veteran memorial arena	704
+steve slaton	705
+ahlbeck	706
+fujitsu	707
+aaron boone	708
+30.7521466666667,-15.8366016666667	709
+air berlin	710
+nba championship	711
+scott thorman	712
+california state university san bernardino	713
+42.3469000000000,-71.0872750000000	714
+14.3555566666667,-7.6388900000000	715
+animal	716
+air canada centre	717
+georgia	718
+east carolina	719
+kampuchea	720
+bobby abreu	721
+humberto sanchez	722
+target shoot	723
+sharm	724
+columbus crew	725
+25.7126240000000,-80.2987226666667	726
+28.3539566666667,-13.0450300000000	727
+-29.3777800000000,-70.3611133333333	728
+lew burdette	729
+nba final	730
+islamabad	731
+cadarache	732
+progress energy park	733
+frank gore	734
+environmental psychology	735
+social science	736
+humphrey bogart	737
+29.1053619230769,16.7331511538462	738
+roubaix	739
+bright house field	740
+game bird	741
+anfield	742
+missouri baptist college	743
+jon kitna	744
+brad hawpe	745
+brian shouse	746
+42.3258700000000,-83.0477000000000	747
+john smoltz	748
+memphis state	749
+tartan	750
+first union center	751
+brandon claussen	752
+excel airway	753
+austin	754
+angouleme	755
+us	756
+cnn	757
+european cup	758
+42.5000000000000,27.5083350000000	759
+us bank arena	760
+voa	761
+jacksonville state	762
+britain	763
+maymana	764
+anzio	765
+46.3549466666667,11.7332526666667	766
+tony la russa	767
+great western forum	768
+rutger college	769
+atlanta	770
+30.0933000000000,-17.1354650000000	771
+morlaix	772
+naija	773
+reggie smith	774
+houston oiler	775
+38.9804750000000,-77.4337450000000	776
+jake peavy	777
+12.6240825000000,80.1789775000000	778
+s korea	779
+n2010 world series	780
+cebu	781
+world poker tour	782
+rod barajas	783
+kare	784
+rashard lewis	785
+detroit piston	786
+united mexican state	787
+sharm el sheik	788
+19.4300500000000,-99.1554300000000	789
+mckechnie field	790
+phil jackson	791
+quebec	792
+rhine	793
+cowboy stadium	794
+southwest asia	795
+48.4611117142857,6.2567851428571	796
+the new york time	797
+dallas cowboy stadium	798
+draw gooden	799
+jacksonville	800
+meet center	801
+corey hart	802
+37.8203771428571,-99.9218614285714	803
+london	804
+coastal carolina	805
+university of cincinnati	806
+stegeman coliseum	807
+texan	808
+trelew	809
+bobby bowden	810
+delhomme	811
+nuernberg	812
+greg reynold	813
+13.2000000000000,79.1166700000000	814
+vanderbilt	815
+chad pennington	816
+evora	817
+jackson state university	818
+vancouver international airport	819
+avranch	820
+willie harris	821
+kota kinabalu	822
+east tennessee state university	823
+da nang	824
+34.5701006060606,-97.2627540909090	825
+cotton bowl stadium	826
+brugge	827
+torero	828
+montreal expos	829
+jamie moyer	830
+wright state university	831
+darren collison	832
+charlotte	833
+n1960 world series	834
+world cup	835
+n2008 world series	836
+cyprus airway	837
+ussr	838
+the alamodome	839
+lisbon	840
+justin verlander	841
+41.5045000000000,-81.5970700000000	842
+eritrea	843
+a series of unfortunate event	844
+n18 hole golf	845
+ernie sim	846
+40.2390342857143,3.5442942857143	847
+freddy garcia	848
+34.1471100000000,-90.4820415789474	849
+22.5567880000000,88.3570880000000	850
+elon college	851
+troy smith	852
+34.1013900000000,-118.3233300000000	853
+reggie bush	854
+rio	855
+towson university	856
+steve nash	857
+hondarribia	858
+roger mason	859
+jordan staal	860
+walter pyramid	861
+world cup final	862
+comerica park	863
+chevrolet theatre	864
+account	865
+wpi	866
+42.9852100000000,-71.5073300000000	867
+republika srpska	868
+36.7367950000000,67.1929750000000	869
+runelvys hernandez	870
+brett favre	871
+pedroia	872
+65.4565888888889,-49.5597011111111	873
+dubai	874
+e center	875
+rosenblatt stadium	876
+culture room	877
+17.1720360000000,48.2002480000000	878
+19.3165433333333,-81.3361900000000	879
+carlton fisk	880
+51.7704466666667,0.1688544444444	881
+j r r tolkien	882
+adam jon	883
+37.9994657142857,-89.0018185714286	884
+new brunswick	885
+32.4194850000000,-81.7833100000000	886
+maicer izturis	887
+limoge	888
+nittany lion	889
+35.9768050000000,-79.9861500000000	890
+n2008	891
+bourg en bresse	892
+64.3661125000000,41.4258225000000	893
+40.2790800000000,-74.7392800000000	894
+motorcycle	895
+joe mather	896
+27.7686400000000,-82.6328800000000	897
+brandon boggs	898
+41.8593400000000,-40.4727100000000	899
+central connecticut state university	900
+37.3630741666667,-70.7655520833334	901
+american express	902
+gainesville state college	903
+wmu	904
+china daily	905
+busch stadium	906
+sbc center	907
+freeport	908
+wichita state university	909
+liberty university	910
+41.3091700000000,-92.6468600000000	911
+28.6666700000000,77.2166700000000	912
+thurman thoma	913
+69.6536200000000,18.9606900000000	914
+51.9486100000000,-10.2222200000000	915
+mike hampton	916
+green bay packer	917
+utah state	918
+eddie murray	919
+xl center	920
+-22.5119027272727,34.9983809090909	921
+juilliard school	922
+eric mangini	923
+josh beckett	924
+daytona international speedway	925
+17.0295600000000,-43.3803275000000	926
+roc	927
+the hunt for red october	928
+39.4606700000000,-74.6809900000000	929
+adam wainwright	930
+louis	931
+dennys reye	932
+22.3193733333333,114.1695400000000	933
+bill hall	934
+33.0073262500000,44.2533975000000	935
+joe martinez	936
+doug mientkiewicz	937
+cayenne	938
+31.5522250000000,-100.2287350000000	939
+nebraska cornhusker	940
+park college	941
+soweto	942
+lexington	943
+michigan state university	944
+riyadh	945
+kentucky center	946
+the juilliard school	947
+brighton	948
+seminole	949
+iowa	950
+microsoft	951
+chase wright	952
+bill doba	953
+el universal	954
+university of florida	955
+morroco	956
+kdwb	957
+saint mary s college of california	958
+tibet autonomous region	959
+douai	960
+los angeles dodger	961
+38.6325550000000,-121.5135650000000	962
+member	963
+31.2381626865671,11.1953337313433	964
+health	965
+45.5977500000000,-107.4531400000000	966
+47.4308000000000,9.3805000000000	967
+travis denker	968
+rip hamilton	969
+angel stadium	970
+jim tressel	971
+rise quarter	972
+university of vermont	973
+humboldt state university	974
+molson centre	975
+bright house network field	976
+bart starr	977
+jason larue	978
+paphos	979
+antawn jamison	980
+uc santa barbara gauchos	981
+36.9768750000000,-106.5923350000000	982
+cadillac palace	983
+missouri state university	984
+ucla bruin	985
+warsaw	986
+bus	987
+jim o brien	988
+9.2256950000000,44.6495850000000	989
+5.9985340569395,74.8284663345196	990
+pleskau	991
+2.7321452542373,102.4369933898305	992
+30.2043533333333,-56.1700379166667	993
+sulaimaniya	994
+39.1133900000000,-84.5532800000000	995
+ksa	996
+milwaukee	997
+clint barm	998
+32.4294150000000,-99.8676400000000	999
+british colony	1000
+name	1001
+la	1002
+minnesota twin	1003
+42.6431381967213,-2.8067834426230	1004
+mongolia	1005
+den bosch	1006
+campbell fight camel	1007
+36.4102051162791,123.3020669767441	1008
+giant stadium	1009
+north carolina central university	1010
+panther	1011
+cubby	1012
+29.7446561538462,33.2414969230769	1013
+madison street	1014
+bcs national championship game	1015
+cluj	1016
+netherland indie	1017
+francisley bueno	1018
+44.5806650000000,-64.5078850000000	1019
+takashi saito	1020
+47.3333300000000,29.2500000000000	1021
+46.2245850000000,-43.9560300000000	1022
+39.6240700000000,-120.5738300000000	1023
+mark buehrle	1024
+biomedical engineering	1025
+pedro feliz	1026
+mercyhurst	1027
+northern arizona university	1028
+berkeley	1029
+40.7350400000000,-89.5887100000000	1030
+dayton	1031
+32.0695100000000,-94.8265066666667	1032
+30.4282654545454,-8.7851481818182	1033
+mark derosa	1034
+brad childress	1035
+maple leaf garden	1036
+47.5089800000000,-94.8486050000000	1037
+new jersey	1038
+harmon killebrew	1039
+roche	1040
+civic center	1041
+north vietnam	1042
+40.3086800000000,-79.5556000000000	1043
+ken hitchcock	1044
+cisco	1045
+jermaine dye	1046
+guarda	1047
+33.7834900000000,-118.1139700000000	1048
+paul konerko	1049
+berne	1050
+andre blanco	1051
+melaka	1052
+rashard mendenhall	1053
+john elway	1054
+jason isringhausen	1055
+dave kingman	1056
+minnesota north star	1057
+38.9237758333333,-77.0202966666667	1058
+gatwick	1059
+41.4992200000000,-81.6768000000000	1060
+jamarcus russell	1061
+technical institute	1062
+gainesville	1063
+svn	1064
+massachusetts institute of technology	1065
+pittsburg pirate	1066
+dan uggla	1067
+42.3676966666667,-13.9040000000000	1068
+south carolina state	1069
+uc santa barbara	1070
+kailua kona	1071
+american airline arena	1072
+brandon dubinsky	1073
+37.1628380000000,25.9303570000000	1074
+city page	1075
+rex ryan	1076
+brendan ryan	1077
+san francisco state college	1078
+ulaanbaatar	1079
+minute maid park	1080
+kurt thoma	1081
+saint john fish college	1082
+38.6695833333333,32.1593533333333	1083
+40.7739900000000,-73.9829200000000	1084
+nec	1085
+state theater	1086
+tabarka	1087
+jason taylor	1088
+dustin keller	1089
+network associate coliseum	1090
+super bowl	1091
+hargeisa	1092
+husky stadium	1093
+cornell university	1094
+national football league	1095
+nate davis	1096
+art	1097
+39.2754353846154,-89.5978469230769	1098
+nick evan	1099
+hartford whaler	1100
+david bell	1101
+meadowland stadium	1102
+faro	1103
+40.3531400000000,-94.8821500000000	1104
+calcutta university	1105
+toul	1106
+livingstone	1107
+ramon hernandez	1108
+auckland	1109
+21.4399486363636,11.0553890909091	1110
+sas	1111
+53.0000000000000,25.0000000000000	1112
+weeb ewbank	1113
+paramount	1114
+david purcey	1115
+psu	1116
+sousse	1117
+western kentucky university	1118
+spokane	1119
+al lang stadium	1120
+jack hannahan	1121
+indiana university bloomington	1122
+rickey henderson	1123
+fox	1124
+soviet socialist republic	1125
+tangier	1126
+csu stanislaus	1127
+central michigan	1128
+texas state university	1129
+chambery	1130
+columbia center	1131
+alex cora	1132
+jackson	1133
+great american ball park	1134
+todd jon	1135
+inspector general	1136
+backboard	1137
+36.2909565079365,-87.9775209523810	1138
+40.9591733333333,-73.8593000000000	1139
+jermaine clark	1140
+group health	1141
+bill callahan	1142
+marvel comic	1143
+quito	1144
+kyrenia	1145
+13.3890000000000,98.8587800000000	1146
+argentine republic	1147
+florida international golden panther	1148
+amersfoort	1149
+hickam housing	1150
+background	1151
+beaune	1152
+mutare	1153
+equador	1154
+mississippi state college	1155
+sage rosenfel	1156
+rusty staub	1157
+st louis cardinal	1158
+willis mcgahee	1159
+computer science	1160
+ballito	1161
+braga	1162
+57.2723772222222,21.5838122222222	1163
+lourenco marque	1164
+justin ruggiano	1165
+25.9294400000000,-80.1661100000000	1166
+59.2938600000000,18.0787833333333	1167
+boone	1168
+greg oden	1169
+bjcc arena	1170
+39.5478414285714,-104.4212528571428	1171
+flyer	1172
+derby county	1173
+23.6127800000000,58.5644400000000	1174
+adword	1175
+star tribune	1176
+tim curry	1177
+36.8341675000000,42.5161125000000	1178
+highland university	1179
+metz	1180
+taroudant	1181
+38.3961658450705,15.9173142253521	1182
+carolina theatre	1183
+39.5729900000000,-115.1605900000000	1184
+oriole park at camden yard	1185
+brenau university	1186
+fuseta	1187
+pedro alvarez	1188
+chinhae	1189
+mizzou	1190
+uf	1191
+chone figgin	1192
+35.3671435000000,-78.2701690000000	1193
+ruben mateo	1194
+kirk gibson	1195
+23.0000000000000,-102.0000000000000	1196
+the hague	1197
+bbc	1198
+the dominican republic	1199
+allan houston	1200
+kurt birkin	1201
+six	1202
+33.3568719108280,51.9440036942675	1203
+srilanka	1204
+38.9603442857143,-86.9852457142857	1205
+physical therapy	1206
+ambiorix burgo	1207
+greenland	1208
+jim zorn	1209
+northern arizona lumberjack	1210
+aaron mile	1211
+nepal	1212
+ayia napa	1213
+dirk koetter	1214
+jason miller	1215
+ericsson globe	1216
+clovis	1217
+astana	1218
+milwaukee buck	1219
+red rock amphitheatre	1220
+siena college	1221
+mongkok	1222
+tom o brien	1223
+pesos	1224
+leiden	1225
+urumchi	1226
+alexandroupoli	1227
+42.4995400000000,-71.1272800000000	1228
+yogyakarta	1229
+boise state university	1230
+josh kinney	1231
+beja	1232
+ncaa	1233
+jekaterinburg	1234
+new york knick	1235
+hilton head island	1236
+new york islander	1237
+31.6225924038253,109.6806639121928	1238
+40.9347200000000,-73.8436100000000	1239
+arizona cardinal	1240
+37.7502800000000,-122.2027800000000	1241
+albania	1242
+38.1305825000000,-33.2980000000000	1243
+egypt	1244
+qw center omaha	1245
+36.3148370370370,128.1102329629630	1246
+makati city	1247
+us cellular coliseum	1248
+park university	1249
+brad bird	1250
+42.3195020000000,69.5691100000000	1251
+gatwick airport	1252
+imperial theater	1253
+a rod	1254
+34.4901225000000,52.2973787500000	1255
+jamey wright	1256
+carnesecca arena	1257
+washington university	1258
+national championship	1259
+mykonos	1260
+stanst airport	1261
+idaho state	1262
+32.0566263636364,114.4656245454546	1263
+11.2847200000000,49.1825000000000	1264
+reno	1265
+guayaquil	1266
+27.6061150000000,22.1150043750000	1267
+us airways	1268
+oklahoma memorial stadium	1269
+mike shanahan	1270
+43.5166700000000,16.4166700000000	1271
+oahu	1272
+paris	1273
+university of new orlean	1274
+nabatiye	1275
+lahore	1276
+tulane	1277
+somali republic	1278
+shaquille o neal	1279
+miguel olivo	1280
+skyreach centre	1281
+kent state	1282
+drexel university	1283
+zellerbach hall	1284
+enschede	1285
+mike jacob	1286
+langkawi	1287
+derrek lee	1288
+tiger stadium	1289
+jason william	1290
+ramon vazquez	1291
+horizon air	1292
+tim red	1293
+firefox	1294
+roman colon	1295
+minnesota state university moorhead	1296
+eurostar	1297
+knick	1298
+praha	1299
+temple university	1300
+la memorial coliseum	1301
+varitek	1302
+university of south florida	1303
+loyola marymount university	1304
+prudential center	1305
+fresno state university	1306
+sangu	1307
+robert morris university	1308
+dalhousie university	1309
+plymouth state university	1310
+kent state university	1311
+wizz air	1312
+colt mccoy	1313
+leaf	1314
+sault ste marie	1315
+delaware state university	1316
+east berlin	1317
+erwin center	1318
+credit union centre	1319
+libourne	1320
+boulder	1321
+papelbon	1322
+barahona	1323
+nessebar	1324
+barrie	1325
+aberdyfi	1326
+cleveland state university	1327
+mariner	1328
+41.4763661111111,-98.4774961111111	1329
+44.3054890449438,-93.7871004494383	1330
+new amsterdam theater	1331
+saarbruecken	1332
+uw stout	1333
+sarah lawrence	1334
+randy edsall	1335
+edgardo alfonzo	1336
+bengal	1337
+29.6309512500000,34.2579050000000	1338
+46.4972107692308,24.9301484615385	1339
+bahia blanca	1340
+lord of the ring	1341
+kyler newby	1342
+49.1763590243902,2.1147721951220	1343
+31.7275000000000,-8.0425000000000	1344
+gary robert	1345
+sale	1346
+minnesota	1347
+vigo	1348
+college	1349
+paramount airway	1350
+41.7981600000000,-72.7170400000000	1351
+new jersey net	1352
+collioure	1353
+mel ott	1354
+manny acosta	1355
+alfredo amezaga	1356
+huston street	1357
+belgrade	1358
+matt belisle	1359
+san daniele	1360
+st paul	1361
+tallink	1362
+cargill	1363
+7.8473122975967,-71.3394260695409	1364
+hank blalock	1365
+joe torre	1366
+john stockton	1367
+almelo	1368
+rookie	1369
+-5.0616300000000,119.5540400000000	1370
+met	1371
+tagalog	1372
+hamadan	1373
+romania	1374
+thoma cook airline	1375
+noblesville	1376
+mississippi valley state	1377
+university of texas pan american	1378
+national basketball association	1379
+amityville horror	1380
+manitoba	1381
+td waterhouse centre	1382
+13.7601458333333,85.3872700000000	1383
+helmand	1384
+spirit air	1385
+42.3897966666667,-93.7946700000000	1386
+america	1387
+long island	1388
+management	1389
+kube fm	1390
+maria sharapova	1391
+alltel stadium	1392
+34.3934925000000,-118.1356283333333	1393
+n2009 stanley cup	1394
+purdue university	1395
+43.0133600000000,-83.7141200000000	1396
+hawaii	1397
+mathematic	1398
+matt kata	1399
+horned frog	1400
+david hernandez	1401
+rotterdam	1402
+cincinnati christian university	1403
+matt leinart	1404
+millikin	1405
+jerusalem	1406
+duffy lewis	1407
+cliff lee	1408
+43.7174450000000,18.1202916666667	1409
+cambrai	1410
+michael bowden	1411
+n1986 world series	1412
+river douro	1413
+keyarena	1414
+41.8333300000000,22.0000000000000	1415
+zambia	1416
+morehead state	1417
+legend field	1418
+san francisco state university	1419
+41.6052280000000,-71.4918000000000	1420
+breda	1421
+myair	1422
+butler university	1423
+brad butler	1424
+mercer university	1425
+kimberley	1426
+alexei ramirez	1427
+kiryat shmona	1428
+dalla mcpherson	1429
+salt lake city	1430
+st louis	1431
+bill bixby	1432
+38.8976100000000,-77.0208100000000	1433
+music	1434
+lee gardner	1435
+flamingo la vega	1436
+34.8908269565217,-47.1794208695652	1437
+melun	1438
+fight illini	1439
+joe may	1440
+lacsa	1441
+34.0644400000000,-118.3747200000000	1442
+fernando martinez	1443
+20.8923028571429,104.8407428571429	1444
+kevin cameron	1445
+samarra	1446
+mont de marsan	1447
+chicago cardinal	1448
+friendster	1449
+larry bowa	1450
+14.5811018181818,45.9053872727273	1451
+26.9364900000000,70.9340150000000	1452
+39.3549390000000,-90.5606700000000	1453
+14.5235632291667,-20.0686529166666	1454
+chattanooga	1455
+spider man	1456
+37.7822228571429,20.8589800000000	1457
+chris burke	1458
+chipper jone	1459
+water cube	1460
+gene keady	1461
+miami heat	1462
+44.4322500000000,26.1062600000000	1463
+saint louis ram	1464
+gabe kapler	1465
+finnair	1466
+n1969 world series	1467
+port charlotte	1468
+43.2166700000000,2.3500000000000	1469
+nyu	1470
+villanova university	1471
+goose bay	1472
+knight	1473
+baltimore colt	1474
+uruguay	1475
+coco crisp	1476
+university of south alabama	1477
+42.3878700000000,-71.2200600000000	1478
+torquay	1479
+josh rabe	1480
+phil hugh	1481
+41.9581420000000,-87.6728880000000	1482
+42.3666700000000,10.9000000000000	1483
+malta	1484
+kyrgystan	1485
+bournemouth	1486
+buenos aire	1487
+syracuse orange	1488
+28.9664266666667,10.3145433333333	1489
+39.0112970833333,18.8177679166667	1490
+ryan zimmerman	1491
+caribbean	1492
+-1.6681388235294,114.0017617647059	1493
+home	1494
+jameer nelson	1495
+sam raimi	1496
+anaheim convention center	1497
+scott steven	1498
+etihad airway	1499
+mike bellotti	1500
+educational technology	1501
+jayson william	1502
+schottenstein center	1503
+denmark	1504
+jaromir jagr	1505
+-0.4445214000000,-72.9681178000000	1506
+karachi	1507
+southwest missouri state bear	1508
+-22.2981950000000,35.2145850000000	1509
+john lackey	1510
+adrian dantley	1511
+al rey	1512
+33.4391311111111,50.5324788888889	1513
+st alban	1514
+chicago black hawks	1515
+st petersburg	1516
+41.3326000000000,-72.9464900000000	1517
+philipine	1518
+evgeni malkin	1519
+mestalla stadium	1520
+nevada	1521
+40.8516850000000,25.9153500000000	1522
+37.9506303658536,7.1480886585366	1523
+washington territory	1524
+mashhad	1525
+43.8210200000000,-111.7824700000000	1526
+42.1349450000000,19.5401975000000	1527
+37.9590900000000,-121.9380100000000	1528
+bryant college	1529
+veere	1530
+33.5487786792453,-80.9002839622641	1531
+chris carpenter	1532
+cebu city	1533
+ryan franklin	1534
+romo	1535
+38.1977400000000,-83.4465133333333	1536
+sovereign bank arena	1537
+48.6366900000000,-104.5505100000000	1538
+26.1597100000000,-80.3259000000000	1539
+bloemfontein	1540
+francisco cordero	1541
+severiano ballestero	1542
+european champion league	1543
+san francisco state	1544
+university of montana	1545
+george mikan	1546
+ken whisenhunt	1547
+43.0391800000000,-87.9109200000000	1548
+rayong	1549
+la rochelle	1550
+houston comet	1551
+tennessee state university	1552
+faro airport	1553
+sonny lubick	1554
+st louis ram	1555
+uncasville	1556
+lotr	1557
+jake long	1558
+amharic language	1559
+butler bulldog	1560
+eastwood field	1561
+jim fassel	1562
+39.2330250000000,-74.6258500000000	1563
+aberdeen	1564
+joe inglett	1565
+university of louisiana at monroe	1566
+montana state university billing	1567
+39.3923300000000,-76.6058000000000	1568
+julio manon	1569
+spokane arena	1570
+bobby kielty	1571
+solidwork	1572
+aachen university	1573
+twente	1574
+acc championship	1575
+47.7594020118343,2.6103704142012	1576
+waterloo	1577
+ricky william	1578
+n1958 world series	1579
+macay mcbride	1580
+seattle p i	1581
+virgin	1582
+mcneese state university	1583
+unite	1584
+ksu stadium	1585
+chan ho park	1586
+brad lidge	1587
+newjersey	1588
+airbus	1589
+al pennant	1590
+marcus amphitheater	1591
+35.3647200000000,24.4713900000000	1592
+33.8823375675676,-76.9330818918919	1593
+seattle pi	1594
+colorado state university	1595
+10.7646037500000,52.4829362500000	1596
+c vivian stringer	1597
+university of wisconsin green bay	1598
+chauncey billup	1599
+priest holm	1600
+belgrad	1601
+28.4136033333333,-16.4061433333333	1602
+heathrow	1603
+crocodile cafe	1604
+vlora	1605
+montpellier	1606
+perito moreno glacier	1607
+metrolink	1608
+lasalle university	1609
+39.7463800000000,-105.0208200000000	1610
+kcpq	1611
+cox arena	1612
+austin peay state university	1613
+40.7771300000000,-73.9590950000000	1614
+st etienne	1615
+hulk	1616
+andruw jone	1617
+montana state university	1618
+dalla cowboy	1619
+stephen draw	1620
+33.4984900000000,-80.8545400000000	1621
+ryan braun	1622
+4.8932562500000,-1.7385112500000	1623
+cayman	1624
+physics	1625
+virgin atlantic	1626
+38.0196093750000,-45.1223031250000	1627
+samui	1628
+southeast asia	1629
+west indie	1630
+tamil nadu	1631
+n1964 mlb all star game	1632
+mcnabb	1633
+etan thoma	1634
+norfolk state university	1635
+eric dickerson	1636
+josh willingham	1637
+mekne	1638
+henry fonda theatre	1639
+kevin roger	1640
+49.7500000000000,15.0000000000000	1641
+arco arena	1642
+mccaw hall	1643
+47.5051242857143,11.0977800000000	1644
+perpignan	1645
+pacific university	1646
+verdun	1647
+memphis pyramid	1648
+rich harden	1649
+ltu arena	1650
+east london	1651
+38.8333333333333,71.1666666666667	1652
+37.5646300000000,22.8050000000000	1653
+pillsbury	1654
+kitzbuehel	1655
+landshark stadium	1656
+london heathrow	1657
+chongq	1658
+40.4166700000000,23.4750000000000	1659
+reforma	1660
+chris gomez	1661
+randy white	1662
+the daily star	1663
+anger	1664
+swakopmund	1665
+luang prabang	1666
+constanta	1667
+carvoeiro	1668
+tientsin	1669
+bowie state	1670
+monte cristi	1671
+vernon well	1672
+maurice jone draw	1673
+bud harrelson	1674
+pittsburg state university	1675
+utep	1676
+tunisia	1677
+bulgaria	1678
+edgar martinez	1679
+julliard school	1680
+south dakota state	1681
+39.4337100000000,-77.8041600000000	1682
+joe bisenius	1683
+34.1581739010989,65.3399498076922	1684
+yangon	1685
+present	1686
+29.5396800000000,-95.2668800000000	1687
+the woodland	1688
+wes helm	1689
+komo tv	1690
+leningrad	1691
+t constant convocation center	1692
+united fruit	1693
+swindon	1694
+gordon beckham	1695
+42.9190246666667,46.1991556666667	1696
+fedexfield	1697
+ubud	1698
+honus wagner	1699
+end	1700
+38.1645837500000,20.7104200000000	1701
+iasi	1702
+university of washington	1703
+34.9419033333333,-81.0246133333333	1704
+washington senator	1705
+philadelphia warrior	1706
+32.0229200000000,-81.0561100000000	1707
+bedford	1708
+29.7151803333333,24.9291896666667	1709
+42.1338733333333,19.4764133333333	1710
+matt cassel	1711
+hamedan	1712
+motorola	1713
+pfeiffer college	1714
+len dawson	1715
+national league pennant	1716
+mike matthews	1717
+pike street	1718
+ballpark	1719
+carrier dome	1720
+raptor	1721
+49.1876991666667,-123.0563108333334	1722
+fedexforum	1723
+37.0500000000000,-7.7500000000000	1724
+wharton school	1725
+kazakistan	1726
+josh freeman	1727
+united arab emirate	1728
+american university	1729
+42.8458410909091,5.3084205454545	1730
+jake westbrook	1731
+marshall faulk	1732
+woody haye	1733
+54.5945105263158,41.8244878947368	1734
+west virginia state college	1735
+waterbird	1736
+ervin santana	1737
+colombo	1738
+imperial theatre	1739
+texas christian university	1740
+san jose arena	1741
+a j feeley	1742
+40.7438550000000,-73.6058200000000	1743
+incheon	1744
+electrical engineering	1745
+felipe alou	1746
+42.0312662962963,-93.7940085185186	1747
+smu	1748
+coliseum	1749
+winona state university	1750
+29.5865135714286,-26.4169414285714	1751
+novgorod	1752
+baseball	1753
+scottsdale stadium	1754
+hilton head	1755
+sylvester croom	1756
+memorial stadium	1757
+ray king	1758
+gonzalez	1759
+fiu	1760
+tbilisi	1761
+jetstar	1762
+tampa bay ray	1763
+39.1311700000000,-84.5141100000000	1764
+lowe	1765
+tucson electric park	1766
+aoste	1767
+richie gardner	1768
+george karl	1769
+41.2500450000000,-111.7822025000000	1770
+camp h m smith	1771
+blue jacket	1772
+lewis field	1773
+roy wilkin auditorium	1774
+new arena	1775
+osprey	1776
+45.7263175000000,13.0941675000000	1777
+nebraska wesleyan university	1778
+peoria sport complex	1779
+scott linehan	1780
+weber state university	1781
+mark kotsay	1782
+interior saving centre	1783
+ny	1784
+catalonia	1785
+seve ballesteros	1786
+brett wallace	1787
+40.8119500000000,-96.6986300000000	1788
+namibia	1789
+11.8709157142857,10.1362991428571	1790
+saint louis park	1791
+kauna	1792
+frank francisco	1793
+portobello	1794
+west valley city	1795
+45.6608100000000,-111.0463800000000	1796
+bethel university	1797
+59.2934600000000,18.0832400000000	1798
+thomsonfly	1799
+annemasse	1800
+joe mauer	1801
+35.2927775000000,25.1644575000000	1802
+jon lester	1803
+comfort dental amphitheatre	1804
+franschhoek	1805
+kingdome	1806
+plymouth state	1807
+hammamet	1808
+nfl football	1809
+dusty baker	1810
+kaifeng	1811
+town hall	1812
+bobby jenk	1813
+mesopotamia	1814
+43.0267900000000,-71.4505766666667	1815
+loyola university	1816
+juan miranda	1817
+jose molina	1818
+uga	1819
+44.1172166666667,10.9593166666667	1820
+basle	1821
+rensselaer polytechnic institute	1822
+pine street	1823
+32.8191975000000,36.2655625000000	1824
+veliko turnovo	1825
+ryan church	1826
+northland coliseum	1827
+40.8921050000000,26.9795300000000	1828
+j d martin	1829
+royal bafokeng stadium	1830
+tyne	1831
+league	1832
+6.5350351162791,15.5574157558140	1833
+naia	1834
+jacksonville state university	1835
+ron artest	1836
+chatham college	1837
+t william	1838
+ohio northern university	1839
+henrik zetterberg	1840
+fiesta bowl	1841
+sbc	1842
+buck	1843
+big fish game	1844
+turlock	1845
+research in motion	1846
+oklahoma state university	1847
+chris smith	1848
+39.2831536363636,2.1818136363636	1849
+50.2872966666667,18.6709600000000	1850
+old trafford	1851
+brewer	1852
+4.0000000000000,-53.0000000000000	1853
+42.3276000000000,-83.0493200000000	1854
+44.1471900000000,-93.9971800000000	1855
+hewlett packard	1856
+chris duhon	1857
+kenya airway	1858
+19.5000000000000,-80.6666700000000	1859
+jackie robinson	1860
+norwich	1861
+42.2380825000000,-91.4716125000000	1862
+android	1863
+brent guy	1864
+willis reed	1865
+carlo ruiz	1866
+wave	1867
+30.3629400000000,-103.6507300000000	1868
+henry rodriguez	1869
+den helder	1870
+39.7503400000000,-83.8110300000000	1871
+sergio romo	1872
+allen iverson	1873
+dundee	1874
+new dehli	1875
+mike matheny	1876
+oregon state university	1877
+darren oliver	1878
+suburban journal	1879
+northrop auditorium	1880
+scott hatteberg	1881
+apec	1882
+kane county cougar	1883
+buffalo bill	1884
+blake dewitt	1885
+anaheim angel	1886
+stranger	1887
+vanguard university of southern california	1888
+fort william	1889
+moore theatre	1890
+portsmouth	1891
+alor star	1892
+51.9349316666667,23.6415433333333	1893
+ryan hanigan	1894
+maryland height	1895
+northern italy	1896
+libya	1897
+-11.0226400000000,-51.4583638461538	1898
+47.1196500000000,-88.5484600000000	1899
+victor martinez	1900
+reggie abercrombie	1901
+adam kennedy	1902
+mechlin	1903
+c c sabathia	1904
+jason michael	1905
+lp field	1906
+hambantota	1907
+padova	1908
+tyler hansbrough	1909
+citrix	1910
+leicester	1911
+ed sullivan theatre	1912
+pittsburgh panther	1913
+30.3244100000000,-81.6367600000000	1914
+n2001 world series	1915
+den haag	1916
+39.4533969230769,-80.0151776923077	1917
+tenerife	1918
+rick comley	1919
+northwest nazarene university	1920
+molson amphitheatre	1921
+padua	1922
+juan rincon	1923
+wac	1924
+phillie	1925
+41.6508933333333,-71.2597866666667	1926
+sec	1927
+28.5656957142857,-10.7591228571429	1928
+chio	1929
+ap	1930
+bill walker	1931
+41.3939133333333,19.5590825000000	1932
+fullerton	1933
+roissy	1934
+cincinnati red	1935
+nante	1936
+verizon	1937
+time union center	1938
+cleveland brown stadium	1939
+mike lamb	1940
+memphi university	1941
+calicut	1942
+48.9237200000000,-20.0007325000000	1943
+adam sandler	1944
+bo jackson	1945
+matt hensley	1946
+discovery	1947
+abu dhabi	1948
+jackson state	1949
+trent green	1950
+delwyn young	1951
+33.6618100000000,-117.9016400000000	1952
+alappuzha	1953
+33.8213362500000,14.6208250000000	1954
+45.4021493333333,53.9350815555556	1955
+super pit	1956
+ford stadium	1957
+opera	1958
+travis hafner	1959
+fourth avenue	1960
+denver broncos	1961
+liberty bowl stadium	1962
+-33.9203146153846,18.4362661538462	1963
+sebha	1964
+justin masterson	1965
+-33.2781287500000,19.7824375000000	1966
+the gambia	1967
+oklahoma university	1968
+kent	1969
+brandon jone	1970
+31.4826892307692,49.7282600000000	1971
+andy laroche	1972
+statistic	1973
+indiana state	1974
+montecristi	1975
+taiwan university	1976
+philadelphia eagle	1977
+39.0177200000000,-76.7608200000000	1978
+east africa	1979
+antalya	1980
+jay payton	1981
+tangalle	1982
+32.7077700000000,-97.3673075000000	1983
+montauban	1984
+clemson university	1985
+mike brown	1986
+fila forum	1987
+chungk	1988
+tour	1989
+darien lake perform art center	1990
+59.3930607692308,11.9691630769231	1991
+hsbc arena	1992
+red rock amphitheater	1993
+dwayne roloson	1994
+33.7734400000000,-84.3927000000000	1995
+goerlitz	1996
+kory casto	1997
+41.2450000000000,-75.8916700000000	1998
+saint peter s college	1999
+cleveland state viking	2000
+draw anderson	2001
+danny ferry	2002
+sun country	2003
+mike morse	2004
+mariehamn	2005
+orlando hudson	2006
+41.8803100000000,-87.6217200000000	2007
+dom caper	2008
+agen	2009
+11.3666666666667,81.4222233333334	2010
+penang	2011
+pietermaritzburg	2012
+utley	2013
+scottrade	2014
+3.5917560000000,-39.8519540000000	2015
+mandalay	2016
+luxembourg	2017
+thome	2018
+drury college	2019
+golden flash	2020
+moscow state university	2021
+brunei darussalam	2022
+pitt panther	2023
+iowa hawkeye	2024
+38.1378900000000,-80.5548100000000	2025
+baldelli	2026
+makkah	2027
+-5.0000000000000,120.0000000000000	2028
+sri lanka	2029
+warrick dunn	2030
+estadio el madrigal	2031
+arod	2032
+33.6132250000000,-114.9049650000000	2033
+kazmir	2034
+43.6866700000000,-85.4802800000000	2035
+de moine	2036
+37.6721800000000,-97.3789700000000	2037
+lefkada	2038
+gardner webb university	2039
+washington bullet	2040
+north carolina tar heel	2041
+tiger airway	2042
+37.8690900000000,-122.2610800000000	2043
+ryan sweeney	2044
+alberta	2045
+clarion university	2046
+piston	2047
+manny ramirez	2048
+boyer	2049
+hargeysa	2050
+chemistry	2051
+hollin college	2052
+medinah	2053
+ben sheet	2054
+34.1614000000000,-118.1681300000000	2055
+the lord of the ring	2056
+university of central florida	2057
+new york red bull	2058
+gary carter	2059
+yale	2060
+oban	2061
+36.3982000000000,-101.8741100000000	2062
+yahoo	2063
+university of arkansa	2064
+cayman island	2065
+41.7788900000000,-88.0991700000000	2066
+balkh	2067
+lefkas	2068
+fresno	2069
+26.3824610000000,34.3310055000000	2070
+institute	2071
+ed norton	2072
+ladysmith	2073
+brasil	2074
+novorossiisk	2075
+east saint louis	2076
+47.5942500000000,-122.3324500000000	2077
+san diego state university	2078
+chris heisey	2079
+40.7591600000000,-73.9871300000000	2080
+38.9128900000000,-77.0369200000000	2081
+cathay pacific	2082
+38.0320596666667,3.6157060000000	2083
+historic fenway park	2084
+mutrah	2085
+39.3459400000000,-76.5830200000000	2086
+61.1902800000000,-149.8041700000000	2087
+san francisco	2088
+anheuser busch	2089
+bobby carpenter	2090
+certificate	2091
+ron wilson	2092
+35.1250000000000,33.9416700000000	2093
+42.4456972727273,-75.5033272727273	2094
+bucknell	2095
+leek	2096
+maarianhamina	2097
+67.5328220000000,-1.7374030000000	2098
+niamey	2099
+autonation	2100
+horacio ramirez	2101
+chicago bear	2102
+reed johnson	2103
+40.7653800000000,-73.9537500000000	2104
+derek lee	2105
+marque colston	2106
+34.6979218181818,22.2219418181818	2107
+southampton	2108
+milan	2109
+33.9580700000000,-118.3420200000000	2110
+wrigley field	2111
+king tv	2112
+l a king	2113
+cherokee	2114
+t j ford	2115
+hawthorn	2116
+roumania	2117
+j j hardy	2118
+braganca	2119
+balikpapan	2120
+49.1948900000000,-123.1792300000000	2121
+glenville state college	2122
+charlotte coliseum	2123
+richie sexson	2124
+kent mercker	2125
+missouri state	2126
+lou ferrigno	2127
+espn	2128
+southwest missouri state university	2129
+indiana	2130
+28.0963328571429,87.6962185714286	2131
+track	2132
+dwight gooden	2133
+golden bear	2134
+mahahual	2135
+anthropology	2136
+robison field	2137
+itune	2138
+southwest	2139
+dprk	2140
+reser stadium	2141
+minnesota wild	2142
+plaxico burress	2143
+muttrah	2144
+dudley field	2145
+33.5941300000000,-84.3285200000000	2146
+undefeat new england patriot	2147
+auburn	2148
+amsouth amphitheater	2149
+taroudannt	2150
+39.6290857142857,-24.5729861904762	2151
+chase utley	2152
+aonang	2153
+texas christian	2154
+congo kinshasa	2155
+40.9344950000000,-73.8436800000000	2156
+brno	2157
+41.4474900000000,12.6270700000000	2158
+saint anselm college	2159
+cc sabathia	2160
+charger	2161
+champasak	2162
+qw field	2163
+51.8818000000000,0.2334500000000	2164
+-8.3354166666667,101.1435200000000	2165
+43.1147275000000,-71.2301300000000	2166
+52.8953200000000,-25.8282950000000	2167
+grand cayman	2168
+hat yai	2169
+brasov	2170
+51.2323823287671,6.7896372602740	2171
+o j mayo	2172
+justin tuck	2173
+american airline center	2174
+honda center	2175
+jowhar	2176
+california university	2177
+36.9948150000000,-121.7603650000000	2178
+news	2179
+55.4672093750000,1.8923081250000	2180
+chicago	2181
+40.7223600000000,-73.9529200000000	2182
+chiang mai	2183
+david murphy	2184
+le touquet	2185
+washington national	2186
+42.3413500000000,-71.0851900000000	2187
+42.8668600000000,-112.4333100000000	2188
+-22.8574122222222,43.9846433333333	2189
+port harcourt	2190
+jason hammel	2191
+19.8916650000000,-39.1750000000000	2192
+st lawrence university	2193
+czernowitz	2194
+sekondi takoradi	2195
+eric o flaherty	2196
+dome	2197
+centennial garden	2198
+twa	2199
+corel center	2200
+midshipman	2201
+corporate	2202
+muncie	2203
+37.8352800000000,-41.9970850000000	2204
+los angeles clipper	2205
+hague	2206
+steeler	2207
+edinburgh	2208
+west bengal	2209
+marlon anderson	2210
+jason mcelwain	2211
+40.4814900000000,-74.4323700000000	2212
+big east	2213
+jeff van gundy	2214
+vince carter	2215
+minneapolis laker	2216
+republic	2217
+northeastern university	2218
+freeman	2219
+gund arena	2220
+n1947 mlb all star game	2221
+nutter center	2222
+azerbaijani republic	2223
+american football	2224
+37.6172266666667,-78.8686866666667	2225
+stan musial	2226
+47.4487900000000,12.3751600000000	2227
+carlo gomez	2228
+st julian	2229
+shepherd university	2230
+rodrigo lopez	2231
+arab emirate	2232
+chicago bull	2233
+work	2234
+hi corbett field	2235
+morehead state university	2236
+brayan villarreal	2237
+thai	2238
+37.1069300000000,-113.5832900000000	2239
+cavalier	2240
+xi an	2241
+45.0596900000000,-93.1627200000000	2242
+jim miller	2243
+julius erv	2244
+51.1487037500000,-0.1735637500000	2245
+stadium australia	2246
+cal ripken	2247
+vilamoura	2248
+-15.1272561538462,21.7199153846154	2249
+amare stoudemire	2250
+joakim soria	2251
+37.5636100000000,22.8075000000000	2252
+duesseldorf	2253
+27.5875200000000,-99.4380900000000	2254
+oak ridge	2255
+sacramento	2256
+loan	2257
+chamonix	2258
+42.5041700000000,-90.6815200000000	2259
+bc place stadium	2260
+folkestone	2261
+reuter	2262
+heat	2263
+aaron rowand	2264
+9.4388900000000,76.4388900000000	2265
+wild turkey	2266
+fes	2267
+curtis pride	2268
+tadzhikistan	2269
+46.7306766666667,23.6871483333333	2270
+venedig	2271
+moulmein	2272
+spain	2273
+matt jon	2274
+wachovia center	2275
+frank erwin center	2276
+albany	2277
+davis cup	2278
+0.6377780000000,-15.5947490000000	2279
+memphis	2280
+melbourne	2281
+evansville	2282
+matt walker	2283
+north dakota state	2284
+krugersdorp	2285
+henry fonda theater	2286
+mississippi valley state university	2287
+sao paulo	2288
+15.5884490909091,3.0747709090909	2289
+39.9086100000000,-86.1961100000000	2290
+lsu	2291
+university of maryland eastern shore	2292
+pacific bell park	2293
+busan	2294
+warri	2295
+matt kemp	2296
+robert stadium	2297
+ryan howard	2298
+brian mccann	2299
+seattle mariner	2300
+nova southeastern university	2301
+draw meyer	2302
+brett	2303
+red pepper	2304
+progressive field	2305
+teixeira	2306
+cal poly	2307
+indiana state university	2308
+eddie sutton	2309
+sean marshall	2310
+somalia	2311
+24.9585568421053,41.4703189473684	2312
+north dakota	2313
+korean	2314
+seton hall university law school	2315
+witbank	2316
+clinton portis	2317
+halkidiki	2318
+willie parker	2319
+minnesota timberwolv	2320
+finland	2321
+the sudan	2322
+peniche	2323
+al basrah	2324
+42.9644400000000,-85.6808300000000	2325
+abu dabi	2326
+city of palm park	2327
+purdue	2328
+arizona state university	2329
+djokovic	2330
+irvine	2331
+gamecock	2332
+derek jeter	2333
+randburg	2334
+paul o neill	2335
+monastir	2336
+tony parker	2337
+eastern europe	2338
+xinjiang province	2339
+thompson bol arena	2340
+michael redd	2341
+tunis	2342
+luderitz	2343
+ichiro	2344
+boeblingen	2345
+49.9486700000000,7.2638900000000	2346
+deed	2347
+sean casey	2348
+dakota	2349
+marketing	2350
+mike mccarthy	2351
+bulawayo	2352
+hisanori takahashi	2353
+match	2354
+trillion dollar	2355
+beaver stadium	2356
+deshaun foster	2357
+j r towle	2358
+unc	2359
+33.7704517647059,49.2730644117647	2360
+welkom	2361
+anthony morrow	2362
+millau	2363
+joyce center	2364
+central	2365
+university of oklahoma	2366
+jazz study	2367
+42.1306500000000,-72.7953700000000	2368
+university of tennessee	2369
+21.4513900000000,-158.0084933333334	2370
+clayton state university	2371
+jinhae	2372
+35.8522900000000,-86.3699900000000	2373
+roundhouse	2374
+teneriffa	2375
+oregon state	2376
+nizhny novgorod	2377
+national museum of iran	2378
+wimborne	2379
+seton hall university	2380
+36.8241953271028,-87.2403820560748	2381
+firenze	2382
+40.6604100000000,-40.9176016666667	2383
+metro manila	2384
+lafayette college	2385
+starlight theatre	2386
+nizhniy novgorod	2387
+43.2525100000000,-71.2146316666667	2388
+slovakia	2389
+44.7602500000000,-97.9982800000000	2390
+scot shield	2391
+dammam	2392
+asmera	2393
+superdome	2394
+san diego	2395
+rentschler field	2396
+airline	2397
+novartis	2398
+-8.8333300000000,-36.0666700000000	2399
+point park university	2400
+port saint lucie	2401
+40.7716700000000,-73.9841700000000	2402
+kevin millar	2403
+disc golf	2404
+35.8141114634146,111.8672080487804	2405
+haarlem	2406
+curtis martin	2407
+college world series	2408
+asyut	2409
+kampot	2410
+37.1322268181818,63.3666513636364	2411
+los angele time	2412
+brian barton	2413
+polk community college	2414
+christian aid	2415
+tirana	2416
+baltimore bullet	2417
+historic wrigley field	2418
+asa	2419
+cynthia wood mitchell pavilion	2420
+padre	2421
+alonnisos	2422
+bill	2423
+30.0299200000000,-90.0172900000000	2424
+vienna	2425
+aubagne	2426
+49.0150000000000,12.0955600000000	2427
+opa locka	2428
+corbis	2429
+charlotte bobcat arena	2430
+stetson university	2431
+pat burrell	2432
+george brett	2433
+burnaby	2434
+piedmont	2435
+luis castillo	2436
+chavez ravine	2437
+alberto callaspo	2438
+36.4829105660377,-90.3185032075472	2439
+-24.4159440000000,29.1651070000000	2440
+rafael betancourt	2441
+grodno	2442
+esfahan	2443
+walsall	2444
+baghdad	2445
+belfort	2446
+38.4260870444444,-91.0013997333334	2447
+konigsberg	2448
+manny corpa	2449
+belfast	2450
+ryan robert	2451
+tyler flower	2452
+emil brown	2453
+28.8615221363637,53.5589659696970	2454
+bnsf	2455
+yi jianlian	2456
+40.4694345833334,-86.6854941666667	2457
+sooner	2458
+myconos	2459
+facebook	2460
+zinedine zidane	2461
+united state	2462
+38.4160550000000,-96.1795400000000	2463
+bill walsh	2464
+9.0623101618996,-23.7147066270913	2465
+34.0567400000000,-117.8214100000000	2466
+palm beach	2467
+switzerland	2468
+proton	2469
+chief	2470
+38.5217325000000,-89.3518000000000	2471
+championship golf	2472
+alexander hamilton	2473
+community	2474
+texas western	2475
+madison	2476
+ayuthaya	2477
+two dollar	2478
+kondoz	2479
+ohio university	2480
+the rocky horror picture show	2481
+36.2076360000000,-83.6987780000000	2482
+-21.7944450000000,44.5611116666667	2483
+sam mitchell	2484
+curtis thigpen	2485
+mozambique	2486
+utah	2487
+kansas state	2488
+liguria	2489
+alex romero	2490
+port st lucie	2491
+ty cobb	2492
+bergerac	2493
+38.3383025000000,-87.6115450000000	2494
+mark reynold	2495
+frank martin	2496
+windsor	2497
+graig nettle	2498
+wnba	2499
+40.0361715151515,41.8356600000000	2500
+area	2501
+pasadena	2502
+max ramirez	2503
+seattle seahawks	2504
+montclair state	2505
+buena vista university	2506
+nairobi	2507
+marty schottenheimer	2508
+vilnius	2509
+hanover	2510
+brandon roy	2511
+la king	2512
+swan	2513
+petersburg time	2514
+university of wyom	2515
+brusela	2516
+scottie pippen	2517
+kirkuk	2518
+35.2874600000000,25.3224600000000	2519
+mark grace	2520
+mindelo	2521
+dobrich	2522
+35.4851400000000,-80.2845000000000	2523
+valdosta state college	2524
+48.6823100000000,9.0179133333333	2525
+omar quintanilla	2526
+jay triano	2527
+38.2915833333333,-82.8116933333333	2528
+chowan university	2529
+47.8671580000000,6.4539105000000	2530
+cincinnati bengal	2531
+mci center	2532
+johannesburg	2533
+gniezno	2534
+washington	2535
+indian well tenni garden	2536
+18.0416650000000,-58.0518050000000	2537
+new york time	2538
+oakland athletic	2539
+29.9271500000000,-90.0834100000000	2540
+jar allen	2541
+mellon arena	2542
+jame posey	2543
+bayonne	2544
+mogador	2545
+anthony morelli	2546
+madinah	2547
+honeywell	2548
+45.3559088888889,29.1062788888889	2549
+bill murray	2550
+kevin jon	2551
+starbuck	2552
+41.1042200000000,-80.6470200000000	2553
+adrianople	2554
+saint david	2555
+craig hansen	2556
+42.3470400000000,-71.0875500000000	2557
+herm edward	2558
+leeuwarden	2559
+persian	2560
+information science	2561
+zwolle	2562
+jason bartlett	2563
+-33.8891300000000,151.2253500000000	2564
+tulsa golden hurricane	2565
+36.6919014285714,127.1429157142857	2566
+steppenwolf theatre	2567
+yeosu	2568
+dockland stadium	2569
+resina	2570
+toronto skydome	2571
+christiano ronaldo	2572
+mike leach	2573
+comiskey park	2574
+38.0098400000000,-80.9703700000000	2575
+southern connecticut state	2576
+fuzeta	2577
+jim edmond	2578
+27.8604500000000,6.7032850000000	2579
+murray state university	2580
+38.3170493333333,-68.7218766666667	2581
+vladimir guerrero	2582
+kpfk	2583
+englewood	2584
+tiflis	2585
+tennessee	2586
+37.8175858333333,7.6175783333333	2587
+davis guggenheim	2588
+lisieux	2589
+uefa champion league	2590
+hideo nomo	2591
+alex ovechkin	2592
+spac	2593
+placido polanco	2594
+pocatello	2595
+penguin	2596
+terry francona	2597
+45.3395800000000,12.4335490909091	2598
+el calafate	2599
+continental airline	2600
+university of hartford	2601
+cluj napoca	2602
+33.5296285714286,1.4170228571429	2603
+37.3208400000000,13.5887600000000	2604
+united state air force academy	2605
+jermaine o neal	2606
+gary william	2607
+35.2190250000000,-97.4551025000000	2608
+gibraltar	2609
+foreign affair	2610
+maryland	2611
+46.4413513888889,5.4877905555556	2612
+kevin youkili	2613
+chase field	2614
+dr congo	2615
+pennsylvania state university	2616
+gampel pavilion	2617
+nakhon ratchasima	2618
+larry fitzgerald	2619
+32.5043000000000,-84.9481000000000	2620
+40.4492400000000,-79.9256100000000	2621
+mike gundy	2622
+32.4456566666667,-43.1258366666667	2623
+chicago state university	2624
+salt lake community college	2625
+34.9869000000000,33.9988300000000	2626
+raul mondesi	2627
+oxnard	2628
+rudy seanez	2629
+kigali	2630
+demon deacon	2631
+trichy	2632
+loon	2633
+alum	2634
+malabo	2635
+22.1066177777778,-58.3964116666667	2636
+kazuo matsui	2637
+new york city college	2638
+dolphin stadium	2639
+university of new hampshire	2640
+40.7630600000000,-73.9847200000000	2641
+vicksburg	2642
+n2006 orange bowl	2643
+zagreb	2644
+38.8844000000000,-76.8514000000000	2645
+gary crowton	2646
+monta ellis	2647
+iwpr	2648
+thailand	2649
+ryan getzlaf	2650
+alcorn state brave	2651
+36.4362600000000,-77.0991300000000	2652
+perkin coie	2653
+first choice	2654
+us airway center	2655
+american study	2656
+roger centre	2657
+edirne	2658
+gwangju	2659
+durham	2660
+raul ibanez	2661
+u s	2662
+oklahoma city	2663
+time warner cable arena	2664
+asia	2665
+36.3335150000000,127.3873250000000	2666
+birmingham	2667
+cognac	2668
+helena	2669
+travis snider	2670
+shin soo choo	2671
+colorado rockie	2672
+tiger	2673
+hank aaron	2674
+20.3408935483871,-14.3493725806452	2675
+newark	2676
+silver spur arena	2677
+bowl green state university	2678
+mahabalipuram	2679
+toyota	2680
+bennett	2681
+matt capps	2682
+41.7755900000000,-88.0992300000000	2683
+skype	2684
+schweiz	2685
+bree	2686
+pete sampra	2687
+bethel wood	2688
+air new zealand	2689
+chris hammond	2690
+pirate	2691
+a j pierzynski	2692
+coolum	2693
+punta cana	2694
+kentucky state	2695
+operation research	2696
+university of southern mississippi	2697
+carter	2698
+new amsterdam theatre	2699
+sean gallagher	2700
+wes welker	2701
+wladimir balentien	2702
+khan younis	2703
+27.5135950000000,89.6431783333333	2704
+southern oregon university	2705
+blue jay	2706
+gothenburg	2707
+beauvais	2708
+umhlanga rock	2709
+florida marlin	2710
+college of william and mary	2711
+matt william	2712
+39.9031100000000,-75.4711000000000	2713
+joe maddon	2714
+justin hampson	2715
+willie hernandez	2716
+16.0359976470588,30.3224000000000	2717
+champaign	2718
+chris johnson	2719
+kenny roger	2720
+hanoi	2721
+bret boone	2722
+seal	2723
+ypre	2724
+barry sander	2725
+cusco	2726
+sihanoukville	2727
+high point university	2728
+united spirit arena	2729
+pat riley	2730
+shoemaker center	2731
+cinergy field	2732
+upper darby	2733
+38.9375009756098,-77.1093104878049	2734
+brad radke	2735
+37.8984476162298,-88.0202788362920	2736
+troy state	2737
+40.6005642307692,-77.5164957692307	2738
+university of dayton arena	2739
+sun sentinel	2740
+37.3640000000000,67.1413340000000	2741
+43.1500000000000,25.4333300000000	2742
+lake charle civic center arena	2743
+27.3128450000000,66.9522900000000	2744
+astrodome	2745
+wikipedia	2746
+bronko nagurski	2747
+lemnos	2748
+geoff jenkin	2749
+university of connecticut	2750
+fitness	2751
+america west arena	2752
+ucsd	2753
+asilah	2754
+the czech republic	2755
+western illinois university	2756
+sick s stadium	2757
+john kruk	2758
+chad billingsley	2759
+university of north dakota	2760
+dewayne wise	2761
+quebec nordique	2762
+bubba crosby	2763
+canadian	2764
+jeremy hermida	2765
+oklahoma state	2766
+flush	2767
+university of pittsburgh	2768
+21.8176714285714,7.9993957142857	2769
+le man	2770
+46.8663500000000,-96.7620300000000	2771
+riverside theatre	2772
+commuter rail	2773
+dunkin donut center	2774
+trojan	2775
+aer lingus	2776
+bradley center	2777
+geoff geary	2778
+atlantic community college	2779
+marquis daniel	2780
+brian gile	2781
+andy reid	2782
+latroy hawkin	2783
+32.9900000000000,35.5308333333333	2784
+famagusta	2785
+youngstown state	2786
+boomer esiason	2787
+27.0264800000000,-44.8415240425532	2788
+cleveland cavalier	2789
+nc state	2790
+jack nicklaus	2791
+teacher college	2792
+39.0972200000000,-84.5069400000000	2793
+italia	2794
+unc tarheel	2795
+walnut creek amphitheatre	2796
+brian urlacher	2797
+port villa	2798
+anaheim duck	2799
+cape verde	2800
+7.0000000000000,81.0000000000000	2801
+mark mclemore	2802
+tokyo	2803
+karnataka	2804
+salsomaggiore	2805
+ferney voltaire	2806
+brian robert	2807
+lycos	2808
+south east asia	2809
+nordstrom	2810
+47.6607100000000,-117.4161200000000	2811
+chorley	2812
+bhubaneshwar	2813
+joe randa	2814
+jesse litsch	2815
+eliezer alfonzo	2816
+mile high stadium	2817
+hawk	2818
+buddy ryan	2819
+united	2820
+seville	2821
+tom renney	2822
+50.6269717391304,11.1956726086957	2823
+44.7112400000000,-78.0050700000000	2824
+aol arena	2825
+leslie nielsen	2826
+prag	2827
+meridian	2828
+arizona	2829
+pau gasol	2830
+rwanda	2831
+california state university lo angel	2832
+kvos	2833
+37.1764550000000,-95.8687100000000	2834
+la time	2835
+frozen four	2836
+metrosubway	2837
+new york state	2838
+abbotsford	2839
+jerry hairston	2840
+rok	2841
+madrid	2842
+iowa state	2843
+moscow	2844
+manchester unite	2845
+35.5186775000000,47.0397822500000	2846
+university of wisconsin madison	2847
+mark mulder	2848
+17.3652440740741,42.3511581481482	2849
+josh field	2850
+russell martin	2851
+tobey maguire	2852
+50.7913900000000,-1.9833850000000	2853
+cornwall	2854
+ukraine	2855
+tcu	2856
+stony brook university	2857
+cellular	2858
+nebraska	2859
+tony pena jr	2860
+mid east	2861
+southeast missouri state university	2862
+saint paul	2863
+51.5026900000000,-0.1085100000000	2864
+oakridge	2865
+fiji	2866
+parkville	2867
+zimbabwe	2868
+40.8350300000000,-74.1906933333333	2869
+ku	2870
+florence	2871
+home page	2872
+ichiro suzuki	2873
+razorback stadium	2874
+37.0711092592593,-63.5434333333333	2875
+middle east	2876
+29.8899400000000,-97.9394500000000	2877
+4.8958287500000,68.6899787500000	2878
+paramount theatre	2879
+darryl sutter	2880
+47.5072166666667,11.0996616666667	2881
+27.2906781250000,-80.3377525000000	2882
+baylor bear	2883
+24.2762628571429,-12.6685142857143	2884
+eric byrne	2885
+rob reiner	2886
+hp	2887
+chinese	2888
+antonio perez	2889
+colorado rapid	2890
+a j murray	2891
+university of oregon	2892
+43.8907877777778,11.1612171111111	2893
+secret service	2894
+heisman	2895
+air asia	2896
+houston rocket	2897
+idaho	2898
+moore theater	2899
+miguel batista	2900
+intel	2901
+marco scutaro	2902
+matt hasselbeck	2903
+edinboro university	2904
+symphony hall	2905
+kansas city chief	2906
+travis lee	2907
+33.7575000000000,-84.3966700000000	2908
+eric young	2909
+washington state university	2910
+service	2911
+porretta	2912
+indianapolis colt	2913
+realnetwork	2914
+former yugoslav republic of macedonia	2915
+new hampshire university	2916
+relevant	2917
+chad durbin	2918
+31.6541953846154,-73.7480623076923	2919
+allen fieldhouse	2920
+begin	2921
+umhlanga	2922
+st asaph	2923
+38.9067800000000,-76.8619200000000	2924
+john david booty	2925
+39.7800000000000,-105.1213900000000	2926
+lang park	2927
+sibiu	2928
+chan gailey	2929
+guidant	2930
+north carolina state	2931
+leon	2932
+weligama	2933
+jet airway	2934
+pac 10	2935
+tallin	2936
+nugget	2937
+john thomson	2938
+arhus	2939
+tripoli	2940
+pittsburgh pirate	2941
+pro player stadium	2942
+lake district	2943
+kennesaw	2944
+hoyas	2945
+39.3124400000000,-81.5378600000000	2946
+17.6516891666667,-94.6344441666666	2947
+12.9762300000000,77.6032900000000	2948
+woody william	2949
+37.9566800000000,-122.0546400000000	2950
+trenton	2951
+york	2952
+zakinthos	2953
+b j ryan	2954
+44.0433228571429,-92.9143685714286	2955
+southafrica	2956
+chris webber	2957
+hasting	2958
+39.9347800000000,-83.8146500000000	2959
+grand view college	2960
+17.8073329411765,31.8586252941176	2961
+franco harris	2962
+ben wallace	2963
+39.4878245454545,-76.4325604545455	2964
+41.7987930000000,-72.7870890000000	2965
+mark melancon	2966
+west asia	2967
+ucla	2968
+the university of utah	2969
+nordic country	2970
+master	2971
+groningen	2972
+williamsport	2973
+construction management	2974
+timisoara	2975
+freedom hall	2976
+edward jone dome	2977
+coach jim mora	2978
+41.2186100000000,-80.7550000000000	2979
+harding park golf course	2980
+north texas mean green	2981
+josh whitesell	2982
+landover	2983
+marquette university	2984
+tommy john	2985
+44.3971550000000,-37.1338950000000	2986
+ozzie guillen	2987
+43.0208300000000,-88.0113900000000	2988
+arlington	2989
+thurman munson	2990
+adsl	2991
+anderson hernandez	2992
+oman	2993
+timor leste	2994
+uw madison	2995
+feltham	2996
+los angele memorial coliseum	2997
+bizerte	2998
+35.9789087500000,-98.7041662500000	2999
+kevin slowey	3000
+umu	3001
+iverson	3002
+19.5833350000000,-80.2916700000000	3003
+tui arena	3004
+virginia mason medical center	3005
+gold	3006
+ottawa senator	3007
+djerba	3008
+syrian arab republic	3009
+taipei	3010
+28.0322400000000,-81.7136900000000	3011
+40.4517500000000,-77.1730400000000	3012
+n2003 world series	3013
+savannakhet	3014
+hawaii rainbow warrior	3015
+19.7938136363636,-4.4843709090909	3016
+colt	3017
+scott podsednik	3018
+upington	3019
+santo domingo	3020
+languedoc	3021
+football world cup	3022
+64.2700000000000,42.2700000000000	3023
+easyjet	3024
+jeff weaver	3025
+chalkidiki	3026
+university of rhode island	3027
+university of michigan	3028
+st austell	3029
+kolkatta	3030
+oak mountain amphitheater	3031
+33.0736966666667,52.5735350000000	3032
+albana	3033
+gary payton	3034
+neva	3035
+curt schilling	3036
+john jaso	3037
+sohu com	3038
+trent edward	3039
+parker	3040
+-0.3739525000000,42.5412350000000	3041
+troy university	3042
+bariloche	3043
+malaga	3044
+33.9942135714286,-106.4046253571429	3045
+montreal maroon	3046
+javier lopez	3047
+nizwa	3048
+40.3937200000000,-74.1754200000000	3049
+60.1055500000000,19.9328725000000	3050
+irak	3051
+mississippi state	3052
+charleston southern university	3053
+oklahoma thunder	3054
+italy	3055
+35.1187000000000,-89.9407600000000	3056
+50.8351833333333,12.9147233333333	3057
+herschel greer stadium	3058
+donnie veal	3059
+millennium stadium	3060
+solomon	3061
+timberwolf	3062
+sao paolo	3063
+johnson coliseum	3064
+hornet	3065
+chris widger	3066
+laos people s democratic republic	3067
+44.0584600000000,-123.0684200000000	3068
+40.7730587500000,3.1515525000000	3069
+maxjet	3070
+eddie guardado	3071
+pocket pc	3072
+bruin	3073
+deuce lutui	3074
+37.9188900000000,40.2105600000000	3075
+jeff garcia	3076
+lakefront arena	3077
+tim salmon	3078
+nou camp	3079
+kunia	3080
+35.0003524742268,40.1637900000000	3081
+holy cross	3082
+rafael furcal	3083
+joey votto	3084
+dungy	3085
+chianciano terme	3086
+gardner	3087
+erick dampier	3088
+jose guillen	3089
+cowboy	3090
+uc davis	3091
+kurt warner	3092
+general mill	3093
+democratic republic of the congo	3094
+tropicana field	3095
+willy aybar	3096
+safeco field	3097
+tracy mcgrady	3098
+texas tech	3099
+dominica	3100
+bob melvin	3101
+-12.0615127358491,-65.0453657547169	3102
+southern lebanon	3103
+arizona state	3104
+28.6269120000000,-35.8712160000000	3105
+gambia	3106
+40.0915000000000,-75.1632300000000	3107
+46.7805600000000,-92.0980600000000	3108
+49.0261527272727,12.1063527272727	3109
+17.4800233333333,-73.7474070588236	3110
+ray	3111
+british midland	3112
+university of arizona	3113
+clermont ferrand	3114
+scott lewis	3115
+40.5154550000000,-89.0007700000000	3116
+corey maggette	3117
+orpheum theatre	3118
+picture	3119
+clay condrey	3120
+37.6381300000000,-122.1175400000000	3121
+frank thoma	3122
+dowdy ficklen stadium	3123
+sunset	3124
+lleida	3125
+jason varitek	3126
+bhutan	3127
+harrisburg	3128
+west germany	3129
+34.0000000000000,9.0000000000000	3130
+boise	3131
+kjr	3132
+chicago theatre	3133
+coimbra	3134
+aubervillier	3135
+dustin pedroia	3136
+million dollar	3137
+university of north carolina at asheville	3138
+derrick harvey	3139
+tony dungy	3140
+sharm ash shaykh	3141
+joaquin aria	3142
+bourge	3143
+haroon	3144
+36.1056100000000,-86.7994400000000	3145
+guillermo mota	3146
+william penn college	3147
+devon lowery	3148
+agadir	3149
+merriweather post pavilion	3150
+connie mack stadium	3151
+carcasonne	3152
+37.5458980000000,-77.4431620000000	3153
+kelowna	3154
+arbil	3155
+6.9979150000000,-13.1412500000000	3156
+30.4991260000000,46.7118850000000	3157
+tony abreu	3158
+south african airway	3159
+35.2062950000000,-75.9500350000000	3160
+carl pavano	3161
+lao pdr	3162
+at t park	3163
+century theatre	3164
+tailand	3165
+savannah state university	3166
+chris young	3167
+chronicle pavilion	3168
+giant	3169
+saratoga spring	3170
+brandon rush	3171
+edmonton oiler	3172
+veliko tarnovo	3173
+carl everett	3174
+horizon league	3175
+40.6649900000000,-73.9585833333333	3176
+laker	3177
+hoover metropolitan stadium	3178
+-37.8101900000000,140.7682050000000	3179
+new mexico highland university	3180
+39.8399844800000,-84.1730538400000	3181
+lendale white	3182
+luis gonzalez	3183
+35.2013883333333,33.9291683333333	3184
+muskingum college	3185
+howard university	3186
+franklin gutierrez	3187
+post season	3188
+jonathan sanchez	3189
+tino martinez	3190
+santonio holme	3191
+plzen	3192
+34.4257392105263,133.2300876315789	3193
+48.6033300000000,-93.4086100000000	3194
+cody ros	3195
+mamallapuram	3196
+oiler	3197
+beirut	3198
+mitch william	3199
+eindhoven	3200
+jose vera	3201
+39.1960800000000,23.9062500000000	3202
+krabi	3203
+iona college	3204
+boca chica	3205
+mike jam	3206
+larry doby	3207
+oxford	3208
+nomar	3209
+fallujah	3210
+home depot center	3211
+globe arena	3212
+7.0166700000000,100.4666700000000	3213
+coastal carolina chanticleer	3214
+rome	3215
+saint lo	3216
+travis buck	3217
+39.6334376923077,19.8694346153846	3218
+steve garvey	3219
+kean	3220
+ecuador	3221
+cleveland ram	3222
+orkney island	3223
+million	3224
+57.9166650000000,28.1666650000000	3225
+petco	3226
+n1934 world series	3227
+strasbourg	3228
+12.4338028000000,-72.9600128000000	3229
+montreal canadien	3230
+gilbert arena	3231
+st john s university	3232
+n1980 world series	3233
+buck coat	3234
+first world cup	3235
+westfield state	3236
+sean rodriguez	3237
+georgia state university	3238
+delaware state	3239
+xcel energy center	3240
+joe johnson	3241
+baltimore raven	3242
+67.4649276923077,7.8949069230769	3243
+washington state	3244
+david pauley	3245
+winona state	3246
+hyf	3247
+brest	3248
+jeddah	3249
+39.6085289473684,-105.4010678947368	3250
+josh bank	3251
+the omni	3252
+49.2767600000000,-123.1118900000000	3253
+bosasso	3254
+35.5403133333333,-105.6059133333333	3255
+39.9251208333333,119.5971258333334	3256
+les mile	3257
+university of akron	3258
+matt schaub	3259
+scott hairston	3260
+ghana	3261
+nationwide	3262
+chuck long	3263
+oregon state beaver	3264
+randy johnson	3265
+baja california	3266
+whisenhunt	3267
+agrigento	3268
+northcarolina	3269
+miguel ojeda	3270
+33.3753700000000,-83.5979300000000	3271
+southern mis	3272
+pietersburg	3273
+halladay	3274
+buster posey	3275
+myanmar	3276
+license	3277
+bill snyder	3278
+muny	3279
+walker	3280
+darin erstad	3281
+wale	3282
+yerevan	3283
+rudy gay	3284
+38.2445000000000,-85.5792000000000	3285
+kyle boller	3286
+oscar villarreal	3287
+russian empire	3288
+sociology	3289
+jim johnson	3290
+41.3771366666667,-72.1018366666667	3291
+buck showalter	3292
+fort collin	3293
+jason jaramillo	3294
+john f kennedy university	3295
+ball	3296
+chapultepec	3297
+maine	3298
+twitter	3299
+30.3780550000000,62.0570850000000	3300
+basketball game	3301
+hillah	3302
+craig hartsburg	3303
+john franco	3304
+national title	3305
+semarang	3306
+rusty ryal	3307
+florida international	3308
+6.7931075000000,-71.0539781250000	3309
+kandy	3310
+indianapolis motor speedway	3311
+campus	3312
+los angle	3313
+cal state fullerton	3314
+mehmet okur	3315
+wachovia	3316
+22.5789085714286,83.3584757142857	3317
+diyarbakir	3318
+dave bush	3319
+guatamala	3320
+surinam	3321
+emirate stadium	3322
+pershing auditorium	3323
+33.5151200000000,-90.3387000000000	3324
+lorient	3325
+fyrom	3326
+metrodome	3327
+loyola	3328
+54.4954580000000,-1.4806736000000	3329
+danny richar	3330
+la salle university	3331
+34.1831300000000,-117.3240200000000	3332
+llandudno	3333
+anthony rey	3334
+qualcomm stadium	3335
+karalis	3336
+j d durbin	3337
+40.7929600000000,43.8427766666667	3338
+egret	3339
+lacrosse	3340
+hubert h humphrey metrodome	3341
+chris snell	3342
+claremont	3343
+hokie	3344
+edison field	3345
+reggie theus	3346
+capitol	3347
+40.3312000000000,-76.5135800000000	3348
+hsbc	3349
+haadyai	3350
+baranquilla	3351
+joe blanton	3352
+skydome	3353
+2.8987335714286,24.5327185714286	3354
+london stanst	3355
+wushu	3356
+grenoble	3357
+34.6060047058824,6.9126717647059	3358
+22.6816333333333,120.3549522222222	3359
+soenderborg	3360
+41.8853100000000,-87.6272700000000	3361
+brayan pena	3362
+lovie smith	3363
+nine	3364
+reggie sander	3365
+jalen rise	3366
+40.2497600000000,-87.9163300000000	3367
+manila	3368
+craig robinson	3369
+jame l knight center	3370
+truman state university	3371
+56.0250000000000,13.7166700000000	3372
+wandy rodriguez	3373
+ucf knight	3374
+ripon college	3375
+alicante	3376
+40.5944400000000,-73.6527800000000	3377
+ny time	3378
+39.7754200000000,-91.6150925000000	3379
+florida	3380
+kyle orton	3381
+35.1703750000000,-85.4094500000000	3382
+40.7283200000000,-73.6011060000000	3383
+vanne	3384
+37.8784050000000,-92.0054250000000	3385
+flickr	3386
+la romana	3387
+asdrubal cabrera	3388
+indianapolis	3389
+virginia state university	3390
+36.4510350000000,-115.4114700000000	3391
+41.6877488888889,17.4064522222222	3392
+western carolina	3393
+robb nen	3394
+parcell	3395
+richard bay	3396
+peavy	3397
+willie randolph	3398
+evreux	3399
+ray durham	3400
+taiwan	3401
+kelly johnson	3402
+new york university	3403
+gulf region	3404
+40.5000000000000,47.5000000000000	3405
+chah bahar	3406
+8.4829266666667,76.9178166666667	3407
+colorado mammoth	3408
+quepos	3409
+western reserve university	3410
+chippewas	3411
+ben davis	3412
+benaroya hall	3413
+michael robinson	3414
+tadahito iguchi	3415
+kevin garnett	3416
+45.2776963636364,9.5470663636364	3417
+joe montana	3418
+jed lowrie	3419
+hockey	3420
+vivier	3421
+kismayu	3422
+continental airline arena	3423
+22.1902785714286,88.2071485714286	3424
+loftus versfeld	3425
+farecast	3426
+bill belichick	3427
+indiana university	3428
+ramon a ramirez	3429
+information	3430
+simon fras university	3431
+columbus state university	3432
+sergio mitre	3433
+belleville	3434
+hainan airline	3435
+travel	3436
+regina	3437
+gorlitz	3438
+73.4458300000000,10.0173766666667	3439
+jason campbell	3440
+25.1525000000000,49.2683300000000	3441
+jake delhomme	3442
+john baker	3443
+todd helton	3444
+40.4387500000000,-80.0017900000000	3445
+sigma	3446
+the master	3447
+ohio wesleyan university	3448
+sheffield arena	3449
+paul hewitt	3450
+coor amphitheatre	3451
+sofia	3452
+skate	3453
+41.3337940000000,-0.7822133333333	3454
+oregon	3455
+29.8514285714286,106.9030957142857	3456
+carlo gonzalez	3457
+todd bertuzzi	3458
+banska bystrica	3459
+jay powell	3460
+rafer alston	3461
+43.1312266666667,25.6348977777778	3462
+laurence maroney	3463
+willy tavera	3464
+11.5947511764706,1.7459135294118	3465
+bank park	3466
+castre	3467
+marlin	3468
+netherland	3469
+burkina	3470
+brett tomko	3471
+williams brice stadium	3472
+bermuda	3473
+pound	3474
+gloucester	3475
+state	3476
+phalaborwa	3477
+wilfrid lauri university	3478
+montreal canadian	3479
+new orlean hornet	3480
+ohio state university	3481
+32.1951908695652,-80.7488530434782	3482
+48.4834242857143,18.5860571428571	3483
+52.2468300000000,0.7182500000000	3484
+34.8700866666667,62.0103166666667	3485
+steve finley	3486
+35.5138650000000,-82.4279000000000	3487
+brandon backe	3488
+west palm beach	3489
+odu	3490
+43.4597833333333,0.8007080000000	3491
+northern california	3492
+devin harris	3493
+47.9785500000000,-122.2029600000000	3494
+esteban loaiza	3495
+fort lauderdale	3496
+eddie jordan	3497
+scott glenn	3498
+poland	3499
+bologna	3500
+mac	3501
+marist college	3502
+27.6432950000000,-80.4253750000000	3503
+kalibo	3504
+l a laker	3505
+morgan state university	3506
+lebron jam	3507
+dennis eckersley	3508
+appalachian state university	3509
+leslie nielson	3510
+tony gonzalez	3511
+air	3512
+lou montanez	3513
+john fox	3514
+-33.8648200000000,151.2077300000000	3515
+fiskardo	3516
+virginia beach	3517
+jim leyritz	3518
+41.2097550000000,-79.3780800000000	3519
+eli marrero	3520
+18.6746078571429,-0.9831550000000	3521
+north florida osprey	3522
+jimmy rollin	3523
+30.4407600000000,-84.2918400000000	3524
+storm	3525
+44.4544400000000,-95.7597200000000	3526
+cotton bowl	3527
+32.8465983333333,46.5350533333333	3528
+singapore airline	3529
+austria hungary	3530
+nurnberg	3531
+mexico df	3532
+42.6592100000000,27.7360200000000	3533
+petersen event center	3534
+federal government	3535
+paraty	3536
+mois alou	3537
+aksum	3538
+27.1078678571429,31.6915680952381	3539
+john lafferty	3540
+1.1893533333333,-6.3350000000000	3541
+chula vista	3542
+new mexico state	3543
+n1963 world series	3544
+58.0668700000000,59.4150766666667	3545
+faroe island	3546
+-3.4801588235294,39.3298864705882	3547
+cobo center	3548
+rethymnon	3549
+chillis	3550
+dodger stadium	3551
+mussina	3552
+38.7856316666667,6.0043616666667	3553
+27.2594900000000,-82.4387100000000	3554
+john bowker	3555
+us airway arena	3556
+invest	3557
+rise garden	3558
+kalavassos	3559
+37.6500000000000,23.1000000000000	3560
+crosley field	3561
+n2000 world series	3562
+48.3658840000000,-44.2000000000000	3563
+50.3306350000000,-4.7722650000000	3564
+27.6780000000000,85.4166900000000	3565
+llincoln financial field	3566
+illinois wesleyan university	3567
+tony dorsett	3568
+thessaloniki	3569
+thang long	3570
+37.0207900000000,-76.3362650000000	3571
+sprint center	3572
+seahawks stadium	3573
+dakha	3574
+khon kaen	3575
+dordrecht	3576
+fight irish	3577
+n1965 world series	3578
+bill russell	3579
+providence	3580
+jordan schafer	3581
+funchal	3582
+north	3583
+manchester city	3584
+olympic stadium	3585
+candlestick park	3586
+invesco field at mile high	3587
+31.0285847916667,-91.9609339583334	3588
+argenis reye	3589
+raymond floyd	3590
+tom glavine	3591
+lebanon	3592
+denver nugget	3593
+agadez	3594
+utah ut	3595
+toronto	3596
+world	3597
+39.0516700000000,-94.4805100000000	3598
+lyle overbay	3599
+aaron brook	3600
+blois	3601
+safi	3602
+stanford university	3603
+45.9347125000000,43.9800675000000	3604
+40.5905428571429,-92.2726300000000	3605
+ron prince	3606
+putrajaya	3607
+35.3952758823529,128.3702241176471	3608
+n1962b mlb all star game	3609
+the metrodome	3610
+marcus amphitheatre	3611
+saint raphael	3612
+40.5634266666667,22.9090733333333	3613
+hawaii warrior	3614
+josh phelp	3615
+16.0000000000000,107.0000000000000	3616
+23.6959678260870,-25.6344713043478	3617
+gwinnett arena	3618
+mike mccoy	3619
+npr	3620
+11.9000000000000,-9.2888900000000	3621
+adria airway	3622
+osceola county stadium	3623
+university of alabama	3624
+comcast arena	3625
+bahrain	3626
+44.9333300000000,17.1833300000000	3627
+32.3805350000000,-7.4683950000000	3628
+st francis college	3629
+montana	3630
+mike cameron	3631
+naked gun	3632
+pearland stadium	3633
+cancun international airport	3634
+jason bay	3635
+vilankulo	3636
+40.8125850000000,-74.0725250000000	3637
+texas longhorn	3638
+uconn husky	3639
+joe tiller	3640
+gary bennett	3641
+l a	3642
+andy pettitte	3643
+fordham university	3644
+aurora avenue north	3645
+xativa	3646
+ibm	3647
+jim mora	3648
+nhatrang	3649
+nok air	3650
+16.8510666666667,-64.8443900000000	3651
+sixer	3652
+tucson	3653
+crew	3654
+dave winfield	3655
+jetblue	3656
+molson canadian amphitheatre	3657
+mike fontenot	3658
+43.0928600000000,-71.4520100000000	3659
+nook logan	3660
+flybe	3661
+largo	3662
+rossiya	3663
+24.4666700000000,54.3666700000000	3664
+48.1083819551283,-123.1847351602563	3665
+technical	3666
+qinhuangdao	3667
+bc place	3668
+new england patriot	3669
+60.6489100000000,80.3202200000000	3670
+prague	3671
+36.3239950000000,-82.3041650000000	3672
+morrison	3673
+36.1218580952381,60.6037076190476	3674
+adam lind	3675
+33.8462385714286,130.8718142857143	3676
+roermond	3677
+52.3033720000000,4.7647946666667	3678
+nassau veteran memorial coliseum	3679
+46.0241813157894,14.5328021052632	3680
+ryan perrilloux	3681
+11.2839071428571,60.3569485714286	3682
+lake charle civic center	3683
+troy murphy	3684
+bathurst	3685
+economic	3686
+nova university	3687
+lusaka	3688
+university of georgia	3689
+heron	3690
+essaouira	3691
+bernie william	3692
+southsea	3693
+charlie weis	3694
+n2002 world series	3695
+catcher ivan rodriguez	3696
+34.0830550000000,-118.2351000000000	3697
+kiev	3698
+steve reed	3699
+qw center	3700
+target center	3701
+wrestle	3702
+east timor	3703
+commerce bank ballpark	3704
+british columbia	3705
+35.8807400000000,128.1829633333333	3706
+39.0000000000000,71.0000000000000	3707
+minneapolis convention center	3708
+chittor	3709
+kaduna	3710
+angele	3711
+princeton university	3712
+omar vizquel	3713
+ostende	3714
+mizzima	3715
+pafos	3716
+staple center	3717
+garrett atkin	3718
+aggie	3719
+sharapova	3720
+miami university of ohio	3721
+enron field	3722
+jeff samardzija	3723
+yugoslavia	3724
+tom mastny	3725
+34.6845457142857,-96.6553485714286	3726
+dnipropetrovsk	3727
+lemony snicket	3728
+-29.1173000000000,26.2088200000000	3729
+47.5938300000000,61.2582043750000	3730
+eric bruntlett	3731
+26.9933839848155,100.7934165748374	3732
+khan yunis	3733
+phoenix	3734
+air france	3735
+30.7157487500000,1.5493725000000	3736
+26.7056385714286,107.1069664285714	3737
+douala	3738
+hallandale	3739
+wichita state	3740
+34.1911045000000,-79.6533770000000	3741
+paul wulff	3742
+notre dame	3743
+south african express	3744
+plettenberg bay	3745
+mario william	3746
+56.8575000000000,60.6125000000000	3747
+brandon fahey	3748
+jeff francis	3749
+central florida knight	3750
+fulham	3751
+tim floyd	3752
+13.2137950000000,86.4278170000000	3753
+42.5134133333333,-92.4531500000000	3754
+southern methodist university	3755
+21.4530225000000,-158.0140056250000	3756
+27.1363740000000,52.2128660000000	3757
+georgia bulldog	3758
+sun life stadium	3759
+robert trent jon jr	3760
+ron darling	3761
+imperial college	3762
+martinique	3763
+duitsland	3764
+venezia	3765
+university of toledo	3766
+pullman	3767
+indonesia	3768
+yorvit torrealba	3769
+herb sendek	3770
+deya	3771
+atf	3772
+xavier paul	3773
+ang lee	3774
+eugene	3775
+37.3630741666667,-70.7655520833333	3776
+worcester state college	3777
+claflin university	3778
+san antonio spur	3779
+abidjan	3780
+comodoro rivadavia	3781
+diamondback	3782
+sinorice moss	3783
+34.9751400000000,-81.1414600000000	3784
+42.3601000000000,10.9203200000000	3785
+gator	3786
+kevin cash	3787
+university of iowa	3788
+adobe acrobat	3789
+marshawn lynch	3790
+morgan ensberg	3791
+eastern washington university	3792
+johan santana	3793
+city center	3794
+25.5996838461538,46.9434976923077	3795
+etihad	3796
+green bay	3797
+25.8858815384615,42.4923243589744	3798
+ricky stone	3799
+29.5974216666667,-81.8347005555555	3800
+craig counsell	3801
+kenyon martin	3802
+prince fielder	3803
+maryland terrapin	3804
+mogadishu	3805
+37.9287200000000,-78.2044450000000	3806
+xavier nady	3807
+34.0887800000000,-117.5010100000000	3808
+binghamton university	3809
+escondido	3810
+university of chicago	3811
+bruce chen	3812
+depaul	3813
+chris jackson	3814
+jaisalmer	3815
+josh hamilton	3816
+deron william	3817
+england	3818
+nicholls state colonel	3819
+education	3820
+bank	3821
+people republic	3822
+new mexico state university	3823
+34.0127900000000,-118.2848000000000	3824
+kuala lumpur	3825
+mango	3826
+red river	3827
+41.8511100000000,20.1469400000000	3828
+mike pelfrey	3829
+sudbury	3830
+xcel	3831
+se asia	3832
+brnik	3833
+32.7169700000000,-117.2510900000000	3834
+thiruvananthapuram	3835
+fowl	3836
+nizhni novgorod	3837
+so taguchi	3838
+40.4459345454546,-79.9421227272727	3839
+atlantic cape community college	3840
+beograd	3841
+psinet stadium	3842
+nfl	3843
+george town	3844
+35.7184900000000,-78.6813900000000	3845
+ebbet field	3846
+jerry rice	3847
+15.9664266666667,50.7594533333333	3848
+18.6492420000000,67.1787580000000	3849
+whitstable	3850
+buffalo sabre	3851
+software engineering	3852
+nelson figueroa	3853
+heraklion	3854
+kmyq tv	3855
+dinar	3856
+46.4118300000000,-117.0243200000000	3857
+29.9345100000000,-90.1028550000000	3858
+juan pierre	3859
+atlanta thrasher	3860
+vallauris	3861
+spinal tap	3862
+36.3467850000000,-20.6883825000000	3863
+41.3803266666667,2.1236100000000	3864
+41.2133500000000,-98.6228500000000	3865
+peter mokaba stadium	3866
+33.8818800000000,-117.8856300000000	3867
+breslin student event center	3868
+husker	3869
+osnabrueck	3870
+uae	3871
+hideki okajima	3872
+maastricht	3873
+43.3548000000000,-71.4592400000000	3874
+andrew brackman	3875
+socialist republic of vietnam	3876
+jason perry	3877
+cole hamel	3878
+flame	3879
+29.0077333333333,-82.3564066666666	3880
+robinson cano	3881
+starwood amphitheatre	3882
+jubail	3883
+54.4348600000000,40.1200000000000	3884
+dalla	3885
+25.9829214285714,-80.1412285714286	3886
+dumaguete city	3887
+53.9666700000000,14.1666700000000	3888
+delaware	3889
+university of phoenix stadium	3890
+new jersey city university	3891
+takoradi	3892
+matt holliday	3893
+alonissos	3894
+chris ray	3895
+11.7750000000000,70.6416650000000	3896
+26.1428318181818,120.3207399999999	3897
+review	3898
+oakland raider	3899
+montreal alouette	3900
+sidney crosby	3901
+kitakyushu	3902
+transavia	3903
+paramount theatre washington	3904
+camp smith	3905
+team	3906
+31.0577514285714,-97.2340723809524	3907
+qinghuangdao	3908
+43.5045605555556,-31.0050100000000	3909
+breslin center	3910
+taegu	3911
+36.7360133333333,23.8447600000000	3912
+new jersey devil	3913
+kozhikode	3914
+age	3915
+portland state university	3916
+42.6546050000000,27.7214600000000	3917
+question	3918
+montgomery	3919
+bilbao	3920
+seattle	3921
+35.0984200000000,-89.8570300000000	3922
+kenmore air	3923
+kiko calero	3924
+vang vieng	3925
+lisboa	3926
+ronnie lott	3927
+eddie jon	3928
+harper	3929
+spherion	3930
+barcelo	3931
+hoedspruit	3932
+naple	3933
+king fm	3934
+light	3935
+nis	3936
+62.0000000000000,-7.0000000000000	3937
+marshall university	3938
+broncos	3939
+44.0880400000000,-103.2254600000000	3940
+37.4107296581197,37.2819155555556	3941
+ramon ramirez	3942
+greer stadium	3943
+epernay	3944
+julius jone	3945
+kevin martin	3946
+congo	3947
+iraq	3948
+39.9966000000000,-81.7372100000000	3949
+jag	3950
+peru	3951
+university of tulsa	3952
+44.8833300000000,-0.1500000000000	3953
+balkan	3954
+portland trail blazer	3955
+toro	3956
+east	3957
+alabama a m university	3958
+doug mirabelli	3959
+n1999 world series	3960
+network associate stadium	3961
+greg jon	3962
+falluja	3963
+chad quall	3964
+ute	3965
+southwest state university	3966
+valkenburg	3967
+super bowl xxxvii	3968
+dacca	3969
+30.6822550000000,62.0551983333333	3970
+mong kok	3971
+41.0945660000000,-88.8470780000000	3972
+devil ray	3973
+danny granger	3974
+38.0008325000000,70.2498625000000	3975
+vlad guerrero	3976
+louisiana tech	3977
+mcafee coliseum	3978
+40.6798300000000,-74.2297150000000	3979
+mike zimmer	3980
+cincinnati	3981
+blackberry	3982
+caltech	3983
+mail	3984
+estonia	3985
+44.4264150000000,-81.7791850000000	3986
+36.7068775000000,-99.5988800000000	3987
+wilshire theatre	3988
+peoria	3989
+ahwaz	3990
+united kingdom	3991
+havre	3992
+durban	3993
+edward jone	3994
+36.4833300000000,23.1500000000000	3995
+cliff floyd	3996
+j p howell	3997
+43.7590200000000,-71.6889800000000	3998
+evergreen state college	3999
+lou merloni	4000
+white sox	4001
+mytilene	4002
+von braun center	4003
+nancy	4004
+dnepropetrovsk	4005
+rick nash	4006
+46.8569300000000,-98.7924000000000	4007
+biarritz	4008
+26.0429585714286,-80.6842257142857	4009
+37.8982550000000,-92.3880750000000	4010
+footage	4011
+daily news	4012
+bobby dodd	4013
+oakland coliseum	4014
+david lipscomb college	4015
+matt morris	4016
+munich	4017
+showbox sodo	4018
+lefkosia	4019
+gabe gross	4020
+42.2750900000000,-71.8078500000000	4021
+vancouver airport	4022
+40.4914200000000,-88.9906300000000	4023
+39.9868600000000,-82.9996766666667	4024
+gary sheffield	4025
+15.5000000000000,-90.2500000000000	4026
+case western reserve university	4027
+johnny depp	4028
+ethiopia	4029
+51.5343900000000,-2.3032220000000	4030
+south africa	4031
+48.0000000000000,68.0000000000000	4032
+royal air maroc	4033
+39.2698550000000,24.1682300000000	4034
+angel berroa	4035
+33.3280550000000,43.7913900000000	4036
+nafplio	4037
+tarbe	4038
+north little rock	4039
+avery johnson	4040
+21.4633300000000,-158.0652800000000	4041
+bobby valentine	4042
+pepperdine	4043
+duke university	4044
+brandon stokley	4045
+brahui	4046
+32.4254600000000,-81.7834500000000	4047
+baylor	4048
+bald eagle	4049
+raider	4050
+colorado avalanche	4051
+7.8752455963303,-73.4909311009175	4052
+blue devil	4053
+mohegan sun	4054
+vanderbilt university	4055
+central california	4056
+jeff keppinger	4057
+melvin mora	4058
+wachovia spectrum	4059
+kandahar	4060
+jeremy shockey	4061
+american league	4062
+kumasi	4063
+sport illustrate	4064
+bobby orr	4065
+31.9778160000000,-81.1803675000000	4066
+bubba smith	4067
+justin upton	4068
+psychology	4069
+sainte	4070
+russe	4071
+boblingen	4072
+victoria	4073
+gale sayer	4074
+constant convocation center	4075
+jeff nelson	4076
+moment	4077
+jose tabata	4078
+philip	4079
+bluffton college	4080
+ekaterinburg	4081
+39.7070900000000,-75.1207200000000	4082
+22.9570170588235,-3.9655839215686	4083
+26.1709777777778,67.3754977777778	4084
+billy wagner	4085
+roy campanella	4086
+david ros	4087
+season	4088
+luis maza	4089
+carolina hurricane	4090
+chad tracy	4091
+leach	4092
+scotiabank place	4093
+martin brodeur	4094
+dhaka	4095
+dwayne wade	4096
+new york state theater	4097
+joe paterno	4098
+chris henry	4099
+magic	4100
+tradition field	4101
+40.2964500000000,-83.0671300000000	4102
+robert trent jon	4103
+chicago white stocking	4104
+33.2094250000000,-97.1540400000000	4105
+clyde	4106
+dixie state college	4107
+alesund	4108
+ohio	4109
+ceske budejovice	4110
+31.0000000000000,64.0000000000000	4111
+39.9042800000000,-75.1710100000000	4112
+12.2666700000000,109.2000000000000	4113
+schiphol	4114
+hermanus	4115
+mark loretta	4116
+43.8033000000000,-91.2443000000000	4117
+jason richardson	4118
+technology	4119
+33.4973636363636,-80.8505795454545	4120
+bioengineering	4121
+-9.8423317142857,110.9676074285714	4122
+limburg	4123
+ouagadougou	4124
+ostrava	4125
+mon state	4126
+farm animal	4127
+rich rodriguez	4128
+lenny dykstra	4129
+neil simon theater	4130
+rio de janeiro	4131
+the roundhouse	4132
+burma	4133
+air southwest	4134
+laredo entertainment center	4135
+bobo dioulasso	4136
+dan fout	4137
+2.7112200000000,-0.1523414285714	4138
+university of minnesota	4139
+boksburg	4140
+port elizabeth	4141
+jakarta	4142
+thousand dollar	4143
+40.6886100000000,-73.9222200000000	4144
+toulon	4145
+mark dantonio	4146
+kaohsiung	4147
+mike mussina	4148
+53.4621900000000,-2.2498300000000	4149
+alaska air	4150
+whittemore center	4151
+marsh harbour	4152
+30.0971200000000,54.9665270000000	4153
+idaho state university	4154
+bayelsa	4155
+39.4805900000000,-88.1756000000000	4156
+38.6464400000000,-90.4623400000000	4157
+university of denver	4158
+leed	4159
+roy william	4160
+new york	4161
+gruden	4162
+vivian stringer	4163
+potato	4164
+27.1064391071429,-78.5633464285714	4165
+fort valley state university	4166
+gm place	4167
+robert fick	4168
+garrett olson	4169
+30.1955650000000,18.5800671428571	4170
+ryan dempster	4171
+43.5913866666667,-91.2248750000000	4172
+cska moscow	4173
+jerry hairston jr	4174
+jeff suppan	4175
+bosaso	4176
+von braun civic center	4177
+rashe wallace	4178
+ricky romero	4179
+36.0740148765432,-87.1463073662551	4180
+raheem morris	4181
+andre ethier	4182
+38.4072100000000,-108.8128800000000	4183
+jonny gome	4184
+yovani gallardo	4185
+luis scola	4186
+25.5508350000000,56.2894450000000	4187
+antioch	4188
+berlin	4189
+swiss	4190
+soccer	4191
+greece	4192
+tennessee titan	4193
+alkmaar	4194
+lyon	4195
+20	4196
+togoland	4197
+stephen f austin state university	4198
+15.7177260869565,-25.6030813043478	4199
+high point college	4200
+46.4918800000000,9.8254750000000	4201
+ubaldo jimenez	4202
+university of massachusetts amherst	4203
+19.4211330000000,47.7601282500000	4204
+todd walker	4205
+chennai	4206
+40.8162100000000,-73.9352750000000	4207
+kuta	4208
+the united state	4209
+maestricht	4210
+poultry	4211
+saban	4212
+hallandale beach	4213
+north carolina state university	4214
+belmont university	4215
+todd boeckman	4216
+east lans	4217
+cesar izturi	4218
+fresno state	4219
+adrian beltre	4220
+inca empire	4221
+adrian college	4222
+hp pavilion	4223
+air china	4224
+goodman theater	4225
+search	4226
+cote d ivoire	4227
+boe	4228
+bury st edmund	4229
+rocco baldelli	4230
+-18.0000000000000,178.0000000000000	4231
+germanwing	4232
+45.6632600000000,-111.0507800000000	4233
+ibis	4234
+greensboro coliseum	4235
+n1986 world series game 6	4236
+28.2815350000000,-82.2127250000000	4237
+37.2197700000000,-93.2843500000000	4238
+sonderborg	4239
+buc	4240
+nicaragua	4241
+costarica	4242
+vilna	4243
+carlo lee	4244
+raleigh	4245
+meaux	4246
+kingdom	4247
+enrique cruz	4248
+seebad ahlbeck	4249
+-37.8333300000000,140.7666700000000	4250
+harrogate	4251
+tianjin	4252
+nicosia	4253
+36.3034400000000,-82.3690300000000	4254
+rider university	4255
+mitch talbot	4256
+asia pacific region	4257
+lithuania	4258
+cagliari	4259
+charlie manuel	4260
+hunter college	4261
+american league pennant	4262
+jacoby ellsbury	4263
+cheliabinsk	4264
+tallinn	4265
+kingfisher airline	4266
+celtic	4267
+minneapolis	4268
+world arena	4269
+key arena	4270
+25.9836108000000,-80.1424396000000	4271
+disneyland	4272
+carl crawford	4273
+marrakech	4274
+aaron fultz	4275
+l a dodger	4276
+youngstown state university	4277
+cubana	4278
+hertfordshire	4279
+rumania	4280
+aston	4281
+35.0669138461538,-92.2331600000000	4282
+tony gwynn	4283
+sidney ponson	4284
+40.9019033333333,-83.9049366666667	4285
+doc river	4286
+garmisch partenkirchen	4287
+carl yastrzemski	4288
+green wave	4289
+43.5842739130435,-102.5044852173914	4290
+gaylord entertainment center	4291
+matt bonner	4292
+manny delcarman	4293
+craig morton	4294
+43.0000860000000,-64.7286520000000	4295
+mountain boarding	4296
+steve mcnair	4297
+joe louis arena	4298
+detroit	4299
+banos	4300
+lora college	4301
+concord pavilion	4302
+danny green	4303
+shea stadium	4304
+39.2680949350649,-86.3783164935065	4305
+39.2774017241379,-0.8734775862069	4306
+-14.1185986033519,-30.7817120111731	4307
+td banknorth garden	4308
+reim	4309
+52.0766700000000,4.2986100000000	4310
+43.4011085714286,33.5178928571429	4311
+seattle washington	4312
+39.5055522222222,47.2333333333333	4313
+pete maravich assembly center	4314
+currency	4315
+33.8266170967742,-78.9597758064516	4316
+mike smith	4317
+victor diaz	4318
+plateau	4319
+boston university terrier	4320
+dean junior college	4321
+kansas city royal	4322
+frank solich	4323
+ryota igarashi	4324
+43.2527622222222,22.8415433333333	4325
+craig kimbrel	4326
+canterbury	4327
+adobe	4328
+cordoba	4329
+rexall place	4330
+ambassador theatre	4331
+pace university	4332
+illinois university	4333
+62.6861116666667,26.7453705555556	4334
+humahuaca	4335
+12.6000000000000,-83.6500000000000	4336
+21.0179890909091,2.4478654545455	4337
+malasia	4338
+cub	4339
+big east tournament	4340
+daytona beach	4341
+nelson cruz	4342
+chicago fire	4343
+36.5650525925926,-0.5197274074074	4344
+jose valentin	4345
+36.1175000000000,-115.1723000000000	4346
+file	4347
+san jose shark	4348
+cu	4349
+45.8254500000000,-36.6102700000000	4350
+calgary flame	4351
+jamie langenbrunner	4352
+bee	4353
+po	4354
+josh johnson	4355
+illinois state university	4356
+trail blazer	4357
+shawn marion	4358
+ameriquest field	4359
+matt macri	4360
+university of the pacific	4361
+virgina	4362
+dalla clark	4363
+corey dillon	4364
+zoo basel	4365
+up	4366
+44.8414600000000,-67.9700100000000	4367
+weekend	4368
+frostburg state university	4369
+53.9333300000000,14.2000000000000	4370
+tarheel	4371
+nauplia	4372
+cleveland state	4373
+43.3523700000000,-74.8934525000000	4374
+kerkrade	4375
+45.7876266666667,-108.5521700000000	4376
+jason hart	4377
+phone	4378
+33.3379981176471,36.9764708235294	4379
+34.8762829629630,-92.6899551851852	4380
+kissimmee	4381
+atlantic coast conference	4382
+37.3638933333333,13.5591733333333	4383
+dodgeball	4384
+niner	4385
+roger dean stadium	4386
+rocket	4387
+fedex forum	4388
+nmsu	4389
+awareness	4390
+jim caldwell	4391
+nova scotia	4392
+estadio azteca	4393
+hersonissos	4394
+dan marino	4395
+rob bowen	4396
+livan hernandez	4397
+40.7434650000000,-77.7885625000000	4398
+hal mumme	4399
+popular	4400
+fiat	4401
+vic theatre	4402
+eva air	4403
+geno auriemma	4404
+turin	4405
+monarch airline	4406
+edwin encarnacion	4407
+larry bird	4408
+sophie newcomb college	4409
+arnhem	4410
+angier	4411
+m t bank stadium	4412
+dublin	4413
+ball state	4414
+northwest airline	4415
+klm	4416
+youngstown state penguin	4417
+iran	4418
+andre miller	4419
+variety	4420
+mike tomlin	4421
+civil engineering	4422
+south carolina	4423
+aeronautical engineering	4424
+capital centre	4425
+todd mclellan	4426
+iberia	4427
+university of memphis	4428
+phil simms	4429
+scott brosius	4430
+toronto argonaut	4431
+carmelo anthony	4432
+37.8022600000000,-122.1878000000000	4433
+11.7942240000000,-3.1970600000000	4434
+riverfront stadium	4435
+northeastern husky	4436
+loyola university chicago	4437
+central high school	4438
+member state	4439
+8.5547780000000,-90.6755540000000	4440
+titan	4441
+manhattan	4442
+fernando gonzalez	4443
+don mattingly	4444
+chronicle	4445
+pau	4446
+alaska pacific university	4447
+early	4448
+technical university	4449
+eduardo perez	4450
+besancon	4451
+asmara	4452
+east pakistan	4453
+-67.0000000000000,121.0000000000000	4454
+29.3090236206896,-61.8960456896552	4455
+washington mutual	4456
+26.1359824444444,-80.1740928888889	4457
+daytona beach community college	4458
+bell centre	4459
+36.3696000000000,-59.8365500000000	4460
+athletic	4461
+39.8379025000000,-75.4553850000000	4462
+tim wakefield	4463
+canada	4464
+arrowhead pond	4465
+appalachian state	4466
+marsala	4467
+don haskin	4468
+denny neagle	4469
+argentina	4470
+paul brown stadium	4471
+nile	4472
+37.9134022222222,40.3336855555556	4473
+adam dunn	4474
+david robinson	4475
+rakhine	4476
+swede	4477
+49.7924920000000,60.3927160000000	4478
+european cup winner cup	4479
+seth smith	4480
+46.1610000000000,13.0127866666667	4481
+indiana wesleyan university	4482
+ashgabad	4483
+chicago theater	4484
+waterloo station	4485
+kiro	4486
+bucky dent	4487
+quebec city	4488
+post	4489
+ho chi minh city	4490
+brandon duckworth	4491
+nickla lidstrom	4492
+western pennsylvania	4493
+belarus	4494
+philadelphia 76er	4495
+arizona diamondback	4496
+heinz field	4497
+soldier field ii	4498
+st louis post dispatch	4499
+terminix	4500
+joe theismann	4501
+epinal	4502
+oakland a s	4503
+political science	4504
+mainland china	4505
+daniel cabrera	4506
+eilat	4507
+40.1816650000000,44.5102075000000	4508
+6.2830287500000,103.4346062500000	4509
+merca	4510
+annecy	4511
+hubie brown	4512
+40.7592600000000,-73.9892000000000	4513
+don larsen	4514
+nashville predator	4515
+white river amphitheatre	4516
+davis romero	4517
+christopher newport university	4518
+corvallis	4519
+jack del rio	4520
+rabat	4521
+bakersfield	4522
+versaille	4523
+34.7224828571429,10.5612835714286	4524
+steve spurrier	4525
+first nfl	4526
+12.3829300000000,103.0078100000000	4527
+34.9870200000000,34.0040640000000	4528
+37.9388450000000,-79.3264816666667	4529
+baylor university	4530
+ronny paulino	4531
+nick saban	4532
+chiangmai	4533
+cornell	4534
+china southern	4535
+jason schmidt	4536
+basketball	4537
+georgetown university	4538
+omaha	4539
+25.7808300000000,-80.1872200000000	4540
+39.5870235714286,-0.3535096428571	4541
+sky europe	4542
+garrett jon	4543
+georgia southern	4544
+newcastle	4545
+direction	4546
+soviet union	4547
+autzen	4548
+37.8430906521739,-77.9397936956521	4549
+nick green	4550
+coppin state college	4551
+tahiti	4552
+42.0596545454545,-84.2240754545455	4553
+52.2491550000000,0.7155466666667	4554
+zurich	4555
+juan gonzalez	4556
+san francisco warrior	4557
+tampa bay buccaneer	4558
+river p	4559
+colorado spring	4560
+gil mcdougald	4561
+41.8973850000000,-84.0599700000000	4562
+derek lowe	4563
+shawn est	4564
+interamerican university	4565
+bronco mendenhall	4566
+louisiana tech university	4567
+43.3701566666667,-1.8032933333333	4568
+tulear	4569
+jrr tolkien	4570
+33.6791881818182,-62.1136254545454	4571
+26.1553781052632,-80.1822510526316	4572
+-24.3706033333333,11.2784444444444	4573
+armenia	4574
+brian anderson	4575
+northwestern university	4576
+astraeus	4577
+auvergne	4578
+tshwane	4579
+mar del plata	4580
+puerto plata	4581
+20.9552800000000,-19.1873533333333	4582
+jeff jagodzinski	4583
+42.0939000000000,-75.9524000000000	4584
+62.6666666666667,-8.0000000000000	4585
+32.7481000000000,-97.0970000000000	4586
+orlando hernandez	4587
+david price	4588
+shymkent	4589
+north dakota state university	4590
+ellis park	4591
+hartford civic center	4592
+cybercoder	4593
+41.0000000000000,75.0000000000000	4594
+united center	4595
+rhodesia	4596
+grouse	4597
+rowan university	4598
+baltic	4599
+38.6414400000000,-90.3159500000000	4600
+duck	4601
+brad lincoln	4602
+jason spezza	4603
+36.7586100000000,66.8961100000000	4604
+albert pujol	4605
+mike rabelo	4606
+justin morneau	4607
+genf	4608
+alabama state university	4609
+kinesiology	4610
+ushuaia	4611
+florida state university	4612
+youkilis	4613
+ralph macchio	4614
+taiyuan	4615
+rise bowl stadium	4616
+tennis	4617
+n1962 world series	4618
+lockheed martin	4619
+coolum beach	4620
+washington d c	4621
+easy jet	4622
+liberty bowl memorial stadium	4623
+record	4624
+alex fernandez	4625
+george mason university	4626
+chania	4627
+mount union college	4628
+37.3453675000000,-91.1096100000000	4629
+matt forte	4630
+illinois wesleyan	4631
+37.4624655555556,126.5227544444444	4632
+bobby cremin	4633
+sosa	4634
+bactra	4635
+joe kennedy	4636
+japan airline	4637
+45.7278950000000,-51.1978200000000	4638
+travis blackley	4639
+middle tennessee state university	4640
+the arena	4641
+brandon phillip	4642
+wellington	4643
+al kaline	4644
+tim lincecum	4645
+nick swisher	4646
+saigon	4647
+cowher	4648
+alamo dome	4649
+barcelona	4650
+south korea	4651
+ralph wilson stadium	4652
+34.4142300000000,-84.1076950000000	4653
+shane spencer	4654
+st cloud state university	4655
+east bengal	4656
+willie eyre	4657
+middle tennessee state	4658
+graphic design	4659
+todd hollandsworth	4660
+belize	4661
+38.9342400000000,-80.8348300000000	4662
+14.7274520000000,-7.0032946666667	4663
+darnell mcdonald	4664
+history	4665
+bishkek	4666
+ede	4667
+alan trammell	4668
+autzen stadium	4669
+cha be	4670
+mike hart	4671
+1.7833350000000,85.3583350000000	4672
+ben francisco	4673
+greg miller	4674
+north carolina state wolfpack	4675
+tejada	4676
+franschoek	4677
+nadi	4678
+sal maglie	4679
+jeff marquez	4680
+mazar i sharif	4681
+delta	4682
+brandon jacob	4683
+34.4794000000000,-86.2460833333333	4684
+patrick ew	4685
+bill parcell	4686
+southern india	4687
+michael bourn	4688
+baron davis	4689
+saint bonaventure university	4690
+willie mccovey	4691
+los angeles king	4692
+water bird	4693
+collin balester	4694
+football	4695
+ford field	4696
+boston	4697
+pontiac silverdome	4698
+english	4699
+madison square garden	4700
+n1961 world series	4701
+39.4710250000000,-110.3058083333333	4702
+darren sprol	4703
+roy thomson hall	4704
+people s republic	4705
+bjj	4706
+minnesota state fair	4707
+bard college	4708
+gange	4709
+joel zumaya	4710
+33.0000000000000,65.0000000000000	4711
+44.6681100000000,-74.9802000000000	4712
+pahang	4713
+kharkiv	4714
+chemnitz	4715
+st louis park	4716
+n2002 stanley cup	4717
+jack cust	4718
+34.0382300000000,-84.5840800000000	4719
+turner field	4720
+lucas oil stadium	4721
+western michigan university	4722
+jim haslett	4723
+tuesday night	4724
+roger clemen	4725
+john chavis	4726
+hofstra university	4727
+boston university	4728
+sittard	4729
+bhaktapur	4730
+roger hornsby	4731
+jay bruce	4732
+5.0052800000000,43.3856950000000	4733
+40.8495510000000,-92.6663520000000	4734
+iowa city	4735
+charleston	4736
+aix la chapelle	4737
+lavell edward	4738
+eddie mathews	4739
+tomato	4740
+kevin hart	4741
+45.5527400000000,-94.1519300000000	4742
+36.8087700000000,-119.7396100000000	4743
+johor bahru	4744
+new york ranger	4745
+51.5001666666667,-0.1147366666667	4746
+petco park	4747
+ohio wesleyan	4748
+aalesund	4749
+portland	4750
+foro sol	4751
+the us	4752
+milwaukee brave	4753
+southern polytechnic state university	4754
+andalsne	4755
+roger maris	4756
+david dellucci	4757
+brandon lyon	4758
+46.7728366666667,23.6287233333333	4759
+wallingford	4760
+buckeye	4761
+40.6918025000000,-76.2070250000000	4762
+toamasina	4763
+acqui	4764
+35.6318000000000,-114.8877000000000	4765
+kinnick	4766
+kuow	4767
+jeremy accardo	4768
+36.1483350000000,44.0014816666667	4769
+amsterdam schiphol airport	4770
+40.0384100000000,-75.1542850000000	4771
+business administration	4772
+54.9470850000000,9.7988750000000	4773
+cleveland indian	4774
+33.9402150000000,-113.0769700000000	4775
+47.9205400000000,-97.0703600000000	4776
+33.6238548000000,-111.4800792000000	4777
+american airline	4778
+36.0527800000000,-111.6861100000000	4779
+art management	4780
+potawatomi bingo casino	4781
+bonifacio	4782
+advisor	4783
+virginia	4784
+42.6456000000000,-83.2546000000000	4785
+notre dame stadium	4786
+kempo	4787
+46.2294933333333,6.0650033333333	4788
+chicago cub	4789
+bruneck	4790
+39.6165463157895,-15.3947971052632	4791
+david boston	4792
+tv	4793
+boston college	4794
+bangladesh	4795
+burton on trent	4796
+joey gathright	4797
+louisville	4798
+oslo spektrum	4799
+maddux	4800
+19.4204055555555,-99.1442938888889	4801
+42.7126883333333,-4.7814966666667	4802
+six billion dollar	4803
+san diego padre	4804
+alcorn state	4805
+november 2005	4806
+49.2339266666667,6.9953558333333	4807
+russia	4808
+san jos	4809
+tadjikistan	4810
+representative	4811
+brown	4812
+thai airway	4813
+42.3771700000000,-71.0908400000000	4814
+stephon marbury	4815
+jayson werth	4816
+business	4817
+jim tracy	4818
+air mandalay	4819
+cleveland	4820
+jason blake	4821
+aktau	4822
+st david	4823
+sacred heart university	4824
+29.3520514705882,105.6217644117647	4825
+air koryo	4826
+st paul pioneer press	4827
+united state coast guard academy	4828
+bryan lahair	4829
+bacau	4830
+chisinau	4831
+david garrard	4832
+46.7958300000000,11.9363800000000	4833
+gabon	4834
+24.3275750000000,54.3366150000000	4835
+viking	4836
+gulf air	4837
+mariano rivera	4838
+44.0467650000000,-91.6427900000000	4839
+pitt stadium	4840
+libreville	4841
+mark teixeira	4842
+nasiriyah	4843
+fayetteville	4844
+38.8211520652174,-96.2171909782609	4845
+49.4371191666667,-26.7328383333333	4846
+octavio dotel	4847
+baltic state	4848
+busch	4849
+san siro	4850
+david ortiz	4851
+koyie hill	4852
+33.3954514285714,5.0018671428571	4853
+slovenia	4854
+marcus allen	4855
+weymouth	4856
+winthrop university	4857
+mulhouse	4858
+mark sanchez	4859
+bridgestone arena	4860
+london waterloo	4861
+mike stanton	4862
+mililani town	4863
+poblanos	4864
+matt white	4865
+syracuse university	4866
+n1957 mlb all star game	4867
+life chiropractic college	4868
+abeokuta	4869
+fort lauderdale stadium	4870
+eric karro	4871
+drake university	4872
+houston astrodome	4873
+setubal	4874
+biology	4875
+53.8461288888889,14.1980444444444	4876
+unfortunate event	4877
+san luis	4878
+twin	4879
+nice	4880
+brian falkenborg	4881
+game fish	4882
+kishinev	4883
+franklin pierce university	4884
+areopoli	4885
+jon huber	4886
+red raider	4887
+incredible hulk	4888
+texas southern university	4889
+aix	4890
+old globe theater	4891
+whistler	4892
+chris snyder	4893
+matthews arena	4894
+46.7037166666667,-66.6413716666667	4895
+chris bosh	4896
+solomon island	4897
+gerald ford stadium	4898
+houston nutt	4899
+sintra	4900
+51.0333300000000,4.4666700000000	4901
+32.1493574074074,-10.2515133333333	4902
+unt	4903
+columbus blue jacket	4904
+ian kennedy	4905
+40.0772900000000,-82.8896200000000	4906
+verizon center dc	4907
+juan sala	4908
+john lannan	4909
+ohio valley university	4910
+sarah lawrence college	4911
+ramirez	4912
+joe dillon	4913
+draw willy	4914
+langebaan	4915
+fed ex field	4916
+42.2000000000000,24.3333300000000	4917
+toronto maple leaf	4918
+joba chamberlain	4919
+orlando cabrera	4920
+curtis granderson	4921
+san jose	4922
+matt treanor	4923
+well fargo arena	4924
+time	4925
+tom seaver	4926
+ottawa	4927
+south vietnam	4928
+27.9988271428571,34.5230260439560	4929
+phoenix sun	4930
+accra	4931
+38.9181333088235,-95.3558587500000	4932
+johnny damon	4933
+alexander ovechkin	4934
+bob lanier	4935
+belgium	4936
+valencienne	4937
+skating	4938
+usc trojan	4939
+red	4940
+tom coughlin	4941
+spinach	4942
+texas state university san marcos	4943
+nasiriya	4944
+citizen bank park	4945
+denard span	4946
+bhubaneswar	4947
+arkansas state	4948
+damon stoudamire	4949
+clipper	4950
+sbc park	4951
+tournament	4952
+38.7972913333333,-92.2843246666667	4953
+15.9566600000000,107.3032020000000	4954
+mgm grand garden arena	4955
+calgary	4956
+mike bibby	4957
+gaylord perry	4958
+wcco	4959
+hai phong	4960
+46.6533595454546,-74.6242688636364	4961
+suva	4962
+59.9402700000000,30.2989600000000	4963
+tromso	4964
+24.4796825000000,121.2598775000000	4965
+64.9646630000000,10.6255810000000	4966
+little league team	4967
+seton hill college	4968
+47.4816200000000,-94.8744400000000	4969
+al davis	4970
+55.7659200000000,37.6850800000000	4971
+bill mazeroski	4972
+almere	4973
+university of idaho	4974
+purchase college	4975
+dollar	4976
+madurai	4977
+18.3087054545455,99.0996127272727	4978
+fiji island	4979
+bobby crosby	4980
+coach tom renney	4981
+fran tarkenton	4982
+showbox theater	4983
+riazor	4984
+adrian gonzalez	4985
+auto club speedway	4986
+criminology	4987
+avallon	4988
+associated press	4989
+chicago tribune	4990
+florida state	4991
+53.8981975000000,10.7375925000000	4992
+37.2231000000000,-93.2596300000000	4993
+kroq	4994
+tashkent	4995
+tom izzo	4996
+44.7163900000000,37.7949066666667	4997
+41.6066166666667,11.3709900000000	4998
+jam madison university	4999
+reggie ball	5000
+grosse isle	5001
+sky dome	5002
+longwood university	5003
+xavi university	5004
+seven samurai	5005
+oc register	5006
+california state university long beach	5007
+dahntay jone	5008
+kelly stinnett	5009
+pragati maidan	5010
+wade phillip	5011
+44.3195100000000,-99.8299366666666	5012
+48.0000000000000,66.0000000000000	5013
+notre dame fight irish	5014
+bayeux	5015
+the hulk	5016
+nassau	5017
+peter jackson	5018
+vinnie chulk	5019
+buffalo state	5020
+northwest	5021
+hurricane	5022
+afganistan	5023
+41.8806000000000,-87.6284000000000	5024
+first american music center	5025
+otto graham	5026
+north florida	5027
+43.1667060000000,131.9313480000000	5028
+seatac airport	5029
+mastercard	5030
+mawlamyine	5031
+mallorca	5032
+50.8331466666667,-95.2185466666667	5033
+33.4251157142857,-111.9454671428572	5034
+blue coat	5035
+utrecht	5036
+desert sky pavilion	5037
+saint leo college	5038
+skadar	5039
+philosophy	5040
+nauplion	5041
+jason terry	5042
+port hedland	5043
+carlisle	5044
+31.3465900000000,34.2979300000000	5045
+an nasiriyah	5046
+macon	5047
+jack murphy stadium	5048
+karate kid	5049
+lane kiffin	5050
+image	5051
+44.3200834966594,17.9664816703786	5052
+34.4126000000000,-119.8482200000000	5053
+the seattle time	5054
+john l smith	5055
+general motor place	5056
+brendan harri	5057
+indochina	5058
+uw river fall	5059
+jon rauch	5060
+37.0821827272727,-73.2022327272727	5061
+mombasa	5062
+26.1430200000000,-80.2455900000000	5063
+michigan technological university	5064
+pablo ozuna	5065
+55.3462881818182,61.2594190909091	5066
+university of nebraska lincoln	5067
+southern california college	5068
+casey blake	5069
+andy pettite	5070
+tater	5071
+the amityville horror	5072
+copenhagen	5073
+jeff fiorentino	5074
+persian gulf	5075
+joe morgan	5076
+13.6801869230769,-32.7480450000000	5077
+san diego charger	5078
+esteban yan	5079
+12.7679645809081,-73.5655810884749	5080
+62.2075000000000,-133.3758300000000	5081
+aaron raker	5082
+carlo pena	5083
+haiphong	5084
+robinzon diaz	5085
+38.4139000000000,-96.1797200000000	5086
+byelorussia	5087
+antibe	5088
+airway	5089
+wipro	5090
+aarhus	5091
+ranger	5092
+33.7723300000000,-84.3929800000000	5093
+46.8223975000000,56.2129175000000	5094
+hennepin	5095
+douz	5096
+golden state	5097
+37.4500000000000,25.3833300000000	5098
+21.3264308510638,-156.3546187234042	5099
+regard	5100
+jon garland	5101
+estoril	5102
+30.8502000000000,-83.2901500000000	5103
+rhode island	5104
+ryan klesko	5105
+chittagong	5106
+lawrence university	5107
+costa rica	5108
+university of delaware	5109
+texas ranger	5110
+5.9357266666667,111.9490766666667	5111
+alex rodriguez	5112
+cheshire	5113
+n2004 world series	5114
+georgia tech yellowjacket	5115
+mecca	5116
+tanger	5117
+inglewood	5118
+38.4471000000000,-121.8549000000000	5119
+garrett anderson	5120
+juan cruz	5121
+palace	5122
+48.4500000000000,34.9833300000000	5123
+mlb	5124
+47.9815200000000,-21.8520300000000	5125
+verizon center	5126
+los angeles ram	5127
+volvo	5128
+fukuoka	5129
+vince vaughn	5130
+aleppo	5131
+40.4497425000000,-74.4698750000000	5132
+airasia	5133
+geovany soto	5134
+anaheim	5135
+almaty	5136
+fulton county stadium	5137
+california golden bear	5138
+edison international field	5139
+isu	5140
+david wright	5141
+31.8729350000000,-91.1380250000000	5142
+edgar gonzalez	5143
+quarteira	5144
+matt painter	5145
+43.4016850000000,-9.0681750000000	5146
+urubamba	5147
+39.1664671428571,127.6651592857143	5148
+steve trachsel	5149
+44.8147600000000,9.9795800000000	5150
+40.7294950000000,-73.9909000000000	5151
+esteban german	5152
+punjab	5153
+centennial hall	5154
+33.6477408823529,53.3717673529412	5155
+mina gerai	5156
+t mobile	5157
+brigham young university	5158
+consol energy center	5159
+penn state university	5160
+charlottetown	5161
+courbevoie	5162
+yankee stadium	5163
+waimea	5164
+shane victorino	5165
+iu	5166
+gateway arch	5167
+kulyab	5168
+american	5169
+san sebastian	5170
+arle	5171
+martial art	5172
+yaounde	5173
+osu	5174
+northwest airlink	5175
+dikembe mutombo	5176
+wisconsin	5177
+mighty duck of anaheim	5178
+ibrox stadium	5179
+regensburg	5180
+ball park	5181
+edison college	5182
+david dejesu	5183
+sommet center	5184
+32.7995000000000,-116.9055800000000	5185
+three river stadium	5186
+60.1948770000000,11.1120100000000	5187
+seatac	5188
+aqtau	5189
+urbana	5190
+kevin frandsen	5191
+tobey maguire and kirsten dunst	5192
+damascus	5193
+michael barrett	5194
+iceland express	5195
+miller	5196
+felipe lopez	5197
+songbird	5198
+washington redskin	5199
+6.1166700000000,100.3666700000000	5200
+tartus	5201
+basket	5202
+la dodger	5203
+outstanding	5204
+marcus gile	5205
+oakland alameda county coliseum	5206
+40.1819342857143,26.5387264285714	5207
+fabio cannavaro	5208
+jeff francoeur	5209
+cobo hall	5210
+larry walker	5211
+25.3384550000000,73.4900020000000	5212
+great american ballpark	5213
+new mexico	5214
+national palace museum	5215
+fiume	5216
+bank of america stadium	5217
+32.0000000000000,90.0000000000000	5218
+alex sanchez	5219
+38.8242606250000,-96.0877175000000	5220
+ramon ortiz	5221
+south	5222
+wolf trap	5223
+elton brand	5224
+cadillac palace theatre	5225
+samawah	5226
+brent clevlen	5227
+37.3548600000000,-79.9417100000000	5228
+university of dayton	5229
+kobe bryant	5230
+immaculata college	5231
+novorossisk	5232
+32.3333300000000,-117.0333300000000	5233
+ben gordon	5234
+45.4898662500000,22.8726062500000	5235
+pepperdine university	5236
+red grange	5237
+pelota	5238
+london hotel	5239
+40.9039500000000,-81.1112050000000	5240
+ktvi	5241
+john madden	5242
+laon	5243
+jacksonville municipal stadium	5244
+vince lombardi	5245
+38.4722233333333,76.5444433333333	5246
+-29.7166700000000,31.0777766666667	5247
+willie collazo	5248
+louisiana state	5249
+mark ellis	5250
+36.4364647058824,-77.0988117647059	5251
+cleveland municipal stadium	5252
+westfield state college	5253
+charl woodson	5254
+huntsville	5255
+suriname	5256
+rajon rondo	5257
+cane	5258
+east germany	5259
+jj putz	5260
+nyc	5261
+40.1732300000000,-77.2804433333333	5262
+steve zissou	5263
+arad	5264
+38.8231541666667,-96.0781608333333	5265
+matt ryan	5266
+43.0471871428571,11.8249571428571	5267
+wolfpack	5268
+bemidji state university	5269
+asu	5270
+syria	5271
+kosuke fukudome	5272
+zach miner	5273
+wade boggs	5274
+lsu tiger	5275
+kamuela	5276
+29.5647147727273,116.6769738636364	5277
+sub pop	5278
+31.2914188235294,57.3089405882353	5279
+winthrop college	5280
+jeff gray	5281
+eriwan	5282
+36.7052050000000,67.1341650000000	5283
+garret anderson	5284
+mount gambier	5285
+bengaluru	5286
+shkoder	5287
+chris heintz	5288
+an nahar	5289
+yellow jacket	5290
+doug slaten	5291
+karhula	5292
+dili	5293
+ryanair	5294
+32.7477200000000,-97.0927900000000	5295
+15.1065012500000,-87.3607256250001	5296
+karbala	5297
+pioneer	5298
+santa domingo	5299
+sulaymaniyah	5300
+swim pool	5301
+nationwide arena	5302
+dwight howard	5303
+sweden	5304
+40.4341100000000,19.4953340000000	5305
+rick college	5306
+chris petersen	5307
+dick allen	5308
+chabahar	5309
+minnesota state university mankato	5310
+calais	5311
+51.5000000000000,10.5000000000000	5312
+sacramento king	5313
+azore	5314
+stadio giuseppe meazza	5315
+wall street journal	5316
+washington post	5317
+31.8109333333333,53.2582333333333	5318
+bobby dodd stadium	5319
+lamezia terme	5320
+danang	5321
+15.3333300000000,38.9333300000000	5322
+33.6345200000000,-86.9018164705882	5323
+27.2939300000000,-80.3503300000000	5324
+royal jordanian	5325
+minden	5326
+19.6591072222222,-155.9786605555556	5327
+dushanbe	5328
+los angeles raider	5329
+university of texas	5330
+rheim	5331
+34.7916700000000,33.2583300000000	5332
+series	5333
+ibm china	5334
+rondell white	5335
+lubeck	5336
+post dispatch	5337
+30.2165639473684,-98.6665015789474	5338
+turino	5339
+gordie howe	5340
+don newcombe	5341
+national taiwan university	5342
+montana state university bozeman	5343
+poljud	5344
+kfai	5345
+chad reineke	5346
+13.1118650000000,-30.1803423333333	5347
+monmouth college	5348
+tunesia	5349
+dr pepper	5350
+bo pelini	5351
+vancouver canuck	5352
+pennstate	5353
+new yankee stadium	5354
+mike napoli	5355
+moldova	5356
+grady sizemore	5357
+roy thompson hall	5358
+old delhi	5359
+33.8075000000000,-117.8763900000000	5360
+india	5361
+39.0981200000000,-84.5046600000000	5362
+bolton	5363
+erevan	5364
+carman pignatiello	5365
+orson well	5366
+air vanuatu	5367
+arabic	5368
+republic of korea	5369
+tacoma dome	5370
+criminal justice	5371
+seahawks	5372
+colorado state	5373
+35.1596000000000,-90.1577000000000	5374
+miami dade community college	5375
+oracle	5376
+josh smith	5377
+st louis blue	5378
+38.2311650753769,-77.8424516582916	5379
+edmonton	5380
+torii hunter	5381
+virginia state	5382
+hyderabad	5383
+diarbekir	5384
+fairleigh dickinson university	5385
+gb airway	5386
+alep	5387
+52.1997800000000,5.9924000000000	5388
+saint tropez	5389
+n2000 european cup	5390
+danny haren	5391
+33.9403900000000,-84.5202100000000	5392
+south dakota	5393
+michael vick	5394
+tim thoma	5395
+detroit lion	5396
+germany	5397
+manny	5398
+world trade center tower	5399
+air baltic	5400
+northern iowa	5401
+hamburg	5402
+west texas	5403
+anna faris	5404
+troy glaus	5405
+auch	5406
+ralph miller	5407
+dover	5408
+eurocypria airline	5409
+eastern conference	5410
+buccaneer	5411
+rice university	5412
+sulaimaniyah	5413
+harvard university law school	5414
+51.4876650000000,-4.0884600000000	5415
+30.7166133333333,-83.5417433333333	5416
+south carolina gamecock	5417
+peabody college	5418
+kyrgyz republic	5419
+td waterhouse center	5420
+miguel cairo	5421
+16.8351269230769,100.2966669230769	5422
+dinan	5423
+la coruna	5424
+wittenberg university	5425
+hohokam park	5426
+33.2278700000000,-99.8998066666667	5427
+london heathrow airport	5428
+kentucky	5429
+john cooper	5430
+united sate	5431
+41.2995333333333,-75.6319366666667	5432
+new hampshire	5433
+38.3555342857143,-37.2982671428571	5434
+duluth entertainment convention center	5435
+loyola college in maryland	5436
+carlo zambrano	5437
+toyota center tx	5438
+yogi berra	5439
+phillipine	5440
+34.3539528571428,-4.9545350000000	5441
+geneva airport	5442
+51.5240500000000,-0.1354900000000	5443
+justin huber	5444
+smithsonian	5445
+english language	5446
+cricket wireless amphitheatre	5447
+marseille	5448
+central missouri state	5449
+lincoln memorial	5450
+colonial life arena	5451
+gambler	5452
+joe girardi	5453
+dmitri young	5454
+university activity center	5455
+44.5506635384616,-8.4878667692308	5456
+milwaukee mile	5457
+26.1541392307692,-80.1768292307692	5458
+frank catalanotto	5459
+pittsburgh penguin	5460
+widener university	5461
+palm casino	5462
+carlo muniz	5463
+rca dome	5464
+32.8538984615385,-89.2711715384615	5465
+44.7779827272727,-120.9456095454546	5466
+dice k	5467
+42.9622600000000,17.0024350000000	5468
+zeist	5469
+felix pie	5470
+montreal	5471
+jason phillip	5472
+agia napa	5473
+brandon moss	5474
+kinnick stadium	5475
+phoenix coyot	5476
+12.2454940000000,109.1851300000000	5477
+39.8402800000000,-86.1697200000000	5478
+meadowland complex	5479
+victor garate	5480
+stanford	5481
+bratislava	5482
+joe namath	5483
+tony pena	5484
+corpus christi	5485
+36.3735925000000,-102.8685300000000	5486
+knoxville	5487
+42.1766700000000,-122.6947200000000	5488
+capetown	5489
+continental arena	5490
+chapman university	5491
+ryan bukvich	5492
+texas state	5493
+jay cutler	5494
+alltel arena	5495
+41.3140266666667,-85.1589400000000	5496
+16.4549040000000,-12.0065893333333	5497
+saint etienne	5498
+surprise stadium	5499
+axis	5500
+oradea	5501
+swi	5502
+luke gregerson	5503
+andy sonnanstine	5504
+continental	5505
+40.7635000000000,-73.9828000000000	5506
+trans world	5507
+39.6672500000000,-103.9301550000000	5508
+junichi tazawa	5509
+saint helier	5510
+urumqi	5511
+star	5512
+pittsburgh steeler	5513
+bengie molina	5514
+window mobile	5515
+keith hernandez	5516
+worldcup	5517
+2.5653048780488,-73.9069758536585	5518
+st moritz	5519
+27.3188991666667,48.6874058333333	5520
+mainz	5521
+charlotte arena	5522
+nijmegen	5523
+35.9745900000000,-78.8994500000000	5524
+ryan	5525
+norv turner	5526
+saratoga perform art center	5527
+minsk	5528
+uzbekistan	5529
+tony clark	5530
+stirl	5531
+florida atlantic university	5532
+internal revenue service	5533
+steve carlton	5534
+21.3858200000000,-157.9062700000000	5535
+48.1750000000000,10.6833300000000	5536
+cricket pavilion	5537
+nebraska memorial stadium	5538
+novorossiysk	5539
+allentown	5540
+pittsburg steeler	5541
+chile	5542
+kmp fm	5543
+tennessee volunteer	5544
+indiana hoosier	5545
+ramon santiago	5546
+15.0000000000000,30.0000000000000	5547
+chittorgarh	5548
+monsanto	5549
+jose theodore	5550
+british columbia lion	5551
+toronto raptor	5552
+target	5553
+orange bowl stadium	5554
+oslo	5555
+surabaya	5556
+us cellular field	5557
+brad harman	5558
+tennessee state tiger	5559
+37.4840835714286,-77.3766321428571	5560
+siegel center	5561
+ullevi	5562
+9.2071616666667,84.0759116666667	5563
+university of illinois at urbana champaign	5564
+newcomb college	5565
+vanuatu	5566
+david well	5567
+mark brunell	5568
+auburn university	5569
+riverfront time	5570
+33.4458800000000,-112.0712600000000	5571
+hengelo	5572
+32.1462241666667,-1.4737308333333	5573
+provo	5574
+felix jon	5575
+djibouti	5576
+jorge posada	5577
+angel sanchez	5578
+hamilton	5579
+19.4204055555556,-99.1442938888889	5580
+razorback	5581
+thomas jon	5582
+u s national team	5583
+27.1656223863636,35.8486125000000	5584
+brian westbrook	5585
+north brunswick	5586
+5.4672375000000,104.8010005000000	5587
+36.2331600000000,-83.9647800000000	5588
+macedonia	5589
+east europe	5590
+kennesaw state	5591
+42.5219983333333,-96.5463783333333	5592
+arkansas razorback	5593
+13.0681444444444,80.2594988888889	5594
+paul byrd	5595
+somerset	5596
+maravich assembly center	5597
+casey mcgehee	5598
+mechanical engineering	5599
+sul ross state	5600
+michigan state	5601
+ram	5602
+arrowhead pond of anaheim	5603
+roger federer	5604
+makati	5605
+tournai	5606
+money	5607
+brandon jackson	5608
+34.2345400000000,-83.8677700000000	5609
+manhattan college	5610
+french guiana	5611
+tom gordon	5612
+sun	5613
+northern thailand	5614
+blaine boyer	5615
+mexico city	5616
+tampa bay lightning	5617
+endy chavez	5618
+canisius golden griffin	5619
+bobby thomson	5620
+prince albert	5621
+mountain view	5622
+video	5623
+fr lynn	5624
+zoom	5625
+39.9959500000000,-75.1646200000000	5626
+franc	5627
+advanced management	5628
+raymond jam stadium	5629
+tcu horned frog	5630
+albany state college	5631
+37.1184436363636,-95.5013881818182	5632
+52.4019733333333,-1.7593933333333	5633
+toyota center	5634
+41.2702066666667,-88.3207733333333	5635
+carcassonne	5636
+-3.7142395652174,-29.2403004347826	5637
+kinshasa	5638
+irbil	5639
+bwia	5640
+iraqi kurdistan	5641
+16.5731925000000,-69.5126562500000	5642
+racket	5643
+patriot	5644
+fuenterrabia	5645
+cologne	5646
+detroit red wing	5647
+new york city	5648
+rutger scarlet knight	5649
+25.7700000000000,-80.1900000000000	5650
+23.2772300000000,-78.1508100000000	5651
+sammy sosa	5652
+eric chavez	5653
+jeff kent	5654
+nba	5655
+adam laroche	5656
+david riske	5657
+ray lewis	5658
+41.6583500000000,-91.5507200000000	5659
+cape town	5660
+germiston	5661
+aeroflot	5662
+44.9738500000000,-93.2580000000000	5663
+scott olsen	5664
+42.3507544444445,-95.6186122222222	5665
+hard university	5666
+royal brunei	5667
+sheldon concert hall	5668
+kalaeloa	5669
+33.7740150000000,-84.3952250000000	5670
+42.7325800000000,-73.6809500000000	5671
+willie mcginest	5672
+grand slam	5673
+29.3796844000000,96.4590784000000	5674
+verizon wireless amphitheater	5675
+statesman	5676
+fish theater	5677
+tim duncan	5678
+cornhusker	5679
+jon gruden	5680
+albert belle	5681
+montana state	5682
+daryll clark	5683
+jeff karsten	5684
+courtyard	5685
+gardermoen	5686
+praia	5687
+eastern asia	5688
+bond	5689
+adrian peterson	5690
+billy martin	5691
+thursday	5692
+target field	5693
+omni coliseum	5694
+bull	5695
+jannus landing	5696
+27.9228747619048,-29.6811419047619	5697
+japan	5698
+39.6294750000000,-78.9867750000000	5699
+armstrong atlantic state university	5700
+dreux	5701
+boise state	5702
+geneva	5703
+police	5704
+29.3953800000000,-98.4630533333333	5705
+air jamaica	5706
+everett event center	5707
+college of the ozark	5708
+alcorn state university	5709
+digital	5710
+emmitt smith	5711
+mike timlin	5712
+josh bard	5713
+fish building	5714
+mike holmgren	5715
+joel pineiro	5716
+tongsa	5717
+bloomington	5718
+paul hornung	5719
+alex gordon	5720
+shinjuku	5721
+kingston	5722
+texas technical university	5723
+houston texan	5724
+ken griffey jr	5725
+durre	5726
+jason sehorn	5727
+houston	5728
+polytechnic institute	5729
+vence	5730
+national aquarium	5731
+centre bell	5732
+david justice	5733
+novak djokovic	5734
+gazprom	5735
+indian stadium	5736
+air moldova	5737
+evan longoria	5738
+chechnya	5739
+south asia	5740
+brick breeden fieldhouse	5741
+52.9765750000000,-11.1347600000000	5742
+bemidji state	5743
+patrick kane	5744
+chicago white sox	5745
+lefkosa	5746
+west virginia university	5747
+central america	5748
+royce clayton	5749
+new orlean	5750
+jim calhoun	5751
+week	5752
+roger staubach	5753
+wolstein center	5754
+phil rizzuto	5755
+new york jet	5756
+providence college	5757
+40.1994900000000,-85.4124700000000	5758
+champion stadium	5759
+raven	5760
+florida gator	5761
+thimbu	5762
+bank atlantic center	5763
+lambeau field	5764
+al gore	5765
+trondheim	5766
+pepsi center	5767
+mont tremblant	5768
+37.0653100000000,-76.4919533333333	5769
+annapolis	5770
+gumri	5771
+saint petersburg state university	5772
+lamezia	5773
+36.6175600000000,-93.2393500000000	5774
+alpine valley	5775
+yale university	5776
+25.7638378571429,49.0836164285714	5777
+lance berkman	5778
+fedex field	5779
+matt joyce	5780
+southern sudan	5781
+30.4642585714286,-81.1236257142857	5782
+phil garner	5783
+atlanta hawk	5784
+palembang	5785
+uconn	5786
+38.2500000000000,59.7500000000000	5787
+thionville	5788
+downtown chicago	5789
+county stadium	5790
+21.3246828571429,-157.9598414285714	5791
+brooklyn	5792
+tayshaun prince	5793
+david cone	5794
+agde	5795
+washington dc	5796
+manny parra	5797
+paul rhoad	5798
+46.6519300000000,-111.7725987500000	5799
+new school university	5800
+dennis rodman	5801
+timo perez	5802
+christchurch	5803
+john harbaugh	5804
+harar	5805
+paul bako	5806
+adelphia coliseum	5807
+people	5808
+mike keenan	5809
+rudi johnson	5810
+rochester	5811
+kuantan	5812
+kent state golden flash	5813
+hannover	5814
+washington wizard	5815
+bristol	5816
+akinori iwamura	5817
+valparaiso university	5818
+matt flynn	5819
+luebeck	5820
+knysna	5821
+lenovo	5822
+tarom	5823
+massachusetts	5824
+william arena	5825
+14.7899485714286,86.9725338095238	5826
+tw	5827
+mullaittivu	5828
+11.3750000000000,75.8833350000000	5829
+greg dobbs	5830
+colgate university	5831
+korea	5832
+nc state university	5833
+josh hancock	5834
+najaf	5835
+gaby sanchez	5836
+oakland arena	5837
+jacksonville dolphin	5838
+middlesbrough	5839
+rensselaer polytechnic	5840
+31.8472979310345,13.6815420689655	5841
+hartford	5842
+9.2666675000000,80.6791675000000	5843
+ben roethlisberger	5844
+archaeological	5845
+44.6236172151899,67.1614993670886	5846
+camden	5847
+croatia airline	5848
+lou brock	5849
+blockbuster	5850
+37.1463785465116,-85.9863601162791	5851
+detroit tiger	5852
+pattaya	5853
+indo china	5854
+49.2778100000000,-123.1086600000000	5855
+palumbo center	5856
+rolen	5857
+sanchez	5858
+brian fuente	5859
+td garden fleet center	5860
+wwtc	5861
+amboise	5862
+st george	5863
+jack morris	5864
+gwinnett center	5865
+gouda	5866
+former nfl	5867
+marrakesh	5868
+basra	5869
+world tour	5870
+bastia	5871
+narita	5872
+40.4392400000000,-80.0020000000000	5873
+chur	5874
+34.9166633333333,36.1055566666667	5875
+juan encarnacion	5876
+palma de mallorca	5877
+austrian airline	5878
+24.6748470000000,43.5351870000000	5879
+saskatoon	5880
+george allen	5881
+28.0486860000000,-3.5838266666667	5882
+ian kinsler	5883
+juan francisco	5884
+23.5268089285714,121.5012050000000	5885
+shannon airport	5886
+rousse	5887
+dodger	5888
+wftc	5889
+france	5890
+saint cloud state university	5891
+old dominion university	5892
+pat neshek	5893
+expos	5894
+phnom penh	5895
+laayoune	5896
+georgia tech yellow jacket	5897
+javier vazquez	5898
+siena height university	5899
+waterfowl	5900
+inconvenient truth	5901
+prince george	5902
+lufthansa	5903
+-12.6100000000000,34.3583350000000	5904
+60.4075680000000,10.7271440000000	5905
+foxboro stadium	5906
+yank	5907
+greg luzinski	5908
+37.5652762809917,-85.5049039669422	5909
+52.2501816666667,8.0029216666667	5910
+46.9111779190752,-69.8943442774566	5911
+tacloban	5912
+larry johnson	5913
+wilkin ramirez	5914
+koh phi phi	5915
+santa teresa gallura	5916
+baidu	5917
+kenji johjima	5918
+telstra stadium	5919
+chad johnson	5920
+halliburton	5921
+33.3284266666667,35.4935650000000	5922
+scarlet knight	5923
+doug flutie	5924
+gabe	5925
+vinny testaverde	5926
+south west africa	5927
+39.1597650000000,26.4534325000000	5928
+ryan raburn	5929
+harvard stadium	5930
+byron scott	5931
+anthony smith	5932
+enterprise rent a car	5933
+zip	5934
+wilson	5935
+miami dolphin	5936
+van gundy	5937
+german	5938
+sukhothai	5939
+girne	5940
+thai language	5941
+lerida	5942
+arkhangelsk	5943
+first avenue	5944
+british air	5945
+john wetteland	5946
+matt lawton	5947
+kcrw	5948
+hyere	5949
+38.7455020000000,20.6537200000000	5950
+33.1903300000000,-109.9956400000000	5951
+josh barfield	5952
+34.2672700000000,-86.8590250000000	5953
+reggie jackson	5954
+inchon	5955
+at t center	5956
+34.9266682022472,-91.0342594382022	5957
+utah state university	5958
+nolan ryan	5959
+derrick coleman	5960
+california state university fresno	5961
+georgia southwestern college	5962
+lamont jordan	5963
+31.9215700000000,35.2032900000000	5964
+andre johnson	5965
+37.0284125000000,-98.9884900000000	5966
+chris andersen	5967
+bryan morris	5968
+daejeon	5969
+depaul university	5970
+34.2258920000000,-82.1146440000000	5971
+virginia commonwealth university	5972
+larry eustachy	5973
+boston bruin	5974
+infosys	5975
+33.3386100000000,-86.8494400000000	5976
+cleon jon	5977
+horseshoe southern indiana	5978
+dick lebeau	5979
+central mexico	5980
+tennessee oiler	5981
+busch memorial stadium	5982
+41.4737100000000,-71.2975500000000	5983
+global study	5984
+javon walker	5985
+30.9394433333333,36.9259300000000	5986
+carlo guillen	5987
+40.8388900000000,-96.6494600000000	5988
+wilson betemit	5989
+pac bell park	5990
+n1981 world series	5991
+gosport	5992
+brad nelson	5993
+ardmore	5994
+pyramid arena	5995
+kirby puckett	5996
+p i	5997
+new	5998
+uc berkeley	5999
+smithsonian institution	6000
+colonial center	6001
+amtrak	6002
+amien	6003
+bill cowher	6004
+ibiza	6005
+joe sakic	6006
+55.1544400000000,61.4297200000000	6007
+n1956 world series	6008
+bandol	6009
+metropolitan sport center	6010
+campbell university	6011
+larnaka	6012
+open	6013
+tai chi chuan	6014
+jon lieber	6015
+toulouse	6016
+lg	6017
+39.2997220000000,-80.0134960000000	6018
+turkestan	6019
+ohio stadium	6020
+37.3927650000000,-94.7019700000000	6021
+mexicana	6022
+36.2956900000000,-21.3105500000000	6023
+seattle supersonic	6024
+toronto blue jay	6025
+jame shield	6026
+32.8088900000000,-117.1299250000000	6027
+bill mueller	6028
+spirit airline	6029
+jim valvano	6030
+wyom	6031
+31.8211675000000,43.1482066666667	6032
+u s cellular field	6033
+29.9785100000000,-92.1253200000000	6034
+jhonny peralta	6035
+quicken loan arena	6036
+uvm	6037
+favre	6038
+brampton	6039
+n2009 world series	6040
+basel	6041
+mangini	6042
+former soviet union	6043
+air europa	6044
+jimmy gobble	6045
+mt gambi	6046
+coventry	6047
+boston brave	6048
+zakynthos	6049
+ho chi minh	6050
+shigetoshi hasegawa	6051
+austria	6052
+sun devil stadium	6053
+charlotte sport park	6054
+33.0527233333333,-88.8125500000000	6055
+6.5000000000000,-5.0000000000000	6056
+40.8003800000000,-72.9162200000000	6057
+pat hill	6058
+oliver perez	6059
+jose contrera	6060
+brian cashman	6061
+minnesota viking	6062
+program	6063
+malacca	6064
+bukar	6065
+23.4095233333333,83.4126408333333	6066
+nelspruit	6067
+east carolina university	6068
+shibe park	6069
+daegu	6070
+huffington post	6071
+stockholm	6072
+37.2753675000000,127.3598750000000	6073
+blue heron	6074
+oakdale theatre	6075
+sandhill crane	6076
+tromsoe	6077
+terrell owen	6078
+36.1245850000000,65.5580550000000	6079
+weill medical college	6080
+duluth	6081
+35.9410600000000,-110.1121700000000	6082
+ford center	6083
+university of northern iowa	6084
+brady quinn	6085
+26.9406466666667,14.9887966666667	6086
+atlanta brave	6087
+ryne sandberg	6088
+rio gallego	6089
+carlo delgado	6090
+detriot tiger	6091
+aramis ramirez	6092
+hyattsville	6093
+kevin jepsen	6094
+35.1666700000000,34.0000000000000	6095
+tcs	6096
+doug gilmour	6097
+cameroon	6098
+tony scheffler	6099
+la jornada	6100
+university of north florida	6101
+embrun	6102
+umb bank pavilion	6103
+bethune cookman college	6104
+dallas maverick	6105
+jerome bettis	6106
+helmand province	6107
+32.4208104545454,39.2320183333334	6108
+invesco field	6109
+east asia	6110
+-2.1295354000000,92.0010452000001	6111
+chien m wang	6112
+boston patriot	6113
+40.5952536363636,22.9400700000000	6114
+canuck	6115
+durazzo	6116
+37.1340862500000,-112.1588862500000	6117
+stuttgart	6118
+howie clark	6119
+33.8866166666667,-110.1918700000000	6120
+laos	6121
+sox	6122
+tamilnadu	6123
+poblano	6124
+41.1951000000000,-73.2173400000000	6125
+jacksonville university	6126
+ryan air	6127
+39.2849466666667,-76.6213200000000	6128
+tartous	6129
+ontario	6130
+rafael nadal	6131
+kolkata	6132
+0.0000000000000,25.0000000000000	6133
+19.8510700000000,-30.8836750000000	6134
+pablano	6135
+adam rosales	6136
+ryan madson	6137
+jim bunn	6138
+fairfield university	6139
+lissabon	6140
+brendan shanahan	6141
+michael dubee	6142
+fenway park	6143
+los angeles angel	6144
+northwest missouri state	6145
+sosua	6146
+mark teahen	6147
+39.6655400000000,-105.2058200000000	6148
+ferris state	6149
+university of evansville	6150
+newman university	6151
+9.4042847368421,0.2070252631579	6152
+newport	6153
+norway	6154
+42.0826750000000,-78.4805650000000	6155
+cleveland brown	6156
+louis ram	6157
+stephen strasburg	6158
+harvard	6159
+matt garza	6160
+u s cellular arena	6161
+nafplion	6162
+glasgow	6163
+shaun marcum	6164
+39.7446612052120,116.2310286644960	6165
+hollin university	6166
+40.7413500000000,-73.6431850000000	6167
+mike piazza	6168
+pnc bank art center	6169
+kareem abdul jabbar	6170
+conservatory	6171
+-8.8333300000000,125.7500000000000	6172
+novi sad	6173
+wartburg college	6174
+leipzig	6175
+joe gordon	6176
+16.8763175000000,-13.4849325000000	6177
+kismaayo	6178
+34.9907388888889,36.0407422222222	6179
+ivan rodriguez	6180
+35.6059600000000,-77.3719794736842	6181
+virginia wesleyan college	6182
+bessarabia	6183
+new delhi	6184
+horizon	6185
+37.9288900000000,-85.6751050000000	6186
+missouri state bear	6187
+n2007 mlb all star game	6188
+sfry	6189
+delta center	6190
+columbia	6191
+juan perez	6192
+barjac	6193
+mushroom	6194
+hampton university	6195
+john bale	6196
+california polytechnic state university	6197
+eastern virginia	6198
+uc irvine	6199
+rick ankiel	6200
+matt stair	6201
+36.1070800000000,-79.5058600000000	6202
+pepper	6203
+quimper	6204
+32.7596261206896,35.8876686781610	6205
+buddy carlyle	6206
+czech republic	6207
+j t snow	6208
+35.0581500000000,-21.9494971428571	6209
+alabama state	6210
+24.0012162500000,120.7537937500000	6211
+st louis magazine	6212
+west	6213
+lake buena vista	6214
+michael beasley	6215
+hollywood bowl	6216
+jason kendall	6217
+murfreesboro	6218
+und	6219
+mo vaughn	6220
+luke schenn	6221
+bob howry	6222
+saint louis	6223
+dye	6224
+bangkok	6225
+spur	6226
+stockton state college	6227
+freddy sanchez	6228
+abomey	6229
+virginia wesleyan	6230
+n2006 basketball championship	6231
+ozzie smith	6232
+mililani	6233
+tuft university	6234
+jason marquis	6235
+kazakhstan	6236
+34.0433000000000,-118.2650000000000	6237
+nime	6238
+kosice	6239
+george kottara	6240
+42.0899133333333,-71.3983900000000	6241
+woodland	6242
+niagara fall	6243
+university of north carolina at greensboro	6244
+gavin floyd	6245
+south india	6246
+huntingdon	6247
+chris iannetta	6248
+chris redman	6249
+yusmeiro petit	6250
+loughborough	6251
+julian tavarez	6252
+air pacific	6253
+brian bixler	6254
+kayhan	6255
+venise	6256
+40.8816666666667,25.8996266666667	6257
+volga	6258
+uc santa cruz	6259
+mayence	6260
+flamingo hotel	6261
+32.7322700000000,-117.1525300000000	6262
+devil	6263
+the coliseum	6264
+32.0491060000000,44.8709420000000	6265
+kirsten dunst	6266
+miami garden	6267
+alex gonzalez	6268
+saint denis	6269
+kelantan	6270
+honolulu	6271
+ramon castro	6272
+globen	6273
+indian airline	6274
+los angeles angel of anaheim	6275
+27.1113000000000,31.6896000000000	6276
+monday morning	6277
+northwestern	6278
+brian billick	6279
+victor harbor	6280
+bruge	6281
+philip arena	6282
+46.9556081818182,28.1930800000000	6283
+wily mo pena	6284
+jim plunkett	6285
+salonika	6286
+varig	6287
+welcome	6288
+40.8606600000000,-74.1976500000000	6289
+theuniversity	6290
+spartan	6291
+40.0603320000000,-75.1613980000000	6292
+newcastle upon tyne	6293
+west virginia	6294
+42.0092000000000,-87.6736700000000	6295
+jon adkin	6296
+edgerrin jame	6297
+texas tech university	6298
+jason wright	6299
+38.8901790000000,26.2859910000000	6300
+san daniele del friuli	6301
+kevin millwood	6302
+bill curry	6303
+6.8032950000000,3.7011650000000	6304
+dutch language	6305
+kyle snyder	6306
+development	6307
+babe ruth	6308
+jarrett hoffpauir	6309
+quinnipiac university	6310
+negril	6311
+santarem	6312
+40.7098200000000,-74.0862500000000	6313
+hua hin	6314
+corey patterson	6315
+st olaf college	6316
+claflin college	6317
+40.7550000000000,-73.9886100000000	6318
+raft	6319
+port vila	6320
+msn	6321
+36.9636650000000,-92.5696100000000	6322
+ubon ratchathani	6323
+derrick turnbow	6324
+brett farve	6325
+chang mai	6326
+lynx air	6327
+khalil greene	6328
+elmer dessen	6329
+john dank	6330
+south lebanon	6331
+christian guzman	6332
+jeff fassero	6333
+squash	6334
+29.7563400000000,-95.3549400000000	6335
+tyler clippard	6336
+sir ian mckellen	6337
+bcs national championship	6338
+csu convocation center	6339
+canadien	6340
+bauer	6341
+38.2956850000000,-106.2052950000000	6342
+conseco fieldhouse	6343
+gregg zaun	6344
+apeldoorn	6345
+34.7460616666667,32.4517883333333	6346
+ieper	6347
+32.7576583333333,-116.8086650000000	6348
+jet	6349
+tennessee tech	6350
+angel stadium of anaheim	6351
+norfolk	6352
+jeff fish	6353
+columbus college	6354
+39.9916200000000,116.3838600000000	6355
+samawa	6356
+daniel murphy	6357
+st gallen	6358
+french	6359
+oudtshoorn	6360
+hong kong	6361
+dave righetti	6362
+42.1229542857143,-109.7613576190476	6363
+christy mathewson	6364
+33.0000000000000,104.0000000000000	6365
+kevin johnson	6366
+kaleici	6367
+rick hell	6368
+j d draw	6369
+the university of iowa	6370
+wilke university	6371
+katsuhiko maekawa	6372
+istre	6373
+new york giant	6374
+bobcat	6375
+nassau coliseum	6376
+mahaffey theater	6377
+jacobs field	6378
+greenville	6379
+deventer	6380
+haguenau	6381
+47.5956500000000,-122.3317900000000	6382
+miami beach	6383
+donovan mcnabb	6384
+indian	6385
+black hawk	6386
+vladivostok	6387
+kerry wood	6388
+san juan	6389
+trevor hoffman	6390
+40.1811100000000,44.5136100000000	6391
+andy phillip	6392
+memphis grizzly	6393
+international office	6394
+guatemala	6395
+adyar	6396
+19.7141030769231,-71.3589761538461	6397
+cassis	6398
+utah valley state college	6399
+australia	6400
+ireland	6401
+salve regina university	6402
+nebraska wesleyan	6403
+jaguar	6404
+gerald laird	6405
+alamodome	6406
+dick jauron	6407
+akinori otsuka	6408
+42.1050600000000,-80.0533900000000	6409
+35.2067300000000,-97.4428100000000	6410
+reggie white	6411
+hernandez	6412
+shahjahanabad	6413
+bill self	6414
+nolan reimold	6415
+new hampshire international speedway	6416
+eze	6417
+byu	6418
+fox theatre	6419
+jonathan broxton	6420
+bowman field	6421
+31.2474733333333,-92.3037290476190	6422
+bob griese	6423
+tunisian republic	6424
+nomar garciaparra	6425
+los angeles coliseum	6426
+53.1056130000000,80.9816670000000	6427
+grove stadium	6428
+jai miller	6429
+palace of auburn hill	6430
+31.8851875000000,45.2773825000000	6431
+boilermaker	6432
+trot nixon	6433
+9.8030600000000,-72.5941700000000	6434
+kunia camp	6435
+brandon allen	6436
+43.5625000000000,-116.5675000000000	6437
+sea bird	6438
+43.0266700000000,-87.8969400000000	6439
+o j simpson	6440
+38.0463250000000,-87.8962750000000	6441
+operation	6442
+madra	6443
+mike sherman	6444
+brett myer	6445
+denver	6446
+kyrgyzstan	6447
+dieppe	6448
+euro	6449
+georgia institute of technology	6450
+31.5701700000000,-84.1438000000000	6451
+montevideo	6452
+ben graham	6453
+philadelphia	6454
+harer	6455
+30.4446400000000,-91.1887200000000	6456
+doug martin	6457
+rappel	6458
+unite airline	6459
+rethymno	6460
+tris speaker	6461
+30.3255600000000,-81.6447200000000	6462
+an inconvenient truth	6463
+26.3551746153846,-14.9793553846154	6464
+banska stiavnica	6465
+post intelligencer	6466
+university of texas at san antonio	6467
+corendon airline	6468
+luneburg	6469
+lebanon valley college	6470
+18.7368400000000,27.7742133333333	6471
+bob knight	6472
+frankfurt	6473
+don drysdale	6474
+johns hopkin university	6475
+32.4211800000000,-9.3869800000000	6476
+39.5000000000000,-8.0000000000000	6477
+mickey mantle	6478
+miguel tejada	6479
+calvin johnson	6480
+maputo	6481
+syracuse	6482
+final four	6483
+cahersiveen	6484
+54.9081725000000,23.9456175000000	6485
+eastern illinois university	6486
+38.5763757142857,-81.0122985714286	6487
+saint emilion	6488
+jason kidd	6489
+rosarito beach	6490
+molson stadium	6491
+-30.7766500000000,121.5039800000000	6492
+rwth aachen university	6493
+earle bruce	6494
+29.8914975000000,-74.5245762500000	6495
+limnos	6496
+the city college	6497
+the united kingdom	6498
+patra	6499
+philly	6500
+vietnam airline	6501
+jair jurrjen	6502
+arkansas state red wolf	6503
+new orlean arena	6504
+imperial college london	6505
+rfk stadium	6506
+gaby hernandez	6507
+jason brown	6508
+nick markakis	6509
+western washington university	6510
+gil meche	6511
+32.8389300000000,45.1587300000000	6512
+bgsu	6513
+snoqualmie	6514
+singapore	6515
+boston red sox	6516
+california	6517
+18.1256544444445,99.6092741269842	6518
+folsom field	6519
+chris duncan	6520
+arcadia university	6521
+amway center	6522
+rangoon	6523
+sankt petersburg	6524
+seattle sonic	6525
+nashville	6526
+colorado	6527
+san jose state university	6528
+zito	6529
+alex tanguay	6530
+50.8501428571429,2.8814457142857	6531
+chaf	6532
+citi field	6533
+40.3378040000000,-75.2408930000000	6534
+kmov	6535
+carolina	6536
+38.9026000000000,-77.0258000000000	6537
+alabama	6538
+michael wuertz	6539
+franquelis osoria	6540
+apple	6541
+bob wickman	6542
+brent dlugach	6543
+poitier	6544
+44.6549650000000,8.4453250000000	6545
+coastal carolina university	6546
+al leiter	6547
+volendam	6548
+38.3384100000000,-82.9473900000000	6549
+37.4130550000000,-84.8507450000000	6550
+philadelphia flyer	6551
+air namibia	6552
+andre iguodala	6553
+aubrey huff	6554
+rbc center	6555
+ross ohlendorf	6556
+mike nugent	6557
+36.1678300000000,-86.7727800000000	6558
+chuck daly	6559
+orissa	6560
+21.3016400000000,44.1083733333333	6561
+41.2413800000000,9.1885200000000	6562
+chardzhou	6563
+42.3597733333333,-71.0924600000000	6564
+hawai i	6565
+44.1058000000000,-96.3397600000000	6566
+marino sala	6567
+brandt centre	6568
+kauen	6569
+woodland park zoo	6570
+addis	6571
+jason hirsh	6572
+showbox	6573
+professional basketball	6574
+45.3334000000000,-74.7825800000000	6575
+ratisbon	6576
+kotka	6577
+49.2450200000000,6.9926240000000	6578
+rutger	6579
+kerala	6580
+jame loney	6581
+27.6474819047619,21.7517504761905	6582
+guimaraes	6583
+hilla	6584
+michael phelp	6585
+ocala	6586
+25.3194275000000,60.5500200000000	6587
+jam harrison	6588
+elvis andrus	6589
+howie kendrick	6590
+point loma nazarene university	6591
+hernan iribarren	6592
+31.4368300000000,-100.4584300000000	6593
+rutabaga	6594
+kansas state university	6595
+point park college	6596
+varanasi	6597
+child s hospital	6598
+pittsburgh	6599
+ryan ludwick	6600
+birmingham new street	6601
+brian myrow	6602
+shaq	6603
+bill stewart	6604
+34.2851240000000,30.2481600000000	6605
+33.7946407730674,82.5907528179553	6606
+los angeles	6607
+thoma mack center	6608
+ian	6609
+46.9237500000000,-119.3596025000000	6610
+wizzair	6611
+wayne gretzky	6612
+ny ranger	6613
+phuket	6614
+philip river	6615
+pudge	6616
+north carolina tarheel	6617
+53.1677666666667,17.1944333333333	6618
+tim tebow	6619
+deauville	6620
+31.9000604000000,38.5574780000000	6621
+cyprus	6622
+eastern connecticut state	6623
+el corazon	6624
+halifax	6625
+42.7242893750000,-82.6314100000000	6626
+robert morris college	6627
+wild bird	6628
+aaron cook	6629
+cliff bartosh	6630
+meridiana	6631
+40.0091500000000,-105.2666600000000	6632
+roger william university	6633
+kailua	6634
+cotonou	6635
+zdeno chara	6636
+kexp	6637
+tent	6638
+camp nou	6639
+gary glover	6640
+compiegne	6641
+brian roger	6642
+vol	6643
+dandelion	6644
+troy trojan	6645
+yankee	6646
+kentucky christian college	6647
+wrigley	6648
+15.0912768965517,-9.3958179310345	6649
+lamar odom	6650
+romulo sanchez	6651
+central asia	6652
+joe nathan	6653
+transnistria	6654
+32.6765566666667,106.9932766666667	6655
+brooklyn dodger	6656
+fr lewis	6657
+derek dooley	6658
+33.2072050000000,-97.1541800000000	6659
+51.0883111111111,-114.0040000000000	6660
+15.0000000000000,100.0000000000000	6661
+pedro astacio	6662
+craig wilson	6663
+sydney football stadium	6664
+chartre	6665
+jeff baker	6666
+n1997 world series	6667
+juan rivera	6668
+41.7684300000000,-72.6767600000000	6669
+winthrop eagle	6670
+11.3981014285714,80.4950138095237	6671
+41.8714400000000,-80.1283900000000	6672
+syracuse orangeman	6673
+sandoz	6674
+dodgertown	6675
+phitsanulok	6676
+odessa	6677
+rodez	6678
+kaz matsui	6679
+larnaca	6680
+net	6681
+corel centre	6682
+30.3833300000000,72.5500000000000	6683
+29.7232825000000,-95.3621575000000	6684
+windhoek	6685
+beijing	6686
+ljubljana	6687
+nottingham	6688
+liv tyler	6689
+roberto alomar	6690
+stockholm globe arena	6691
+university of kansas	6692
+44.9456000000000,-93.0999000000000	6693
+winnipeg jet	6694
+billy buckner	6695
+yekaterinburg	6696
+weert	6697
+uk	6698
+maple leaf	6699
+portland blazer	6700
+troubadour	6701
+31.8734408333333,-57.6528441666667	6702
+ellis burk	6703
+john maine	6704
+olympic	6705
+chelyabinsk	6706
+n2005	6707
+maverick	6708
+kharkov	6709
+steve blake	6710
+larnaca airport	6711
+corey koskie	6712
+eric hinske	6713
+joe robbie stadium	6714
+51.8837366666667,0.2448666666667	6715
+joakim noah	6716
+30.8994450000000,33.2083116666666	6717
+garry maddox	6718
+alaska airline	6719
+47.3184692307692,-9.5879615384615	6720
+amazon	6721
+san jose state	6722
+will rogers memorial center	6723
+spektrum	6724
+39.9629633333333,-18.7293500000000	6725
+alonzo mourn	6726
+northern	6727
+geoff blum	6728
+berklee college of music	6729
+35.5939300000000,-105.2172300000000	6730
+surat thani	6731
+john brady	6732
+kelly shoppach	6733
+new york yankees	6734
+brad ausmus	6735
+addis ababa	6736
+green river	6737
+uw	6738
+draw bree	6739
+martz	6740
+sighisoara	6741
+kitzbuhel	6742
+puget sound business journal	6743
+public	6744
+wimborne minster	6745
+north texas state college	6746
+savvis center	6747
+41.0382600000000,-73.6977300000000	6748
+29.7827286842106,107.5950921052632	6749
+joe crede	6750
+corona	6751
+k state	6752
+control datum	6753
+czechia	6754
+st malo	6755
+ed	6756
+ottowa	6757
+kart	6758
+sokol underground	6759
+roy halladay	6760
+54.9000000000000,23.9000000000000	6761
+chris woodward	6762
+43.7500000000000,23.6666666666667	6763
+36.5555427450980,-84.4366021568628	6764
+darryl strawberry	6765
+talk	6766
+new bern	6767
+sport	6768
+bobby knight	6769
+pretoria	6770
+phillip arena	6771
+ferrell center	6772
+38.8895600000000,-76.9716400000000	6773
+-29.1544490909091,30.3717300000000	6774
+vancouver	6775
+kazakhistan	6776
+glendon rusch	6777
+herschel walker	6778
+crew stadium	6779
+philippine	6780
+istanbul	6781
+aalborg	6782
+mark grudzielanek	6783
+elon university	6784
+goose gossage	6785
+paypal	6786
+msu	6787
+association	6788
+40.9160180000000,-77.6548060000000	6789
+51.4703000000000,-0.4414200000000	6790
+los angel sport arena	6791
+chris coste	6792
+dan mccarney	6793
+42.3869150000000,-83.1358400000000	6794
+the e center	6795
+new york met	6796
+chris davis	6797
+lincoln	6798
+51.2194905263158,3.0674063157895	6799
+anaheim mighty duck	6800
+viet nam	6801
+vientiane	6802
+mark mcgwire	6803
+new caledonia	6804
+38.9457233333333,16.2868900000000	6805
+sandy koufax	6806
+randy moss	6807
+montargis	6808
+austin kearn	6809
+hawkeye	6810
+energysolution arena	6811
+35.1778377142857,-56.8352991428571	6812
+luis perdomo	6813
+34.9731061538462,33.6345823076923	6814
+29.3686000000000,-98.4533000000000	6815
+ouarzazate	6816
+the hawthorn	6817
+science	6818
+45.7836950000000,-108.5684200000000	6819
+jefferson high school	6820
+auxerre	6821
+butch davis	6822
+norm cash	6823
+37.2666050000000,-92.6157050000000	6824
+former ussr	6825
+45.5067700000000,-95.3796050000000	6826
+jacksonville veteran memorial arena	6827
+30.4143600000000,-91.1845500000000	6828
+cristian guzman	6829
+eagle	6830
+td garden	6831
+westin hotel	6832
+kevin gryboski	6833
+korean air	6834
+river gange	6835
+bob huggin	6836
+draw stubbs	6837
+clickair	6838
+ernie bank	6839
+clowes memorial hall	6840
+newfoundland and labrador	6841
+6.8785550000000,-74.5675700000000	6842
+value city arena	6843
+38.6239400000000,-90.1926100000000	6844
+43.9480600000000,-86.4384200000000	6845
+michael young	6846
+t lilly	6847
+dodge theatre	6848
+the philippine	6849
+buffalo	6850
+kevin faulk	6851
+chateauroux	6852
+28.0481796666667,37.7017593333333	6853
+43.0552800000000,-73.8058300000000	6854
+cincinnati royal	6855
+daily star	6856
+narbonne	6857
+amway arena	6858
+university of north carolina at charlotte	6859
+43.1151700000000,-77.5119400000000	6860
+moscow university	6861
+coor field	6862
+8.4916650000000,76.9133350000000	6863
+mci	6864
+kuwait	6865
+todd william	6866
+kazakstan	6867
+astoria	6868
+compute	6869
+34.2500140000000,-118.8253020000000	6870
+tulane university	6871
+reynold coliseum	6872
+ryan freel	6873
+isreal	6874
+chapel	6875
+eric bana	6876
+mississippi state university	6877
+39.8403640000000,-89.2150650000000	6878
+george washington university	6879
+pointer	6880
+embassy	6881
+ujung pandang	6882
+paul pierce	6883
+matt lindstrom	6884
+57.1883300000000,39.4152800000000	6885
+36.6452188235294,-51.6540164705882	6886
+29.4155831081081,-64.5364029729730	6887
+xcel center	6888
+surrey	6889
+university of wisconsin milwaukee	6890
+mike lowell	6891
+44.6591700000000,-122.2332455555555	6892
+abuja	6893
+sal fasano	6894
+population	6895
+-33.8471200000000,151.0634200000000	6896
+bank one ballpark	6897
+chicago blackhawks	6898
+-35.5583350000000,138.6250000000000	6899
+mike price	6900
+chemical engineering	6901
+40.2212200000000,-74.7568300000000	6902
+chuck amato	6903
+worcester polytechnic institute	6904
+michael moore	6905
+samsung	6906
+staple	6907
+kexp fm	6908
+ha noi	6909
+salisbury university	6910
+boston celtic	6911
+ivory coast	6912
+gyumri	6913
+16.8191043589744,-97.4019633333333	6914
+43.6029400000000,-116.1984500000000	6915
+seattle pilot	6916
+colombia	6917
+sfax	6918
+lavell edward stadium	6919
+andrew miller	6920
+bmi baby	6921
+agrigentum	6922
+miri	6923
+aberdovey	6924
+44.3577600000000,-101.5761750000000	6925
+tanyon sturtze	6926
+barry bond	6927
+sun national bank center	6928
+49.0055360869565,-85.1275882608696	6929
+jacque jone	6930
+le havre	6931
+41.9480900000000,-87.6553300000000	6932
+convention center	6933
+mark anderson	6934
+francisco rodriguez	6935
+tom cable	6936
+44.9334500000000,-62.1652900000000	6937
+cascais	6938
+35.9070900000000,-79.0480700000000	6939
+oracle arena	6940
+hope college	6941
+37.7798880000000,20.8214440000000	6942
+banja luka	6943
+cherbourg	6944
+oujda	6945
+air canada	6946
+47.6222200000000,-122.3541000000000	6947
+fontbonne college	6948
+40.8123200000000,-73.9612500000000	6949
+hofstra	6950
+oriole	6951
+suceava	6952
+edison state college	6953
+9.6927233333333,44.2179200000000	6954
+43.1438600000000,-95.1258300000000	6955
+mendoza	6956
+chin lung hu	6957
+41.8118140000000,-87.6046600000000	6958
+55.8531000000000,-4.3091000000000	6959
+safeco	6960
+maline	6961
+pat morita	6962
+otis nixon	6963
+jalalabad	6964
+bank of america arena	6965
+torino	6966
+magusa	6967
+36.0939766666667,-13.0522783333333	6968
+frejus	6969
+38.9548100000000,-95.2529250000000	6970
+56.8691760000000,60.5949760000000	6971
+water fowl	6972
+holman stadium	6973
+gutenberg museum	6974
+alitalia	6975
+johannesburg international airport	6976
+jesse orosco	6977
+derby	6978
+championship game	6979
+36.2145700000000,-81.6803900000000	6980
+bentley college	6981
+center	6982
+n1967 world series	6983
+never	6984
+omar infante	6985
+37.8769750000000,-85.9625700000000	6986
+44.4479787500000,26.0890731250000	6987
+48.4849700000000,-114.3537500000000	6988
+n50	6989
+shaw park	6990
+60.1000000000000,19.9416650000000	6991
+matt moore	6992
+-20.3472250000000,118.5965300000000	6993
+mike dunleavy	6994
+nambia	6995
+chelsea	6996
+south carolina state university	6997
+comcast theatre	6998
+-17.7439885714286,168.3092371428571	6999
+rider college	7000
+16.5329660000000,-87.7859500000000	7001
+north korea	7002
+state theatre	7003
+43.0897200000000,-87.9055600000000	7004
+eli man	7005
+alexi casilla	7006
+36.6638900000000,22.3825000000000	7007
+concord	7008
+ryazan	7009
+mike gonzalez	7010
+duquesne university	7011
+texas southern	7012
+acc tournament	7013
+rex grossman	7014
+hcmc	7015
+carson palmer	7016
+forbes field	7017
+mike schmidt	7018
+42.2813950000000,-91.3561300000000	7019
+bruce campbell	7020
+37.7812350000000,-103.8108500000000	7021
+lancaster	7022
+30.9451150000000,-134.7894050000000	7023
+malaysia	7024
+31.1693500000000,-95.0954900000000	7025
+25.6830400000000,20.5419940000000	7026
+everett	7027
+michael turner	7028
+41.6208200000000,-93.6041050000000	7029
+adam eaton	7030
+arthur rhod	7031
+chad cordero	7032
+52.5443780000000,-4.0440900000000	7033
+pyongyang	7034
+sidney lowe	7035
+jeter	7036
+44.4916650000000,14.8750000000000	7037
+47.9112940000000,106.8966120000000	7038
+32.0042791538461,-73.3035208461538	7039
+university of utah	7040
+cory sullivan	7041
+energy solution arena	7042
+united province of central america	7043
+peterborough	7044
+41.5994312500000,-88.0699518750000	7045
+hope	7046
+41.4363608571428,6.0725560714286	7047
+nuwara eliya	7048
+mickey mantel	7049
+willie stargell	7050
+carlo beltran	7051
+congressional quarterly	7052
+pacer	7053
+kam mickolio	7054
+jason kubel	7055
+miami	7056
+brady hoke	7057
+louisiana	7058
+jayson nix	7059
+kale	7060
+benin	7061
+-25.5786300000000,27.1606700000000	7062
+-1.0541650000000,-80.6708350000000	7063
+red sox	7064
+randy winn	7065
+middelburg	7066
+world championship	7067
+elat	7068
+aero mexico	7069
+54.6554223076923,51.5432753846154	7070
+fez	7071
+china	7072
+sport fishing	7073
+54.9257414285714,9.7778571428571	7074
+jeff clement	7075
+kansas state teacher college	7076
+la liga	7077
+frisco	7078
+salomon torre	7079
+32.5466947826087,-75.2785808695652	7080
+henry owen	7081
+dell	7082
+tar heel	7083
+daisuke matsuzaka	7084
+berklee	7085
+bryan corey	7086
+vince young	7087
+north carolina	7088
+39.5000000000000,127.0833333333333	7089
+sammy baugh	7090
+24.2001020000000,-67.6432905000000	7091
+mechelen	7092
+description	7093
+milwaukee brewer	7094
+brave	7095
+libia	7096
+portalegre	7097
+mike babcock	7098
+33.8896300000000,-117.8861500000000	7099
+40.4428060000000,-74.5242360000000	7100
+hania	7101
+aix en provence	7102
+stanley cup final	7103
+48.3494525000000,-70.5217450000000	7104
+peshawar	7105
+cedarville university	7106
+40.3755171428571,44.2987514285714	7107
+la laker	7108
+bowie state university	7109
+california state university northridge	7110
+44.1437700000000,-89.7610328205128	7111
+wayne state university	7112
+san diego clipper	7113
+heerenveen	7114
+pennsylvania	7115
+sheffield	7116
+45.0333300000000,35.3833300000000	7117
+palestinian territory	7118
+whitworth college	7119
+33.7873000000000,-118.1150000000000	7120
+40.7658900000000,-83.8238300000000	7121
+49.3909861904762,11.1635771428571	7122
+aaron rodger	7123
+jerry manuel	7124
+art brile	7125
+san francisco 49er	7126
+salta	7127
+michigan tech	7128
+warren sapp	7129
+alajuela	7130
+turkey	7131
+jfk university	7132
+rabobank arena	7133
+42.5517442857143,12.8243657142857	7134
+39.1844400000000,-75.5427800000000	7135
+sophos	7136
+colonial stadium	7137
+thessalonica	7138
+51.4754146666667,-0.4496080000000	7139
+tarvaris jackson	7140
+fort worth	7141
+scott dunn	7142
+cobo arena	7143
+40.7600990000000,-73.9746350000000	7144
+dontrelle willis	7145
+archangelsk	7146
+alexandria	7147
+adam miller	7148
+edward norton	7149
+havana	7150
+greg maddux	7151
+weekly	7152
+jeff mathis	7153
+college of charleston	7154
+admission	7155
+derrick ward	7156
+seoul	7157
+tampa bay	7158
+davidson college	7159
+25.3874311111111,118.5537011111111	7160
+union university	7161
+osnabruck	7162
+baku	7163
+dinard	7164
+barry melrose	7165
+35.4713472972973,-78.6409102702702	7166
+memphis state university	7167
+wilt chamberlain	7168
+52.5500000000000,-4.0333300000000	7169
+orlando magic	7170
+georgia southern university	7171
+paul lo duca	7172
+gap	7173
+czechoslovakia	7174
+steven	7175
+content	7176
+verizon wireless music center	7177
+troy polamalu	7178
+multiply	7179
+41.9984950000000,-85.2031700000000	7180
+37.3008300000000,-78.3957400000000	7181
+malaysia airline	7182
+40.2163475000000,44.6533833333333	7183
+seton hall	7184
+33.8223200000000,-85.7666300000000	7185
+usc	7186
+32.1960400000000,-88.1615725000000	7187
+sergio santos	7188
+37.1331950000000,66.1123600000000	7189
+vcu	7190
+njit	7191
+yuniesky betancourt	7192
+21.0365300000000,-86.8770800000000	7193
+robin ventura	7194
+saddledome	7195
+denis savard	7196
+pelham	7197
+wilno	7198
+jody gerut	7199
+heisman trophy	7200
+rebel	7201
+americanairline arena	7202
+rick carlisle	7203
+-18.2500000000000,35.0000000000000	7204
+gothenborg	7205
+juilliard	7206
+utah jazz	7207
+cruzan amphitheatre	7208
+university of arkansa at pine bluff	7209
+heerlen	7210
+charlie batch	7211
+luis ayala	7212
+illinois benedictine college	7213
+the cynthia wood mitchell pavilion	7214
+38.1091900000000,23.9466750000000	7215
+n1950 world series	7216
+carl hubbell	7217
+texas stadium	7218
+2.0000000000000,10.0000000000000	7219
+red wing	7220
+jose lopez	7221
+37.7727287500000,37.4594450000000	7222
+craig biggio	7223
+vilanculo	7224
+israel	7225
+san antonio	7226
+aegean airline	7227
+kaliningrad	7228
+riverside theater	7229
+blackhawks	7230
+incredible	7231
+4.9333300000000,-1.7000000000000	7232
+art shell	7233
+duncan	7234
+pazardjik	7235
+nadu	7236
+charl barkley	7237
+sterling	7238
+university of new mexico	7239
+google news	7240
+print	7241
+rutger university	7242
+compaq center	7243
+38.9389850000000,16.2915883333333	7244
+mike myer	7245
+scott linebrink	7246
+joe dimaggio	7247
+mount saint mary college	7248
+galveston	7249
+dolphin	7250
+saint loui university	7251
+david eckstein	7252
+dennis erickson	7253
+the johns hopkin university	7254
+jason repko	7255
+n1971 world series	7256
+koh samui	7257
+35.8929909090909,44.1436418181818	7258
+33.8996956250000,70.9434668750000	7259
+bourgas	7260
+taichung	7261
+palma	7262
+karaganda	7263
+mike riley	7264
+swansea	7265
+miami dade college	7266
+saint franci university	7267
+spartan stadium	7268
+university of kentucky	7269
+st petersburg time	7270
+n2005 world series	7271
+15.9407225000000,-30.6539158333333	7272
+united state district court	7273
+general motor institute	7274
+oporto	7275
+38.9891566666667,-0.5247633333333	7276
+carlo monasterio	7277
+18.5280550000000,107.2556925000000	7278
+philadelphia athletic	7279
+dan kolb	7280
+cape verde island	7281
+wellingborough	7282
+texas	7283
+shelley duncan	7284
+kip well	7285
+venlo	7286
+38.8242606250000,-96.0877174999999	7287
+n1993 world series	7288
+the netherland	7289
+evangel college	7290
+25.8331300000000,-80.2586500000000	7291
+gillette stadium	7292
+great britain	7293
+xcel energy	7294
+steve kline	7295
+smartwing	7296
+shkodra	7297
+red sea	7298
+nicholls state university	7299
+uefa cup	7300
+todd haley	7301
+minneapolis mn	7302
+qw	7303
+wal mart	7304
+cristiano ronaldo	7305
+brandon league	7306
+philadelphia phillie	7307
+cholet	7308
+liverpool	7309
+feodosia	7310
+moscow state technical university	7311
+37.7132600000000,-122.3863600000000	7312
+north brunswick township	7313
+dwayne jarrett	7314
+dewon day	7315
+tribune	7316
+pnc park	7317
+st joseph s university	7318
+portugal	7319
+volleyball	7320
+3.9750000000000,-20.8750000000000	7321
+quinnipiac college	7322
+rostov veliky	7323
+missouri	7324
+jailen peguero	7325
+job	7326
+darren mcfadden	7327
+conor jackson	7328
+21	7329
+virginia tech	7330
+kerkyra	7331
+vancouver grizzly	7332
+dustin ackley	7333
+junell center	7334
+alan embree	7335
+san rafael	7336
+field	7337
+pudge rodriguez	7338
+margate	7339
+freddy guzman	7340
+stadio artemio franchi	7341
+capital	7342
+31.3500000000000,27.2333300000000	7343
+chris cooley	7344
+thoma	7345
+scott baker	7346
+college of the holy cross	7347
+beltran	7348
+tommy lasorda	7349
+majahual	7350
+stephen jackson	7351
+west lafayette	7352
+40.2578000000000,-77.7660700000000	7353
+mexico	7354
+edgar renteria	7355
+silk air	7356
+birmingham southern college	7357
+jeff bailey	7358
+astro	7359
+tsinghua university	7360
+-8.1458500000000,116.2163000000000	7361
+troy	7362
+ryan houston	7363
+kisw	7364
+pat	7365
+geleen	7366
+barbado	7367
+42.6483300000000,-73.7547200000000	7368
+sandton	7369
+david weather	7370
+fenway	7371
+wolf pack	7372
+stanst	7373
+tulcea	7374
+matt diaz	7375
+steve young	7376
+kean university	7377
+saarbrucken	7378
+la vega	7379
+36.0094075000000,27.0075550000000	7380
+jerome william	7381
+nick blackburn	7382
+air bagan	7383
+rice bowl	7384
+griffey	7385
+51.0032390000000,4.9953320000000	7386
+dominican republic	7387
+woodcock	7388
+sacramento state	7389
+haas pavilion	7390
+40.7561100000000,-73.9877800000000	7391
+trivandrum	7392
+-0.4445214000000,-72.9681178000001	7393
+hideki matsui	7394
+polokwane	7395
+kenya	7396
+matt clement	7397
+kevin mcreynold	7398
+burgas	7399
+-26.5333300000000,153.1000000000000	7400
+trinidad and tobago	7401
+mahdia	7402
+middle east airline	7403
+terry murray	7404
+carnegie mellon	7405
+kabul	7406
+rajai davis	7407
+lockhart stadium	7408
+oklahoma	7409
+bordeaux	7410
+frankfurt hahn	7411
+ball state university	7412
+piraeus	7413
+34.2926500000000,-35.2180233333333	7414
+ed smith stadium	7415
+mickey cochrane	7416
+ryan garko	7417
+sheep	7418
+bakersfield college	7419
+kerry collin	7420
+akira kurosawa	7421
+rajasthan	7422
+estimate	7423
+faeroe island	7424
+n2006 world cup	7425
+mike d antoni	7426
+new orlean saint	7427
+st remy	7428
+the den	7429
+joe gibbs	7430
+british airway	7431
+open book	7432
+georgia southern college	7433
+kota bharu	7434
+torry holt	7435
+christian heritage college	7436
+sjsu	7437
+35.4089500000000,-118.9711900000000	7438
+perigueux	7439
+curtis painter	7440
+52.4777700000000,-1.8988500000000	7441
+mike gallo	7442
+rick fox	7443
+oregon duck	7444
+gene chizik	7445
+luis valdez	7446
+40.1894800000000,-92.5818600000000	7447
+34.7275900000000,-86.5905500000000	7448
+harvard university	7449
+29.2059550000000,-81.0982500000000	7450
+university of northern colorado	7451
+st louis hawk	7452
+kct	7453
+csc	7454
+radhame liz	7455
+35.3160650000000,25.3795600000000	7456
+burkina faso	7457
+jim rice	7458
+big xii	7459
+teheran	7460
+bellarmine college	7461
+croatia	7462
+33.4981875000000,-80.8536187500000	7463
+carolina panther	7464
+guadeloupe	7465
+eastern kentucky university	7466
+damion easley	7467
+american football league	7468
+n1976 world series	7469
+rich gannon	7470
+49.3970925000000,4.5440382500000	7471
+aveiro	7472
+kismayo	7473
+-26.5457000000000,153.0961662500000	7474
+southwest missouri state	7475
+cardinal field	7476
+amsterdam	7477
+tetouan	7478
+beiji	7479
+1.7504100000000,106.0349500000000	7480
+illini	7481
+28.9974956000000,-51.5313980000000	7482
+secretary	7483
+columbia university	7484
+chester	7485
+three stooge	7486
+indiana university purdue university fort wayne	7487
+samford university	7488
+domestic animal	7489
+51.5999400000000,-2.9810800000000	7490
+joseph addai	7491
+rise bowl	7492
+tom brady	7493
+alfonso soriano	7494
+40.3110233333333,-54.6135600000000	7495
+brian jordan	7496
+13.0000000000000,105.0000000000000	7497
+kalutara	7498
+32.5387600000000,-83.8943500000000	7499
+qantas	7500
+riverside centroplex	7501
+a coruna	7502
+don nelson	7503
+lasting milledge	7504
+grosse ile	7505
+33.8029500000000,-117.9153950000000	7506
+south china morning post	7507
+delmon young	7508
+british india	7509
+entertainment	7510
+vanguard university	7511
+rushmore plaza civic center	7512
+9.2081333333333,26.1480077777778	7513
+well fargo center	7514
+-7.4752888461538,-72.7470834615385	7515
+pengrowth saddledome	7516
+the george washington university	7517
+marvin harrison	7518
+27.1167527272727,30.9823000000000	7519
+bahama	7520
+40.8185200000000,-73.9516000000000	7521
+united state of america	7522
+brive	7523
+orlando	7524
+40.8747800000000,-81.8868100000000	7525
+columbus	7526
+18.4099500000000,-66.1040550000000	7527
+-25.7532200000000,28.2228900000000	7528
+joe flacco	7529
+rosario	7530
+25.3001023076923,-9.0999880769231	7531
+vernon	7532
+crede	7533
+saint	7534
+bangalore	7535
+suny	7536
+broadway	7537
+julio franco	7538
+london luton	7539
+karl marx stadt	7540
+ronnie brown	7541
+kansas	7542
+portuguese republic	7543
+charlotte hornet	7544
+usa	7545
+spurrier	7546
+25.9556000000000,-80.2391000000000	7547
+50.8517840000000,-8.6143440000000	7548
+office depot center	7549
+national car rental center	7550
+jim thome	7551
+permit	7552
+terengganu	7553
+calcutta	7554
+iraklion	7555
+emporia state university	7556
+monster park	7557
+mike	7558
+citrus bowl	7559
+turkish airline	7560
+university of notre dame	7561
+central michigan university	7562
+southern connecticut state university	7563
+miguel cabrera	7564
+niger	7565
+29.6871300000000,-95.4122850000000	7566
+francisco liriano	7567
+fa cup	7568
+41.3935233333333,-72.9065833333333	7569
+chris paul	7570
+27.9328143750000,47.9635368750000	7571
+london gatwick airport	7572
+22.5697200000000,88.3697200000000	7573
+43.6433900000000,-79.3781800000000	7574
+milton bradley	7575
+rodriguez	7576
+36.5519046153846,7.9787426923077	7577
+los angeles state	7578
+41.7234300000000,-72.2198000000000	7579
+26.5363819230769,-23.7510469230769	7580
+traveler	7581
+butte	7582
+university of miami	7583
+john smith	7584
+grant field	7585
+exeter	7586
+jamaica	7587
+jose castillo	7588
+competition	7589
+troy tulowitzki	7590
+33.1882777464789,36.5561539436620	7591
+48.6060000000000,34.0916575000000	7592
+soisson	7593
+cooper union	7594
+steve spagnuolo	7595
+northwest missouri state university	7596
+music education	7597
+jativa	7598
+jack wilson	7599
+air india	7600
+environmental study	7601
+host	7602
+walt disney concert hall	7603
+today	7604
+izod center	7605
+34.0660000000000,-118.1686000000000	7606
+todd pratt	7607
+gary kubiak	7608
+scott patterson	7609
+chowan college	7610
+nessebur	7611
+new york net	7612
+project	7613
+41.4961600000000,-81.6854100000000	7614
+washington capital	7615
+brandon inge	7616
+43.8000000000000,87.5833100000000	7617
+monmouth university	7618
+ray perkin	7619
+50.7736600000000,6.0753200000000	7620
+50.9499154545454,12.9107236363636	7621
+33.8653600000000,-118.2767500000000	7622
+peter alliss	7623
+vance wilson	7624
+n2006 world series	7625
+32.3336100000000,34.8577800000000	7626
+rolla	7627
+holy name university	7628
+mississauga	7629
+gonzaga university	7630
+nha trang	7631
+carlo boozer	7632
+tampa bay devil ray	7633
+union college	7634
+chris aguila	7635
+bethel college	7636
+john	7637
+delhi	7638
+nuremberg	7639
+philippine airline	7640
+brandon webb	7641
+justin duchscherer	7642
+44.1637088888889,-115.5118444444444	7643
+gaborone	7644
+cardiff	7645
+vila real	7646
+tennessee technological university	7647
+hull	7648
+limpopo	7649
+brad wilkerson	7650
+aussie stadium	7651
+areopolis	7652
+terps	7653
+jonathan stewart	7654
+pete carroll	7655
+the pageant	7656
+brown university	7657
+wucw	7658
+ft lauderdale	7659
+boston conservatory	7660
+39.4973400000000,-74.5275100000000	7661
+john havlicek	7662
+uttar pradesh	7663
+belmont	7664
+portimao	7665
+bear	7666
+bernard langer	7667
+tyler johnson	7668
+new york titan	7669
+roy corcoran	7670
+sean payton	7671
+sandy alomar	7672
+48.7411600000000,21.2852450000000	7673
+56.3286700000000,44.0020500000000	7674
+draw	7675
+royal	7676
+ganga	7677
+erbil	7678
+vicente padilla	7679
+b j upton	7680
+castelnaudary	7681
+pusan	7682
+caine mutiny	7683
+terry bradshaw	7684
+barranquilla	7685
+tehran	7686
+larry brown	7687
+lawrence	7688
+kiel center	7689
+puerto galera	7690
+41.0582790000000,-81.1373490000000	7691
+playoff	7692
+33.1713271428571,-95.7250485714286	7693
+45.3322780000000,-43.7080960000000	7694
+algarve	7695
+goodman theatre	7696
+isfahan	7697
+33.4651300000000,-112.0743100000000	7698
+30.4726900000000,-99.7786800000000	7699
+long beach state	7700
+florida citrus bowl	7701
+hunt	7702
+deia	7703
+lindenwood university	7704
+dan haren	7705
+16.4913900000000,97.6255600000000	7706
+university of texas at arlington	7707
+coire	7708
+ryan doumit	7709
+jesse owen	7710
+38.7867200000000,-90.4992900000000	7711
+20.2333300000000,85.8333300000000	7712
+indiana pacer	7713
+paul maurice	7714
+cricket wireless pavilion	7715
+allstate arena	7716
+ranger ballpark	7717
+contractor	7718
+51.1860166666667,5.0345950000000	7719
+gt	7720
+30.2285400000000,-93.2212600000000	7721
+animal science	7722
+meadowland sport complex	7723
+mississippi river	7724
+cardinal	7725

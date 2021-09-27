@@ -1,0 +1,135 @@
+134
+athlete play for team	athlete play for team	1.0
+sport game team	sport game team	1.0
+team home stadium	team home stadium	1.0
+synonym for	synonym for	1.0
+organization have person	organization have person	1.0
+person write about in publication	person write about in publication	1.0
+state have capital	state have capital	1.0
+state locate in country	state locate in country	1.0
+agent collaborate with agent	agent collaborate with agent	1.0
+city capital of state	city capital of state	1.0
+team play sport	team play sport	1.0
+agent act in location	agent act in location	1.0
+organization name have acronym	organization name have acronym	1.0
+city locate in state	city locate in state	1.0
+city capital of country	city capital of country	1.0
+city have company office	city have company office	1.0
+have office in country	have office in country	1.0
+athlete coach	athlete coach	1.0
+sport game loser	sport game loser	1.0
+coach in league	coach in league	1.0
+locate at	locate at	1.0
+team play in league	team play in league	1.0
+league coach	league coach	1.0
+stadium home to athlete	stadium home to athlete	1.0
+university have academic program	university have academic program	1.0
+city have hospital	city have hospital	1.0
+athlete home stadium	athlete home stadium	1.0
+city lie on river	city lie on river	1.0
+equipment use by sport	equipment use by sport	1.0
+coach win trophy	coach win trophy	1.0
+location contain location	location contain location	1.0
+athlete play sport	athlete play sport	1.0
+park in city	park in city	1.0
+proxy for	proxy for	1.0
+agent compete with agent	agent compete with agent	1.0
+currency country	currency country	1.0
+transportation in city	transportation in city	1.0
+athlete also know as	athlete also know as	1.0
+movie direct by director	movie direct by director	1.0
+sport use stadium	sport use stadium	1.0
+zoo in city	zoo in city	1.0
+at location	at location	1.0
+winner in game	winner in game	1.0
+city sport team	city sport team	1.0
+control by agent	control by agent	1.0
+trophy win by team	trophy win by team	1.0
+person have age	person have age	1.0
+team also know as	team also know as	1.0
+radio station in city	radio station in city	1.0
+museum in city	museum in city	1.0
+person die at age	person die at age	1.0
+building locate in city	building locate in city	1.0
+league player	league player	1.0
+country have company office	country have company office	1.0
+country state	country state	1.0
+sport team	sport team	1.0
+athlete play in league	athlete play in league	1.0
+language of country	language of country	1.0
+company headquarter here	company headquarter here	1.0
+city museum	city museum	1.0
+agent control	agent control	1.0
+location locate with in location	location locate with in location	1.0
+superpart of organization	superpart of organization	1.0
+team win trophy	team win trophy	1.0
+city also know as	city also know as	1.0
+state contain city	state contain city	1.0
+stadium home team	stadium home team	1.0
+league team	league team	1.0
+language of university	language of university	1.0
+attraction of city	attraction of city	1.0
+city newspaper	city newspaper	1.0
+agent involve with item	agent involve with item	1.0
+location act in by agent	location act in by agent	1.0
+city television station	city television station	1.0
+city have transportation	city have transportation	1.0
+mutual proxy for	mutual proxy for	1.0
+city aquarium	city aquarium	1.0
+coach team	coach team	1.0
+stadium home to league	stadium home to league	1.0
+headquarter in	headquarter in	1.0
+sport game sport	sport game sport	1.0
+street in city	street in city	1.0
+have office in city	have office in city	1.0
+trophy win by coach	trophy win by coach	1.0
+aquarium in city	aquarium in city	1.0
+team member	team member	1.0
+sport game winner	sport game winner	1.0
+team mate	team mate	1.0
+country capital	country capital	1.0
+loser in game	loser in game	1.0
+team coach	team coach	1.0
+city locate in country	city locate in country	1.0
+actor star in movie	actor star in movie	1.0
+animal prey on	animal prey on	1.0
+airport in city	airport in city	1.0
+river flow through city	river flow through city	1.0
+subpart of organization	subpart of organization	1.0
+hotel in city	hotel in city	1.0
+subpart of	subpart of	1.0
+team play against team	team play against team	1.0
+television station in city	television station in city	1.0
+writer write book	writer write book	1.0
+academic program at university	academic program at university	1.0
+book writer	book writer	1.0
+agent belong to organization	agent belong to organization	1.0
+agent participate in event	agent participate in event	1.0
+sport use equipment	sport use equipment	1.0
+stadium home to sport	stadium home to sport	1.0
+animal be type of animal	animal be type of animal	1.0
+city radio station	city radio station	1.0
+movie star actor	movie star actor	1.0
+country language	country language	1.0
+country city	country city	1.0
+hospital in city	hospital in city	1.0
+worker	worker	1.0
+organization acronym have name	organization acronym have name	1.0
+latitude longitude	latitude longitude	1.0
+agent create	agent create	1.0
+newspaper in city	newspaper in city	1.0
+generalization of	generalization of	1.0
+team play in city	team play in city	1.0
+work for	work for	1.0
+language of city	language of city	1.0
+country currency	country currency	1.0
+stadium also know as	stadium also know as	1.0
+director direct movie	director direct movie	1.0
+country also know as	country also know as	1.0
+specialization of	specialization of	1.0
+city stadium	city stadium	1.0
+league stadium	league stadium	1.0
+sport game date	sport game date	1.0
+person belong to organization	person belong to organization	1.0
+player	player	1.0
+stadium locate in city	stadium locate in city	1.0

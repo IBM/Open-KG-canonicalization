@@ -1,0 +1,111 @@
+110
+location act in by agent	0
+airport in city	1
+city zoo	2
+city lie on river	3
+language of country	4
+currency country	5
+subpart of organization	6
+locate at	7
+language of university	8
+agent act in location	9
+team home stadium	10
+person have age	11
+movie star actor	12
+team in game	13
+country state	14
+actor star in movie	15
+stadium also know as	16
+proxy for	17
+city locate in state	18
+city sport team	19
+stadium home team	20
+coach athlete	21
+league player	22
+sport game team	23
+mutual proxy for	24
+agent compete with agent	25
+organization acronym have name	26
+location contain location	27
+stadium home to athlete	28
+attraction of city	29
+city stadium	30
+team play in league	31
+country currency	32
+stadium home to league	33
+academic program at university	34
+team win trophy	35
+city capital of state	36
+city also know as	37
+coach team	38
+television station in city	39
+winner in game	40
+city locate in country	41
+agent collaborate with agent	42
+work for	43
+latitude longitude	44
+state have capital	45
+building locate in city	46
+organization name have acronym	47
+athlete play in league	48
+athlete also know as	49
+newspaper in city	50
+trophy win by team	51
+team play against team	52
+agent belong to organization	53
+city capital of country	54
+stadium locate in city	55
+team member	56
+coach in league	57
+country capital	58
+worker	59
+trophy win by coach	60
+athlete home stadium	61
+country city	62
+hospital in city	63
+athlete play for team	64
+animal prey on	65
+state contain city	66
+have office in city	67
+museum in city	68
+location locate with in location	69
+team play in city	70
+league team	71
+sport team	72
+stadium home to sport	73
+university have academic program	74
+synonym for	75
+agent involve with item	76
+have office in country	77
+city television station	78
+player	79
+specialization of	80
+league coach	81
+country also know as	82
+headquarter in	83
+at location	84
+transportation in city	85
+city have company office	86
+animal be type of animal	87
+park in city	88
+radio station in city	89
+team coach	90
+state locate in country	91
+athlete coach	92
+superpart of organization	93
+organization have person	94
+person belong to organization	95
+league stadium	96
+sport use equipment	97
+sport game example	98
+river flow through city	99
+agent control	100
+team play sport	101
+team mate	102
+company headquarter here	103
+street in city	104
+sport use stadium	105
+acquire	106
+team also know as	107
+sport game winner	108
+athlete play sport	109

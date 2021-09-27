@@ -1,0 +1,135 @@
+134
+athlete play for team	0
+sport game team	1
+team home stadium	2
+synonym for	3
+organization have person	4
+person write about in publication	5
+state have capital	6
+state locate in country	7
+agent collaborate with agent	8
+city capital of state	9
+team play sport	10
+agent act in location	11
+organization name have acronym	12
+city locate in state	13
+city capital of country	14
+city have company office	15
+have office in country	16
+athlete coach	17
+sport game loser	18
+coach in league	19
+locate at	20
+team play in league	21
+league coach	22
+stadium home to athlete	23
+university have academic program	24
+city have hospital	25
+athlete home stadium	26
+city lie on river	27
+equipment use by sport	28
+coach win trophy	29
+location contain location	30
+athlete play sport	31
+park in city	32
+proxy for	33
+agent compete with agent	34
+currency country	35
+transportation in city	36
+athlete also know as	37
+movie direct by director	38
+sport use stadium	39
+zoo in city	40
+at location	41
+winner in game	42
+city sport team	43
+control by agent	44
+trophy win by team	45
+person have age	46
+team also know as	47
+radio station in city	48
+museum in city	49
+person die at age	50
+building locate in city	51
+league player	52
+country have company office	53
+country state	54
+sport team	55
+athlete play in league	56
+language of country	57
+company headquarter here	58
+city museum	59
+agent control	60
+location locate with in location	61
+superpart of organization	62
+team win trophy	63
+city also know as	64
+state contain city	65
+stadium home team	66
+league team	67
+language of university	68
+attraction of city	69
+city newspaper	70
+agent involve with item	71
+location act in by agent	72
+city television station	73
+city have transportation	74
+mutual proxy for	75
+city aquarium	76
+coach team	77
+stadium home to league	78
+headquarter in	79
+sport game sport	80
+street in city	81
+have office in city	82
+trophy win by coach	83
+aquarium in city	84
+team member	85
+sport game winner	86
+team mate	87
+country capital	88
+loser in game	89
+team coach	90
+city locate in country	91
+actor star in movie	92
+animal prey on	93
+airport in city	94
+river flow through city	95
+subpart of organization	96
+hotel in city	97
+subpart of	98
+team play against team	99
+television station in city	100
+writer write book	101
+academic program at university	102
+book writer	103
+agent belong to organization	104
+agent participate in event	105
+sport use equipment	106
+stadium home to sport	107
+animal be type of animal	108
+city radio station	109
+movie star actor	110
+country language	111
+country city	112
+hospital in city	113
+worker	114
+organization acronym have name	115
+latitude longitude	116
+agent create	117
+newspaper in city	118
+generalization of	119
+team play in city	120
+work for	121
+language of city	122
+country currency	123
+stadium also know as	124
+director direct movie	125
+country also know as	126
+specialization of	127
+city stadium	128
+league stadium	129
+sport game date	130
+person belong to organization	131
+player	132
+stadium locate in city	133

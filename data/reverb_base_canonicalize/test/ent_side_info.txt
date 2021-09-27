@@ -1,0 +1,45 @@
+44
+al azhar	al university	1.0
+yate race	robert yate race	1.504406461120096
+mehsud	baitullah mehsud	1.5
+vlad	vlad iii	1.0
+bill	bill gates	0.6556838710822129
+gate	bill gates	0.25
+gate	bill	0.25
+warren buffett	buffett	1.5
+hannibal hamlin	hamlin	1.4421141086977403
+mansell	nigel mansell	1.0
+itachi	itachi uchiha	1.0
+wallace	alfr wallace	0.25
+alfr russel wallace	alfr wallace	0.25
+alfr russel wallace	wallace	0.25
+mark fuhrman	fuhrman	1.0
+yoakam	dwight yoakam	1.5
+boman irani	boman	1.0
+ethanol fuel	ethanol	0.5
+information service	internet information service	1.2790132368860356
+ontario court appeal	court appeal	0.6872517835739294
+maneuver warfare	maneuver	0.5
+phoenix	phoenix arizona	0.5608236049020797
+histogram	color histogram	0.5578858913022596
+dwight	dwight yoakam	0.5
+ethanol fuel	fuel	0.5
+canadian rocky	rocky	0.5
+drug	drug abuse	0.4016231838083946
+bavarian state library	state library	0.9818064528456205
+warren buffett	warren	0.5
+tesla	tesla roadster	0.5
+beijing national stadium	national stadium	1.4053314277774187
+chapman	tracy chapman	0.5
+legal aid ontario	legal aid	1.3185550825174481
+gender identity	gender	0.5943161289177871
+identity	gender identity	0.40568387108221293
+windsor house	house windsor	1.0
+tesla roadster	roadster	0.5
+population density	density	0.6391511932854698
+horace greeley	greeley	0.4421141086977403
+contrast ratio	contrast	0.5
+abuse	drug abuse	0.5983768161916053
+hannibal hamlin	hannibal	0.5578858913022596
+baitullah mehsud	baitullah	0.5
+horace	horace greeley	0.5578858913022596
